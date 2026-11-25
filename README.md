@@ -2,7 +2,7 @@
 
 A full CRM for **AsaaseGold Cocoa**, a fictional made-in-Ghana chocolate brand that buys beans from Ghanaian farmer cooperatives and turns them into chocolate at home.
 
-**Live demo:** _add your Vercel link here_
+**Live demo:** https://asaasegold-crm.vercel.app
 
 ## What's inside
 
