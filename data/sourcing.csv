@@ -1,0 +1,139 @@
+id,date,cooperative,region,kg_beans,price_per_kg,premium_per_kg,total_paid,farmers_paid,certified
+SC0001,2025-01-05,Kuapa Union Group A,Ashanti,284,51.55,4.5,15918,3,Rainforest Alliance
+SC0002,2025-01-05,Sefwi Farmers Co-op,Western North,395,51.12,4.5,21970,5,Rainforest Alliance
+SC0003,2025-01-05,Suhum Cocoa Growers,Eastern,449,51.05,4.5,24942,6,In progress
+SC0004,2025-01-05,Assin Fosu Farmers Assoc.,Central,375,51.3,4.5,20925,5,In progress
+SC0005,2025-01-05,Goaso Growers Union,Ahafo,292,52.11,3.0,16092,4,Rainforest Alliance
+SC0006,2025-01-05,Hohoe Cocoa Co-op,Volta,419,51.45,3.0,22815,6,Organic
+SC0007,2025-02-05,Kuapa Union Group A,Ashanti,365,51.9,4.5,20586,6,Rainforest Alliance
+SC0008,2025-02-05,Sefwi Farmers Co-op,Western North,456,52.23,4.5,25869,5,Rainforest Alliance
+SC0009,2025-02-05,Suhum Cocoa Growers,Eastern,446,52.2,4.5,25288,8,In progress
+SC0010,2025-02-05,Assin Fosu Farmers Assoc.,Central,483,53.1,4.5,27821,7,In progress
+SC0011,2025-02-05,Goaso Growers Union,Ahafo,482,50.6,3.0,25835,6,Rainforest Alliance
+SC0012,2025-02-05,Hohoe Cocoa Co-op,Volta,422,53.52,3.0,23851,6,Organic
+SC0013,2025-03-05,Kuapa Union Group A,Ashanti,224,52.31,4.5,12725,3,Rainforest Alliance
+SC0014,2025-03-05,Sefwi Farmers Co-op,Western North,372,52.08,4.5,21048,5,Rainforest Alliance
+SC0015,2025-03-05,Suhum Cocoa Growers,Eastern,351,51.78,4.5,19754,4,In progress
+SC0016,2025-03-05,Assin Fosu Farmers Assoc.,Central,234,51.29,4.5,13055,3,In progress
+SC0017,2025-03-05,Goaso Growers Union,Ahafo,380,52.41,3.0,21056,5,Rainforest Alliance
+SC0018,2025-03-05,Hohoe Cocoa Co-op,Volta,379,51.86,3.0,20792,5,Organic
+SC0019,2025-04-05,Kuapa Union Group A,Ashanti,396,52.64,4.5,22627,5,Rainforest Alliance
+SC0020,2025-04-05,Sefwi Farmers Co-op,Western North,333,51.45,4.5,18631,5,Rainforest Alliance
+SC0021,2025-04-05,Suhum Cocoa Growers,Eastern,248,51.57,4.5,13905,3,In progress
+SC0022,2025-04-05,Assin Fosu Farmers Assoc.,Central,422,53.18,4.5,24341,6,In progress
+SC0023,2025-04-05,Goaso Growers Union,Ahafo,295,51.99,3.0,16222,4,Rainforest Alliance
+SC0024,2025-04-05,Hohoe Cocoa Co-op,Volta,332,51.53,3.0,18104,4,Organic
+SC0025,2025-05-05,Kuapa Union Group A,Ashanti,422,52.6,4.5,24096,5,Rainforest Alliance
+SC0026,2025-05-05,Sefwi Farmers Co-op,Western North,345,53.17,4.5,19896,4,Rainforest Alliance
+SC0027,2025-05-05,Suhum Cocoa Growers,Eastern,285,50.8,4.5,15760,5,In progress
+SC0028,2025-05-05,Assin Fosu Farmers Assoc.,Central,307,52.67,4.5,17551,4,In progress
+SC0029,2025-05-05,Goaso Growers Union,Ahafo,332,52.29,3.0,18356,5,Rainforest Alliance
+SC0030,2025-05-05,Hohoe Cocoa Co-op,Volta,255,52.15,3.0,14063,3,Organic
+SC0031,2025-06-05,Kuapa Union Group A,Ashanti,319,51.4,4.5,17832,4,Rainforest Alliance
+SC0032,2025-06-05,Sefwi Farmers Co-op,Western North,280,51.39,4.5,15649,4,Rainforest Alliance
+SC0033,2025-06-05,Suhum Cocoa Growers,Eastern,360,53.02,4.5,20707,5,In progress
+SC0034,2025-06-05,Assin Fosu Farmers Assoc.,Central,330,50.65,4.5,18200,5,In progress
+SC0035,2025-06-05,Goaso Growers Union,Ahafo,393,52.23,3.0,21705,5,Rainforest Alliance
+SC0036,2025-06-05,Hohoe Cocoa Co-op,Volta,294,51.11,3.0,15908,4,Organic
+SC0037,2025-07-05,Kuapa Union Group A,Ashanti,272,53.49,4.5,15773,3,Rainforest Alliance
+SC0038,2025-07-05,Sefwi Farmers Co-op,Western North,434,51.62,4.5,24356,6,Rainforest Alliance
+SC0039,2025-07-05,Suhum Cocoa Growers,Eastern,399,50.88,4.5,22097,5,In progress
+SC0040,2025-07-05,Assin Fosu Farmers Assoc.,Central,486,53.06,4.5,27974,8,In progress
+SC0041,2025-07-05,Goaso Growers Union,Ahafo,373,52.52,3.0,20709,5,Rainforest Alliance
+SC0042,2025-07-05,Hohoe Cocoa Co-op,Volta,292,52.49,3.0,16203,3,Organic
+SC0043,2025-08-05,Kuapa Union Group A,Ashanti,452,51.51,4.5,25317,7,Rainforest Alliance
+SC0044,2025-08-05,Sefwi Farmers Co-op,Western North,356,52.61,4.5,20331,6,Rainforest Alliance
+SC0045,2025-08-05,Suhum Cocoa Growers,Eastern,515,52.41,4.5,29309,6,In progress
+SC0046,2025-08-05,Assin Fosu Farmers Assoc.,Central,464,50.49,4.5,25515,5,In progress
+SC0047,2025-08-05,Goaso Growers Union,Ahafo,523,51.93,3.0,28728,7,Rainforest Alliance
+SC0048,2025-08-05,Hohoe Cocoa Co-op,Volta,299,51.32,3.0,16242,3,Organic
+SC0049,2025-09-05,Kuapa Union Group A,Ashanti,563,51.86,4.5,31731,7,Rainforest Alliance
+SC0050,2025-09-05,Sefwi Farmers Co-op,Western North,541,52.51,4.5,30842,7,Rainforest Alliance
+SC0051,2025-09-05,Suhum Cocoa Growers,Eastern,527,52.59,4.5,30086,8,In progress
+SC0052,2025-09-05,Assin Fosu Farmers Assoc.,Central,501,50.61,4.5,27610,7,In progress
+SC0053,2025-09-05,Goaso Growers Union,Ahafo,456,51.68,3.0,24934,6,Rainforest Alliance
+SC0054,2025-09-05,Hohoe Cocoa Co-op,Volta,321,50.87,3.0,17292,5,Organic
+SC0055,2025-10-05,Kuapa Union Group A,Ashanti,421,51.26,4.5,23475,6,Rainforest Alliance
+SC0056,2025-10-05,Sefwi Farmers Co-op,Western North,463,51.56,4.5,25956,6,Rainforest Alliance
+SC0057,2025-10-05,Suhum Cocoa Growers,Eastern,435,53.07,4.5,25043,6,In progress
+SC0058,2025-10-05,Assin Fosu Farmers Assoc.,Central,680,52.77,4.5,38944,9,In progress
+SC0059,2025-10-05,Goaso Growers Union,Ahafo,449,53.24,3.0,25252,6,Rainforest Alliance
+SC0060,2025-10-05,Hohoe Cocoa Co-op,Volta,560,50.58,3.0,30005,8,Organic
+SC0061,2025-11-05,Kuapa Union Group A,Ashanti,439,52.99,4.5,25238,6,Rainforest Alliance
+SC0062,2025-11-05,Sefwi Farmers Co-op,Western North,697,51.78,4.5,39227,10,Rainforest Alliance
+SC0063,2025-11-05,Suhum Cocoa Growers,Eastern,432,52.6,4.5,24667,6,In progress
+SC0064,2025-11-05,Assin Fosu Farmers Assoc.,Central,494,52.21,4.5,28015,7,In progress
+SC0065,2025-11-05,Goaso Growers Union,Ahafo,530,50.7,3.0,28461,8,Rainforest Alliance
+SC0066,2025-11-05,Hohoe Cocoa Co-op,Volta,785,51.34,3.0,42657,11,Organic
+SC0067,2025-12-05,Kuapa Union Group A,Ashanti,635,52.7,4.5,36322,10,Rainforest Alliance
+SC0068,2025-12-05,Sefwi Farmers Co-op,Western North,551,52.59,4.5,31457,7,Rainforest Alliance
+SC0069,2025-12-05,Suhum Cocoa Growers,Eastern,447,52.6,4.5,25524,6,In progress
+SC0070,2025-12-05,Assin Fosu Farmers Assoc.,Central,495,52.71,4.5,28319,6,In progress
+SC0071,2025-12-05,Goaso Growers Union,Ahafo,760,52.71,3.0,42340,12,Rainforest Alliance
+SC0072,2025-12-05,Hohoe Cocoa Co-op,Volta,739,53.04,3.0,41414,9,Organic
+SC0073,2026-01-05,Kuapa Union Group A,Ashanti,500,58.09,4.5,31295,7,Rainforest Alliance
+SC0074,2026-01-05,Sefwi Farmers Co-op,Western North,698,58.82,4.5,44197,10,Rainforest Alliance
+SC0075,2026-01-05,Suhum Cocoa Growers,Eastern,670,56.52,4.5,40883,10,In progress
+SC0076,2026-01-05,Assin Fosu Farmers Assoc.,Central,839,58.29,4.5,52681,14,In progress
+SC0077,2026-01-05,Goaso Growers Union,Ahafo,471,58.25,3.0,28849,7,Rainforest Alliance
+SC0078,2026-01-05,Hohoe Cocoa Co-op,Volta,622,57.99,3.0,37936,8,Organic
+SC0079,2026-02-05,Kuapa Union Group A,Ashanti,855,56.94,4.5,52531,14,Rainforest Alliance
+SC0080,2026-02-05,Sefwi Farmers Co-op,Western North,535,59.52,4.5,34251,7,Rainforest Alliance
+SC0081,2026-02-05,Suhum Cocoa Growers,Eastern,704,56.73,4.5,43106,10,In progress
+SC0082,2026-02-05,Assin Fosu Farmers Assoc.,Central,633,57.6,4.5,39309,8,In progress
+SC0083,2026-02-05,Goaso Growers Union,Ahafo,738,56.63,3.0,44007,9,Rainforest Alliance
+SC0084,2026-02-05,Hohoe Cocoa Co-op,Volta,825,56.42,3.0,49022,11,Organic
+SC0085,2026-03-05,Kuapa Union Group A,Ashanti,645,58.34,4.5,40532,9,Rainforest Alliance
+SC0086,2026-03-05,Sefwi Farmers Co-op,Western North,407,56.84,4.5,24965,6,Rainforest Alliance
+SC0087,2026-03-05,Suhum Cocoa Growers,Eastern,446,59.17,4.5,28397,7,In progress
+SC0088,2026-03-05,Assin Fosu Farmers Assoc.,Central,412,59.41,4.5,26331,6,In progress
+SC0089,2026-03-05,Goaso Growers Union,Ahafo,674,56.52,3.0,40116,10,Rainforest Alliance
+SC0090,2026-03-05,Hohoe Cocoa Co-op,Volta,466,59.19,3.0,28981,6,Organic
+SC0091,2026-04-05,Kuapa Union Group A,Ashanti,506,57.59,4.5,31418,8,Rainforest Alliance
+SC0092,2026-04-05,Sefwi Farmers Co-op,Western North,646,57.2,4.5,39858,9,Rainforest Alliance
+SC0093,2026-04-05,Suhum Cocoa Growers,Eastern,650,59.65,4.5,41698,8,In progress
+SC0094,2026-04-05,Assin Fosu Farmers Assoc.,Central,400,58.46,4.5,25184,5,In progress
+SC0095,2026-04-05,Goaso Growers Union,Ahafo,671,57.48,3.0,40582,9,Rainforest Alliance
+SC0096,2026-04-05,Hohoe Cocoa Co-op,Volta,402,59.31,3.0,25049,5,Organic
+SC0097,2026-05-05,Kuapa Union Group A,Ashanti,676,59.04,4.5,42953,11,Rainforest Alliance
+SC0098,2026-05-05,Sefwi Farmers Co-op,Western North,662,56.94,4.5,40673,8,Rainforest Alliance
+SC0099,2026-05-05,Suhum Cocoa Growers,Eastern,454,59.45,4.5,29033,5,In progress
+SC0100,2026-05-05,Assin Fosu Farmers Assoc.,Central,692,57.92,4.5,43195,8,In progress
+SC0101,2026-05-05,Goaso Growers Union,Ahafo,699,58.41,3.0,42926,10,Rainforest Alliance
+SC0102,2026-05-05,Hohoe Cocoa Co-op,Volta,446,56.7,3.0,26626,6,Organic
+SC0103,2026-06-05,Kuapa Union Group A,Ashanti,486,56.68,4.5,29733,8,Rainforest Alliance
+SC0104,2026-06-05,Sefwi Farmers Co-op,Western North,694,59.34,4.5,44305,11,Rainforest Alliance
+SC0105,2026-06-05,Suhum Cocoa Growers,Eastern,658,57.61,4.5,40868,8,In progress
+SC0106,2026-06-05,Assin Fosu Farmers Assoc.,Central,674,59.17,4.5,42914,11,In progress
+SC0107,2026-06-05,Goaso Growers Union,Ahafo,567,56.29,3.0,33617,8,Rainforest Alliance
+SC0108,2026-06-05,Hohoe Cocoa Co-op,Volta,439,58.61,3.0,27047,7,Organic
+SC0109,2026-07-05,Kuapa Union Group A,Ashanti,753,57.97,4.5,47040,9,Rainforest Alliance
+SC0110,2026-07-05,Sefwi Farmers Co-op,Western North,798,58.06,4.5,49923,11,Rainforest Alliance
+SC0111,2026-07-05,Suhum Cocoa Growers,Eastern,590,59.73,4.5,37896,7,In progress
+SC0112,2026-07-05,Assin Fosu Farmers Assoc.,Central,619,59.41,4.5,39560,8,In progress
+SC0113,2026-07-05,Goaso Growers Union,Ahafo,625,58.78,3.0,38612,9,Rainforest Alliance
+SC0114,2026-07-05,Hohoe Cocoa Co-op,Volta,785,56.44,3.0,46660,12,Organic
+SC0115,2026-08-05,Kuapa Union Group A,Ashanti,756,57.4,4.5,46796,12,Rainforest Alliance
+SC0116,2026-08-05,Sefwi Farmers Co-op,Western North,559,58.07,4.5,34977,9,Rainforest Alliance
+SC0117,2026-08-05,Suhum Cocoa Growers,Eastern,625,57.42,4.5,38700,10,In progress
+SC0118,2026-08-05,Assin Fosu Farmers Assoc.,Central,722,58.52,4.5,45500,9,In progress
+SC0119,2026-08-05,Goaso Growers Union,Ahafo,732,57.75,3.0,44469,13,Rainforest Alliance
+SC0120,2026-08-05,Hohoe Cocoa Co-op,Volta,533,58.54,3.0,32801,8,Organic
+SC0121,2026-09-05,Kuapa Union Group A,Ashanti,667,56.55,4.5,40720,8,Rainforest Alliance
+SC0122,2026-09-05,Sefwi Farmers Co-op,Western North,757,58.09,4.5,47381,10,Rainforest Alliance
+SC0123,2026-09-05,Suhum Cocoa Growers,Eastern,687,58.21,4.5,43082,11,In progress
+SC0124,2026-09-05,Assin Fosu Farmers Assoc.,Central,832,56.79,4.5,50993,10,In progress
+SC0125,2026-09-05,Goaso Growers Union,Ahafo,573,57.83,3.0,34856,9,Rainforest Alliance
+SC0126,2026-09-05,Hohoe Cocoa Co-op,Volta,869,59.0,3.0,53878,10,Organic
+SC0127,2026-10-05,Kuapa Union Group A,Ashanti,709,58.16,4.5,44426,10,Rainforest Alliance
+SC0128,2026-10-05,Sefwi Farmers Co-op,Western North,1133,57.11,4.5,69804,19,Rainforest Alliance
+SC0129,2026-10-05,Suhum Cocoa Growers,Eastern,822,56.32,4.5,49994,12,In progress
+SC0130,2026-10-05,Assin Fosu Farmers Assoc.,Central,1029,58.52,4.5,64848,16,In progress
+SC0131,2026-10-05,Goaso Growers Union,Ahafo,866,58.89,3.0,53597,15,Rainforest Alliance
+SC0132,2026-10-05,Hohoe Cocoa Co-op,Volta,1143,57.35,3.0,68980,15,Organic
+SC0133,2026-11-05,Kuapa Union Group A,Ashanti,1161,58.78,4.5,73468,16,Rainforest Alliance
+SC0134,2026-11-05,Sefwi Farmers Co-op,Western North,1134,56.81,4.5,69526,15,Rainforest Alliance
+SC0135,2026-11-05,Suhum Cocoa Growers,Eastern,713,57.84,4.5,44448,9,In progress
+SC0136,2026-11-05,Assin Fosu Farmers Assoc.,Central,984,57.77,4.5,61274,15,In progress
+SC0137,2026-11-05,Goaso Growers Union,Ahafo,718,56.82,3.0,42951,11,Rainforest Alliance
+SC0138,2026-11-05,Hohoe Cocoa Co-op,Volta,638,56.71,3.0,38095,8,Organic

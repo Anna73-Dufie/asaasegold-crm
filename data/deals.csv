@@ -1,0 +1,1541 @@
+id,name,account,owner,source,value,stage,probability,created,close_date,lost_reason,first_response_hrs,lead
+DL0001,CityShop Stores Cantonments · Gift range for season,AC278,T02,Referral,33873,Won,100,2025-01-01,2025-02-01,,22.1,LD00002
+DL0002,CityShop Stores Cantonments · Christmas gift order,AC278,T02,Referral,10112,Won,100,2025-01-03,2025-02-07,,2.6,LD00010
+DL0003,Heritage Gifts Central · Opening order,AC231,T04,Website,22359,Won,100,2025-01-03,2025-02-19,,5.4,LD00011
+DL0004,SkyGold Airways · Annual supply,AC308,T04,Event,80284,Lost,0,2025-01-03,2025-03-17,Timing,13.8,LD00013
+DL0005,Goodway Stores · Shelf listing,AC211,T03,Event,48711,Won,100,2025-01-04,2025-02-03,,2.1,LD00020
+DL0006,Accra Link (Canada) · Opening order,AC044,T02,Referral,22599,Won,100,2025-01-05,2025-02-01,,1.5,LD00025
+DL0007,Volta Air Lounges · Gift range for season,AC233,T05,Instagram,37279,Won,100,2025-01-07,2025-02-19,,9.5,LD00035
+DL0008,Palace Supermarket South · Gift range for season,AC285,T07,Event,36316,Won,100,2025-01-07,2025-01-21,,11.2,LD00037
+DL0009,Labadi Bay Resort Cantonments · Annual supply,AC004,T07,Instagram,30044,Won,100,2025-01-08,2025-01-26,,3.1,LD00042
+DL0010,CityShop Stores Cantonments · Christmas gift order,AC278,T02,Referral,10045,Lost,0,2025-01-10,2025-02-13,Chose a competitor,4.0,LD00047
+DL0011,Adinkra Hampers North · Gift range for season,AC301,T03,Event,74995,Won,100,2025-01-10,2025-03-08,,2.7,LD00050
+DL0012,Adinkra Hampers North · Reorder,AC301,T03,Event,5353,Won,100,2025-01-12,2025-02-02,,5.0,LD00059
+DL0013,Brew Café · Opening order,AC196,T05,Email,18694,Lost,0,2025-01-13,2025-02-15,Timing,5.4,LD00063
+DL0014,Heritage Gifts Central · Range expansion,AC231,T04,Website,9084,Lost,0,2025-01-13,2025-03-28,No budget,21.9,LD00064
+DL0015,Royal Stores East Legon · Opening order,AC271,T05,Email,30122,Won,100,2025-01-13,2025-02-18,,1.6,LD00068
+DL0016,Adinkra Trading (Canada) · Gift range for season,AC036,T03,Event,65362,Won,100,2025-01-15,2025-02-21,,9.4,LD00076
+DL0017,Freshmart Mart West · Shelf listing,AC221,T03,LinkedIn,27180,Won,100,2025-01-15,2025-03-05,,1.6,LD00077
+DL0018,Heritage Gifts · Annual supply,AC011,T07,Instagram,32528,Lost,0,2025-01-16,2025-03-09,Price,2.1,LD00084
+DL0019,Freshmart Mart West · Christmas gift order,AC221,T03,LinkedIn,4112,Lost,0,2025-01-18,2025-03-20,Timing,5.2,LD00087
+DL0020,Palace Mart Osu · Gift range for season,AC096,T05,Instagram,29658,Lost,0,2025-01-19,2025-03-20,Price,6.3,LD00096
+DL0021,CityShop Stores Cantonments · Valentine stock,AC278,T02,Referral,7370,Won,100,2025-01-20,2025-03-10,,3.5,LD00100
+DL0022,Akwaaba Bakery · Opening order,AC043,T07,Referral,24986,Won,100,2025-01-20,2025-03-22,,17.2,LD00102
+DL0023,Unity Mart · Shelf listing,AC008,T07,Event,63642,Lost,0,2025-01-21,2025-03-30,No budget,2.5,LD00107
+DL0024,Value Supermarket East · Shelf listing,AC218,T07,LinkedIn,25610,Lost,0,2025-01-22,2025-02-21,Timing,4.8,LD00114
+DL0025,Accra Link (Canada) · Range expansion,AC044,T02,Referral,9649,Won,100,2025-01-24,2025-02-20,,53.5,LD00119
+DL0026,Brew Coffee House · Gift range for season,AC029,T01,Referral,28808,Lost,0,2025-01-25,2025-03-27,Product fit,15.9,LD00125
+DL0027,Goodway Stores · Range expansion,AC211,T03,Event,8780,Won,100,2025-01-28,2025-02-24,,1.3,LD00140
+DL0028,Freshmart Mart Harbour · Shelf listing,AC283,T01,Instagram,24247,Lost,0,2025-01-28,2025-04-09,No budget,3.2,LD00141
+DL0029,Adinkra Trading (USA) Inc. · Shelf listing,AC054,T04,Event,69394,Lost,0,2025-01-28,2025-04-11,Went silent,27.8,LD00143
+DL0030,Volta Air Lounges · Valentine stock,AC233,T05,Instagram,7598,Lost,0,2025-01-28,2025-04-11,No budget,4.4,LD00145
+DL0031,CityShop Stores Cantonments · Range expansion,AC278,T02,Referral,7782,Won,100,2025-01-29,2025-03-24,,2.2,LD00148
+DL0032,Akwaaba Bakery · Valentine stock,AC043,T07,Referral,8208,Lost,0,2025-01-30,2025-04-08,Went silent,1.9,LD00149
+DL0033,Sankofa Gifting Co. · Opening order,AC069,T03,Website,33525,Won,100,2025-01-30,2025-03-19,,1.8,LD00152
+DL0034,Akwaaba Bakery East · Opening order,AC287,T07,Website,37557,Lost,0,2025-01-30,2025-04-10,Product fit,7.1,LD00153
+DL0035,Sankofa Gifting Co. · New branch supply,AC069,T03,Website,8212,Lost,0,2025-01-31,2025-03-30,Went silent,12.2,LD00157
+DL0036,CityShop Stores Cantonments · Range expansion,AC278,T02,Referral,10002,Lost,0,2025-01-31,2025-04-10,No budget,1.4,LD00158
+DL0037,Heritage Gifts Central · Christmas gift order,AC231,T04,Website,9243,Won,100,2025-01-31,2025-03-04,,3.9,LD00160
+DL0038,Adinkra Trading (Canada) South · Shelf listing,AC191,T06,Event,71913,Won,100,2025-02-01,2025-02-26,,1.0,LD00166
+DL0039,Royal Stores East Legon · Christmas gift order,AC271,T05,Email,3673,Won,100,2025-02-01,2025-02-21,,6.1,LD00172
+DL0040,Freshmart Mart West · Valentine stock,AC221,T03,LinkedIn,5606,Lost,0,2025-02-01,2025-03-28,Chose a competitor,9.2,LD00173
+DL0041,Lagoon Hotel Osu · Opening order,AC089,T03,Email,37496,Lost,0,2025-02-02,2025-02-20,No budget,3.1,LD00176
+DL0042,Royal Stores Central · Opening order,AC074,T06,Email,28108,Won,100,2025-02-02,2025-04-14,,5.6,LD00178
+DL0043,Volta Air Duty Free North · Gift range for season,AC168,T01,Event,30282,Won,100,2025-02-02,2025-03-03,,1.2,LD00179
+DL0044,CityShop Supermarket South · Gift range for season,AC234,T03,Event,55449,Won,100,2025-02-02,2025-04-12,,1.0,LD00181
+DL0045,Motherland Pantry BV (Netherlands) · Shelf listing,AC254,T03,Instagram,10258,Won,100,2025-02-03,2025-04-14,,4.5,LD00190
+DL0046,Bold Gifts Ahodwo · Shelf listing,AC184,T07,LinkedIn,25151,Won,100,2025-02-04,2025-04-01,,2.4,LD00198
+DL0047,Goodway Stores · Reorder,AC211,T03,Event,8741,Won,100,2025-02-05,2025-04-02,,1.8,LD00213
+DL0048,Royal Mart · Gift range for season,AC161,T05,Referral,11435,Lost,0,2025-02-05,2025-03-24,Price,5.0,LD00214
+DL0049,Ridge Resort East Legon · Annual supply,AC299,T02,Event,79046,Lost,0,2025-02-05,2025-04-16,No budget,16.3,LD00215
+DL0050,SkyGold Duty Free East · Gift range for season,AC033,T04,Email,11326,Lost,0,2025-02-05,2025-04-01,Went silent,35.4,LD00223
+DL0051,Sankofa Gifting Co. East · Opening order,AC169,T05,Referral,15335,Won,100,2025-02-06,2025-04-16,,21.8,LD00224
+DL0052,Sankofa Gifting Co. · New branch supply,AC069,T03,Website,8531,Won,100,2025-02-07,2025-03-29,,3.2,LD00233
+DL0053,CityShop Stores Cantonments · Christmas gift order,AC278,T02,Referral,2574,Lost,0,2025-02-07,2025-04-09,Chose a competitor,5.3,LD00235
+DL0054,Adinkra Trading (Canada) South · Reorder,AC191,T06,Event,4867,Won,100,2025-02-07,2025-03-30,,9.0,LD00237
+DL0055,CityShop Stores Central · Gift range for season,AC113,T07,Referral,19299,Lost,0,2025-02-08,2025-04-09,Product fit,5.1,LD00243
+DL0056,Adinkra Trading (Canada) South · New branch supply,AC191,T06,Event,5551,Won,100,2025-02-08,2025-03-13,,2.2,LD00245
+DL0057,Heritage Gifts Central · New branch supply,AC231,T04,Website,3837,Lost,0,2025-02-08,2025-03-18,Price,37.5,LD00246
+DL0058,Sweet Crumb Coffee House Ahodwo · Annual supply,AC247,T05,Email,27339,Won,100,2025-02-09,2025-03-14,,1.8,LD00253
+DL0059,Adinkra Trading (Canada) · New branch supply,AC036,T03,Event,4000,Lost,0,2025-02-09,2025-03-06,Product fit,2.9,LD00254
+DL0060,Unity Supermarket North · Shelf listing,AC088,T07,Event,23068,Won,100,2025-02-10,2025-04-19,,0.8,LD00263
+DL0061,Oven Fresh Café Plus · Annual supply,AC143,T01,Referral,16406,Won,100,2025-02-11,2025-04-13,,8.3,LD00275
+DL0062,Kwaku Café North · Opening order,AC120,T06,Referral,24221,Won,100,2025-02-12,2025-03-29,,14.2,LD00281
+DL0063,Kwaku Café North · Range expansion,AC120,T06,Referral,9873,Lost,0,2025-02-12,2025-04-26,Timing,12.4,LD00282
+DL0064,Bean & Bake Coffee House West · Opening order,AC137,T05,LinkedIn,40737,Won,100,2025-02-12,2025-04-08,,1.8,LD00284
+DL0065,Royal Supermarket North · Opening order,AC230,T02,Referral,26433,Lost,0,2025-02-12,2025-03-12,Product fit,7.8,LD00285
+DL0066,CityShop Supermarket South · New branch supply,AC234,T03,Event,7249,Lost,0,2025-02-13,2025-03-19,Chose a competitor,2.9,LD00293
+DL0067,SkyGold Airways Spintex · Shelf listing,AC200,T02,Instagram,33043,Lost,0,2025-02-13,2025-03-16,Price,4.3,LD00297
+DL0068,Volta Air Duty Free North · Range expansion,AC168,T01,Event,9199,Won,100,2025-02-13,2025-03-26,,4.6,LD00300
+DL0069,Royal Stores East Legon · Range expansion,AC271,T05,Email,7587,Lost,0,2025-02-14,2025-03-21,No budget,6.9,LD00317
+DL0070,Akan Foods (UK) Ltd · Annual supply,AC284,T01,Event,70037,Won,100,2025-02-16,2025-03-12,,2.7,LD00327
+DL0071,CityShop Stores Plus · Gift range for season,AC242,T02,LinkedIn,33946,Lost,0,2025-02-17,2025-04-01,Went silent,5.3,LD00328
+DL0072,Royal Stores East Legon · Valentine stock,AC271,T05,Email,5465,Lost,0,2025-02-17,2025-04-23,Price,4.1,LD00333
+DL0073,Lagoon Hotel & Suites · Shelf listing,AC037,T06,LinkedIn,42559,Lost,0,2025-02-18,2025-04-02,Went silent,7.8,LD00340
+DL0074,Sankofa Gifting Co. East · Valentine stock,AC169,T05,Referral,4072,Lost,0,2025-02-19,2025-04-20,Product fit,5.1,LD00343
+DL0075,Labadi Bay Resort Cantonments · Range expansion,AC004,T07,Instagram,7117,Lost,0,2025-02-19,2025-04-15,Price,1.3,LD00345
+DL0076,Labadi Bay Hotel · Shelf listing,AC032,T01,Referral,29645,Won,100,2025-02-20,2025-04-01,,4.3,LD00349
+DL0077,Oven Fresh Bakery · Shelf listing,AC108,T02,Referral,10955,Won,100,2025-02-21,2025-03-12,,4.9,LD00357
+DL0078,Motherland Pantry GmbH · Shelf listing,AC102,T02,Referral,16300,Won,100,2025-02-21,2025-04-28,,3.1,LD00366
+DL0079,Golden Sands Hotel & Suites · Annual supply,AC162,T06,Website,11350,Won,100,2025-02-22,2025-04-13,,12.6,LD00369
+DL0080,Heritage Gifts Central · Range expansion,AC231,T04,Website,4790,Lost,0,2025-02-22,2025-03-20,Went silent,15.5,LD00372
+DL0081,Coastline Hotel East · Gift range for season,AC164,T04,Instagram,26551,Won,100,2025-02-24,2025-03-10,,28.4,LD00380
+DL0082,Kwaku Coffee House Harbour · Opening order,AC244,T07,Email,21457,Won,100,2025-02-26,2025-05-05,,6.1,LD00384
+DL0083,Royal Supermarket West · Shelf listing,AC150,T05,Referral,12911,Won,100,2025-02-26,2025-05-03,,1.6,LD00385
+DL0084,Bold Hampers Central · Gift range for season,AC122,T02,Referral,33363,Won,100,2025-02-26,2025-04-13,,16.5,LD00386
+DL0085,Labadi Bay Hotel & Suites Community 25 · Shelf listing,AC092,T02,Event,38388,Won,100,2025-02-27,2025-04-02,,5.0,LD00388
+DL0086,Adinkra Trading (Canada) South · Christmas gift order,AC191,T06,Event,10126,Won,100,2025-02-27,2025-05-02,,23.1,LD00389
+DL0087,Adinkra Trading GmbH · Shelf listing,AC158,T07,Event,31686,Won,100,2025-02-27,2025-03-23,,2.8,LD00394
+DL0088,Volta Air Lounges · Christmas gift order,AC233,T05,Instagram,8093,Lost,0,2025-02-27,2025-03-18,Price,2.2,LD00396
+DL0089,Family Supermarket · Opening order,AC179,T07,Referral,15417,Lost,0,2025-02-28,2025-04-02,Timing,12.1,LD00397
+DL0090,Ebony Foods GmbH · Gift range for season,AC193,T04,LinkedIn,20212,Won,100,2025-02-28,2025-05-03,,9.9,LD00401
+DL0091,Royal Stores East Legon · Range expansion,AC271,T05,Email,5487,Lost,0,2025-02-28,2025-04-24,Went silent,18.4,LD00403
+DL0092,Goodway Supermarket · Shelf listing,AC246,T07,Instagram,30823,Lost,0,2025-03-02,2025-04-12,No budget,7.5,LD00405
+DL0093,Adinkra Trading GmbH · New branch supply,AC158,T07,Event,9310,Won,100,2025-03-02,2025-04-13,,1.4,LD00410
+DL0094,Unity Supermarket · Opening order,AC072,T02,Instagram,18265,Lost,0,2025-03-03,2025-03-24,Timing,0.9,LD00415
+DL0095,Coastline Hotel Osu · Shelf listing,AC041,T07,LinkedIn,45656,Won,100,2025-03-05,2025-03-24,,11.1,LD00423
+DL0096,Motherland Pantry (Canada) · Annual supply,AC018,T07,Referral,37514,Won,100,2025-03-07,2025-04-21,,2.0,LD00443
+DL0097,Royal Supermarket West · Range expansion,AC150,T05,Referral,9209,Lost,0,2025-03-08,2025-05-11,Went silent,8.6,LD00444
+DL0098,Unity Supermarket North · New branch supply,AC088,T07,Event,9442,Won,100,2025-03-09,2025-04-22,,11.8,LD00450
+DL0099,Labadi Bay Hotel & Suites Community 25 · Reorder,AC092,T02,Event,10350,Lost,0,2025-03-10,2025-05-08,No budget,2.8,LD00460
+DL0100,Coastline Hotel Osu · Valentine stock,AC041,T07,LinkedIn,10267,Lost,0,2025-03-11,2025-03-31,Product fit,24.2,LD00463
+DL0101,Ridge Hotel · Shelf listing,AC027,T03,Referral,36976,Lost,0,2025-03-11,2025-05-21,Timing,2.4,LD00464
+DL0102,Royal Supermarket Plus · Gift range for season,AC272,T06,Referral,14026,Lost,0,2025-03-12,2025-03-29,No budget,6.2,LD00468
+DL0103,Volta Air Lounges · Range expansion,AC233,T05,Instagram,10339,Lost,0,2025-03-13,2025-04-22,Price,19.4,LD00478
+DL0104,Lagoon Hotel & Suites Central · Opening order,AC229,T02,Referral,21934,Won,100,2025-03-13,2025-04-20,,8.6,LD00481
+DL0105,Sankofa Gifts · Gift range for season,AC149,T03,Event,80694,Won,100,2025-03-14,2025-04-29,,5.8,LD00486
+DL0106,Adinkra Hampers North · Range expansion,AC301,T03,Event,7929,Lost,0,2025-03-17,2025-05-07,Product fit,14.9,LD00498
+DL0107,Gye Nyame Gifting Co. · Gift range for season,AC148,T04,Email,10222,Lost,0,2025-03-17,2025-04-27,Chose a competitor,4.7,LD00500
+DL0108,Ebony Foods GmbH · Range expansion,AC193,T04,LinkedIn,5503,Lost,0,2025-03-17,2025-05-06,Timing,7.8,LD00501
+DL0109,Family Stores West · Shelf listing,AC110,T04,Instagram,22173,Lost,0,2025-03-19,2025-06-01,No budget,2.9,LD00505
+DL0110,Accra Link (Canada) · Reorder,AC044,T02,Referral,2590,Won,100,2025-03-19,2025-05-06,,2.6,LD00508
+DL0111,Gye Nyame Hampers Ahodwo · Opening order,AC189,T05,Instagram,25964,Lost,0,2025-03-19,2025-05-04,Chose a competitor,22.3,LD00510
+DL0112,Palace Supermarket · Opening order,AC173,T03,Event,45596,Won,100,2025-03-19,2025-05-07,,3.1,LD00511
+DL0113,Kotoka Airways · Opening order,AC084,T07,LinkedIn,42039,Won,100,2025-03-21,2025-06-02,,1.5,LD00523
+DL0114,Unity Supermarket North · Reorder,AC088,T07,Event,9710,Lost,0,2025-03-23,2025-05-25,Price,2.6,LD00534
+DL0115,Value Mart Central · Annual supply,AC310,T05,LinkedIn,13143,Lost,0,2025-03-23,2025-05-17,Timing,5.9,LD00536
+DL0116,Motherland Pantry BV (Netherlands) · Range expansion,AC254,T03,Instagram,9837,Lost,0,2025-03-23,2025-04-29,Chose a competitor,2.3,LD00538
+DL0117,Heritage Gifts Central · Range expansion,AC231,T04,Website,5605,Won,100,2025-03-24,2025-05-30,,3.7,LD00542
+DL0118,Sankofa Gifting Co. East · New branch supply,AC169,T05,Referral,6182,Won,100,2025-03-24,2025-05-22,,11.6,LD00543
+DL0119,Bean & Bake Coffee House Plus · Opening order,AC109,T02,LinkedIn,43852,Lost,0,2025-03-24,2025-04-12,No budget,4.1,LD00549
+DL0120,West Africa Trade GmbH · Annual supply,AC227,T05,LinkedIn,48754,Won,100,2025-03-25,2025-05-25,,23.6,LD00554
+DL0121,Brew Bakery · Opening order,AC021,T01,LinkedIn,19132,Won,100,2025-03-26,2025-05-17,,2.9,LD00556
+DL0122,Kotoka Lounges · Opening order,AC273,T04,Event,21824,Lost,0,2025-03-26,2025-04-21,Went silent,58.8,LD00557
+DL0123,Diaspora Pantry (Canada) East · Opening order,AC279,T04,Referral,27889,Won,100,2025-03-26,2025-04-13,,10.3,LD00559
+DL0124,Value Supermarket Central · Opening order,AC180,T04,Referral,10577,Lost,0,2025-03-26,2025-04-11,Went silent,27.6,LD00561
+DL0125,Adinkra Trading (Canada) · Reorder,AC036,T03,Event,5820,Won,100,2025-03-28,2025-05-15,,2.3,LD00573
+DL0126,Royal Mart Spintex · Shelf listing,AC040,T04,Instagram,17914,Won,100,2025-03-28,2025-05-31,,16.2,LD00574
+DL0127,Coastline Resort · Gift range for season,AC075,T01,LinkedIn,27659,Lost,0,2025-03-30,2025-06-09,Product fit,2.2,LD00583
+DL0128,Akan Foods (UK) Ltd · Reorder,AC284,T01,Event,8830,Won,100,2025-03-30,2025-05-20,,7.9,LD00587
+DL0129,Bold Hampers Central · Reorder,AC122,T02,Referral,7769,Lost,0,2025-03-30,2025-05-30,Chose a competitor,13.1,LD00589
+DL0130,Royal Supermarket West · Christmas gift order,AC150,T05,Referral,4937,Lost,0,2025-03-30,2025-06-11,Chose a competitor,9.1,LD00590
+DL0131,Coastal Wings Duty Free North · Opening order,AC138,T01,Google Ads,17522,Won,100,2025-03-30,2025-06-05,,0.9,LD00591
+DL0132,Heritage Gifting Co. South · Gift range for season,AC251,T07,LinkedIn,34890,Won,100,2025-03-31,2025-05-20,,3.9,LD00593
+DL0133,Adinkra Trading (Canada) South · Reorder,AC191,T06,Event,3961,Lost,0,2025-03-31,2025-04-20,Chose a competitor,32.5,LD00597
+DL0134,West Africa Trade (UK) Ltd · Opening order,AC304,T04,Event,45543,Won,100,2025-03-31,2025-05-25,,15.3,LD00598
+DL0135,Golden Sands Hotel & Suites · Christmas gift order,AC162,T06,Website,5203,Lost,0,2025-04-02,2025-04-17,Price,2.3,LD00604
+DL0136,Accra Link (Canada) · New branch supply,AC044,T02,Referral,8897,Won,100,2025-04-02,2025-04-16,,12.9,LD00606
+DL0137,Bean & Bake Café Central · Shelf listing,AC245,T07,Email,13733,Won,100,2025-04-02,2025-04-19,,11.3,LD00609
+DL0138,Heritage Gifts Central · Valentine stock,AC231,T04,Website,6833,Lost,0,2025-04-04,2025-06-12,Went silent,35.3,LD00628
+DL0139,Kotoka Airways · Valentine stock,AC084,T07,LinkedIn,10941,Won,100,2025-04-05,2025-05-05,,23.9,LD00634
+DL0140,West Africa Trade BV (Netherlands) · Opening order,AC181,T04,LinkedIn,27865,Lost,0,2025-04-06,2025-04-22,No budget,12.1,LD00639
+DL0141,Sankofa Gifting Co. Adum · Shelf listing,AC274,T02,Instagram,25750,Won,100,2025-04-07,2025-05-21,,2.7,LD00651
+DL0142,Volta Air Airways Plus · Opening order,AC115,T06,Website,9213,Lost,0,2025-04-07,2025-05-31,Price,2.6,LD00652
+DL0143,Golden Sands Hotel & Suites North · Annual supply,AC258,T04,Instagram,11749,Won,100,2025-04-08,2025-05-02,,3.5,LD00654
+DL0144,Coastal Wings Duty Free North · Reorder,AC138,T01,Google Ads,9172,Won,100,2025-04-08,2025-05-25,,1.1,LD00655
+DL0145,Bold Gifts · Annual supply,AC022,T07,LinkedIn,35791,Won,100,2025-04-08,2025-05-03,,2.0,LD00656
+DL0146,Freshmart Stores Osu · Gift range for season,AC282,T04,Event,66890,Won,100,2025-04-08,2025-04-27,,67.8,LD00658
+DL0147,Motherland Pantry GmbH · Reorder,AC102,T02,Referral,9004,Lost,0,2025-04-09,2025-05-27,Price,9.3,LD00662
+DL0148,Palace Supermarket · New branch supply,AC173,T03,Event,3490,Lost,0,2025-04-09,2025-06-03,Product fit,10.3,LD00666
+DL0149,Bold Gifts Ahodwo · Reorder,AC184,T07,LinkedIn,4976,Lost,0,2025-04-10,2025-06-13,Timing,7.1,LD00670
+DL0150,Sankofa Gifting Co. Adum · Christmas gift order,AC274,T02,Instagram,2893,Lost,0,2025-04-10,2025-05-13,Product fit,11.7,LD00672
+DL0151,Adinkra Hampers · Annual supply,AC061,T01,Event,70115,Lost,0,2025-04-10,2025-06-12,Went silent,7.6,LD00674
+DL0152,Palace Stores · Shelf listing,AC009,T04,Google Ads,19009,Won,100,2025-04-11,2025-06-22,,1.3,LD00680
+DL0153,Diaspora Pantry (Canada) East · Range expansion,AC279,T04,Referral,6121,Lost,0,2025-04-11,2025-05-29,Timing,1.8,LD00682
+DL0154,Labadi Bay Resort Cantonments · Christmas gift order,AC004,T07,Instagram,10704,Lost,0,2025-04-11,2025-05-31,Product fit,0.8,LD00684
+DL0155,Bean & Bake Café Central · Reorder,AC245,T07,Email,8760,Won,100,2025-04-11,2025-04-30,,1.7,LD00686
+DL0156,Sahel & Coast BV (Netherlands) · Shelf listing,AC019,T05,Email,32407,Won,100,2025-04-11,2025-05-05,,1.7,LD00690
+DL0157,Palace Mart East Legon · Shelf listing,AC248,T03,Google Ads,12370,Lost,0,2025-04-12,2025-05-28,No budget,16.7,LD00696
+DL0158,Coastal Wings Airways West · Opening order,AC187,T01,Referral,9098,Lost,0,2025-04-12,2025-06-16,Price,1.4,LD00699
+DL0159,CityShop Stores Cantonments · Christmas gift order,AC278,T02,Referral,4472,Won,100,2025-04-13,2025-05-18,,8.6,LD00703
+DL0160,Gye Nyame Gifts · Shelf listing,AC127,T07,Event,66038,Lost,0,2025-04-13,2025-05-06,No budget,4.9,LD00710
+DL0161,Kotoka Duty Free · Gift range for season,AC068,T07,Referral,17129,Lost,0,2025-04-14,2025-06-06,Went silent,27.4,LD00715
+DL0162,Afro Foods GmbH · Opening order,AC091,T07,Referral,27594,Won,100,2025-04-15,2025-06-13,,10.6,LD00718
+DL0163,Volta Air Duty Free · Opening order,AC124,T03,Email,16899,Won,100,2025-04-15,2025-06-24,,6.0,LD00721
+DL0164,Palace Supermarket Spintex · Gift range for season,AC030,T07,Referral,34329,Won,100,2025-04-16,2025-05-04,,1.9,LD00729
+DL0165,Sahel & Coast (USA) Inc. · Annual supply,AC307,T06,Google Ads,23142,Won,100,2025-04-16,2025-06-19,,5.2,LD00730
+DL0166,Royal Stores Central · Range expansion,AC074,T06,Email,6680,Won,100,2025-04-16,2025-05-12,,4.8,LD00732
+DL0167,Motherland Pantry BV (Netherlands) · Valentine stock,AC254,T03,Instagram,6177,Lost,0,2025-04-17,2025-06-16,Went silent,2.4,LD00740
+DL0168,Palace Stores · New branch supply,AC009,T04,Google Ads,8098,Lost,0,2025-04-18,2025-05-14,Went silent,86.2,LD00748
+DL0169,Coastline Hotel & Suites · Opening order,AC264,T04,Referral,28111,Won,100,2025-04-19,2025-06-18,,9.3,LD00761
+DL0170,Bold Gifts East Legon · Gift range for season,AC176,T04,Google Ads,32291,Lost,0,2025-04-20,2025-05-13,Timing,11.5,LD00764
+DL0171,Kotoka Airways · New branch supply,AC084,T07,LinkedIn,6167,Won,100,2025-04-20,2025-05-26,,14.2,LD00771
+DL0172,Volta Air Lounges · New branch supply,AC233,T05,Instagram,7130,Lost,0,2025-04-23,2025-07-06,Timing,19.3,LD00784
+DL0173,Unity Stores · Gift range for season,AC076,T02,Email,29417,Won,100,2025-04-23,2025-05-23,,43.2,LD00787
+DL0174,Motherland Pantry (Canada) · Reorder,AC018,T07,Referral,3655,Won,100,2025-04-23,2025-05-29,,2.0,LD00789
+DL0175,Sankofa Gifting Co. · Reorder,AC069,T03,Website,9332,Lost,0,2025-04-24,2025-05-23,Price,2.7,LD00793
+DL0176,Ridge Hotel East Legon · Annual supply,AC003,T04,Referral,17330,Lost,0,2025-04-24,2025-07-03,Product fit,8.9,LD00795
+DL0177,Sahel & Coast BV (Netherlands) West · Shelf listing,AC298,T05,Website,26849,Lost,0,2025-04-24,2025-05-28,Price,5.9,LD00797
+DL0178,Golden Sands Resort West · Shelf listing,AC238,T01,Instagram,24424,Won,100,2025-04-24,2025-06-07,,7.0,LD00798
+DL0179,Freshmart Mart West · Range expansion,AC221,T03,LinkedIn,8163,Lost,0,2025-04-24,2025-07-04,No budget,2.7,LD00800
+DL0180,Labadi Bay Hotel & Suites East · Annual supply,AC261,T04,Event,80131,Lost,0,2025-04-24,2025-06-09,Product fit,18.1,LD00801
+DL0181,Bean & Bake Café Airport City · Opening order,AC216,T04,Google Ads,12565,Lost,0,2025-04-25,2025-06-27,Product fit,6.9,LD00803
+DL0182,Golden Sands Hotel & Suites · New branch supply,AC162,T06,Website,8563,Won,100,2025-04-25,2025-06-14,,0.2,LD00811
+DL0183,Ridge Hotel & Suites Harbour · Gift range for season,AC005,T04,Referral,31154,Lost,0,2025-04-25,2025-06-04,Went silent,2.9,LD00812
+DL0184,Palace Stores East · Shelf listing,AC183,T05,LinkedIn,37854,Lost,0,2025-04-27,2025-06-16,Price,9.4,LD00820
+DL0185,Unity Mart South · Gift range for season,AC112,T05,Event,67535,Lost,0,2025-04-27,2025-05-29,Product fit,37.2,LD00822
+DL0186,Palace Mart Airport City · Gift range for season,AC086,T05,Instagram,9722,Lost,0,2025-04-28,2025-05-17,Went silent,8.1,LD00831
+DL0187,Bean & Bake Coffee House West · New branch supply,AC137,T05,LinkedIn,8719,Lost,0,2025-04-29,2025-05-24,Product fit,85.5,LD00834
+DL0188,Family Stores · Opening order,AC035,T03,LinkedIn,48224,Lost,0,2025-04-29,2025-05-20,No budget,27.1,LD00840
+DL0189,Family Mart Plus · Annual supply,AC305,T02,LinkedIn,34728,Lost,0,2025-04-30,2025-05-30,Went silent,41.6,LD00849
+DL0190,Labadi Bay Hotel · Range expansion,AC032,T01,Referral,9572,Won,100,2025-04-30,2025-06-02,,9.8,LD00851
+DL0191,Unity Supermarket Harbour · Opening order,AC085,T02,LinkedIn,41227,Lost,0,2025-04-30,2025-06-08,Timing,9.0,LD00854
+DL0192,Freshmart Mart West · Valentine stock,AC221,T03,LinkedIn,3451,Won,100,2025-05-01,2025-06-19,,5.3,LD00855
+DL0193,Unity Supermarket North · Range expansion,AC088,T07,Event,3192,Lost,0,2025-05-01,2025-05-27,Product fit,6.0,LD00857
+DL0194,Afro Foods GmbH · Valentine stock,AC091,T07,Referral,6350,Won,100,2025-05-01,2025-07-04,,6.4,LD00860
+DL0195,Heritage Gifting Co. South · New branch supply,AC251,T07,LinkedIn,3671,Won,100,2025-05-02,2025-06-21,,4.0,LD00865
+DL0196,Golden Sands Hotel & Suites Labone East · Shelf listing,AC174,T01,Event,20875,Lost,0,2025-05-02,2025-07-12,Product fit,7.5,LD00868
+DL0197,Heritage Gifts Dzorwulu · Shelf listing,AC028,T06,Referral,35588,Lost,0,2025-05-02,2025-05-27,Timing,2.9,LD00870
+DL0198,Kotoka Airways · Range expansion,AC084,T07,LinkedIn,3408,Won,100,2025-05-02,2025-07-14,,1.3,LD00873
+DL0199,CityShop Mart Adum · Opening order,AC212,T05,Referral,29335,Lost,0,2025-05-03,2025-06-06,Went silent,2.7,LD00877
+DL0200,Ebony Foods GmbH · New branch supply,AC193,T04,LinkedIn,3185,Won,100,2025-05-03,2025-07-05,,7.6,LD00880
+DL0201,West Africa Trade GmbH · Valentine stock,AC227,T05,LinkedIn,5687,Lost,0,2025-05-03,2025-05-18,Went silent,63.7,LD00886
+DL0202,Kwaku Coffee House Adum · Shelf listing,AC208,T07,Website,9772,Lost,0,2025-05-04,2025-06-07,Price,9.7,LD00888
+DL0203,Prestige Gifting Co. · Opening order,AC078,T07,Instagram,14164,Lost,0,2025-05-04,2025-06-13,No budget,8.9,LD00889
+DL0204,Bold Hampers · Shelf listing,AC023,T05,Referral,24975,Won,100,2025-05-04,2025-06-10,,26.9,LD00892
+DL0205,Royal Stores Central · Reorder,AC074,T06,Email,4695,Lost,0,2025-05-04,2025-06-07,Chose a competitor,5.3,LD00896
+DL0206,Freshmart Mart West · Christmas gift order,AC221,T03,LinkedIn,6481,Won,100,2025-05-05,2025-06-23,,2.1,LD00899
+DL0207,Brew Bakery · Christmas gift order,AC021,T01,LinkedIn,7003,Won,100,2025-05-05,2025-06-01,,1.3,LD00907
+DL0208,Unity Mart Labone · Gift range for season,AC236,T02,Instagram,9558,Lost,0,2025-05-05,2025-06-09,Chose a competitor,20.3,LD00908
+DL0209,Unity Stores South · Opening order,AC199,T04,Instagram,37097,Lost,0,2025-05-06,2025-06-24,Timing,14.7,LD00917
+DL0210,Brew Bakery North · Gift range for season,AC077,T05,LinkedIn,48037,Lost,0,2025-05-06,2025-05-30,Product fit,10.9,LD00923
+DL0211,Coastline Hotel & Suites · Christmas gift order,AC264,T04,Referral,5268,Lost,0,2025-05-07,2025-06-25,No budget,14.8,LD00930
+DL0212,Freshmart Stores North · Annual supply,AC217,T01,Instagram,12183,Lost,0,2025-05-07,2025-07-14,Chose a competitor,10.9,LD00932
+DL0213,Oven Fresh Café Plus · New branch supply,AC143,T01,Referral,4994,Won,100,2025-05-08,2025-06-16,,3.2,LD00943
+DL0214,Kwaku Coffee House Harbour · Valentine stock,AC244,T07,Email,3443,Won,100,2025-05-09,2025-06-21,,21.3,LD00953
+DL0215,Bean & Bake Café East Legon · Shelf listing,AC213,T06,Email,36860,Won,100,2025-05-09,2025-06-08,,1.8,LD00954
+DL0216,Sankofa Gifts · New branch supply,AC149,T03,Event,2658,Lost,0,2025-05-09,2025-06-06,Timing,1.6,LD00956
+DL0217,Golden Sands Hotel & Suites Osu · Shelf listing,AC031,T01,Instagram,21855,Lost,0,2025-05-10,2025-05-24,No budget,3.6,LD00967
+DL0218,Motherland Pantry (Canada) · Reorder,AC018,T07,Referral,8327,Lost,0,2025-05-11,2025-05-26,No budget,3.6,LD00970
+DL0219,SkyGold Duty Free North · Shelf listing,AC172,T06,Referral,35585,Won,100,2025-05-12,2025-06-27,,6.1,LD00982
+DL0220,Palace Supermarket East · Gift range for season,AC210,T03,Website,27219,Lost,0,2025-05-14,2025-06-20,Timing,0.5,LD00992
+DL0221,Prestige Gifting Co. Cantonments · Opening order,AC257,T03,Email,30505,Won,100,2025-05-15,2025-06-14,,2.3,LD00998
+DL0222,Sankofa Gifts East · Annual supply,AC185,T07,Referral,18875,Won,100,2025-05-16,2025-06-30,,0.4,LD01004
+DL0223,Sahel & Coast (UK) Ltd · Gift range for season,AC114,T07,Website,32433,Lost,0,2025-05-16,2025-07-14,Chose a competitor,2.5,LD01006
+DL0224,Accra Link BV (Netherlands) · Shelf listing,AC098,T01,Referral,9519,Won,100,2025-05-16,2025-07-27,,2.3,LD01009
+DL0225,Unity Supermarket North · New branch supply,AC088,T07,Event,7095,Lost,0,2025-05-16,2025-07-04,Went silent,34.6,LD01010
+DL0226,Volta View Hotel & Suites · Annual supply,AC197,T07,Referral,29084,Lost,0,2025-05-17,2025-06-08,Product fit,3.3,LD01012
+DL0227,Bean & Bake Café East Legon · Range expansion,AC213,T06,Email,5052,Won,100,2025-05-17,2025-07-17,,3.2,LD01016
+DL0228,Brew Bakery · Valentine stock,AC021,T01,LinkedIn,5927,Lost,0,2025-05-17,2025-07-14,Chose a competitor,2.3,LD01017
+DL0229,Sankofa Hampers Adum · Gift range for season,AC232,T02,Referral,17551,Won,100,2025-05-17,2025-07-02,,3.2,LD01018
+DL0230,Bean & Bake Café · Opening order,AC046,T05,Instagram,11751,Lost,0,2025-05-18,2025-07-04,Went silent,29.8,LD01026
+DL0231,Freshmart Mart Ahodwo · Shelf listing,AC240,T07,Email,21099,Won,100,2025-05-19,2025-07-23,,4.1,LD01033
+DL0232,Family Mart · Annual supply,AC051,T06,Website,17102,Won,100,2025-05-19,2025-06-20,,2.3,LD01034
+DL0233,Bold Gifts Ahodwo · New branch supply,AC184,T07,LinkedIn,5318,Lost,0,2025-05-21,2025-07-01,No budget,3.9,LD01045
+DL0234,Palace Mart South · Opening order,AC201,T07,LinkedIn,13372,Won,100,2025-05-21,2025-08-02,,12.6,LD01046
+DL0235,Sankofa Gifting Co. West · Shelf listing,AC222,T03,LinkedIn,20801,Won,100,2025-05-22,2025-07-12,,3.9,LD01054
+DL0236,Adinkra Gifts Airport City · Annual supply,AC288,T03,Email,10286,Lost,0,2025-05-23,2025-07-27,Chose a competitor,5.0,LD01064
+DL0237,SkyGold Duty Free Plus · Gift range for season,AC204,T06,Event,59371,Won,100,2025-05-24,2025-07-19,,11.5,LD01067
+DL0238,Unity Supermarket West · Annual supply,AC302,T07,Referral,12387,Won,100,2025-05-24,2025-07-22,,8.0,LD01068
+DL0239,Bold Gifts · Reorder,AC022,T07,LinkedIn,6299,Lost,0,2025-05-25,2025-07-04,Chose a competitor,4.2,LD01074
+DL0240,Golden Sands Resort West · Range expansion,AC238,T01,Instagram,10160,Lost,0,2025-05-25,2025-08-03,No budget,1.4,LD01075
+DL0241,Golden Sands Hotel & Suites North · Christmas gift order,AC258,T04,Instagram,8471,Lost,0,2025-05-25,2025-07-01,No budget,6.2,LD01076
+DL0242,Bold Hampers West · Gift range for season,AC159,T04,Email,27907,Lost,0,2025-05-27,2025-06-18,Went silent,31.9,LD01083
+DL0243,Palace Supermarket South · Valentine stock,AC285,T07,Event,5407,Lost,0,2025-05-27,2025-07-05,Timing,2.0,LD01086
+DL0244,Sankofa Gifting Co. East · Christmas gift order,AC169,T05,Referral,9537,Lost,0,2025-05-28,2025-07-17,Price,12.2,LD01088
+DL0245,Golden Sands Resort Osu · Opening order,AC194,T01,LinkedIn,48952,Won,100,2025-05-28,2025-07-02,,2.6,LD01094
+DL0246,Ebony Foods GmbH · Reorder,AC193,T04,LinkedIn,3382,Won,100,2025-05-29,2025-07-09,,18.6,LD01101
+DL0247,Palace Mart North · Shelf listing,AC224,T06,LinkedIn,37229,Won,100,2025-05-29,2025-07-31,,11.5,LD01103
+DL0248,Gold Coast Imports BV (Netherlands) · Gift range for season,AC219,T01,Website,20797,Lost,0,2025-05-31,2025-07-13,Chose a competitor,9.0,LD01114
+DL0249,Sweet Crumb Café · Annual supply,AC235,T01,Event,26126,Won,100,2025-06-01,2025-06-26,,7.8,LD01116
+DL0250,Prestige Gifts North · Opening order,AC292,T06,Event,34019,Won,100,2025-06-01,2025-07-28,,3.5,LD01118
+DL0251,SkyGold Duty Free Central · Opening order,AC256,T05,LinkedIn,34893,Lost,0,2025-06-03,2025-08-12,Timing,12.5,LD01129
+DL0252,Oven Fresh Café Airport City · Shelf listing,AC207,T04,Event,78942,Lost,0,2025-06-03,2025-07-23,Product fit,18.1,LD01132
+DL0253,Golden Sands Resort Osu · Christmas gift order,AC194,T01,LinkedIn,4977,Lost,0,2025-06-05,2025-08-03,Went silent,1.4,LD01143
+DL0254,Goodway Mart East · Gift range for season,AC260,T01,Instagram,10030,Lost,0,2025-06-05,2025-07-07,Went silent,4.7,LD01144
+DL0255,Labadi Bay Hotel & Suites Spintex · Gift range for season,AC198,T02,LinkedIn,17564,Won,100,2025-06-05,2025-07-06,,3.2,LD01149
+DL0256,Kwaku Coffee House Harbour · Range expansion,AC244,T07,Email,5923,Won,100,2025-06-06,2025-07-29,,21.3,LD01155
+DL0257,Golden Sands Hotel & Suites · Reorder,AC162,T06,Website,5242,Won,100,2025-06-06,2025-08-16,,7.3,LD01156
+DL0258,Palace Supermarket South · New branch supply,AC285,T07,Event,10779,Lost,0,2025-06-08,2025-08-16,Went silent,12.9,LD01162
+DL0259,Motherland Pantry GmbH · New branch supply,AC102,T02,Referral,9423,Won,100,2025-06-08,2025-08-05,,1.9,LD01167
+DL0260,CityShop Stores Cantonments · Christmas gift order,AC278,T02,Referral,6159,Lost,0,2025-06-09,2025-07-22,Chose a competitor,9.8,LD01177
+DL0261,Bold Gifting Co. · Gift range for season,AC225,T03,LinkedIn,30709,Lost,0,2025-06-10,2025-08-02,Price,1.2,LD01180
+DL0262,Labadi Bay Hotel · Valentine stock,AC032,T01,Referral,9517,Won,100,2025-06-11,2025-06-25,,4.6,LD01185
+DL0263,Accra Link (UK) Ltd · Gift range for season,AC024,T07,Referral,15441,Lost,0,2025-06-13,2025-07-30,Chose a competitor,1.1,LD01196
+DL0264,Accra Link (Canada) North · Annual supply,AC105,T05,LinkedIn,44848,Lost,0,2025-06-15,2025-07-02,Price,31.5,LD01205
+DL0265,Bold Gifts South · Gift range for season,AC026,T04,Instagram,15356,Won,100,2025-06-15,2025-07-07,,25.0,LD01206
+DL0266,Adinkra Trading (Canada) South · Christmas gift order,AC191,T06,Event,5191,Lost,0,2025-06-15,2025-08-14,Chose a competitor,1.2,LD01207
+DL0267,Coastline Hotel · Annual supply,AC118,T03,Google Ads,10748,Lost,0,2025-06-16,2025-07-07,Went silent,1.7,LD01209
+DL0268,Lagoon Hotel & Suites East · Gift range for season,AC079,T02,Event,62315,Lost,0,2025-06-19,2025-07-15,Chose a competitor,17.7,LD01226
+DL0269,Labadi Bay Hotel & Suites Community 25 · Range expansion,AC092,T02,Event,9997,Won,100,2025-06-19,2025-07-25,,7.7,LD01230
+DL0270,Brew Coffee House North · Gift range for season,AC101,T04,Website,36396,Lost,0,2025-06-21,2025-08-20,Went silent,1.4,LD01243
+DL0271,Palm Court Hotel & Suites East Legon · Shelf listing,AC281,T03,Referral,33808,Won,100,2025-06-22,2025-08-22,,1.6,LD01251
+DL0272,Palace Mart South · Valentine stock,AC201,T07,LinkedIn,4188,Lost,0,2025-06-22,2025-09-04,No budget,5.4,LD01252
+DL0273,Unity Stores East · Annual supply,AC117,T03,Referral,22588,Won,100,2025-06-23,2025-07-16,,0.9,LD01256
+DL0274,Unity Stores East · Range expansion,AC117,T03,Referral,3518,Won,100,2025-06-23,2025-08-11,,7.4,LD01258
+DL0275,Volta Air Lounges · Valentine stock,AC233,T05,Instagram,7517,Lost,0,2025-06-23,2025-09-04,Product fit,25.3,LD01259
+DL0276,Sweet Crumb Bakery Airport City · Opening order,AC133,T01,Event,27193,Won,100,2025-06-24,2025-07-14,,2.4,LD01271
+DL0277,Family Supermarket North · Shelf listing,AC209,T01,Email,24052,Won,100,2025-06-25,2025-08-22,,23.2,LD01275
+DL0278,Motherland Pantry GmbH North · Opening order,AC170,T02,Website,22324,Lost,0,2025-06-26,2025-08-01,Price,6.7,LD01280
+DL0279,Akwaaba Bakery Plus · Gift range for season,AC134,T04,Website,13929,Lost,0,2025-06-29,2025-08-08,Went silent,13.6,LD01300
+DL0280,Brew Café Dzorwulu · Opening order,AC155,T01,Google Ads,36819,Lost,0,2025-06-30,2025-07-25,Price,3.3,LD01309
+DL0281,Palm Court Hotel & Suites · Annual supply,AC188,T03,LinkedIn,30972,Lost,0,2025-07-01,2025-07-20,Price,3.6,LD01315
+DL0282,Bold Gifts · New branch supply,AC022,T07,LinkedIn,4739,Won,100,2025-07-04,2025-08-14,,7.1,LD01341
+DL0283,Lagoon Hotel & Suites Central · New branch supply,AC229,T02,Referral,4677,Won,100,2025-07-04,2025-08-21,,2.9,LD01345
+DL0284,Kwaku Bakery Central · Annual supply,AC063,T05,Instagram,27329,Lost,0,2025-07-06,2025-08-29,Product fit,2.6,LD01359
+DL0285,Goodway Mart · Annual supply,AC250,T05,Referral,21583,Lost,0,2025-07-07,2025-09-11,Went silent,8.8,LD01362
+DL0286,Sankofa Gifts East · Reorder,AC185,T07,Referral,9963,Lost,0,2025-07-08,2025-09-17,Product fit,59.3,LD01367
+DL0287,Bold Hampers · Valentine stock,AC023,T05,Referral,3127,Lost,0,2025-07-08,2025-08-23,No budget,5.8,LD01373
+DL0288,Gye Nyame Gifts Cantonments · Shelf listing,AC243,T06,Event,52480,Lost,0,2025-07-10,2025-09-17,No budget,5.4,LD01382
+DL0289,Volta View Resort Adum · Shelf listing,AC270,T02,Referral,25535,Won,100,2025-07-10,2025-09-19,,8.5,LD01383
+DL0290,Royal Stores · Opening order,AC010,T01,Referral,36680,Won,100,2025-07-10,2025-09-19,,2.4,LD01386
+DL0291,Black Star Imports BV (Netherlands) · Shelf listing,AC067,T07,LinkedIn,42686,Won,100,2025-07-11,2025-09-12,,18.0,LD01387
+DL0292,Freshmart Mart · Gift range for season,AC140,T04,Event,57249,Won,100,2025-07-12,2025-08-31,,2.5,LD01397
+DL0293,Akwaaba Coffee House Harbour · Gift range for season,AC100,T01,Website,20390,Won,100,2025-07-12,2025-08-03,,2.1,LD01402
+DL0294,Heritage Gifting Co. · Gift range for season,AC147,T06,Event,39848,Lost,0,2025-07-12,2025-09-24,Chose a competitor,5.7,LD01404
+DL0295,Accra Link BV (Netherlands) · Christmas gift order,AC098,T01,Referral,9840,Lost,0,2025-07-13,2025-08-10,Product fit,22.8,LD01408
+DL0296,Prestige Gifting Co. Cantonments · Valentine stock,AC257,T03,Email,10581,Won,100,2025-07-13,2025-08-26,,3.8,LD01410
+DL0297,Palm Court Resort Central · Gift range for season,AC263,T06,Event,24923,Lost,0,2025-07-13,2025-09-12,Price,7.4,LD01414
+DL0298,Unity Supermarket West · Reorder,AC302,T07,Referral,8889,Won,100,2025-07-15,2025-07-29,,3.5,LD01421
+DL0299,Golden Sands Hotel & Suites · Reorder,AC162,T06,Website,5099,Lost,0,2025-07-15,2025-08-17,Chose a competitor,4.0,LD01423
+DL0300,Adinkra Gifts North · Annual supply,AC050,T01,Referral,29108,Lost,0,2025-07-15,2025-09-10,Went silent,6.8,LD01424
+DL0301,Palace Supermarket Spintex · Christmas gift order,AC030,T07,Referral,10223,Won,100,2025-07-16,2025-09-28,,20.2,LD01428
+DL0302,Coastal Wings Duty Free · Opening order,AC056,T02,LinkedIn,26490,Lost,0,2025-07-17,2025-09-13,Timing,3.1,LD01433
+DL0303,Bean & Bake Coffee House West · Reorder,AC137,T05,LinkedIn,2799,Lost,0,2025-07-19,2025-09-02,Chose a competitor,6.9,LD01446
+DL0304,Royal Stores East Legon · New branch supply,AC271,T05,Email,6812,Lost,0,2025-07-20,2025-09-13,Went silent,41.3,LD01454
+DL0305,Bean & Bake Café East · Gift range for season,AC269,T06,Referral,25589,Lost,0,2025-07-21,2025-09-09,Product fit,14.0,LD01463
+DL0306,Sahel & Coast BV (Netherlands) · Reorder,AC019,T05,Email,4318,Won,100,2025-07-21,2025-08-12,,21.6,LD01464
+DL0307,Coastline Hotel East · Valentine stock,AC164,T04,Instagram,6565,Won,100,2025-07-23,2025-09-08,,3.3,LD01474
+DL0308,Sweet Crumb Café Osu · Shelf listing,AC066,T04,Referral,32821,Won,100,2025-07-25,2025-08-23,,18.5,LD01487
+DL0309,Kwaku Bakery North · Opening order,AC220,T02,LinkedIn,26507,Won,100,2025-07-25,2025-09-22,,2.3,LD01489
+DL0310,Unity Stores Asokwa · Shelf listing,AC165,T04,LinkedIn,46627,Lost,0,2025-07-25,2025-08-18,Went silent,51.7,LD01492
+DL0311,Adinkra Trading (Canada) · Christmas gift order,AC036,T03,Event,5724,Won,100,2025-07-26,2025-08-22,,1.9,LD01501
+DL0312,CityShop Stores Cantonments · Valentine stock,AC278,T02,Referral,2753,Lost,0,2025-07-27,2025-10-01,No budget,1.8,LD01505
+DL0313,SkyGold Duty Free Plus · Reorder,AC204,T06,Event,3402,Lost,0,2025-07-27,2025-09-28,No budget,2.4,LD01507
+DL0314,Ridge Hotel & Suites · Gift range for season,AC266,T01,Website,22694,Lost,0,2025-07-27,2025-09-07,Timing,5.3,LD01512
+DL0315,Palace Mart South · Valentine stock,AC201,T07,LinkedIn,9662,Won,100,2025-07-28,2025-08-16,,3.5,LD01517
+DL0316,Brew Coffee House East · Opening order,AC135,T05,Referral,26171,Won,100,2025-07-28,2025-10-06,,16.2,LD01522
+DL0317,Sahel & Coast (USA) Inc. · New branch supply,AC307,T06,Google Ads,5238,Lost,0,2025-07-30,2025-09-21,Price,11.9,LD01537
+DL0318,Brew Bakery · Range expansion,AC021,T01,LinkedIn,5773,Won,100,2025-07-30,2025-08-28,,4.5,LD01538
+DL0319,Sweet Crumb Coffee House Ahodwo · Christmas gift order,AC247,T05,Email,4349,Won,100,2025-07-30,2025-10-05,,29.5,LD01539
+DL0320,Royal Stores East Legon · New branch supply,AC271,T05,Email,3357,Lost,0,2025-07-30,2025-09-29,No budget,12.3,LD01540
+DL0321,Golden Sands Hotel South · Shelf listing,AC303,T05,Event,28509,Won,100,2025-08-01,2025-08-31,,2.1,LD01543
+DL0322,Adinkra Trading GmbH · New branch supply,AC158,T07,Event,7357,Won,100,2025-08-01,2025-09-21,,1.1,LD01545
+DL0323,Palace Supermarket · Range expansion,AC173,T03,Event,3838,Lost,0,2025-08-02,2025-10-08,Went silent,7.3,LD01557
+DL0324,Prestige Hampers · Shelf listing,AC103,T03,LinkedIn,23407,Won,100,2025-08-02,2025-08-19,,4.4,LD01560
+DL0325,Sweet Crumb Café · Reorder,AC235,T01,Event,7101,Won,100,2025-08-03,2025-09-15,,15.5,LD01566
+DL0326,Bold Hampers Central · New branch supply,AC122,T02,Referral,5983,Lost,0,2025-08-03,2025-08-18,No budget,2.4,LD01568
+DL0327,Sankofa Gifting Co. West · Valentine stock,AC222,T03,LinkedIn,5455,Lost,0,2025-08-04,2025-10-14,Chose a competitor,2.6,LD01573
+DL0328,Morning Glory Café · Annual supply,AC062,T02,Referral,9859,Won,100,2025-08-04,2025-08-25,,18.7,LD01582
+DL0329,Oven Fresh Café Plus · Valentine stock,AC143,T01,Referral,4454,Won,100,2025-08-05,2025-10-15,,0.9,LD01588
+DL0330,Afro Foods (UK) Ltd · Opening order,AC139,T05,Google Ads,20277,Lost,0,2025-08-06,2025-10-17,Went silent,26.5,LD01597
+DL0331,Palace Mart Spintex · Annual supply,AC039,T06,LinkedIn,35594,Won,100,2025-08-06,2025-10-01,,3.2,LD01600
+DL0332,Unity Supermarket North · Valentine stock,AC088,T07,Event,10936,Won,100,2025-08-07,2025-09-27,,5.8,LD01602
+DL0333,Diaspora Pantry (UK) Ltd · Opening order,AC007,T06,Email,18807,Lost,0,2025-08-07,2025-08-27,Price,5.1,LD01603
+DL0334,Coastline Hotel East · Range expansion,AC164,T04,Instagram,4757,Lost,0,2025-08-07,2025-09-02,Product fit,10.6,LD01605
+DL0335,Freshmart Stores West · Annual supply,AC131,T04,Website,21686,Lost,0,2025-08-07,2025-09-11,Went silent,3.3,LD01607
+DL0336,CityShop Mart East Legon · Gift range for season,AC239,T01,Event,54225,Won,100,2025-08-08,2025-09-24,,6.9,LD01613
+DL0337,Kwaku Café South · Gift range for season,AC116,T03,Instagram,24231,Won,100,2025-08-08,2025-09-28,,10.7,LD01616
+DL0338,Labadi Bay Hotel · New branch supply,AC032,T01,Referral,8823,Lost,0,2025-08-09,2025-08-28,Product fit,1.6,LD01623
+DL0339,Volta Air Airways · Opening order,AC064,T04,Event,21300,Lost,0,2025-08-09,2025-09-29,Product fit,24.0,LD01625
+DL0340,Prestige Gifting Co. Cantonments · Valentine stock,AC257,T03,Email,9721,Won,100,2025-08-10,2025-10-05,,1.8,LD01637
+DL0341,Royal Stores South · Annual supply,AC214,T01,LinkedIn,23434,Won,100,2025-08-10,2025-10-18,,4.0,LD01640
+DL0342,Sahel & Coast BV (Netherlands) · Range expansion,AC019,T05,Email,10000,Lost,0,2025-08-11,2025-10-09,Price,2.7,LD01645
+DL0343,Ridge Hotel Central · Shelf listing,AC080,T01,Event,20143,Won,100,2025-08-11,2025-08-29,,24.0,LD01646
+DL0344,Labadi Bay Resort Cantonments · Reorder,AC004,T07,Instagram,6734,Won,100,2025-08-12,2025-09-03,,11.2,LD01649
+DL0345,Coastal Wings Duty Free North · New branch supply,AC138,T01,Google Ads,9429,Won,100,2025-08-12,2025-10-09,,1.3,LD01654
+DL0346,Family Stores North · Opening order,AC154,T04,Referral,24476,Won,100,2025-08-13,2025-09-18,,28.8,LD01665
+DL0347,Bean & Bake Café East Legon · Range expansion,AC213,T06,Email,3359,Won,100,2025-08-13,2025-09-24,,2.6,LD01667
+DL0348,Sankofa Gifting Co. East · Reorder,AC169,T05,Referral,10526,Won,100,2025-08-14,2025-10-06,,10.1,LD01669
+DL0349,Ridge Hotel & Suites East Legon · Annual supply,AC206,T04,Referral,33831,Won,100,2025-08-14,2025-10-06,,6.1,LD01674
+DL0350,Prestige Hampers Spintex · Gift range for season,AC228,T05,Website,35278,Lost,0,2025-08-15,2025-09-08,No budget,7.2,LD01682
+DL0351,Ridge Resort · Annual supply,AC255,T03,LinkedIn,31961,Lost,0,2025-08-16,2025-10-28,Went silent,8.9,LD01690
+DL0352,Accra Link (UK) Ltd North · Annual supply,AC276,T06,Referral,10153,Won,100,2025-08-16,2025-10-05,,18.6,LD01692
+DL0353,Volta View Hotel & Suites Osu · Opening order,AC125,T03,Instagram,27684,Lost,0,2025-08-17,2025-09-25,Product fit,3.2,LD01697
+DL0354,Prestige Hampers Osu · Annual supply,AC277,T01,LinkedIn,30108,Lost,0,2025-08-17,2025-09-01,Price,1.7,LD01702
+DL0355,Kwaku Bakery North · New branch supply,AC220,T02,LinkedIn,10191,Won,100,2025-08-19,2025-09-28,,1.7,LD01715
+DL0356,Kotoka Airways · Reorder,AC084,T07,LinkedIn,9179,Won,100,2025-08-20,2025-10-25,,11.4,LD01726
+DL0357,Royal Supermarket · Shelf listing,AC130,T07,Referral,33569,Lost,0,2025-08-20,2025-10-16,Price,1.3,LD01732
+DL0358,Palace Mart South · Valentine stock,AC201,T07,LinkedIn,4407,Lost,0,2025-08-21,2025-10-04,Went silent,4.1,LD01736
+DL0359,Morning Glory Bakery · Annual supply,AC083,T01,LinkedIn,44994,Won,100,2025-08-22,2025-09-22,,1.5,LD01754
+DL0360,Family Mart East · Gift range for season,AC094,T01,Referral,9038,Lost,0,2025-08-23,2025-09-25,Went silent,1.8,LD01756
+DL0361,Royal Mart Spintex · Range expansion,AC040,T04,Instagram,7055,Won,100,2025-08-23,2025-10-10,,6.8,LD01759
+DL0362,Morning Glory Coffee House Spintex · Shelf listing,AC309,T04,Google Ads,34407,Lost,0,2025-08-23,2025-10-29,Timing,20.2,LD01761
+DL0363,Sankofa Hampers · Shelf listing,AC136,T03,Email,24702,Won,100,2025-08-24,2025-10-20,,4.4,LD01771
+DL0364,Sweet Crumb Café Osu · Valentine stock,AC066,T04,Referral,9490,Lost,0,2025-08-25,2025-09-27,No budget,11.9,LD01779
+DL0365,Lagoon Hotel Central · Opening order,AC186,T02,Event,41571,Lost,0,2025-08-25,2025-10-14,Timing,2.1,LD01780
+DL0366,SkyGold Lounges North · Gift range for season,AC215,T05,Instagram,10164,Lost,0,2025-08-26,2025-10-11,Chose a competitor,17.7,LD01784
+DL0367,Adinkra Trading GmbH · Reorder,AC158,T07,Event,10570,Won,100,2025-08-27,2025-09-24,,12.4,LD01794
+DL0368,CityShop Stores · Annual supply,AC052,T07,Event,21835,Lost,0,2025-08-27,2025-09-11,Product fit,7.7,LD01796
+DL0369,Diaspora Pantry GmbH · Annual supply,AC006,T03,Event,38649,Lost,0,2025-08-28,2025-10-23,Went silent,6.0,LD01801
+DL0370,Family Mart West · Annual supply,AC070,T02,Instagram,24351,Lost,0,2025-08-28,2025-09-13,Went silent,3.1,LD01802
+DL0371,Value Mart · Annual supply,AC262,T07,Event,68289,Lost,0,2025-08-28,2025-09-28,Product fit,1.1,LD01805
+DL0372,Akwaaba Bakery South · Gift range for season,AC071,T06,Website,22378,Lost,0,2025-08-29,2025-11-01,Product fit,2.7,LD01818
+DL0373,Labadi Bay Hotel & Suites North · Gift range for season,AC156,T02,LinkedIn,16660,Lost,0,2025-08-31,2025-11-12,Went silent,8.2,LD01828
+DL0374,Family Supermarket Dzorwulu · Shelf listing,AC119,T02,LinkedIn,40235,Won,100,2025-09-01,2025-09-15,,4.8,LD01836
+DL0375,Oven Fresh Café · Opening order,AC073,T04,Email,12903,Lost,0,2025-09-01,2025-10-27,No budget,6.0,LD01838
+DL0376,Motherland Pantry (Canada) · Valentine stock,AC018,T07,Referral,6926,Lost,0,2025-09-02,2025-10-08,Went silent,9.0,LD01842
+DL0377,Gye Nyame Gifting Co. West · Opening order,AC265,T01,Instagram,30212,Lost,0,2025-09-02,2025-10-05,Price,2.4,LD01844
+DL0378,Akwaaba Bakery · Range expansion,AC043,T07,Referral,8905,Won,100,2025-09-02,2025-10-30,,11.9,LD01847
+DL0379,Bean & Bake Café Central · Christmas gift order,AC245,T07,Email,10818,Lost,0,2025-09-03,2025-11-16,Price,5.1,LD01850
+DL0380,Accra Link (Canada) · Range expansion,AC044,T02,Referral,6493,Won,100,2025-09-03,2025-11-07,,17.2,LD01852
+DL0381,Golden Sands Resort West · Christmas gift order,AC238,T01,Instagram,7610,Lost,0,2025-09-04,2025-11-15,Timing,2.6,LD01858
+DL0382,Sweet Crumb Café · Valentine stock,AC235,T01,Event,4342,Won,100,2025-09-04,2025-09-19,,2.9,LD01860
+DL0383,Volta Air Lounges · Range expansion,AC233,T05,Instagram,8260,Lost,0,2025-09-04,2025-10-09,Product fit,9.3,LD01865
+DL0384,Sahel & Coast BV (Netherlands) · Valentine stock,AC019,T05,Email,9518,Won,100,2025-09-05,2025-11-08,,9.0,LD01871
+DL0385,Freshmart Supermarket Osu · Opening order,AC157,T03,Event,51862,Won,100,2025-09-05,2025-10-04,,3.1,LD01873
+DL0386,Family Stores North · Reorder,AC154,T04,Referral,2847,Lost,0,2025-09-07,2025-10-18,Chose a competitor,18.9,LD01881
+DL0387,Palm Court Hotel & Suites West · Annual supply,AC268,T01,Event,25179,Won,100,2025-09-07,2025-09-25,,2.5,LD01888
+DL0388,Adinkra Gifts Central · Annual supply,AC202,T06,LinkedIn,35479,Lost,0,2025-09-07,2025-11-04,Product fit,11.1,LD01889
+DL0389,Family Stores East · Annual supply,AC289,T01,Event,78091,Won,100,2025-09-09,2025-10-20,,1.6,LD01905
+DL0390,Golden Sands Hotel West · Gift range for season,AC252,T06,LinkedIn,21556,Won,100,2025-09-11,2025-11-22,,1.5,LD01917
+DL0391,CityShop Stores West · Annual supply,AC126,T07,Email,34517,Won,100,2025-09-11,2025-11-05,,2.7,LD01920
+DL0392,Palm Court Hotel & Suites West · Reorder,AC268,T01,Event,8574,Lost,0,2025-09-11,2025-10-18,Timing,6.1,LD01922
+DL0393,Labadi Bay Hotel & Suites Community 25 · New branch supply,AC092,T02,Event,6763,Lost,0,2025-09-12,2025-11-01,Product fit,5.0,LD01927
+DL0394,Bean & Bake Café Central · New branch supply,AC245,T07,Email,3702,Won,100,2025-09-12,2025-10-13,,2.2,LD01930
+DL0395,Adinkra Trading (Canada) South · Reorder,AC191,T06,Event,7420,Won,100,2025-09-13,2025-11-12,,34.9,LD01939
+DL0396,Sankofa Hampers Adum · Range expansion,AC232,T02,Referral,10947,Won,100,2025-09-14,2025-10-03,,31.1,LD01952
+DL0397,Labadi Bay Resort · Annual supply,AC195,T05,Event,43239,Lost,0,2025-09-14,2025-10-07,Went silent,13.9,LD01953
+DL0398,Motherland Pantry GmbH South · Gift range for season,AC167,T03,Referral,26655,Won,100,2025-09-14,2025-11-01,,3.1,LD01954
+DL0399,Morning Glory Bakery West · Shelf listing,AC166,T04,Google Ads,18190,Lost,0,2025-09-15,2025-10-16,Chose a competitor,4.1,LD01964
+DL0400,Freshmart Stores · Opening order,AC001,T04,Referral,21783,Won,100,2025-09-15,2025-11-21,,42.1,LD01965
+DL0401,Freshmart Mart West · New branch supply,AC221,T03,LinkedIn,3943,Lost,0,2025-09-15,2025-11-10,No budget,3.6,LD01966
+DL0402,Adinkra Gifts · Shelf listing,AC016,T06,Event,44056,Won,100,2025-09-16,2025-10-15,,3.0,LD01974
+DL0403,Unity Supermarket North · Christmas gift order,AC088,T07,Event,10431,Won,100,2025-09-16,2025-11-24,,6.7,LD01975
+DL0404,Motherland Pantry GmbH South · Reorder,AC167,T03,Referral,2995,Won,100,2025-09-17,2025-10-22,,19.3,LD01977
+DL0405,Value Mart Labone · Annual supply,AC152,T05,Email,16018,Lost,0,2025-09-19,2025-12-01,Price,7.8,LD01998
+DL0406,Sankofa Gifts East Legon · Opening order,AC058,T01,Referral,10821,Lost,0,2025-09-19,2025-11-25,No budget,4.6,LD01999
+DL0407,Labadi Bay Hotel & Suites · Gift range for season,AC020,T03,Referral,27470,Won,100,2025-09-20,2025-10-14,,0.7,LD02018
+DL0408,Golden Sands Hotel West · New branch supply,AC252,T06,LinkedIn,2974,Won,100,2025-09-21,2025-11-13,,13.3,LD02026
+DL0409,SkyGold Duty Free · Opening order,AC012,T06,Referral,10757,Won,100,2025-09-22,2025-11-03,,18.8,LD02031
+DL0410,Unity Mart North · Annual supply,AC082,T06,Website,28886,Lost,0,2025-09-23,2025-10-25,Product fit,8.1,LD02041
+DL0411,Kwaku Café · Gift range for season,AC111,T01,Event,69570,Won,100,2025-09-24,2025-11-15,,2.2,LD02045
+DL0412,Prestige Gifts · Gift range for season,AC175,T06,Event,55919,Lost,0,2025-09-24,2025-11-01,No budget,2.6,LD02050
+DL0413,Palace Stores · Range expansion,AC009,T04,Google Ads,10554,Lost,0,2025-09-26,2025-10-29,Went silent,32.1,LD02066
+DL0414,Akwaaba Café · Opening order,AC280,T06,Instagram,29850,Won,100,2025-09-27,2025-12-09,,20.3,LD02071
+DL0415,Value Mart Harbour · Gift range for season,AC104,T07,Instagram,11595,Lost,0,2025-09-27,2025-11-16,Chose a competitor,12.6,LD02072
+DL0416,Kwaku Coffee House · Annual supply,AC223,T05,LinkedIn,29069,Lost,0,2025-09-27,2025-11-20,Product fit,5.7,LD02073
+DL0417,Bean & Bake Bakery · Gift range for season,AC015,T04,Event,71363,Won,100,2025-09-27,2025-10-27,,64.0,LD02076
+DL0418,Diaspora Pantry (Canada) · Opening order,AC267,T04,Referral,11838,Won,100,2025-09-27,2025-11-20,,10.5,LD02078
+DL0419,Adinkra Gifts South · Annual supply,AC099,T03,Instagram,34361,Lost,0,2025-09-29,2025-11-07,Product fit,5.1,LD02089
+DL0420,Black Star Imports BV (Netherlands) · Christmas gift order,AC067,T07,LinkedIn,10273,Lost,0,2025-09-29,2025-11-24,Chose a competitor,10.7,LD02095
+DL0421,Family Supermarket North · Reorder,AC209,T01,Email,9273,Won,100,2025-09-29,2025-12-11,,0.8,LD02098
+DL0422,Coastal Wings Airways · Annual supply,AC144,T02,Event,63349,Won,100,2025-09-30,2025-10-22,,2.4,LD02099
+DL0423,Palace Stores Central · Gift range for season,AC106,T07,Google Ads,16794,Lost,0,2025-10-01,2025-10-31,Went silent,1.4,LD02112
+DL0424,Sankofa Gifts Labone · Opening order,AC047,T07,Referral,18668,Lost,0,2025-10-01,2025-11-18,No budget,8.2,LD02116
+DL0425,Sankofa Gifts Plus · Annual supply,AC293,T05,Referral,30329,Won,100,2025-10-02,2025-11-24,,14.7,LD02120
+DL0426,Sankofa Gifting Co. South · Annual supply,AC132,T07,Email,25832,Won,100,2025-10-02,2025-11-05,,14.0,LD02122
+DL0427,Royal Stores Plus · Shelf listing,AC259,T06,Email,14149,Lost,0,2025-10-03,2025-12-04,Chose a competitor,1.1,LD02128
+DL0428,Black Star Imports GmbH · Opening order,AC087,T02,Website,37410,Lost,0,2025-10-05,2025-10-25,Timing,5.1,LD02148
+DL0429,Diaspora Pantry (UK) Ltd North · Opening order,AC042,T01,LinkedIn,19119,Lost,0,2025-10-06,2025-11-29,Timing,2.3,LD02157
+DL0430,CityShop Stores Cantonments · Range expansion,AC278,T02,Referral,6375,Lost,0,2025-10-06,2025-11-20,Price,16.9,LD02161
+DL0431,Adinkra Hampers Central · Annual supply,AC296,T07,Referral,15043,Won,100,2025-10-07,2025-12-02,,10.2,LD02167
+DL0432,Bean & Bake Café Spintex · Annual supply,AC275,T02,Event,53747,Won,100,2025-10-07,2025-11-14,,0.7,LD02169
+DL0433,SkyGold Duty Free North · New branch supply,AC172,T06,Referral,8485,Won,100,2025-10-08,2025-11-18,,1.9,LD02179
+DL0434,Motherland Pantry (Canada) East · Gift range for season,AC081,T03,Referral,32205,Lost,0,2025-10-08,2025-11-17,Went silent,5.6,LD02183
+DL0435,Adinkra Trading (Canada) South · New branch supply,AC191,T06,Event,7403,Won,100,2025-10-08,2025-10-22,,1.9,LD02187
+DL0436,Volta Air Duty Free North · Valentine stock,AC168,T01,Event,6605,Won,100,2025-10-08,2025-10-25,,1.7,LD02188
+DL0437,Akwaaba Coffee House Community 25 · Opening order,AC034,T06,Referral,32815,Lost,0,2025-10-09,2025-12-18,Product fit,2.2,LD02190
+DL0438,Sankofa Gifting Co. Central · Gift range for season,AC295,T06,Referral,23936,Lost,0,2025-10-09,2025-12-08,Product fit,5.0,LD02201
+DL0439,Coastal Wings Airways Plus · Shelf listing,AC249,T05,Referral,20847,Won,100,2025-10-10,2025-11-02,,13.8,LD02204
+DL0440,SkyGold Lounges · Opening order,AC013,T01,Instagram,24180,Lost,0,2025-10-10,2025-12-17,Went silent,2.7,LD02205
+DL0441,Heritage Gifting Co. South · Valentine stock,AC251,T07,LinkedIn,10849,Lost,0,2025-10-11,2025-12-05,No budget,19.4,LD02215
+DL0442,Golden Sands Resort West · Reorder,AC238,T01,Instagram,2855,Won,100,2025-10-11,2025-12-19,,7.3,LD02222
+DL0443,Golden Sands Resort Dzorwulu · Shelf listing,AC306,T06,LinkedIn,30640,Won,100,2025-10-12,2025-12-13,,4.0,LD02226
+DL0444,Golden Sands Hotel & Suites North · Range expansion,AC258,T04,Instagram,3549,Won,100,2025-10-12,2025-11-23,,19.7,LD02227
+DL0445,Palace Supermarket · Valentine stock,AC173,T03,Event,8588,Won,100,2025-10-12,2025-10-31,,1.1,LD02229
+DL0446,Volta View Resort Adum · Reorder,AC270,T02,Referral,3064,Lost,0,2025-10-13,2025-11-30,Timing,15.4,LD02236
+DL0447,CityShop Supermarket · Gift range for season,AC095,T03,Instagram,37507,Won,100,2025-10-13,2025-10-30,,4.9,LD02237
+DL0448,Prestige Hampers · Valentine stock,AC103,T03,LinkedIn,6128,Lost,0,2025-10-13,2025-12-10,Timing,3.5,LD02238
+DL0449,Ebony Foods GmbH West · Annual supply,AC241,T01,Referral,25429,Won,100,2025-10-14,2025-11-20,,5.0,LD02241
+DL0450,Oven Fresh Café East · Shelf listing,AC253,T05,Email,20827,Won,100,2025-10-14,2025-11-23,,5.9,LD02243
+DL0451,Coastal Wings Airways · New branch supply,AC144,T02,Event,4127,Won,100,2025-10-15,2025-11-24,,1.9,LD02246
+DL0452,Freshmart Stores South · Shelf listing,AC038,T05,Referral,15688,Won,100,2025-10-15,2025-11-21,,3.2,LD02248
+DL0453,Accra Link (UK) Ltd North · New branch supply,AC276,T06,Referral,5642,Won,100,2025-10-15,2025-12-28,,4.8,LD02256
+DL0454,Coastline Hotel Osu · Reorder,AC041,T07,LinkedIn,8992,Lost,0,2025-10-16,2025-12-11,Went silent,4.0,LD02257
+DL0455,Sweet Crumb Bakery Airport City · Christmas gift order,AC133,T01,Event,7273,Won,100,2025-10-16,2025-11-08,,6.5,LD02260
+DL0456,Motherland Pantry GmbH · Valentine stock,AC102,T02,Referral,10554,Lost,0,2025-10-17,2025-11-24,Chose a competitor,7.8,LD02268
+DL0457,Sankofa Gifts · Range expansion,AC149,T03,Event,10445,Won,100,2025-10-18,2025-12-10,,6.0,LD02280
+DL0458,SkyGold Lounges West · Gift range for season,AC065,T06,Email,33338,Won,100,2025-10-18,2025-12-12,,3.7,LD02281
+DL0459,Afro Foods (Canada) · Shelf listing,AC297,T01,Instagram,35225,Lost,0,2025-10-18,2025-11-09,Timing,3.7,LD02283
+DL0460,Royal Stores · Range expansion,AC010,T01,Referral,10375,Won,100,2025-10-19,2025-11-14,,2.5,LD02286
+DL0461,Adinkra Gifts · Reorder,AC016,T06,Event,3840,Lost,0,2025-10-20,2025-12-18,Product fit,2.7,LD02296
+DL0462,Sankofa Gifts East · Reorder,AC185,T07,Referral,4472,Won,100,2025-10-20,2025-12-05,,9.2,LD02299
+DL0463,Freshmart Supermarket Spintex · Gift range for season,AC123,T07,Google Ads,14293,Won,100,2025-10-21,2026-01-02,,8.2,LD02302
+DL0464,Bold Hampers · New branch supply,AC023,T05,Referral,7183,Won,100,2025-10-21,2025-12-06,,9.2,LD02308
+DL0465,Bean & Bake Coffee House · Shelf listing,AC057,T06,Website,21933,Won,100,2025-10-21,2025-11-09,,10.6,LD02310
+DL0466,Golden Sands Resort · Shelf listing,AC097,T07,Event,66940,Won,100,2025-10-21,2025-12-30,,3.2,LD02311
+DL0467,CityShop Mart · Shelf listing,AC163,T04,Referral,15786,Won,100,2025-10-22,2025-12-28,,15.1,LD02320
+DL0468,Unity Stores West · Opening order,AC182,T01,LinkedIn,22552,Lost,0,2025-10-22,2025-11-26,Price,2.4,LD02322
+DL0469,Family Stores Central · Annual supply,AC146,T03,Referral,24184,Won,100,2025-10-23,2025-12-19,,4.0,LD02324
+DL0470,Family Stores East · Valentine stock,AC289,T01,Event,9798,Won,100,2025-10-23,2025-12-01,,3.2,LD02325
+DL0471,Motherland Pantry GmbH South · Christmas gift order,AC167,T03,Referral,8360,Won,100,2025-10-23,2025-12-04,,8.0,LD02327
+DL0472,Diaspora Pantry (Canada) East · Christmas gift order,AC279,T04,Referral,8709,Won,100,2025-10-23,2025-12-11,,17.4,LD02330
+DL0473,Sweet Crumb Bakery Airport City · Range expansion,AC133,T01,Event,8993,Won,100,2025-10-25,2026-01-05,,1.2,LD02345
+DL0474,Akwaaba Bakery Spintex · Gift range for season,AC049,T03,LinkedIn,39725,Won,100,2025-10-25,2025-11-17,,15.0,LD02346
+DL0475,CityShop Stores West · New branch supply,AC126,T07,Email,5666,Lost,0,2025-10-25,2025-12-26,Went silent,4.7,LD02354
+DL0476,Sahel & Coast BV (Netherlands) · Christmas gift order,AC019,T05,Email,7800,Lost,0,2025-10-26,2025-12-12,Chose a competitor,3.3,LD02355
+DL0477,Coastline Hotel North · Opening order,AC203,T03,Referral,19326,Lost,0,2025-10-26,2026-01-07,Product fit,6.5,LD02356
+DL0478,CityShop Mart · Range expansion,AC163,T04,Referral,6180,Lost,0,2025-10-27,2025-11-13,Went silent,41.4,LD02364
+DL0479,Sankofa Hampers · New branch supply,AC136,T03,Email,10148,Won,100,2025-10-27,2025-12-31,,6.8,LD02373
+DL0480,Golden Sands Hotel & Suites Labone · Shelf listing,AC151,T03,LinkedIn,46866,Lost,0,2025-10-29,2025-12-12,Timing,0.6,LD02382
+DL0481,Oven Fresh Coffee House South · Gift range for season,AC171,T04,Event,39376,Won,100,2025-10-29,2025-11-30,,12.2,LD02385
+DL0482,Accra Link (Canada) · Reorder,AC044,T02,Referral,6528,Lost,0,2025-10-29,2025-12-30,Product fit,12.0,LD02386
+DL0483,Brew Bakery · Range expansion,AC021,T01,LinkedIn,2727,Won,100,2025-10-29,2026-01-08,,0.6,LD02387
+DL0484,Akwaaba Bakery · New branch supply,AC043,T07,Referral,6518,Won,100,2025-10-30,2025-12-30,,5.8,LD02392
+DL0485,Bean & Bake Bakery Labone · Shelf listing,AC121,T04,LinkedIn,27974,Lost,0,2025-10-30,2025-12-05,No budget,11.3,LD02397
+DL0486,Bold Gifts Central · Gift range for season,AC045,T04,Referral,16055,Won,100,2025-10-30,2025-11-19,,14.4,LD02400
+DL0487,Kwaku Bakery North · Range expansion,AC220,T02,LinkedIn,8841,Lost,0,2025-10-31,2025-12-27,Timing,9.0,LD02401
+DL0488,Golden Sands Hotel · Annual supply,AC014,T01,LinkedIn,12864,Lost,0,2025-10-31,2025-12-30,Chose a competitor,2.2,LD02405
+DL0489,Akan Foods (Canada) · Annual supply,AC017,T03,Referral,28660,Won,100,2025-10-31,2025-12-14,,3.1,LD02407
+DL0490,Akan Foods (UK) Ltd Central · Opening order,AC290,T04,Website,33115,Lost,0,2025-10-31,2025-12-25,Price,7.4,LD02408
+DL0491,Royal Supermarket West · Range expansion,AC150,T05,Referral,3136,Won,100,2025-10-31,2026-01-12,,4.8,LD02410
+DL0492,Sahel & Coast (Canada) · Annual supply,AC093,T05,LinkedIn,35784,Won,100,2025-10-31,2025-12-05,,13.1,LD02411
+DL0493,Sankofa Gifting Co. East · Valentine stock,AC169,T05,Referral,6257,Won,100,2025-11-01,2025-12-28,,3.6,LD02414
+DL0494,CityShop Supermarket West · Shelf listing,AC177,T07,Instagram,31207,Lost,0,2025-11-02,2025-12-11,Chose a competitor,4.5,LD02426
+DL0495,CityShop Mart · Valentine stock,AC163,T04,Referral,10344,Lost,0,2025-11-03,2026-01-05,Timing,7.6,LD02430
+DL0496,Family Stores North · Valentine stock,AC154,T04,Referral,4117,Won,100,2025-11-03,2025-11-24,,3.6,LD02431
+DL0497,Freshmart Supermarket Spintex · New branch supply,AC123,T07,Google Ads,3314,Lost,0,2025-11-03,2026-01-06,Product fit,2.6,LD02438
+DL0498,Labadi Bay Resort Cantonments · Range expansion,AC004,T07,Instagram,10576,Lost,0,2025-11-05,2025-11-24,No budget,15.6,LD02453
+DL0499,Morning Glory Café · Range expansion,AC062,T02,Referral,10794,Won,100,2025-11-06,2025-12-10,,7.9,LD02459
+DL0500,Prestige Gifting Co. Cantonments · Valentine stock,AC257,T03,Email,8155,Won,100,2025-11-06,2026-01-10,,2.3,LD02461
+DL0501,Brew Bakery · New branch supply,AC021,T01,LinkedIn,8621,Won,100,2025-11-06,2026-01-14,,1.2,LD02467
+DL0502,Labadi Bay Hotel & Suites Community 25 · New branch supply,AC092,T02,Event,6019,Lost,0,2025-11-06,2026-01-14,Timing,2.6,LD02468
+DL0503,Akwaaba Bakery Spintex · Range expansion,AC049,T03,LinkedIn,3205,Lost,0,2025-11-06,2026-01-10,Price,2.1,LD02469
+DL0504,Golden Sands Hotel West · Reorder,AC252,T06,LinkedIn,6801,Won,100,2025-11-07,2025-12-05,,3.2,LD02470
+DL0505,Sankofa Gifting Co. West · New branch supply,AC222,T03,LinkedIn,10754,Won,100,2025-11-07,2025-12-05,,1.6,LD02472
+DL0506,Adinkra Hampers Central · Reorder,AC296,T07,Referral,6163,Won,100,2025-11-07,2025-12-26,,9.6,LD02480
+DL0507,Kwaku Coffee House Harbour · Christmas gift order,AC244,T07,Email,6535,Lost,0,2025-11-08,2025-12-18,Chose a competitor,12.9,LD02483
+DL0508,SkyGold Duty Free North · Reorder,AC172,T06,Referral,5598,Won,100,2025-11-08,2025-11-26,,1.3,LD02484
+DL0509,CityShop Mart · Valentine stock,AC163,T04,Referral,4545,Lost,0,2025-11-08,2025-12-17,Product fit,23.9,LD02490
+DL0510,Freshmart Supermarket Spintex · Valentine stock,AC123,T07,Google Ads,6367,Lost,0,2025-11-09,2026-01-05,Timing,5.3,LD02493
+DL0511,Sankofa Hampers Adum · Reorder,AC232,T02,Referral,5103,Lost,0,2025-11-10,2025-12-16,Timing,6.6,LD02498
+DL0512,Volta View Resort Adum · Valentine stock,AC270,T02,Referral,8335,Won,100,2025-11-11,2025-12-23,,6.7,LD02506
+DL0513,Accra Link BV (Netherlands) · Range expansion,AC098,T01,Referral,3206,Lost,0,2025-11-11,2025-11-28,Product fit,6.3,LD02510
+DL0514,Bean & Bake Café Central · Range expansion,AC245,T07,Email,4522,Won,100,2025-11-11,2026-01-24,,6.5,LD02511
+DL0515,Oven Fresh Bakery · Valentine stock,AC108,T02,Referral,2821,Won,100,2025-11-12,2026-01-07,,26.2,LD02518
+DL0516,Adinkra Trading (Canada) South · New branch supply,AC191,T06,Event,5358,Lost,0,2025-11-13,2026-01-16,Timing,6.7,LD02528
+DL0517,Palace Mart Spintex · Reorder,AC039,T06,LinkedIn,5683,Lost,0,2025-11-14,2026-01-16,Product fit,2.9,LD02535
+DL0518,SkyGold Duty Free · Valentine stock,AC012,T06,Referral,3372,Lost,0,2025-11-15,2025-12-28,Product fit,4.6,LD02547
+DL0519,Kotoka Airways · Range expansion,AC084,T07,LinkedIn,9012,Lost,0,2025-11-15,2025-11-30,Went silent,3.9,LD02549
+DL0520,Royal Mart Spintex · New branch supply,AC040,T04,Instagram,3026,Won,100,2025-11-15,2026-01-04,,6.2,LD02551
+DL0521,Palace Supermarket · Valentine stock,AC173,T03,Event,6937,Lost,0,2025-11-15,2026-01-08,Price,7.1,LD02553
+DL0522,Royal Mart Spintex · Reorder,AC040,T04,Instagram,5866,Lost,0,2025-11-17,2026-01-23,Went silent,19.7,LD02569
+DL0523,SkyGold Lounges West · Range expansion,AC065,T06,Email,2872,Lost,0,2025-11-17,2026-01-25,Timing,10.7,LD02570
+DL0524,Bean & Bake Café Spintex · New branch supply,AC275,T02,Event,8686,Won,100,2025-11-17,2025-12-27,,1.8,LD02577
+DL0525,Golden Sands Hotel West · Reorder,AC252,T06,LinkedIn,8752,Won,100,2025-11-18,2025-12-02,,2.8,LD02584
+DL0526,Adinkra Gifts · New branch supply,AC016,T06,Event,7773,Lost,0,2025-11-18,2026-01-13,Timing,3.3,LD02586
+DL0527,Kwaku Café South · Range expansion,AC116,T03,Instagram,4841,Lost,0,2025-11-18,2026-01-12,Product fit,2.6,LD02589
+DL0528,CityShop Stores Cantonments · Christmas gift order,AC278,T02,Referral,5892,Lost,0,2025-11-19,2025-12-03,Product fit,2.7,LD02599
+DL0529,Coastline Hotel East · Christmas gift order,AC164,T04,Instagram,10266,Lost,0,2025-11-20,2026-01-23,Went silent,39.6,LD02601
+DL0530,Akan Foods (UK) Ltd · New branch supply,AC284,T01,Event,9262,Lost,0,2025-11-20,2026-02-01,Product fit,0.4,LD02606
+DL0531,SkyGold Lounges West · Reorder,AC065,T06,Email,4952,Won,100,2025-11-20,2026-01-18,,20.6,LD02612
+DL0532,Oven Fresh Bakery · Range expansion,AC108,T02,Referral,9243,Won,100,2025-11-20,2026-01-31,,26.8,LD02615
+DL0533,Freshmart Stores Osu · Range expansion,AC282,T04,Event,10117,Won,100,2025-11-21,2026-01-30,,42.5,LD02624
+DL0534,Black Star Imports BV (Netherlands) · Reorder,AC067,T07,LinkedIn,4252,Won,100,2025-11-21,2026-01-20,,2.1,LD02634
+DL0535,Sankofa Gifts East · Valentine stock,AC185,T07,Referral,4451,Won,100,2025-11-21,2026-01-15,,2.3,LD02636
+DL0536,Adinkra Trading GmbH · Valentine stock,AC158,T07,Event,6226,Won,100,2025-11-22,2025-12-29,,7.2,LD02640
+DL0537,Adinkra Trading (Canada) · Range expansion,AC036,T03,Event,9774,Won,100,2025-11-22,2025-12-22,,3.6,LD02641
+DL0538,Kwaku Coffee House Harbour · Range expansion,AC244,T07,Email,6007,Lost,0,2025-11-22,2026-01-09,Price,46.5,LD02649
+DL0539,Coastline Hotel East · Reorder,AC164,T04,Instagram,2865,Won,100,2025-11-22,2025-12-21,,25.1,LD02653
+DL0540,West Africa Trade GmbH · Christmas gift order,AC227,T05,LinkedIn,10044,Lost,0,2025-11-22,2026-01-03,No budget,3.9,LD02654
+DL0541,Kwaku Café North · Christmas gift order,AC120,T06,Referral,3041,Lost,0,2025-11-22,2026-01-15,Chose a competitor,10.7,LD02656
+DL0542,Labadi Bay Hotel · New branch supply,AC032,T01,Referral,5681,Won,100,2025-11-23,2026-01-28,,2.8,LD02659
+DL0543,Brew Bakery · New branch supply,AC021,T01,LinkedIn,3512,Won,100,2025-11-23,2025-12-11,,3.1,LD02662
+DL0544,Sankofa Gifts East · New branch supply,AC185,T07,Referral,10660,Won,100,2025-11-23,2025-12-18,,2.7,LD02675
+DL0545,Royal Stores East Legon · Christmas gift order,AC271,T05,Email,2924,Lost,0,2025-11-24,2026-01-07,No budget,7.8,LD02682
+DL0546,Sahel & Coast (Canada) · Valentine stock,AC093,T05,LinkedIn,8827,Won,100,2025-11-24,2026-02-06,,2.9,LD02685
+DL0547,Ridge Hotel Central · Range expansion,AC080,T01,Event,5402,Lost,0,2025-11-24,2025-12-15,Product fit,1.3,LD02687
+DL0548,Golden Sands Resort Osu · New branch supply,AC194,T01,LinkedIn,6937,Won,100,2025-11-24,2026-01-23,,3.3,LD02688
+DL0549,Royal Mart Spintex · New branch supply,AC040,T04,Instagram,10998,Lost,0,2025-11-24,2026-01-29,Chose a competitor,9.3,LD02689
+DL0550,Golden Sands Resort West · Christmas gift order,AC238,T01,Instagram,3113,Lost,0,2025-11-24,2026-01-27,Chose a competitor,0.8,LD02690
+DL0551,Freshmart Stores · Valentine stock,AC001,T04,Referral,8691,Won,100,2025-11-24,2025-12-30,,26.9,LD02694
+DL0552,Sankofa Hampers Adum · Range expansion,AC232,T02,Referral,4450,Lost,0,2025-11-24,2026-01-19,Went silent,117.4,LD02695
+DL0553,Black Star Imports BV (Netherlands) · Reorder,AC067,T07,LinkedIn,6911,Won,100,2025-11-25,2026-01-05,,1.3,LD02698
+DL0554,Volta Air Lounges · Reorder,AC233,T05,Instagram,6560,Lost,0,2025-11-25,2025-12-26,Went silent,7.1,LD02704
+DL0555,Bold Gifts Ahodwo · Reorder,AC184,T07,LinkedIn,5593,Lost,0,2025-11-25,2025-12-12,No budget,5.2,LD02711
+DL0556,Freshmart Stores Osu · Valentine stock,AC282,T04,Event,3291,Won,100,2025-11-26,2026-02-06,,32.1,LD02718
+DL0557,Bold Gifts Central · Valentine stock,AC045,T04,Referral,9573,Lost,0,2025-11-26,2026-01-29,Price,13.6,LD02719
+DL0558,Kwaku Coffee House Harbour · Valentine stock,AC244,T07,Email,3676,Won,100,2025-11-26,2025-12-17,,1.8,LD02723
+DL0559,Golden Sands Hotel South · Valentine stock,AC303,T05,Event,5020,Won,100,2025-11-27,2026-01-14,,6.9,LD02738
+DL0560,Bean & Bake Coffee House · Reorder,AC057,T06,Website,5226,Lost,0,2025-11-27,2026-01-15,Price,1.8,LD02748
+DL0561,Kwaku Coffee House Harbour · Christmas gift order,AC244,T07,Email,10230,Won,100,2025-11-28,2026-02-09,,8.9,LD02749
+DL0562,Labadi Bay Hotel · Valentine stock,AC032,T01,Referral,4453,Won,100,2025-11-28,2026-02-05,,6.6,LD02750
+DL0563,Freshmart Supermarket Osu · Christmas gift order,AC157,T03,Event,10314,Lost,0,2025-11-28,2026-01-16,Went silent,3.3,LD02762
+DL0564,Family Stores East · New branch supply,AC289,T01,Event,6639,Won,100,2025-11-28,2026-02-01,,2.1,LD02764
+DL0565,Family Supermarket Dzorwulu · Valentine stock,AC119,T02,LinkedIn,5648,Won,100,2025-11-28,2026-01-05,,4.4,LD02765
+DL0566,Golden Sands Hotel West · New branch supply,AC252,T06,LinkedIn,6787,Won,100,2025-11-29,2025-12-21,,6.1,LD02767
+DL0567,Goodway Stores · Range expansion,AC211,T03,Event,4098,Won,100,2025-11-29,2026-01-22,,10.3,LD02770
+DL0568,Labadi Bay Hotel & Suites Spintex · Valentine stock,AC198,T02,LinkedIn,10845,Lost,0,2025-11-29,2026-02-09,Chose a competitor,1.8,LD02771
+DL0569,Oven Fresh Café Plus · Christmas gift order,AC143,T01,Referral,5277,Lost,0,2025-11-29,2026-02-03,No budget,1.7,LD02779
+DL0570,Prestige Gifts North · Christmas gift order,AC292,T06,Event,8652,Won,100,2025-12-01,2026-01-24,,7.8,LD02800
+DL0571,Adinkra Trading GmbH · Christmas gift order,AC158,T07,Event,3235,Lost,0,2025-12-01,2026-01-19,Price,5.6,LD02808
+DL0572,CityShop Mart East Legon · Valentine stock,AC239,T01,Event,9901,Won,100,2025-12-01,2025-12-22,,3.6,LD02810
+DL0573,Prestige Gifting Co. Cantonments · New branch supply,AC257,T03,Email,2730,Won,100,2025-12-02,2026-01-28,,4.2,LD02827
+DL0574,Prestige Gifting Co. Cantonments · Range expansion,AC257,T03,Email,7758,Won,100,2025-12-02,2026-01-07,,3.8,LD02829
+DL0575,Bean & Bake Café Central · Reorder,AC245,T07,Email,9745,Lost,0,2025-12-03,2026-02-01,Chose a competitor,3.5,LD02832
+DL0576,Accra Link (UK) Ltd North · New branch supply,AC276,T06,Referral,6696,Lost,0,2025-12-03,2026-01-19,Price,8.0,LD02834
+DL0577,Family Supermarket North · New branch supply,AC209,T01,Email,9313,Won,100,2025-12-03,2026-01-14,,1.7,LD02835
+DL0578,Ebony Foods GmbH West · Valentine stock,AC241,T01,Referral,5006,Lost,0,2025-12-04,2025-12-28,Went silent,38.0,LD02848
+DL0579,Royal Stores South · Christmas gift order,AC214,T01,LinkedIn,7173,Won,100,2025-12-05,2026-01-29,,2.9,LD02858
+DL0580,Adinkra Gifts · Valentine stock,AC016,T06,Event,2543,Lost,0,2025-12-05,2026-02-04,Timing,1.3,LD02867
+DL0581,Royal Supermarket West · Reorder,AC150,T05,Referral,6799,Won,100,2025-12-06,2026-01-22,,11.1,LD02878
+DL0582,Labadi Bay Hotel & Suites Spintex · Valentine stock,AC198,T02,LinkedIn,9498,Lost,0,2025-12-06,2025-12-22,Product fit,1.6,LD02879
+DL0583,Bean & Bake Coffee House West · New branch supply,AC137,T05,LinkedIn,7542,Lost,0,2025-12-07,2026-01-14,Price,3.1,LD02891
+DL0584,Akwaaba Bakery Spintex · Christmas gift order,AC049,T03,LinkedIn,10353,Won,100,2025-12-07,2026-01-29,,2.2,LD02906
+DL0585,Adinkra Trading (Canada) South · Valentine stock,AC191,T06,Event,2526,Won,100,2025-12-07,2026-01-05,,6.7,LD02910
+DL0586,Sankofa Gifting Co. South · Range expansion,AC132,T07,Email,9968,Lost,0,2025-12-07,2026-02-04,Price,4.2,LD02911
+DL0587,Coastline Hotel & Suites · Range expansion,AC264,T04,Referral,6238,Lost,0,2025-12-08,2026-02-09,Product fit,23.8,LD02915
+DL0588,Bean & Bake Coffee House · Reorder,AC057,T06,Website,8746,Lost,0,2025-12-08,2026-01-19,No budget,2.3,LD02917
+DL0589,Motherland Pantry BV (Netherlands) · Range expansion,AC254,T03,Instagram,2793,Lost,0,2025-12-08,2026-01-22,No budget,8.8,LD02920
+DL0590,Oven Fresh Coffee House South · Valentine stock,AC171,T04,Event,3981,Lost,0,2025-12-09,2025-12-26,Product fit,6.2,LD02930
+DL0591,Freshmart Mart Ahodwo · New branch supply,AC240,T07,Email,4672,Won,100,2025-12-09,2026-01-11,,8.7,LD02939
+DL0592,Brew Coffee House East · New branch supply,AC135,T05,Referral,9113,Won,100,2025-12-10,2026-01-24,,10.8,LD02947
+DL0593,Labadi Bay Hotel & Suites · Reorder,AC020,T03,Referral,5920,Won,100,2025-12-10,2026-01-05,,28.6,LD02950
+DL0594,SkyGold Lounges West · Range expansion,AC065,T06,Email,3843,Won,100,2025-12-10,2026-02-01,,3.9,LD02952
+DL0595,Sankofa Gifting Co. Adum · Christmas gift order,AC274,T02,Instagram,10391,Lost,0,2025-12-10,2026-02-02,No budget,0.6,LD02956
+DL0596,CityShop Mart East Legon · New branch supply,AC239,T01,Event,6774,Lost,0,2025-12-11,2026-01-18,Price,4.7,LD02967
+DL0597,Family Stores Central · Christmas gift order,AC146,T03,Referral,6576,Won,100,2025-12-11,2026-02-17,,1.8,LD02970
+DL0598,Family Supermarket North · Christmas gift order,AC209,T01,Email,5025,Won,100,2025-12-11,2026-01-30,,2.3,LD02973
+DL0599,Bold Hampers · Valentine stock,AC023,T05,Referral,5086,Won,100,2025-12-12,2025-12-31,,3.4,LD02981
+DL0600,Adinkra Hampers North · Valentine stock,AC301,T03,Event,3313,Won,100,2025-12-12,2026-01-27,,3.4,LD02989
+DL0601,CityShop Supermarket South · Christmas gift order,AC234,T03,Event,3381,Lost,0,2025-12-12,2026-02-10,Product fit,9.6,LD02990
+DL0602,Golden Sands Hotel South · New branch supply,AC303,T05,Event,8328,Lost,0,2025-12-12,2025-12-31,Chose a competitor,4.0,LD02992
+DL0603,Volta Air Lounges · Valentine stock,AC233,T05,Instagram,6336,Lost,0,2025-12-12,2025-12-31,Chose a competitor,4.0,LD02998
+DL0604,Brew Coffee House East · Range expansion,AC135,T05,Referral,3098,Won,100,2025-12-12,2026-01-27,,52.8,LD02999
+DL0605,Sankofa Gifting Co. West · New branch supply,AC222,T03,LinkedIn,2728,Won,100,2025-12-13,2026-01-02,,3.1,LD03002
+DL0606,Oven Fresh Coffee House South · New branch supply,AC171,T04,Event,5675,Lost,0,2025-12-13,2026-02-07,No budget,10.2,LD03003
+DL0607,Sankofa Hampers · New branch supply,AC136,T03,Email,2963,Lost,0,2025-12-13,2025-12-28,Timing,3.8,LD03009
+DL0608,Royal Stores Central · Christmas gift order,AC074,T06,Email,5198,Won,100,2025-12-13,2026-01-24,,3.6,LD03016
+DL0609,Sweet Crumb Bakery Airport City · Range expansion,AC133,T01,Event,10503,Won,100,2025-12-14,2026-02-02,,0.6,LD03021
+DL0610,Sankofa Gifting Co. South · Valentine stock,AC132,T07,Email,5738,Lost,0,2025-12-15,2026-01-29,Went silent,14.1,LD03038
+DL0611,Adinkra Hampers Central · Range expansion,AC296,T07,Referral,3911,Won,100,2025-12-15,2025-12-30,,7.3,LD03039
+DL0612,Ebony Foods GmbH West · Christmas gift order,AC241,T01,Referral,4425,Won,100,2025-12-15,2026-02-12,,0.6,LD03040
+DL0613,SkyGold Duty Free Plus · Range expansion,AC204,T06,Event,6738,Lost,0,2025-12-15,2026-01-16,No budget,7.9,LD03042
+DL0614,Akwaaba Coffee House Harbour · Christmas gift order,AC100,T01,Website,3392,Won,100,2025-12-15,2026-01-28,,8.5,LD03044
+DL0615,Ebony Foods GmbH · New branch supply,AC193,T04,LinkedIn,4592,Lost,0,2025-12-16,2026-02-23,Went silent,5.2,LD03051
+DL0616,Bean & Bake Bakery · New branch supply,AC015,T04,Event,8272,Won,100,2025-12-16,2026-02-08,,27.6,LD03053
+DL0617,Royal Stores South · Reorder,AC214,T01,LinkedIn,5324,Lost,0,2025-12-16,2026-01-29,Went silent,20.7,LD03054
+DL0618,Goodway Stores · Range expansion,AC211,T03,Event,5337,Won,100,2025-12-16,2026-02-01,,1.7,LD03057
+DL0619,Bold Hampers Central · New branch supply,AC122,T02,Referral,10901,Lost,0,2025-12-16,2026-01-29,Price,12.3,LD03058
+DL0620,Morning Glory Bakery · Reorder,AC083,T01,LinkedIn,8530,Won,100,2025-12-16,2026-01-27,,1.6,LD03059
+DL0621,Sweet Crumb Coffee House Ahodwo · New branch supply,AC247,T05,Email,2917,Won,100,2025-12-16,2026-02-07,,7.6,LD03060
+DL0622,Oven Fresh Café East · New branch supply,AC253,T05,Email,10326,Lost,0,2025-12-16,2026-02-04,Product fit,8.3,LD03067
+DL0623,Sahel & Coast (USA) Inc. · New branch supply,AC307,T06,Google Ads,5411,Lost,0,2025-12-17,2026-02-28,No budget,4.1,LD03071
+DL0624,Akwaaba Café · New branch supply,AC280,T06,Instagram,7252,Lost,0,2025-12-17,2026-02-17,Chose a competitor,4.8,LD03075
+DL0625,Brew Bakery · Valentine stock,AC021,T01,LinkedIn,6410,Lost,0,2025-12-17,2026-02-23,Price,2.5,LD03081
+DL0626,SkyGold Lounges West · Valentine stock,AC065,T06,Email,6416,Won,100,2025-12-17,2026-02-22,,7.9,LD03085
+DL0627,Sankofa Gifting Co. · Reorder,AC069,T03,Website,4023,Lost,0,2025-12-18,2026-02-12,Timing,3.7,LD03088
+DL0628,Sankofa Gifting Co. West · Reorder,AC222,T03,LinkedIn,6232,Won,100,2025-12-18,2026-02-14,,4.0,LD03095
+DL0629,Freshmart Supermarket Osu · Valentine stock,AC157,T03,Event,10942,Won,100,2025-12-18,2026-01-15,,3.1,LD03100
+DL0630,Akwaaba Bakery · New branch supply,AC043,T07,Referral,7968,Lost,0,2025-12-19,2026-02-16,Product fit,22.7,LD03106
+DL0631,Sankofa Gifting Co. Adum · Reorder,AC274,T02,Instagram,3033,Won,100,2025-12-19,2026-01-05,,7.0,LD03111
+DL0632,Sweet Crumb Café Osu · Christmas gift order,AC066,T04,Referral,10294,Won,100,2025-12-20,2026-01-16,,52.9,LD03123
+DL0633,Palace Supermarket Spintex · Reorder,AC030,T07,Referral,8723,Won,100,2025-12-20,2026-01-26,,12.5,LD03125
+DL0634,Sweet Crumb Bakery Airport City · Reorder,AC133,T01,Event,6130,Lost,0,2025-12-20,2026-03-04,Went silent,15.9,LD03127
+DL0635,Family Supermarket Dzorwulu · Christmas gift order,AC119,T02,LinkedIn,2529,Won,100,2025-12-21,2026-02-28,,8.6,LD03137
+DL0636,Coastline Hotel Osu · Valentine stock,AC041,T07,LinkedIn,3321,Lost,0,2025-12-21,2026-02-19,No budget,4.4,LD03138
+DL0637,Prestige Gifting Co. Cantonments · Reorder,AC257,T03,Email,10443,Won,100,2025-12-21,2026-02-18,,8.7,LD03139
+DL0638,Kwaku Café North · Reorder,AC120,T06,Referral,4563,Lost,0,2025-12-21,2026-01-08,No budget,3.1,LD03142
+DL0639,Akan Foods (UK) Ltd · Christmas gift order,AC284,T01,Event,9510,Won,100,2025-12-21,2026-01-17,,3.6,LD03143
+DL0640,Royal Stores South · New branch supply,AC214,T01,LinkedIn,6043,Lost,0,2025-12-21,2026-02-13,Went silent,16.1,LD03146
+DL0641,CityShop Mart · Reorder,AC163,T04,Referral,5304,Lost,0,2025-12-22,2026-01-26,Chose a competitor,13.7,LD03163
+DL0642,Sweet Crumb Bakery Airport City · Christmas gift order,AC133,T01,Event,4086,Lost,0,2025-12-22,2026-01-09,Price,4.8,LD03165
+DL0643,Golden Sands Resort · New branch supply,AC097,T07,Event,8450,Won,100,2025-12-22,2026-02-16,,9.7,LD03166
+DL0644,Akwaaba Bakery Spintex · Valentine stock,AC049,T03,LinkedIn,9457,Lost,0,2025-12-22,2026-02-03,Went silent,2.8,LD03168
+DL0645,CityShop Mart · Valentine stock,AC163,T04,Referral,3383,Won,100,2025-12-23,2026-01-17,,33.8,LD03174
+DL0646,Golden Sands Resort Dzorwulu · Valentine stock,AC306,T06,LinkedIn,6749,Won,100,2025-12-23,2026-02-17,,5.5,LD03185
+DL0647,Kwaku Coffee House Harbour · Range expansion,AC244,T07,Email,2798,Won,100,2025-12-24,2026-02-28,,16.6,LD03188
+DL0648,Sankofa Gifting Co. East · Reorder,AC169,T05,Referral,9476,Lost,0,2025-12-24,2026-02-11,Price,26.2,LD03195
+DL0649,Oven Fresh Café Plus · Valentine stock,AC143,T01,Referral,10104,Won,100,2025-12-24,2026-01-21,,4.3,LD03202
+DL0650,Freshmart Stores South · Christmas gift order,AC038,T05,Referral,8991,Won,100,2025-12-25,2026-02-16,,34.8,LD03213
+DL0651,Adinkra Hampers Central · Christmas gift order,AC296,T07,Referral,4051,Won,100,2025-12-25,2026-03-04,,16.7,LD03216
+DL0652,Golden Sands Hotel South · New branch supply,AC303,T05,Event,4586,Won,100,2025-12-26,2026-02-22,,36.3,LD03232
+DL0653,Heritage Gifting Co. South · Christmas gift order,AC251,T07,LinkedIn,5331,Lost,0,2025-12-26,2026-02-18,Price,8.0,LD03233
+DL0654,Freshmart Stores South · Christmas gift order,AC038,T05,Referral,6784,Lost,0,2025-12-27,2026-01-13,Went silent,23.0,LD03242
+DL0655,Heritage Gifting Co. South · Christmas gift order,AC251,T07,LinkedIn,9102,Lost,0,2025-12-29,2026-01-21,Price,11.2,LD03258
+DL0656,Bold Gifts South · Christmas gift order,AC026,T04,Instagram,4959,Won,100,2025-12-29,2026-03-05,,6.2,LD03265
+DL0657,Royal Stores East Legon · New branch supply,AC271,T05,Email,3100,Lost,0,2025-12-29,2026-02-24,Timing,5.7,LD03266
+DL0658,West Africa Trade (UK) Ltd · New branch supply,AC304,T04,Event,8928,Lost,0,2025-12-29,2026-03-10,No budget,15.3,LD03269
+DL0659,SkyGold Duty Free Plus · Valentine stock,AC204,T06,Event,2823,Won,100,2025-12-30,2026-01-18,,7.0,LD03275
+DL0660,Motherland Pantry GmbH · New branch supply,AC102,T02,Referral,3766,Lost,0,2025-12-30,2026-02-26,Product fit,14.2,LD03276
+DL0661,Royal Stores · Christmas gift order,AC010,T01,Referral,3196,Won,100,2025-12-30,2026-03-09,,3.6,LD03280
+DL0662,Coastline Hotel Osu · Range expansion,AC041,T07,LinkedIn,4450,Lost,0,2025-12-30,2026-02-19,Went silent,23.2,LD03281
+DL0663,Golden Sands Resort West · Reorder,AC238,T01,Instagram,7174,Lost,0,2025-12-31,2026-01-24,Product fit,3.4,LD03287
+DL0664,Volta View Resort Adum · Range expansion,AC270,T02,Referral,3027,Won,100,2026-01-01,2026-03-08,,10.8,LD03292
+DL0665,CityShop Supermarket South · Reorder,AC234,T03,Event,7292,Won,100,2026-01-01,2026-02-02,,25.1,LD03293
+DL0666,CityShop Stores Cantonments · New branch supply,AC278,T02,Referral,6211,Won,100,2026-01-01,2026-02-05,,2.7,LD03294
+DL0667,Kwaku Café North · Valentine stock,AC120,T06,Referral,5265,Won,100,2026-01-01,2026-03-03,,16.2,LD03297
+DL0668,Sankofa Hampers Adum · Reorder,AC232,T02,Referral,10967,Lost,0,2026-01-02,2026-02-27,Went silent,3.0,LD03315
+DL0669,Prestige Gifts North · Reorder,AC292,T06,Event,8905,Lost,0,2026-01-03,2026-02-04,Chose a competitor,10.3,LD03323
+DL0670,Golden Sands Resort Osu · Range expansion,AC194,T01,LinkedIn,2939,Lost,0,2026-01-04,2026-02-28,No budget,0.4,LD03328
+DL0671,Adinkra Gifts · Valentine stock,AC016,T06,Event,10916,Won,100,2026-01-04,2026-02-27,,2.9,LD03329
+DL0672,Golden Sands Hotel & Suites · Range expansion,AC162,T06,Website,9062,Lost,0,2026-01-05,2026-01-23,Chose a competitor,5.8,LD03335
+DL0673,Unity Supermarket West · Valentine stock,AC302,T07,Referral,3302,Lost,0,2026-01-05,2026-03-15,Timing,9.2,LD03337
+DL0674,Sankofa Gifting Co. Adum · Range expansion,AC274,T02,Instagram,8036,Won,100,2026-01-05,2026-03-08,,13.5,LD03338
+DL0675,Kwaku Coffee House Harbour · Reorder,AC244,T07,Email,2673,Won,100,2026-01-05,2026-01-19,,7.9,LD03340
+DL0676,Golden Sands Hotel & Suites · New branch supply,AC162,T06,Website,5410,Won,100,2026-01-05,2026-03-18,,2.5,LD03345
+DL0677,CityShop Supermarket South · New branch supply,AC234,T03,Event,3596,Lost,0,2026-01-06,2026-02-08,Went silent,1.4,LD03347
+DL0678,Adinkra Trading (Canada) South · New branch supply,AC191,T06,Event,3142,Lost,0,2026-01-07,2026-03-09,Price,5.1,LD03357
+DL0679,SkyGold Lounges West · Valentine stock,AC065,T06,Email,5087,Lost,0,2026-01-07,2026-02-18,Chose a competitor,6.4,LD03359
+DL0680,Sweet Crumb Bakery Airport City · New branch supply,AC133,T01,Event,5193,Won,100,2026-01-07,2026-03-16,,3.1,LD03363
+DL0681,CityShop Stores West · Range expansion,AC126,T07,Email,7620,Won,100,2026-01-08,2026-01-29,,2.0,LD03372
+DL0682,Coastline Hotel East · Valentine stock,AC164,T04,Instagram,7283,Lost,0,2026-01-08,2026-01-22,Timing,2.8,LD03377
+DL0683,Kwaku Café South · Range expansion,AC116,T03,Instagram,10316,Won,100,2026-01-09,2026-02-06,,1.6,LD03379
+DL0684,Freshmart Mart · New branch supply,AC140,T04,Event,3178,Lost,0,2026-01-10,2026-03-06,Chose a competitor,8.9,LD03396
+DL0685,Labadi Bay Hotel & Suites Spintex · Reorder,AC198,T02,LinkedIn,5696,Won,100,2026-01-11,2026-02-27,,1.1,LD03410
+DL0686,Royal Supermarket West · Valentine stock,AC150,T05,Referral,5631,Lost,0,2026-01-12,2026-03-22,No budget,1.7,LD03417
+DL0687,Ridge Hotel Central · Reorder,AC080,T01,Event,8649,Won,100,2026-01-12,2026-03-25,,9.4,LD03419
+DL0688,Accra Link BV (Netherlands) · Valentine stock,AC098,T01,Referral,7983,Won,100,2026-01-12,2026-02-23,,6.1,LD03422
+DL0689,Akwaaba Bakery · Reorder,AC043,T07,Referral,4130,Won,100,2026-01-12,2026-02-24,,11.0,LD03425
+DL0690,Golden Sands Resort Osu · New branch supply,AC194,T01,LinkedIn,4848,Won,100,2026-01-13,2026-03-23,,5.1,LD03436
+DL0691,Family Stores East · Valentine stock,AC289,T01,Event,6152,Lost,0,2026-01-13,2026-02-28,Went silent,4.7,LD03437
+DL0692,Sweet Crumb Bakery Airport City · New branch supply,AC133,T01,Event,5071,Won,100,2026-01-14,2026-03-03,,0.6,LD03441
+DL0693,CityShop Supermarket · New branch supply,AC095,T03,Instagram,7195,Lost,0,2026-01-14,2026-02-18,Timing,1.2,LD03445
+DL0694,Freshmart Supermarket Osu · Range expansion,AC157,T03,Event,6920,Won,100,2026-01-14,2026-03-26,,32.4,LD03448
+DL0695,Motherland Pantry (Canada) · Christmas gift order,AC018,T07,Referral,9580,Lost,0,2026-01-15,2026-03-17,Timing,6.6,LD03454
+DL0696,Bold Gifts Ahodwo · Reorder,AC184,T07,LinkedIn,3777,Lost,0,2026-01-15,2026-02-08,Chose a competitor,2.1,LD03460
+DL0697,Family Stores Central · Reorder,AC146,T03,Referral,5697,Lost,0,2026-01-15,2026-02-20,Went silent,3.5,LD03461
+DL0698,Sankofa Gifts · New branch supply,AC149,T03,Event,7726,Lost,0,2026-01-16,2026-03-07,Price,5.8,LD03468
+DL0699,Golden Sands Hotel & Suites · Valentine stock,AC162,T06,Website,4127,Lost,0,2026-01-16,2026-02-18,Went silent,4.7,LD03472
+DL0700,Kwaku Café · Valentine stock,AC111,T01,Event,2944,Won,100,2026-01-17,2026-03-18,,0.8,LD03480
+DL0701,Golden Sands Resort Dzorwulu · Valentine stock,AC306,T06,LinkedIn,2786,Lost,0,2026-01-17,2026-02-26,Price,11.9,LD03481
+DL0702,Coastline Hotel & Suites · Valentine stock,AC264,T04,Referral,6345,Won,100,2026-01-18,2026-02-25,,32.6,LD03486
+DL0703,Freshmart Mart Ahodwo · Range expansion,AC240,T07,Email,8557,Won,100,2026-01-18,2026-02-15,,2.4,LD03489
+DL0704,Palm Court Hotel & Suites West · Christmas gift order,AC268,T01,Event,7811,Lost,0,2026-01-18,2026-03-31,Timing,1.0,LD03490
+DL0705,CityShop Stores Cantonments · Christmas gift order,AC278,T02,Referral,2678,Won,100,2026-01-19,2026-02-03,,3.5,LD03497
+DL0706,Sweet Crumb Coffee House Ahodwo · Valentine stock,AC247,T05,Email,7404,Lost,0,2026-01-19,2026-03-05,Price,6.7,LD03498
+DL0707,Adinkra Trading (Canada) South · Christmas gift order,AC191,T06,Event,3402,Lost,0,2026-01-19,2026-03-29,Chose a competitor,16.4,LD03499
+DL0708,Freshmart Stores Osu · Reorder,AC282,T04,Event,8344,Lost,0,2026-01-19,2026-03-30,Price,13.8,LD03503
+DL0709,Afro Foods GmbH · Reorder,AC091,T07,Referral,3986,Won,100,2026-01-20,2026-03-05,,7.4,LD03510
+DL0710,Lagoon Hotel & Suites Central · Valentine stock,AC229,T02,Referral,7489,Won,100,2026-01-20,2026-03-26,,6.0,LD03514
+DL0711,Coastline Hotel Osu · Range expansion,AC041,T07,LinkedIn,3076,Won,100,2026-01-21,2026-03-19,,9.1,LD03522
+DL0712,Adinkra Trading (Canada) · Range expansion,AC036,T03,Event,7487,Won,100,2026-01-21,2026-02-05,,6.5,LD03525
+DL0713,Coastline Hotel & Suites · Valentine stock,AC264,T04,Referral,5768,Won,100,2026-01-22,2026-03-04,,44.5,LD03528
+DL0714,Labadi Bay Hotel & Suites Community 25 · Reorder,AC092,T02,Event,3000,Won,100,2026-01-22,2026-03-17,,13.7,LD03529
+DL0715,Sankofa Hampers · Reorder,AC136,T03,Email,10742,Lost,0,2026-01-22,2026-03-06,Chose a competitor,2.8,LD03537
+DL0716,Labadi Bay Hotel & Suites Community 25 · New branch supply,AC092,T02,Event,8688,Won,100,2026-01-23,2026-03-18,,1.8,LD03542
+DL0717,Sankofa Gifting Co. East · Valentine stock,AC169,T05,Referral,2738,Won,100,2026-01-24,2026-04-01,,1.0,LD03552
+DL0718,Brew Coffee House East · Range expansion,AC135,T05,Referral,8738,Lost,0,2026-01-24,2026-04-01,Product fit,5.2,LD03553
+DL0719,Motherland Pantry GmbH · Reorder,AC102,T02,Referral,6778,Won,100,2026-01-24,2026-03-17,,1.6,LD03555
+DL0720,Sankofa Gifts Plus · Range expansion,AC293,T05,Referral,6815,Lost,0,2026-01-24,2026-02-16,Price,6.7,LD03557
+DL0721,Palm Court Hotel & Suites East Legon · Valentine stock,AC281,T03,Referral,7758,Won,100,2026-01-25,2026-04-09,,1.2,LD03566
+DL0722,Accra Link BV (Netherlands) · New branch supply,AC098,T01,Referral,3207,Won,100,2026-01-25,2026-02-28,,2.4,LD03569
+DL0723,Sankofa Gifts Plus · Range expansion,AC293,T05,Referral,8360,Lost,0,2026-01-26,2026-03-01,Price,12.5,LD03573
+DL0724,Ridge Hotel Central · Range expansion,AC080,T01,Event,10529,Won,100,2026-01-26,2026-03-23,,0.9,LD03574
+DL0725,Freshmart Supermarket Osu · Reorder,AC157,T03,Event,9677,Won,100,2026-01-27,2026-02-28,,11.4,LD03582
+DL0726,Bean & Bake Café East Legon · Range expansion,AC213,T06,Email,7543,Lost,0,2026-01-27,2026-03-20,Timing,8.2,LD03584
+DL0727,Sankofa Gifting Co. South · New branch supply,AC132,T07,Email,10964,Lost,0,2026-01-28,2026-03-04,Price,3.3,LD03587
+DL0728,Freshmart Stores · Range expansion,AC001,T04,Referral,10966,Lost,0,2026-01-28,2026-02-17,Went silent,40.3,LD03591
+DL0729,Afro Foods GmbH · New branch supply,AC091,T07,Referral,3875,Won,100,2026-01-28,2026-02-24,,10.2,LD03594
+DL0730,Brew Coffee House East · Valentine stock,AC135,T05,Referral,10456,Won,100,2026-01-29,2026-03-27,,3.7,LD03596
+DL0731,Akwaaba Bakery Spintex · Range expansion,AC049,T03,LinkedIn,6536,Won,100,2026-01-29,2026-02-13,,0.8,LD03606
+DL0732,Royal Stores Central · Christmas gift order,AC074,T06,Email,4989,Won,100,2026-01-29,2026-03-26,,8.1,LD03608
+DL0733,Family Supermarket North · Valentine stock,AC209,T01,Email,6496,Lost,0,2026-01-30,2026-03-03,Product fit,4.5,LD03612
+DL0734,Ebony Foods GmbH · Christmas gift order,AC193,T04,LinkedIn,4540,Won,100,2026-01-31,2026-03-17,,16.2,LD03613
+DL0735,Palace Supermarket South · Range expansion,AC285,T07,Event,4383,Won,100,2026-01-31,2026-02-14,,1.0,LD03615
+DL0736,Adinkra Hampers Central · Valentine stock,AC296,T07,Referral,4996,Lost,0,2026-01-31,2026-02-23,Went silent,25.7,LD03616
+DL0737,Akwaaba Café · Valentine stock,AC280,T06,Instagram,10029,Lost,0,2026-01-31,2026-03-13,No budget,3.8,LD03617
+DL0738,Oven Fresh Café East · Valentine stock,AC253,T05,Email,10082,Won,100,2026-01-31,2026-02-22,,7.4,LD03620
+DL0739,Family Mart · Range expansion,AC051,T06,Website,8841,Lost,0,2026-02-01,2026-04-14,Product fit,16.5,LD03633
+DL0740,Coastline Hotel East · Christmas gift order,AC164,T04,Instagram,9245,Lost,0,2026-02-01,2026-03-19,Went silent,8.4,LD03638
+DL0741,Adinkra Hampers Central · Valentine stock,AC296,T07,Referral,7005,Lost,0,2026-02-01,2026-03-13,Product fit,4.2,LD03641
+DL0742,Bold Gifts Ahodwo · New branch supply,AC184,T07,LinkedIn,9057,Lost,0,2026-02-02,2026-03-21,Product fit,2.3,LD03646
+DL0743,Prestige Gifts North · New branch supply,AC292,T06,Event,5571,Lost,0,2026-02-02,2026-04-01,Price,22.0,LD03649
+DL0744,Palace Stores · Valentine stock,AC009,T04,Google Ads,7476,Lost,0,2026-02-02,2026-03-20,Chose a competitor,3.2,LD03658
+DL0745,Freshmart Stores South · New branch supply,AC038,T05,Referral,5602,Won,100,2026-02-02,2026-04-07,,12.2,LD03667
+DL0746,Palace Supermarket South · New branch supply,AC285,T07,Event,3413,Lost,0,2026-02-03,2026-03-12,Product fit,7.6,LD03674
+DL0747,Accra Link (UK) Ltd North · Valentine stock,AC276,T06,Referral,8691,Won,100,2026-02-03,2026-03-03,,6.5,LD03678
+DL0748,Prestige Hampers · Range expansion,AC103,T03,LinkedIn,4012,Won,100,2026-02-03,2026-03-06,,0.8,LD03682
+DL0749,Bean & Bake Café East Legon · Reorder,AC213,T06,Email,8737,Lost,0,2026-02-03,2026-04-01,Chose a competitor,11.4,LD03684
+DL0750,Sankofa Gifting Co. East · Valentine stock,AC169,T05,Referral,4636,Won,100,2026-02-04,2026-03-23,,2.3,LD03685
+DL0751,Sankofa Gifts Plus · Reorder,AC293,T05,Referral,3085,Won,100,2026-02-04,2026-03-03,,4.9,LD03686
+DL0752,Adinkra Hampers Central · Christmas gift order,AC296,T07,Referral,9388,Won,100,2026-02-04,2026-03-05,,5.8,LD03691
+DL0753,Sahel & Coast (Canada) · Range expansion,AC093,T05,LinkedIn,10171,Lost,0,2026-02-04,2026-03-31,Went silent,4.4,LD03696
+DL0754,Unity Stores · Valentine stock,AC076,T02,Email,7955,Lost,0,2026-02-04,2026-02-20,Went silent,4.2,LD03698
+DL0755,Volta Air Lounges · New branch supply,AC233,T05,Instagram,7643,Lost,0,2026-02-04,2026-03-17,Timing,8.2,LD03702
+DL0756,Oven Fresh Coffee House South · Range expansion,AC171,T04,Event,2650,Won,100,2026-02-05,2026-03-16,,5.4,LD03704
+DL0757,Sweet Crumb Coffee House Ahodwo · Valentine stock,AC247,T05,Email,3614,Lost,0,2026-02-05,2026-02-26,Price,1.2,LD03710
+DL0758,Sweet Crumb Coffee House Ahodwo · Christmas gift order,AC247,T05,Email,10903,Won,100,2026-02-06,2026-02-23,,10.1,LD03722
+DL0759,Sankofa Gifting Co. Adum · New branch supply,AC274,T02,Instagram,6293,Won,100,2026-02-06,2026-04-09,,20.8,LD03723
+DL0760,Palace Mart North · Range expansion,AC224,T06,LinkedIn,10042,Lost,0,2026-02-06,2026-02-25,Timing,4.5,LD03725
+DL0761,West Africa Trade GmbH · Christmas gift order,AC227,T05,LinkedIn,7348,Won,100,2026-02-06,2026-03-15,,9.6,LD03732
+DL0762,Diaspora Pantry (Canada) · Reorder,AC267,T04,Referral,7885,Won,100,2026-02-07,2026-03-29,,4.0,LD03750
+DL0763,Golden Sands Hotel West · Reorder,AC252,T06,LinkedIn,3341,Won,100,2026-02-08,2026-04-01,,4.0,LD03764
+DL0764,Palace Mart Spintex · Reorder,AC039,T06,LinkedIn,10879,Won,100,2026-02-08,2026-03-27,,15.2,LD03765
+DL0765,CityShop Mart East Legon · Christmas gift order,AC239,T01,Event,7201,Lost,0,2026-02-08,2026-03-23,No budget,4.7,LD03766
+DL0766,Bold Hampers Central · Reorder,AC122,T02,Referral,2846,Won,100,2026-02-08,2026-03-05,,24.5,LD03769
+DL0767,Freshmart Mart West · Valentine stock,AC221,T03,LinkedIn,2740,Won,100,2026-02-08,2026-02-23,,2.4,LD03774
+DL0768,Oven Fresh Café Plus · Christmas gift order,AC143,T01,Referral,3740,Won,100,2026-02-08,2026-04-15,,1.5,LD03775
+DL0769,Coastal Wings Airways Plus · Christmas gift order,AC249,T05,Referral,7708,Won,100,2026-02-09,2026-04-05,,11.0,LD03778
+DL0770,Royal Stores · Valentine stock,AC010,T01,Referral,8944,Won,100,2026-02-09,2026-04-22,,6.8,LD03780
+DL0771,Adinkra Gifts · New branch supply,AC016,T06,Event,8140,Lost,0,2026-02-09,2026-04-24,Chose a competitor,6.0,LD03782
+DL0772,Sankofa Gifting Co. · Reorder,AC069,T03,Website,7053,Lost,0,2026-02-09,2026-03-07,Went silent,4.7,LD03785
+DL0773,Volta Air Lounges · Christmas gift order,AC233,T05,Instagram,6838,Won,100,2026-02-09,2026-03-24,,3.6,LD03792
+DL0774,Akwaaba Bakery Spintex · New branch supply,AC049,T03,LinkedIn,9680,Lost,0,2026-02-09,2026-03-09,Went silent,18.3,LD03797
+DL0775,Coastline Hotel East · Reorder,AC164,T04,Instagram,10155,Lost,0,2026-02-10,2026-03-24,Product fit,6.0,LD03800
+DL0776,Freshmart Supermarket Osu · Range expansion,AC157,T03,Event,6675,Won,100,2026-02-10,2026-03-28,,6.4,LD03804
+DL0777,Bold Hampers Central · New branch supply,AC122,T02,Referral,2903,Lost,0,2026-02-10,2026-03-15,Went silent,15.7,LD03809
+DL0778,Royal Stores East Legon · Christmas gift order,AC271,T05,Email,10302,Won,100,2026-02-10,2026-04-22,,9.6,LD03810
+DL0779,Unity Supermarket North · Reorder,AC088,T07,Event,3959,Won,100,2026-02-10,2026-04-09,,5.6,LD03812
+DL0780,Unity Supermarket North · Reorder,AC088,T07,Event,4829,Won,100,2026-02-11,2026-03-27,,9.6,LD03821
+DL0781,Royal Supermarket West · Range expansion,AC150,T05,Referral,8363,Lost,0,2026-02-11,2026-04-22,Price,9.3,LD03823
+DL0782,Coastal Wings Airways · Range expansion,AC144,T02,Event,7756,Lost,0,2026-02-11,2026-03-18,Went silent,1.4,LD03824
+DL0783,Sweet Crumb Café · Range expansion,AC235,T01,Event,6635,Lost,0,2026-02-11,2026-03-18,No budget,8.2,LD03828
+DL0784,Sankofa Gifting Co. East · Reorder,AC169,T05,Referral,3541,Won,100,2026-02-11,2026-03-15,,3.4,LD03840
+DL0785,Bean & Bake Café East Legon · Christmas gift order,AC213,T06,Email,5007,Won,100,2026-02-11,2026-03-08,,1.4,LD03841
+DL0786,Freshmart Supermarket Osu · Range expansion,AC157,T03,Event,4090,Lost,0,2026-02-12,2026-03-12,Timing,5.2,LD03853
+DL0787,Morning Glory Café · Christmas gift order,AC062,T02,Referral,6789,Lost,0,2026-02-12,2026-04-01,No budget,3.9,LD03860
+DL0788,Royal Stores · Christmas gift order,AC010,T01,Referral,7034,Lost,0,2026-02-13,2026-03-25,Timing,4.5,LD03865
+DL0789,Motherland Pantry (Canada) · Range expansion,AC018,T07,Referral,2859,Lost,0,2026-02-13,2026-04-16,Went silent,42.1,LD03868
+DL0790,Afro Foods GmbH · Christmas gift order,AC091,T07,Referral,7845,Lost,0,2026-02-13,2026-03-27,No budget,6.7,LD03869
+DL0791,Diaspora Pantry (Canada) East · Reorder,AC279,T04,Referral,7269,Won,100,2026-02-13,2026-04-16,,3.5,LD03880
+DL0792,Palace Supermarket · Valentine stock,AC173,T03,Event,8995,Won,100,2026-02-14,2026-04-25,,2.5,LD03902
+DL0793,Royal Mart Spintex · Range expansion,AC040,T04,Instagram,8737,Won,100,2026-02-15,2026-03-27,,9.6,LD03905
+DL0794,Motherland Pantry GmbH · New branch supply,AC102,T02,Referral,6153,Won,100,2026-02-15,2026-04-08,,14.0,LD03906
+DL0795,Heritage Gifting Co. South · Range expansion,AC251,T07,LinkedIn,10081,Won,100,2026-02-15,2026-04-19,,4.9,LD03909
+DL0796,Family Stores East · Reorder,AC289,T01,Event,10857,Lost,0,2026-02-15,2026-03-13,Chose a competitor,3.7,LD03910
+DL0797,West Africa Trade GmbH · Valentine stock,AC227,T05,LinkedIn,4602,Lost,0,2026-02-15,2026-04-19,Went silent,8.0,LD03911
+DL0798,Royal Mart Spintex · New branch supply,AC040,T04,Instagram,3199,Lost,0,2026-02-15,2026-03-05,Went silent,13.5,LD03912
+DL0799,Coastline Hotel & Suites · Valentine stock,AC264,T04,Referral,4556,Lost,0,2026-02-16,2026-04-24,No budget,5.3,LD03917
+DL0800,Sankofa Gifts East · Reorder,AC185,T07,Referral,9786,Won,100,2026-02-16,2026-04-30,,5.5,LD03926
+DL0801,Sankofa Gifting Co. East · New branch supply,AC169,T05,Referral,9020,Won,100,2026-02-17,2026-04-30,,8.0,LD03927
+DL0802,Freshmart Mart · Valentine stock,AC140,T04,Event,7165,Won,100,2026-02-17,2026-03-19,,23.1,LD03928
+DL0803,SkyGold Duty Free North · Range expansion,AC172,T06,Referral,6520,Lost,0,2026-02-17,2026-04-02,Chose a competitor,15.3,LD03934
+DL0804,Sankofa Gifts · Reorder,AC149,T03,Event,5393,Won,100,2026-02-18,2026-04-21,,2.8,LD03937
+DL0805,Akwaaba Coffee House Harbour · Valentine stock,AC100,T01,Website,3242,Won,100,2026-02-18,2026-03-29,,1.2,LD03940
+DL0806,Bean & Bake Bakery · Christmas gift order,AC015,T04,Event,10754,Won,100,2026-02-18,2026-03-07,,15.6,LD03941
+DL0807,SkyGold Duty Free North · Range expansion,AC172,T06,Referral,6683,Lost,0,2026-02-19,2026-04-20,Product fit,9.9,LD03943
+DL0808,Bold Gifts · Range expansion,AC022,T07,LinkedIn,2962,Lost,0,2026-02-19,2026-04-22,Went silent,1.5,LD03945
+DL0809,Sweet Crumb Café · Reorder,AC235,T01,Event,8689,Won,100,2026-02-19,2026-04-25,,2.7,LD03947
+DL0810,CityShop Supermarket South · Christmas gift order,AC234,T03,Event,4786,Lost,0,2026-02-19,2026-04-04,Price,7.5,LD03954
+DL0811,Palace Mart North · New branch supply,AC224,T06,LinkedIn,2621,Lost,0,2026-02-21,2026-03-16,No budget,11.9,LD03964
+DL0812,SkyGold Lounges West · Range expansion,AC065,T06,Email,8675,Lost,0,2026-02-21,2026-03-29,Chose a competitor,2.0,LD03966
+DL0813,CityShop Stores Cantonments · Valentine stock,AC278,T02,Referral,3570,Won,100,2026-02-22,2026-04-20,,12.0,LD03980
+DL0814,Bean & Bake Café Spintex · New branch supply,AC275,T02,Event,9699,Won,100,2026-02-22,2026-04-21,,2.1,LD03981
+DL0815,Sankofa Hampers Adum · New branch supply,AC232,T02,Referral,5956,Won,100,2026-02-22,2026-04-14,,6.5,LD03989
+DL0816,Bean & Bake Café Central · Valentine stock,AC245,T07,Email,9403,Won,100,2026-02-22,2026-03-28,,3.7,LD03990
+DL0817,Labadi Bay Resort Cantonments · Valentine stock,AC004,T07,Instagram,7102,Won,100,2026-02-23,2026-04-16,,2.6,LD03992
+DL0818,Sankofa Gifting Co. Adum · Reorder,AC274,T02,Instagram,4616,Won,100,2026-02-23,2026-04-29,,17.0,LD04000
+DL0819,Morning Glory Bakery · New branch supply,AC083,T01,LinkedIn,5142,Won,100,2026-02-25,2026-04-27,,1.0,LD04015
+DL0820,Afro Foods GmbH · Range expansion,AC091,T07,Referral,5091,Won,100,2026-02-26,2026-05-08,,2.6,LD04026
+DL0821,Morning Glory Café · Range expansion,AC062,T02,Referral,10238,Won,100,2026-02-26,2026-04-10,,10.0,LD04031
+DL0822,Coastline Hotel East · Range expansion,AC164,T04,Instagram,2683,Lost,0,2026-02-27,2026-05-01,No budget,8.3,LD04041
+DL0823,Freshmart Stores · Christmas gift order,AC001,T04,Referral,6378,Won,100,2026-03-01,2026-05-08,,11.7,LD04061
+DL0824,Sahel & Coast (USA) Inc. · Valentine stock,AC307,T06,Google Ads,7691,Won,100,2026-03-01,2026-04-21,,7.5,LD04073
+DL0825,CityShop Stores Cantonments · Valentine stock,AC278,T02,Referral,6205,Won,100,2026-03-01,2026-05-01,,3.3,LD04074
+DL0826,Volta Air Duty Free · New branch supply,AC124,T03,Email,8473,Won,100,2026-03-02,2026-03-29,,5.1,LD04084
+DL0827,Sankofa Hampers Adum · Range expansion,AC232,T02,Referral,6768,Won,100,2026-03-03,2026-04-23,,5.9,LD04089
+DL0828,Ridge Hotel & Suites East Legon · Reorder,AC206,T04,Referral,6772,Lost,0,2026-03-03,2026-04-22,Went silent,55.1,LD04092
+DL0829,Kwaku Café · New branch supply,AC111,T01,Event,8048,Won,100,2026-03-03,2026-04-19,,0.8,LD04093
+DL0830,Golden Sands Resort West · Valentine stock,AC238,T01,Instagram,4651,Lost,0,2026-03-03,2026-03-31,Went silent,1.5,LD04097
+DL0831,Sankofa Gifting Co. East · Reorder,AC169,T05,Referral,10142,Won,100,2026-03-04,2026-04-12,,3.1,LD04102
+DL0832,Royal Stores Central · Valentine stock,AC074,T06,Email,9386,Lost,0,2026-03-05,2026-05-03,No budget,4.9,LD04120
+DL0833,Unity Supermarket North · Christmas gift order,AC088,T07,Event,9199,Won,100,2026-03-05,2026-04-15,,2.8,LD04125
+DL0834,Freshmart Supermarket Spintex · Range expansion,AC123,T07,Google Ads,4789,Won,100,2026-03-06,2026-03-22,,1.3,LD04129
+DL0835,Coastline Hotel East · Reorder,AC164,T04,Instagram,7576,Lost,0,2026-03-06,2026-04-12,Went silent,2.0,LD04131
+DL0836,Bean & Bake Café Spintex · Valentine stock,AC275,T02,Event,10814,Lost,0,2026-03-06,2026-04-15,Went silent,12.2,LD04138
+DL0837,Royal Stores East Legon · Christmas gift order,AC271,T05,Email,10790,Lost,0,2026-03-06,2026-04-10,Price,5.4,LD04139
+DL0838,Golden Sands Hotel West · New branch supply,AC252,T06,LinkedIn,4316,Won,100,2026-03-07,2026-04-02,,1.5,LD04141
+DL0839,Bold Gifts Central · Range expansion,AC045,T04,Referral,4865,Won,100,2026-03-07,2026-03-26,,116.9,LD04144
+DL0840,SkyGold Duty Free Plus · Range expansion,AC204,T06,Event,10155,Won,100,2026-03-07,2026-04-10,,1.5,LD04150
+DL0841,Adinkra Trading (Canada) South · Valentine stock,AC191,T06,Event,9962,Lost,0,2026-03-08,2026-04-08,Product fit,8.6,LD04161
+DL0842,West Africa Trade GmbH · Range expansion,AC227,T05,LinkedIn,6778,Won,100,2026-03-08,2026-05-11,,1.6,LD04163
+DL0843,Prestige Gifting Co. Cantonments · Christmas gift order,AC257,T03,Email,6029,Lost,0,2026-03-09,2026-03-29,Went silent,4.6,LD04170
+DL0844,Labadi Bay Hotel & Suites · Range expansion,AC020,T03,Referral,8179,Lost,0,2026-03-09,2026-04-28,Product fit,1.2,LD04175
+DL0845,Sankofa Gifts East · Christmas gift order,AC185,T07,Referral,3855,Lost,0,2026-03-10,2026-04-20,No budget,43.3,LD04183
+DL0846,Royal Stores East Legon · New branch supply,AC271,T05,Email,4282,Won,100,2026-03-10,2026-04-16,,4.4,LD04184
+DL0847,Motherland Pantry BV (Netherlands) · Christmas gift order,AC254,T03,Instagram,8799,Lost,0,2026-03-10,2026-05-09,Chose a competitor,7.6,LD04185
+DL0848,Family Stores East · Reorder,AC289,T01,Event,7550,Won,100,2026-03-10,2026-05-12,,7.2,LD04186
+DL0849,Volta Air Lounges · Valentine stock,AC233,T05,Instagram,8682,Lost,0,2026-03-10,2026-04-22,Chose a competitor,10.1,LD04194
+DL0850,Palace Mart Spintex · Valentine stock,AC039,T06,LinkedIn,6062,Lost,0,2026-03-12,2026-05-14,No budget,8.2,LD04213
+DL0851,Palace Supermarket Spintex · Reorder,AC030,T07,Referral,2649,Lost,0,2026-03-12,2026-05-06,Price,6.2,LD04217
+DL0852,Golden Sands Resort West · Valentine stock,AC238,T01,Instagram,7055,Lost,0,2026-03-13,2026-05-21,No budget,12.8,LD04233
+DL0853,Golden Sands Resort · Reorder,AC097,T07,Event,5218,Won,100,2026-03-14,2026-04-29,,9.5,LD04244
+DL0854,Golden Sands Resort Dzorwulu · New branch supply,AC306,T06,LinkedIn,8349,Lost,0,2026-03-15,2026-04-20,Went silent,2.6,LD04248
+DL0855,Adinkra Trading GmbH · New branch supply,AC158,T07,Event,9437,Won,100,2026-03-16,2026-04-21,,1.9,LD04263
+DL0856,Coastal Wings Duty Free North · Christmas gift order,AC138,T01,Google Ads,5237,Won,100,2026-03-16,2026-04-13,,3.7,LD04265
+DL0857,Golden Sands Resort Dzorwulu · Valentine stock,AC306,T06,LinkedIn,3523,Lost,0,2026-03-16,2026-05-14,Price,15.5,LD04267
+DL0858,Sankofa Gifts · New branch supply,AC149,T03,Event,4307,Lost,0,2026-03-17,2026-05-10,Timing,1.8,LD04273
+DL0859,Golden Sands Resort West · Christmas gift order,AC238,T01,Instagram,7819,Lost,0,2026-03-17,2026-05-25,Price,14.7,LD04278
+DL0860,SkyGold Duty Free · Christmas gift order,AC012,T06,Referral,10991,Won,100,2026-03-18,2026-04-27,,2.7,LD04284
+DL0861,Volta View Resort Adum · Reorder,AC270,T02,Referral,10035,Won,100,2026-03-18,2026-04-20,,0.4,LD04286
+DL0862,Motherland Pantry GmbH South · New branch supply,AC167,T03,Referral,9429,Lost,0,2026-03-18,2026-04-14,Timing,10.1,LD04288
+DL0863,Sweet Crumb Café · Christmas gift order,AC235,T01,Event,9955,Lost,0,2026-03-18,2026-04-09,Chose a competitor,9.4,LD04289
+DL0864,Bean & Bake Coffee House West · Valentine stock,AC137,T05,LinkedIn,3953,Lost,0,2026-03-18,2026-05-27,Product fit,1.1,LD04296
+DL0865,Freshmart Mart West · New branch supply,AC221,T03,LinkedIn,3694,Won,100,2026-03-18,2026-04-04,,0.8,LD04297
+DL0866,Akwaaba Café · Range expansion,AC280,T06,Instagram,5517,Won,100,2026-03-20,2026-04-29,,3.1,LD04311
+DL0867,Accra Link (UK) Ltd North · New branch supply,AC276,T06,Referral,9716,Won,100,2026-03-21,2026-05-17,,12.7,LD04322
+DL0868,Bean & Bake Café Central · Range expansion,AC245,T07,Email,2998,Won,100,2026-03-22,2026-05-31,,2.5,LD04345
+DL0869,Golden Sands Hotel South · Christmas gift order,AC303,T05,Event,3734,Won,100,2026-03-23,2026-04-10,,19.2,LD04346
+DL0870,Akan Foods (Canada) · New branch supply,AC017,T03,Referral,7402,Lost,0,2026-03-23,2026-05-29,Went silent,45.7,LD04354
+DL0871,Sankofa Gifting Co. East · New branch supply,AC169,T05,Referral,3261,Lost,0,2026-03-24,2026-04-23,Product fit,14.7,LD04360
+DL0872,Afro Foods GmbH · New branch supply,AC091,T07,Referral,4063,Won,100,2026-03-24,2026-04-07,,13.6,LD04365
+DL0873,Golden Sands Hotel West · Range expansion,AC252,T06,LinkedIn,8761,Lost,0,2026-03-25,2026-05-19,Went silent,4.0,LD04374
+DL0874,Bold Gifts Ahodwo · Range expansion,AC184,T07,LinkedIn,3842,Lost,0,2026-03-26,2026-05-20,Timing,2.4,LD04382
+DL0875,Motherland Pantry (Canada) · Reorder,AC018,T07,Referral,3392,Lost,0,2026-03-26,2026-04-16,Went silent,31.6,LD04383
+DL0876,Palace Mart North · Range expansion,AC224,T06,LinkedIn,5414,Won,100,2026-03-26,2026-05-24,,8.4,LD04386
+DL0877,Freshmart Mart Ahodwo · Christmas gift order,AC240,T07,Email,9745,Won,100,2026-03-26,2026-04-13,,1.5,LD04387
+DL0878,Coastal Wings Duty Free North · Valentine stock,AC138,T01,Google Ads,4854,Lost,0,2026-03-27,2026-05-28,Price,4.3,LD04400
+DL0879,Sankofa Gifts East · Valentine stock,AC185,T07,Referral,9125,Lost,0,2026-03-27,2026-06-02,Timing,12.2,LD04402
+DL0880,Bold Gifts Ahodwo · Range expansion,AC184,T07,LinkedIn,3940,Won,100,2026-03-27,2026-04-22,,3.3,LD04403
+DL0881,Golden Sands Hotel West · Valentine stock,AC252,T06,LinkedIn,7427,Won,100,2026-03-28,2026-06-01,,1.4,LD04409
+DL0882,Sankofa Hampers · Reorder,AC136,T03,Email,5662,Won,100,2026-03-28,2026-06-07,,1.4,LD04412
+DL0883,Adinkra Trading (Canada) · Christmas gift order,AC036,T03,Event,3498,Won,100,2026-03-28,2026-05-15,,2.0,LD04413
+DL0884,Sankofa Gifting Co. East · Range expansion,AC169,T05,Referral,2506,Won,100,2026-03-28,2026-05-22,,9.4,LD04414
+DL0885,Volta View Resort Adum · Reorder,AC270,T02,Referral,10676,Lost,0,2026-03-28,2026-05-31,Timing,1.2,LD04416
+DL0886,Volta Air Duty Free · Christmas gift order,AC124,T03,Email,6011,Won,100,2026-03-28,2026-04-12,,2.8,LD04421
+DL0887,Coastline Hotel Osu · Valentine stock,AC041,T07,LinkedIn,6107,Lost,0,2026-03-29,2026-05-12,Went silent,5.3,LD04428
+DL0888,Adinkra Trading GmbH · New branch supply,AC158,T07,Event,7077,Won,100,2026-03-29,2026-04-23,,16.3,LD04434
+DL0889,Akwaaba Bakery Spintex · Range expansion,AC049,T03,LinkedIn,8073,Lost,0,2026-03-30,2026-05-11,Went silent,4.9,LD04441
+DL0890,Kwaku Café North · Christmas gift order,AC120,T06,Referral,9440,Won,100,2026-03-30,2026-04-28,,4.4,LD04444
+DL0891,Coastline Hotel Osu · Reorder,AC041,T07,LinkedIn,3261,Won,100,2026-03-31,2026-05-28,,104.9,LD04460
+DL0892,Prestige Gifting Co. Cantonments · New branch supply,AC257,T03,Email,2843,Lost,0,2026-04-01,2026-06-03,Chose a competitor,2.6,LD04467
+DL0893,Coastline Hotel East · Valentine stock,AC164,T04,Instagram,9413,Lost,0,2026-04-02,2026-06-05,Chose a competitor,35.1,LD04482
+DL0894,Royal Stores · Christmas gift order,AC010,T01,Referral,4585,Won,100,2026-04-02,2026-05-25,,2.6,LD04484
+DL0895,Freshmart Stores · Reorder,AC001,T04,Referral,6359,Won,100,2026-04-03,2026-06-02,,18.6,LD04491
+DL0896,Morning Glory Café · Christmas gift order,AC062,T02,Referral,9153,Won,100,2026-04-04,2026-05-29,,11.9,LD04502
+DL0897,Oven Fresh Café Plus · Christmas gift order,AC143,T01,Referral,7410,Won,100,2026-04-04,2026-04-18,,2.0,LD04507
+DL0898,Akan Foods (Canada) · Christmas gift order,AC017,T03,Referral,7319,Won,100,2026-04-04,2026-06-02,,1.1,LD04517
+DL0899,Labadi Bay Hotel · Valentine stock,AC032,T01,Referral,6115,Won,100,2026-04-05,2026-04-22,,4.7,LD04526
+DL0900,Family Mart · New branch supply,AC051,T06,Website,4349,Lost,0,2026-04-06,2026-04-22,Price,6.0,LD04536
+DL0901,SkyGold Duty Free Plus · New branch supply,AC204,T06,Event,2608,Lost,0,2026-04-06,2026-04-26,Chose a competitor,2.4,LD04539
+DL0902,Coastal Wings Airways · Reorder,AC144,T02,Event,9754,Lost,0,2026-04-06,2026-06-17,Timing,4.3,LD04543
+DL0903,Ebony Foods GmbH · Christmas gift order,AC193,T04,LinkedIn,10303,Lost,0,2026-04-06,2026-05-12,Chose a competitor,6.1,LD04546
+DL0904,Labadi Bay Hotel & Suites Community 25 · Range expansion,AC092,T02,Event,5771,Lost,0,2026-04-07,2026-05-18,Went silent,4.5,LD04553
+DL0905,Kwaku Café North · Range expansion,AC120,T06,Referral,3479,Lost,0,2026-04-07,2026-05-26,Went silent,2.1,LD04555
+DL0906,Family Stores North · Christmas gift order,AC154,T04,Referral,7542,Won,100,2026-04-07,2026-05-31,,22.8,LD04556
+DL0907,Akan Foods (UK) Ltd · New branch supply,AC284,T01,Event,9527,Lost,0,2026-04-08,2026-04-24,Price,0.6,LD04563
+DL0908,Bold Gifts South · Valentine stock,AC026,T04,Instagram,10396,Lost,0,2026-04-08,2026-06-19,Chose a competitor,2.3,LD04564
+DL0909,Sankofa Gifts · Reorder,AC149,T03,Event,7664,Won,100,2026-04-08,2026-05-17,,2.2,LD04569
+DL0910,Sankofa Hampers Adum · Range expansion,AC232,T02,Referral,4019,Lost,0,2026-04-08,2026-04-26,Chose a competitor,4.6,LD04575
+DL0911,Golden Sands Hotel & Suites North · Christmas gift order,AC258,T04,Instagram,8890,Lost,0,2026-04-09,2026-05-06,Product fit,8.0,LD04577
+DL0912,Palace Mart South · Reorder,AC201,T07,LinkedIn,5097,Lost,0,2026-04-09,2026-05-27,Timing,5.7,LD04579
+DL0913,Family Mart · Reorder,AC051,T06,Website,8538,Lost,0,2026-04-09,2026-05-13,Product fit,2.3,LD04580
+DL0914,Heritage Gifts Central · Valentine stock,AC231,T04,Website,4014,Lost,0,2026-04-09,2026-05-14,Went silent,22.1,LD04582
+DL0915,Labadi Bay Hotel & Suites Community 25 · New branch supply,AC092,T02,Event,7964,Won,100,2026-04-09,2026-05-25,,3.1,LD04584
+DL0916,Golden Sands Hotel West · Reorder,AC252,T06,LinkedIn,10689,Won,100,2026-04-09,2026-06-21,,12.6,LD04588
+DL0917,Family Supermarket Dzorwulu · Christmas gift order,AC119,T02,LinkedIn,9219,Won,100,2026-04-10,2026-04-29,,13.4,LD04593
+DL0918,CityShop Supermarket · Range expansion,AC095,T03,Instagram,9153,Lost,0,2026-04-11,2026-06-14,Product fit,5.5,LD04607
+DL0919,SkyGold Lounges West · New branch supply,AC065,T06,Email,5568,Won,100,2026-04-11,2026-05-11,,12.4,LD04608
+DL0920,West Africa Trade GmbH · Reorder,AC227,T05,LinkedIn,8170,Lost,0,2026-04-11,2026-06-14,Product fit,11.0,LD04609
+DL0921,Royal Mart Spintex · New branch supply,AC040,T04,Instagram,5946,Lost,0,2026-04-11,2026-05-24,No budget,3.6,LD04618
+DL0922,Ridge Hotel & Suites East Legon · Valentine stock,AC206,T04,Referral,7175,Lost,0,2026-04-12,2026-06-15,Chose a competitor,4.5,LD04620
+DL0923,Motherland Pantry (Canada) · Christmas gift order,AC018,T07,Referral,5460,Won,100,2026-04-12,2026-06-02,,5.0,LD04621
+DL0924,Labadi Bay Resort Cantonments · New branch supply,AC004,T07,Instagram,6809,Lost,0,2026-04-12,2026-06-16,Went silent,11.1,LD04628
+DL0925,Palace Supermarket · New branch supply,AC173,T03,Event,6198,Won,100,2026-04-13,2026-05-05,,3.0,LD04633
+DL0926,Family Mart · Range expansion,AC051,T06,Website,8806,Won,100,2026-04-13,2026-06-02,,7.8,LD04644
+DL0927,Volta Air Duty Free North · Christmas gift order,AC168,T01,Event,8360,Won,100,2026-04-14,2026-05-23,,2.9,LD04648
+DL0928,SkyGold Duty Free North · Range expansion,AC172,T06,Referral,10339,Won,100,2026-04-14,2026-05-24,,6.8,LD04651
+DL0929,Sahel & Coast (Canada) · Christmas gift order,AC093,T05,LinkedIn,9092,Won,100,2026-04-14,2026-05-30,,11.0,LD04655
+DL0930,Sahel & Coast (USA) Inc. · Reorder,AC307,T06,Google Ads,7554,Won,100,2026-04-15,2026-06-25,,0.5,LD04663
+DL0931,Lagoon Hotel & Suites Central · Range expansion,AC229,T02,Referral,2691,Lost,0,2026-04-15,2026-05-16,Went silent,10.3,LD04666
+DL0932,Diaspora Pantry (Canada) · Reorder,AC267,T04,Referral,6957,Lost,0,2026-04-15,2026-06-04,Went silent,9.2,LD04667
+DL0933,Accra Link (Canada) · New branch supply,AC044,T02,Referral,6314,Won,100,2026-04-15,2026-05-20,,3.7,LD04671
+DL0934,Motherland Pantry (Canada) · New branch supply,AC018,T07,Referral,9894,Lost,0,2026-04-15,2026-06-23,No budget,2.4,LD04676
+DL0935,Sankofa Hampers Adum · Range expansion,AC232,T02,Referral,5828,Won,100,2026-04-16,2026-06-06,,38.8,LD04684
+DL0936,Oven Fresh Café East · Christmas gift order,AC253,T05,Email,10140,Lost,0,2026-04-17,2026-05-18,Chose a competitor,14.6,LD04698
+DL0937,Freshmart Stores Osu · Valentine stock,AC282,T04,Event,7006,Lost,0,2026-04-17,2026-05-21,Price,4.2,LD04705
+DL0938,Accra Link (Canada) · New branch supply,AC044,T02,Referral,10069,Won,100,2026-04-18,2026-05-28,,3.7,LD04706
+DL0939,Sankofa Gifting Co. · Range expansion,AC069,T03,Website,2732,Lost,0,2026-04-18,2026-06-24,Went silent,1.0,LD04713
+DL0940,Morning Glory Café · Valentine stock,AC062,T02,Referral,4553,Won,100,2026-04-18,2026-05-13,,6.2,LD04714
+DL0941,Family Mart · Valentine stock,AC051,T06,Website,2931,Lost,0,2026-04-18,2026-06-13,Chose a competitor,12.3,LD04715
+DL0942,Sankofa Hampers Adum · Reorder,AC232,T02,Referral,5173,Won,100,2026-04-18,2026-06-21,,3.3,LD04716
+DL0943,CityShop Stores West · New branch supply,AC126,T07,Email,5065,Lost,0,2026-04-19,2026-05-20,No budget,5.1,LD04722
+DL0944,Kwaku Café North · New branch supply,AC120,T06,Referral,5730,Lost,0,2026-04-20,2026-07-03,Chose a competitor,4.7,LD04737
+DL0945,Morning Glory Bakery · Valentine stock,AC083,T01,LinkedIn,3760,Lost,0,2026-04-20,2026-05-20,Chose a competitor,0.6,LD04738
+DL0946,Freshmart Mart West · New branch supply,AC221,T03,LinkedIn,4652,Lost,0,2026-04-20,2026-05-19,Chose a competitor,2.4,LD04739
+DL0947,Heritage Gifts Central · Reorder,AC231,T04,Website,2515,Won,100,2026-04-21,2026-06-25,,7.3,LD04747
+DL0948,Morning Glory Bakery · New branch supply,AC083,T01,LinkedIn,7150,Won,100,2026-04-21,2026-05-30,,6.4,LD04751
+DL0949,Adinkra Hampers North · New branch supply,AC301,T03,Event,3796,Won,100,2026-04-21,2026-06-30,,4.2,LD04754
+DL0950,Prestige Hampers · Reorder,AC103,T03,LinkedIn,10017,Lost,0,2026-04-22,2026-06-01,Chose a competitor,4.6,LD04763
+DL0951,Family Supermarket Dzorwulu · New branch supply,AC119,T02,LinkedIn,6264,Lost,0,2026-04-22,2026-06-18,No budget,48.5,LD04764
+DL0952,Bold Gifts South · Reorder,AC026,T04,Instagram,10925,Won,100,2026-04-22,2026-05-21,,14.4,LD04768
+DL0953,Akwaaba Café · Christmas gift order,AC280,T06,Instagram,9977,Lost,0,2026-04-22,2026-06-27,Timing,3.3,LD04771
+DL0954,Morning Glory Café · Christmas gift order,AC062,T02,Referral,4991,Lost,0,2026-04-23,2026-05-22,Product fit,6.6,LD04783
+DL0955,Bold Gifts Ahodwo · Valentine stock,AC184,T07,LinkedIn,4598,Lost,0,2026-04-24,2026-05-12,Chose a competitor,1.6,LD04793
+DL0956,Bold Gifts Ahodwo · Valentine stock,AC184,T07,LinkedIn,4646,Lost,0,2026-04-25,2026-07-02,Price,2.6,LD04800
+DL0957,CityShop Stores Cantonments · Christmas gift order,AC278,T02,Referral,7760,Won,100,2026-04-25,2026-06-29,,5.5,LD04803
+DL0958,CityShop Mart East Legon · Valentine stock,AC239,T01,Event,3267,Won,100,2026-04-25,2026-06-26,,2.7,LD04804
+DL0959,Accra Link (Canada) · Range expansion,AC044,T02,Referral,7518,Won,100,2026-04-26,2026-06-10,,2.6,LD04809
+DL0960,Motherland Pantry BV (Netherlands) · Reorder,AC254,T03,Instagram,5446,Lost,0,2026-04-26,2026-05-25,Product fit,9.7,LD04812
+DL0961,Golden Sands Hotel West · Reorder,AC252,T06,LinkedIn,9612,Lost,0,2026-04-27,2026-06-25,Timing,3.8,LD04832
+DL0962,Bean & Bake Café East Legon · Valentine stock,AC213,T06,Email,10721,Won,100,2026-04-28,2026-05-15,,2.8,LD04834
+DL0963,Adinkra Trading (Canada) South · Range expansion,AC191,T06,Event,7648,Lost,0,2026-04-28,2026-06-05,Went silent,24.9,LD04839
+DL0964,Golden Sands Hotel South · Reorder,AC303,T05,Event,8589,Won,100,2026-04-28,2026-05-23,,11.7,LD04841
+DL0965,Royal Stores · Range expansion,AC010,T01,Referral,6194,Won,100,2026-04-28,2026-05-25,,8.4,LD04848
+DL0966,Labadi Bay Resort Cantonments · New branch supply,AC004,T07,Instagram,4374,Won,100,2026-04-29,2026-06-08,,10.1,LD04849
+DL0967,Motherland Pantry GmbH · Valentine stock,AC102,T02,Referral,9183,Won,100,2026-04-29,2026-05-21,,3.0,LD04855
+DL0968,Bold Hampers · Christmas gift order,AC023,T05,Referral,5420,Lost,0,2026-04-30,2026-05-16,No budget,31.0,LD04862
+DL0969,Kwaku Café North · Valentine stock,AC120,T06,Referral,3648,Won,100,2026-04-30,2026-05-27,,1.8,LD04863
+DL0970,Bold Hampers Central · New branch supply,AC122,T02,Referral,5223,Lost,0,2026-04-30,2026-06-10,Chose a competitor,27.2,LD04864
+DL0971,Family Supermarket Dzorwulu · Christmas gift order,AC119,T02,LinkedIn,4585,Won,100,2026-04-30,2026-05-21,,11.7,LD04866
+DL0972,Bold Gifts · Christmas gift order,AC022,T07,LinkedIn,6803,Lost,0,2026-04-30,2026-07-08,No budget,10.0,LD04872
+DL0973,Bold Gifts Central · Christmas gift order,AC045,T04,Referral,8908,Lost,0,2026-05-01,2026-05-15,Timing,20.0,LD04887
+DL0974,Labadi Bay Hotel & Suites · Reorder,AC020,T03,Referral,7590,Lost,0,2026-05-02,2026-05-18,Price,0.7,LD04890
+DL0975,Freshmart Supermarket Spintex · Range expansion,AC123,T07,Google Ads,5926,Lost,0,2026-05-02,2026-05-16,Chose a competitor,7.9,LD04891
+DL0976,Labadi Bay Hotel & Suites Community 25 · Range expansion,AC092,T02,Event,8090,Won,100,2026-05-02,2026-06-24,,3.9,LD04893
+DL0977,Sweet Crumb Café Osu · Christmas gift order,AC066,T04,Referral,6350,Won,100,2026-05-02,2026-07-14,,3.0,LD04894
+DL0978,Royal Stores · Range expansion,AC010,T01,Referral,6695,Won,100,2026-05-03,2026-06-11,,2.6,LD04903
+DL0979,Kwaku Coffee House Harbour · Range expansion,AC244,T07,Email,7223,Won,100,2026-05-03,2026-06-07,,9.2,LD04914
+DL0980,Bold Hampers · New branch supply,AC023,T05,Referral,4754,Won,100,2026-05-04,2026-05-20,,6.3,LD04921
+DL0981,Labadi Bay Hotel & Suites Spintex · Christmas gift order,AC198,T02,LinkedIn,3504,Won,100,2026-05-04,2026-06-09,,6.0,LD04927
+DL0982,Golden Sands Hotel & Suites · Range expansion,AC162,T06,Website,7351,Won,100,2026-05-04,2026-06-22,,2.6,LD04929
+DL0983,Labadi Bay Hotel & Suites · Valentine stock,AC020,T03,Referral,9007,Lost,0,2026-05-05,2026-07-05,Product fit,11.1,LD04941
+DL0984,SkyGold Duty Free North · Reorder,AC172,T06,Referral,7008,Won,100,2026-05-06,2026-07-07,,11.4,LD04945
+DL0985,Motherland Pantry BV (Netherlands) · Reorder,AC254,T03,Instagram,5469,Lost,0,2026-05-06,2026-07-16,Went silent,11.9,LD04947
+DL0986,Sankofa Gifting Co. Adum · Range expansion,AC274,T02,Instagram,9861,Lost,0,2026-05-06,2026-06-11,Timing,4.4,LD04961
+DL0987,Bold Gifts · Christmas gift order,AC022,T07,LinkedIn,10651,Lost,0,2026-05-07,2026-05-25,Product fit,3.6,LD04964
+DL0988,Labadi Bay Hotel · Christmas gift order,AC032,T01,Referral,5326,Lost,0,2026-05-07,2026-07-03,Price,5.9,LD04976
+DL0989,Diaspora Pantry (Canada) · New branch supply,AC267,T04,Referral,4165,Won,100,2026-05-08,2026-06-30,,3.7,LD04987
+DL0990,Adinkra Hampers North · Valentine stock,AC301,T03,Event,6355,Won,100,2026-05-08,2026-07-06,,8.0,LD04994
+DL0991,Unity Supermarket North · Range expansion,AC088,T07,Event,9386,Won,100,2026-05-09,2026-05-25,,4.5,LD05004
+DL0992,Sweet Crumb Coffee House Ahodwo · Reorder,AC247,T05,Email,4762,Won,100,2026-05-09,2026-06-03,,3.6,LD05010
+DL0993,Golden Sands Resort Osu · Range expansion,AC194,T01,LinkedIn,3827,Won,100,2026-05-09,2026-07-08,,1.2,LD05012
+DL0994,Morning Glory Bakery · Christmas gift order,AC083,T01,LinkedIn,9850,Lost,0,2026-05-10,2026-07-05,Timing,4.5,LD05025
+DL0995,Unity Stores · Christmas gift order,AC076,T02,Email,8250,Lost,0,2026-05-10,2026-06-02,Went silent,6.6,LD05026
+DL0996,Royal Stores East Legon · Range expansion,AC271,T05,Email,3217,Lost,0,2026-05-10,2026-06-14,Chose a competitor,7.8,LD05031
+DL0997,Bean & Bake Café Central · Christmas gift order,AC245,T07,Email,3057,Lost,0,2026-05-11,2026-06-27,Price,3.4,LD05032
+DL0998,Sahel & Coast (USA) Inc. · Christmas gift order,AC307,T06,Google Ads,9270,Lost,0,2026-05-11,2026-07-11,Chose a competitor,2.2,LD05035
+DL0999,Bean & Bake Café East Legon · Christmas gift order,AC213,T06,Email,6245,Lost,0,2026-05-11,2026-05-27,No budget,3.6,LD05038
+DL1000,Accra Link (Canada) · New branch supply,AC044,T02,Referral,3245,Won,100,2026-05-12,2026-06-05,,3.3,LD05051
+DL1001,Golden Sands Hotel South · Christmas gift order,AC303,T05,Event,5012,Won,100,2026-05-12,2026-06-05,,7.9,LD05052
+DL1002,Ebony Foods GmbH · Reorder,AC193,T04,LinkedIn,6490,Lost,0,2026-05-12,2026-06-04,Price,12.9,LD05056
+DL1003,Kwaku Café North · Reorder,AC120,T06,Referral,6892,Won,100,2026-05-13,2026-06-17,,3.3,LD05064
+DL1004,Ebony Foods GmbH · Reorder,AC193,T04,LinkedIn,6688,Lost,0,2026-05-13,2026-06-22,Went silent,41.5,LD05065
+DL1005,Sahel & Coast BV (Netherlands) · Range expansion,AC019,T05,Email,10519,Lost,0,2026-05-14,2026-06-01,Product fit,18.7,LD05077
+DL1006,Motherland Pantry GmbH South · Range expansion,AC167,T03,Referral,10156,Lost,0,2026-05-14,2026-05-30,Product fit,1.9,LD05083
+DL1007,Sankofa Gifting Co. South · Valentine stock,AC132,T07,Email,2999,Lost,0,2026-05-15,2026-06-21,Price,34.5,LD05091
+DL1008,Sankofa Gifting Co. West · Reorder,AC222,T03,LinkedIn,8299,Lost,0,2026-05-15,2026-07-26,Chose a competitor,8.3,LD05094
+DL1009,Freshmart Mart West · Reorder,AC221,T03,LinkedIn,5191,Lost,0,2026-05-15,2026-07-02,Product fit,3.5,LD05100
+DL1010,West Africa Trade (UK) Ltd · Reorder,AC304,T04,Event,8038,Lost,0,2026-05-16,2026-06-04,Product fit,17.4,LD05106
+DL1011,Sankofa Gifts · Range expansion,AC149,T03,Event,6571,Won,100,2026-05-16,2026-07-15,,21.6,LD05108
+DL1012,SkyGold Duty Free North · Christmas gift order,AC172,T06,Referral,10970,Won,100,2026-05-16,2026-07-18,,5.4,LD05109
+DL1013,Sankofa Gifting Co. East · Reorder,AC169,T05,Referral,10170,Won,100,2026-05-17,2026-06-27,,13.2,LD05113
+DL1014,Diaspora Pantry (Canada) East · Christmas gift order,AC279,T04,Referral,6163,Won,100,2026-05-18,2026-07-24,,106.9,LD05131
+DL1015,Afro Foods GmbH · Christmas gift order,AC091,T07,Referral,9666,Lost,0,2026-05-18,2026-06-05,Price,1.6,LD05132
+DL1016,Sankofa Gifting Co. Adum · Range expansion,AC274,T02,Instagram,3001,Lost,0,2026-05-18,2026-06-01,Went silent,3.7,LD05133
+DL1017,Family Stores Central · Reorder,AC146,T03,Referral,8142,Lost,0,2026-05-18,2026-06-02,No budget,1.3,LD05134
+DL1018,Coastal Wings Airways Plus · Reorder,AC249,T05,Referral,8301,Won,100,2026-05-19,2026-06-26,,14.4,LD05137
+DL1019,Sankofa Hampers · Valentine stock,AC136,T03,Email,6775,Won,100,2026-05-19,2026-06-19,,4.4,LD05142
+DL1020,Labadi Bay Resort Cantonments · Range expansion,AC004,T07,Instagram,4150,Lost,0,2026-05-19,2026-07-24,Went silent,5.5,LD05144
+DL1021,Ridge Hotel & Suites East Legon · Range expansion,AC206,T04,Referral,8830,Lost,0,2026-05-20,2026-07-12,Chose a competitor,18.3,LD05150
+DL1022,West Africa Trade (UK) Ltd · Christmas gift order,AC304,T04,Event,2627,Lost,0,2026-05-20,2026-06-20,Went silent,34.6,LD05155
+DL1023,Sankofa Gifting Co. South · New branch supply,AC132,T07,Email,10963,Lost,0,2026-05-20,2026-07-13,Chose a competitor,8.7,LD05157
+DL1024,CityShop Stores Cantonments · Valentine stock,AC278,T02,Referral,7422,Won,100,2026-05-20,2026-06-30,,3.7,LD05159
+DL1025,Kwaku Café North · Range expansion,AC120,T06,Referral,10828,Lost,0,2026-05-21,2026-08-02,Price,6.2,LD05162
+DL1026,Sankofa Hampers Adum · Reorder,AC232,T02,Referral,9766,Won,100,2026-05-21,2026-08-03,,11.3,LD05164
+DL1027,Bold Gifts Central · Valentine stock,AC045,T04,Referral,10139,Won,100,2026-05-22,2026-06-28,,3.8,LD05181
+DL1028,Motherland Pantry BV (Netherlands) · Range expansion,AC254,T03,Instagram,9873,Lost,0,2026-05-23,2026-06-22,Went silent,3.5,LD05189
+DL1029,CityShop Mart East Legon · Range expansion,AC239,T01,Event,9179,Won,100,2026-05-23,2026-06-13,,1.7,LD05191
+DL1030,Freshmart Stores · Christmas gift order,AC001,T04,Referral,8197,Lost,0,2026-05-24,2026-06-17,Timing,6.3,LD05203
+DL1031,Motherland Pantry GmbH · Christmas gift order,AC102,T02,Referral,4106,Won,100,2026-05-24,2026-07-23,,12.9,LD05211
+DL1032,Unity Stores · Christmas gift order,AC076,T02,Email,8344,Won,100,2026-05-24,2026-06-27,,11.9,LD05212
+DL1033,Accra Link (UK) Ltd North · Range expansion,AC276,T06,Referral,4196,Won,100,2026-05-25,2026-07-08,,4.0,LD05216
+DL1034,Lagoon Hotel & Suites Central · Range expansion,AC229,T02,Referral,10165,Lost,0,2026-05-25,2026-06-16,Timing,20.3,LD05218
+DL1035,Bean & Bake Bakery · New branch supply,AC015,T04,Event,5118,Lost,0,2026-05-26,2026-06-28,No budget,35.4,LD05224
+DL1036,Palace Mart North · Valentine stock,AC224,T06,LinkedIn,9425,Lost,0,2026-05-26,2026-08-08,Went silent,12.7,LD05225
+DL1037,Oven Fresh Café Plus · Range expansion,AC143,T01,Referral,9748,Lost,0,2026-05-26,2026-08-08,Chose a competitor,5.3,LD05227
+DL1038,Adinkra Trading GmbH · Christmas gift order,AC158,T07,Event,10863,Won,100,2026-05-26,2026-06-19,,3.2,LD05228
+DL1039,Black Star Imports BV (Netherlands) · New branch supply,AC067,T07,LinkedIn,7827,Lost,0,2026-05-26,2026-07-21,Product fit,58.8,LD05236
+DL1040,Sankofa Gifting Co. Adum · Christmas gift order,AC274,T02,Instagram,10104,Lost,0,2026-05-27,2026-07-21,Price,2.9,LD05246
+DL1041,Freshmart Stores South · New branch supply,AC038,T05,Referral,2683,Lost,0,2026-05-27,2026-06-13,Timing,9.8,LD05248
+DL1042,Brew Coffee House East · Range expansion,AC135,T05,Referral,8092,Won,100,2026-05-28,2026-08-04,,1.8,LD05254
+DL1043,Sahel & Coast BV (Netherlands) · Valentine stock,AC019,T05,Email,2702,Won,100,2026-05-28,2026-06-27,,3.0,LD05260
+DL1044,Bean & Bake Café Central · Range expansion,AC245,T07,Email,3458,Lost,0,2026-05-29,2026-07-01,Product fit,6.8,LD05273
+DL1045,SkyGold Duty Free North · Range expansion,AC172,T06,Referral,6445,Won,100,2026-05-30,2026-06-19,,13.8,LD05289
+DL1046,Akan Foods (UK) Ltd · Range expansion,AC284,T01,Event,3974,Lost,0,2026-05-30,2026-07-16,Timing,5.2,LD05290
+DL1047,Freshmart Mart Ahodwo · Valentine stock,AC240,T07,Email,8951,Won,100,2026-05-30,2026-06-25,,14.2,LD05292
+DL1048,Palace Supermarket · Valentine stock,AC173,T03,Event,3642,Won,100,2026-05-31,2026-07-22,,7.2,LD05296
+DL1049,Bold Hampers Central · New branch supply,AC122,T02,Referral,9168,Lost,0,2026-05-31,2026-08-11,Timing,9.9,LD05298
+DL1050,Goodway Stores · New branch supply,AC211,T03,Event,9160,Won,100,2026-05-31,2026-08-06,,3.5,LD05300
+DL1051,Palm Court Hotel & Suites East Legon · Valentine stock,AC281,T03,Referral,6472,Won,100,2026-06-01,2026-07-05,,4.9,LD05311
+DL1052,Volta Air Lounges · Reorder,AC233,T05,Instagram,4488,Lost,0,2026-06-01,2026-06-28,Went silent,25.7,LD05313
+DL1053,West Africa Trade (UK) Ltd · Range expansion,AC304,T04,Event,3735,Won,100,2026-06-01,2026-06-16,,15.4,LD05316
+DL1054,SkyGold Duty Free North · Christmas gift order,AC172,T06,Referral,4490,Lost,0,2026-06-01,2026-06-19,Price,3.9,LD05321
+DL1055,Motherland Pantry (Canada) · Range expansion,AC018,T07,Referral,5797,Won,100,2026-06-02,2026-07-17,,11.9,LD05330
+DL1056,Kotoka Airways · Range expansion,AC084,T07,LinkedIn,3306,Lost,0,2026-06-02,2026-08-08,No budget,27.8,LD05335
+DL1057,Unity Supermarket West · Valentine stock,AC302,T07,Referral,2557,Lost,0,2026-06-03,2026-08-03,No budget,13.7,LD05338
+DL1058,Freshmart Mart West · Reorder,AC221,T03,LinkedIn,4736,Won,100,2026-06-03,2026-08-03,,0.6,LD05339
+DL1059,West Africa Trade GmbH · Christmas gift order,AC227,T05,LinkedIn,8849,Won,100,2026-06-03,2026-07-02,,20.5,LD05350
+DL1060,Prestige Gifting Co. Cantonments · Reorder,AC257,T03,Email,3320,Won,100,2026-06-03,2026-07-20,,11.8,LD05351
+DL1061,West Africa Trade GmbH · Range expansion,AC227,T05,LinkedIn,3881,Won,100,2026-06-04,2026-08-06,,13.8,LD05355
+DL1062,CityShop Stores West · Reorder,AC126,T07,Email,8343,Won,100,2026-06-04,2026-06-18,,0.8,LD05360
+DL1063,Bean & Bake Café Spintex · Valentine stock,AC275,T02,Event,3546,Lost,0,2026-06-04,2026-07-08,No budget,3.3,LD05365
+DL1064,Adinkra Trading GmbH · Christmas gift order,AC158,T07,Event,10717,Lost,0,2026-06-05,2026-07-03,Price,4.8,LD05371
+DL1065,Prestige Gifts North · Valentine stock,AC292,T06,Event,10363,Won,100,2026-06-05,2026-07-26,,0.6,LD05373
+DL1066,Palace Stores · New branch supply,AC009,T04,Google Ads,3482,Won,100,2026-06-05,2026-08-18,,2.4,LD05379
+DL1067,Bean & Bake Café Central · Christmas gift order,AC245,T07,Email,10996,Lost,0,2026-06-06,2026-07-17,Chose a competitor,5.2,LD05386
+DL1068,Adinkra Trading (Canada) South · Christmas gift order,AC191,T06,Event,9733,Won,100,2026-06-06,2026-07-09,,3.2,LD05387
+DL1069,Palace Mart South · Range expansion,AC201,T07,LinkedIn,4765,Won,100,2026-06-07,2026-07-06,,1.3,LD05393
+DL1070,Labadi Bay Hotel & Suites Spintex · Valentine stock,AC198,T02,LinkedIn,5383,Lost,0,2026-06-07,2026-07-23,Price,6.1,LD05398
+DL1071,Adinkra Hampers North · Christmas gift order,AC301,T03,Event,5955,Won,100,2026-06-07,2026-08-15,,1.8,LD05405
+DL1072,Palace Supermarket South · Christmas gift order,AC285,T07,Event,10928,Lost,0,2026-06-08,2026-08-06,Price,1.7,LD05408
+DL1073,Accra Link (Canada) · New branch supply,AC044,T02,Referral,5507,Lost,0,2026-06-09,2026-07-12,Timing,12.6,LD05418
+DL1074,Unity Supermarket North · Christmas gift order,AC088,T07,Event,8290,Lost,0,2026-06-09,2026-08-07,Went silent,5.1,LD05419
+DL1075,Sweet Crumb Café Osu · Valentine stock,AC066,T04,Referral,6757,Won,100,2026-06-09,2026-06-23,,22.6,LD05425
+DL1076,Golden Sands Hotel South · Range expansion,AC303,T05,Event,10410,Lost,0,2026-06-09,2026-08-14,Went silent,5.0,LD05427
+DL1077,Bold Hampers Central · Range expansion,AC122,T02,Referral,3337,Lost,0,2026-06-09,2026-06-23,Went silent,35.9,LD05428
+DL1078,Bean & Bake Café Spintex · New branch supply,AC275,T02,Event,7742,Lost,0,2026-06-10,2026-08-04,Went silent,3.7,LD05438
+DL1079,Prestige Gifts North · New branch supply,AC292,T06,Event,3010,Won,100,2026-06-11,2026-06-29,,1.6,LD05442
+DL1080,Golden Sands Resort Osu · Valentine stock,AC194,T01,LinkedIn,5855,Won,100,2026-06-11,2026-07-03,,8.7,LD05447
+DL1081,Unity Supermarket West · New branch supply,AC302,T07,Referral,8049,Won,100,2026-06-11,2026-08-03,,18.6,LD05448
+DL1082,SkyGold Duty Free North · Valentine stock,AC172,T06,Referral,6310,Won,100,2026-06-11,2026-08-24,,10.5,LD05449
+DL1083,SkyGold Duty Free Plus · Christmas gift order,AC204,T06,Event,9439,Won,100,2026-06-12,2026-08-16,,10.4,LD05457
+DL1084,Golden Sands Resort Dzorwulu · Christmas gift order,AC306,T06,LinkedIn,9828,Won,100,2026-06-12,2026-06-29,,13.8,LD05460
+DL1085,Coastal Wings Duty Free North · Reorder,AC138,T01,Google Ads,5642,Lost,0,2026-06-13,2026-08-03,Product fit,2.8,LD05467
+DL1086,Volta Air Duty Free · Valentine stock,AC124,T03,Email,8597,Lost,0,2026-06-13,2026-07-24,Price,19.9,LD05477
+DL1087,Unity Supermarket North · Valentine stock,AC088,T07,Event,10938,Won,100,2026-06-14,2026-07-23,,1.8,LD05479
+DL1088,Oven Fresh Coffee House South · Range expansion,AC171,T04,Event,6616,Won,100,2026-06-14,2026-07-15,,29.4,LD05484
+DL1089,CityShop Stores Cantonments · Reorder,AC278,T02,Referral,9016,Lost,0,2026-06-14,2026-08-21,Price,8.2,LD05485
+DL1090,Prestige Gifts North · New branch supply,AC292,T06,Event,8553,Won,100,2026-06-15,2026-07-03,,5.3,LD05495
+DL1091,Family Mart · Reorder,AC051,T06,Website,7284,Lost,0,2026-06-16,2026-07-24,Went silent,6.1,LD05504
+DL1092,Palace Supermarket Spintex · New branch supply,AC030,T07,Referral,10673,Lost,0,2026-06-16,2026-07-08,Price,6.8,LD05505
+DL1093,Golden Sands Hotel & Suites North · Range expansion,AC258,T04,Instagram,4915,Lost,0,2026-06-17,2026-07-11,Went silent,28.7,LD05510
+DL1094,Kwaku Café · New branch supply,AC111,T01,Event,10458,Lost,0,2026-06-18,2026-07-10,Price,0.6,LD05519
+DL1095,Labadi Bay Hotel · Valentine stock,AC032,T01,Referral,9364,Won,100,2026-06-18,2026-07-09,,2.7,LD05526
+DL1096,CityShop Supermarket · New branch supply,AC095,T03,Instagram,4858,Lost,0,2026-06-18,2026-08-26,Went silent,8.7,LD05527
+DL1097,Oven Fresh Café Plus · Valentine stock,AC143,T01,Referral,6887,Lost,0,2026-06-19,2026-07-03,Timing,6.0,LD05538
+DL1098,CityShop Supermarket · Reorder,AC095,T03,Instagram,4795,Lost,0,2026-06-19,2026-08-02,Chose a competitor,3.7,LD05539
+DL1099,Afro Foods GmbH · New branch supply,AC091,T07,Referral,4967,Lost,0,2026-06-19,2026-07-19,Timing,29.9,LD05540
+DL1100,Volta Air Duty Free North · Reorder,AC168,T01,Event,3188,Lost,0,2026-06-20,2026-07-06,Timing,5.1,LD05547
+DL1101,SkyGold Lounges West · Christmas gift order,AC065,T06,Email,4781,Won,100,2026-06-20,2026-07-13,,8.3,LD05549
+DL1102,Kwaku Café South · New branch supply,AC116,T03,Instagram,6788,Lost,0,2026-06-20,2026-07-16,Timing,5.7,LD05552
+DL1103,Bean & Bake Café Central · Valentine stock,AC245,T07,Email,3944,Lost,0,2026-06-20,2026-07-23,No budget,6.9,LD05555
+DL1104,SkyGold Duty Free Plus · Valentine stock,AC204,T06,Event,10243,Won,100,2026-06-22,2026-08-12,,3.1,LD05571
+DL1105,Volta View Resort Adum · Christmas gift order,AC270,T02,Referral,8772,Lost,0,2026-06-22,2026-07-20,Chose a competitor,4.5,LD05572
+DL1106,Palace Mart Spintex · Christmas gift order,AC039,T06,LinkedIn,10365,Won,100,2026-06-23,2026-09-01,,0.7,LD05583
+DL1107,Motherland Pantry (Canada) · Reorder,AC018,T07,Referral,9995,Lost,0,2026-06-23,2026-07-17,Price,3.9,LD05588
+DL1108,Freshmart Supermarket Osu · Reorder,AC157,T03,Event,4660,Won,100,2026-06-24,2026-08-09,,3.5,LD05595
+DL1109,Sweet Crumb Café Osu · Christmas gift order,AC066,T04,Referral,9757,Lost,0,2026-06-24,2026-07-26,No budget,15.4,LD05597
+DL1110,Sankofa Hampers Adum · New branch supply,AC232,T02,Referral,6141,Won,100,2026-06-24,2026-09-06,,8.9,LD05600
+DL1111,Sweet Crumb Café Osu · Range expansion,AC066,T04,Referral,8759,Won,100,2026-06-24,2026-07-30,,59.2,LD05602
+DL1112,Akwaaba Bakery · Valentine stock,AC043,T07,Referral,4467,Won,100,2026-06-24,2026-09-02,,6.0,LD05603
+DL1113,Freshmart Mart Ahodwo · New branch supply,AC240,T07,Email,10906,Won,100,2026-06-25,2026-07-11,,3.5,LD05614
+DL1114,Accra Link BV (Netherlands) · Christmas gift order,AC098,T01,Referral,2895,Lost,0,2026-06-26,2026-08-13,No budget,1.8,LD05622
+DL1115,Unity Supermarket West · New branch supply,AC302,T07,Referral,6036,Lost,0,2026-06-26,2026-08-22,Timing,6.5,LD05623
+DL1116,Prestige Gifting Co. Cantonments · Range expansion,AC257,T03,Email,7254,Lost,0,2026-06-26,2026-08-28,Product fit,14.4,LD05624
+DL1117,Afro Foods GmbH · Valentine stock,AC091,T07,Referral,9154,Won,100,2026-06-27,2026-08-10,,3.7,LD05631
+DL1118,CityShop Stores Cantonments · Range expansion,AC278,T02,Referral,10054,Lost,0,2026-06-27,2026-07-13,Went silent,14.3,LD05637
+DL1119,CityShop Mart · Reorder,AC163,T04,Referral,5709,Won,100,2026-06-28,2026-07-31,,3.7,LD05640
+DL1120,Prestige Hampers · Range expansion,AC103,T03,LinkedIn,6360,Won,100,2026-06-28,2026-08-05,,7.2,LD05641
+DL1121,Golden Sands Resort · Christmas gift order,AC097,T07,Event,8649,Lost,0,2026-06-28,2026-08-26,Chose a competitor,10.9,LD05646
+DL1122,Adinkra Gifts · Range expansion,AC016,T06,Event,5505,Won,100,2026-06-28,2026-09-10,,15.6,LD05648
+DL1123,Bold Hampers Central · Valentine stock,AC122,T02,Referral,5176,Won,100,2026-06-29,2026-07-29,,5.7,LD05650
+DL1124,Family Stores Central · Reorder,AC146,T03,Referral,3138,Won,100,2026-06-29,2026-08-31,,1.7,LD05651
+DL1125,Freshmart Stores · Range expansion,AC001,T04,Referral,2665,Lost,0,2026-06-29,2026-08-16,No budget,3.1,LD05652
+DL1126,Accra Link BV (Netherlands) · New branch supply,AC098,T01,Referral,7746,Won,100,2026-06-29,2026-08-13,,1.6,LD05654
+DL1127,Freshmart Stores South · Range expansion,AC038,T05,Referral,2616,Lost,0,2026-06-29,2026-08-16,Went silent,61.9,LD05660
+DL1128,Coastal Wings Duty Free North · Valentine stock,AC138,T01,Google Ads,6501,Won,100,2026-06-30,2026-08-09,,1.4,LD05664
+DL1129,Brew Bakery · Valentine stock,AC021,T01,LinkedIn,4391,Won,100,2026-06-30,2026-08-23,,1.5,LD05668
+DL1130,Akwaaba Coffee House Harbour · Christmas gift order,AC100,T01,Website,3796,Lost,0,2026-06-30,2026-08-09,Timing,0.6,LD05673
+DL1131,Royal Stores South · Range expansion,AC214,T01,LinkedIn,9201,Won,100,2026-07-01,2026-08-09,,1.7,LD05676
+DL1132,Sankofa Gifts · Reorder,AC149,T03,Event,7390,Lost,0,2026-07-01,2026-08-24,Chose a competitor,5.3,LD05678
+DL1133,CityShop Supermarket · New branch supply,AC095,T03,Instagram,5220,Lost,0,2026-07-02,2026-08-29,Chose a competitor,1.3,LD05687
+DL1134,Freshmart Stores Osu · Christmas gift order,AC282,T04,Event,7794,Won,100,2026-07-02,2026-08-21,,5.6,LD05689
+DL1135,Morning Glory Café · Christmas gift order,AC062,T02,Referral,2585,Won,100,2026-07-02,2026-07-26,,2.7,LD05697
+DL1136,Oven Fresh Café Plus · Valentine stock,AC143,T01,Referral,9338,Won,100,2026-07-03,2026-08-09,,2.2,LD05704
+DL1137,Adinkra Gifts · New branch supply,AC016,T06,Event,5446,Won,100,2026-07-04,2026-08-19,,8.9,LD05707
+DL1138,Akan Foods (UK) Ltd · New branch supply,AC284,T01,Event,7010,Won,100,2026-07-04,2026-07-25,,2.9,LD05711
+DL1139,Oven Fresh Bakery · New branch supply,AC108,T02,Referral,7249,Won,100,2026-07-05,2026-09-07,,6.6,LD05715
+DL1140,Labadi Bay Hotel · New branch supply,AC032,T01,Referral,9232,Won,100,2026-07-05,2026-08-11,,0.6,LD05719
+DL1141,Kotoka Airways · Reorder,AC084,T07,LinkedIn,3768,Lost,0,2026-07-06,2026-08-04,Timing,4.5,LD05723
+DL1142,CityShop Stores West · Christmas gift order,AC126,T07,Email,3222,Lost,0,2026-07-06,2026-08-03,Timing,2.4,LD05727
+DL1143,Prestige Hampers · New branch supply,AC103,T03,LinkedIn,6108,Lost,0,2026-07-06,2026-07-31,No budget,1.2,LD05729
+DL1144,Ridge Hotel Central · New branch supply,AC080,T01,Event,4661,Lost,0,2026-07-06,2026-09-09,Went silent,38.3,LD05730
+DL1145,Family Stores East · Range expansion,AC289,T01,Event,5499,Won,100,2026-07-07,2026-08-22,,3.2,LD05735
+DL1146,Adinkra Trading GmbH · New branch supply,AC158,T07,Event,6156,Lost,0,2026-07-07,2026-09-04,Price,6.1,LD05742
+DL1147,Goodway Stores · Reorder,AC211,T03,Event,7872,Lost,0,2026-07-08,2026-09-12,Product fit,11.5,LD05747
+DL1148,Freshmart Mart · New branch supply,AC140,T04,Event,8874,Lost,0,2026-07-09,2026-07-31,Timing,8.0,LD05757
+DL1149,Palace Supermarket South · Valentine stock,AC285,T07,Event,5925,Won,100,2026-07-09,2026-08-09,,4.8,LD05760
+DL1150,Palace Supermarket · Christmas gift order,AC173,T03,Event,8310,Won,100,2026-07-09,2026-08-18,,6.2,LD05761
+DL1151,Coastline Hotel & Suites · Christmas gift order,AC264,T04,Referral,5264,Lost,0,2026-07-10,2026-09-03,No budget,10.9,LD05770
+DL1152,Freshmart Stores South · Reorder,AC038,T05,Referral,3116,Lost,0,2026-07-10,2026-09-01,Chose a competitor,20.8,LD05774
+DL1153,Coastal Wings Airways Plus · Valentine stock,AC249,T05,Referral,6584,Won,100,2026-07-10,2026-08-31,,3.9,LD05775
+DL1154,Royal Stores · Range expansion,AC010,T01,Referral,3853,Won,100,2026-07-10,2026-08-14,,2.4,LD05776
+DL1155,CityShop Stores West · New branch supply,AC126,T07,Email,8071,Won,100,2026-07-10,2026-09-06,,5.7,LD05780
+DL1156,Morning Glory Café · New branch supply,AC062,T02,Referral,7185,Lost,0,2026-07-11,2026-09-07,Went silent,6.1,LD05786
+DL1157,Labadi Bay Hotel & Suites Community 25 · Reorder,AC092,T02,Event,8170,Won,100,2026-07-11,2026-09-19,,20.1,LD05789
+DL1158,Family Mart · Range expansion,AC051,T06,Website,7892,Lost,0,2026-07-12,2026-08-09,Product fit,5.1,LD05795
+DL1159,Sankofa Gifts · Valentine stock,AC149,T03,Event,8600,Won,100,2026-07-12,2026-08-13,,2.1,LD05796
+DL1160,Sankofa Gifts East · Christmas gift order,AC185,T07,Referral,8425,Lost,0,2026-07-12,2026-09-22,Product fit,5.6,LD05799
+DL1161,Bold Hampers · Reorder,AC023,T05,Referral,6549,Lost,0,2026-07-13,2026-08-13,Price,14.4,LD05806
+DL1162,Unity Supermarket North · Valentine stock,AC088,T07,Event,9854,Won,100,2026-07-13,2026-09-05,,7.3,LD05811
+DL1163,Freshmart Mart West · Range expansion,AC221,T03,LinkedIn,10142,Lost,0,2026-07-13,2026-08-04,Price,7.8,LD05812
+DL1164,Sankofa Gifts East · Reorder,AC185,T07,Referral,9622,Won,100,2026-07-15,2026-08-26,,21.7,LD05833
+DL1165,Unity Stores East · Valentine stock,AC117,T03,Referral,8817,Won,100,2026-07-15,2026-09-25,,1.6,LD05834
+DL1166,Coastline Hotel East · Reorder,AC164,T04,Instagram,2548,Lost,0,2026-07-16,2026-07-31,Price,7.8,LD05838
+DL1167,Bean & Bake Coffee House West · Valentine stock,AC137,T05,LinkedIn,2535,Lost,0,2026-07-16,2026-08-02,No budget,9.6,LD05840
+DL1168,Ridge Hotel Central · Reorder,AC080,T01,Event,3219,Won,100,2026-07-16,2026-08-15,,1.6,LD05845
+DL1169,Sankofa Gifting Co. South · New branch supply,AC132,T07,Email,7013,Won,100,2026-07-16,2026-09-05,,57.9,LD05847
+DL1170,Golden Sands Hotel West · Christmas gift order,AC252,T06,LinkedIn,10161,Won,100,2026-07-17,2026-09-21,,11.4,LD05853
+DL1171,Afro Foods GmbH · New branch supply,AC091,T07,Referral,4351,Won,100,2026-07-18,2026-08-22,,6.2,LD05866
+DL1172,Freshmart Mart Ahodwo · New branch supply,AC240,T07,Email,5225,Lost,0,2026-07-18,2026-09-21,Price,2.0,LD05867
+DL1173,Adinkra Hampers North · Christmas gift order,AC301,T03,Event,3316,Lost,0,2026-07-19,2026-08-27,Product fit,3.2,LD05877
+DL1174,Palace Supermarket Spintex · Range expansion,AC030,T07,Referral,8691,Won,100,2026-07-20,2026-09-16,,2.4,LD05890
+DL1175,Labadi Bay Hotel & Suites Spintex · New branch supply,AC198,T02,LinkedIn,9466,Lost,0,2026-07-20,2026-08-23,Product fit,15.5,LD05892
+DL1176,Lagoon Hotel & Suites Central · Reorder,AC229,T02,Referral,5912,Won,100,2026-07-20,2026-08-22,,3.9,LD05894
+DL1177,Coastline Hotel & Suites · Christmas gift order,AC264,T04,Referral,7137,Won,100,2026-07-21,2026-09-23,,21.8,LD05902
+DL1178,Freshmart Mart West · Christmas gift order,AC221,T03,LinkedIn,10931,Lost,0,2026-07-22,2026-08-22,Chose a competitor,4.5,LD05912
+DL1179,Palace Mart South · Range expansion,AC201,T07,LinkedIn,9743,Won,100,2026-07-22,2026-08-24,,23.8,LD05914
+DL1180,Freshmart Stores Osu · Range expansion,AC282,T04,Event,8995,Won,100,2026-07-22,2026-10-03,,21.9,LD05916
+DL1181,Akwaaba Coffee House Harbour · Reorder,AC100,T01,Website,6627,Won,100,2026-07-24,2026-09-05,,8.2,LD05934
+DL1182,Heritage Gifts Central · Range expansion,AC231,T04,Website,6775,Won,100,2026-07-24,2026-08-08,,7.1,LD05936
+DL1183,Unity Stores East · Christmas gift order,AC117,T03,Referral,2644,Lost,0,2026-07-25,2026-09-18,Timing,13.9,LD05939
+DL1184,Oven Fresh Café East · Valentine stock,AC253,T05,Email,4558,Won,100,2026-07-25,2026-09-30,,5.1,LD05946
+DL1185,Palace Mart Spintex · Reorder,AC039,T06,LinkedIn,5587,Lost,0,2026-07-25,2026-09-08,Product fit,17.3,LD05950
+DL1186,Accra Link (Canada) · Christmas gift order,AC044,T02,Referral,10214,Lost,0,2026-07-26,2026-08-16,No budget,4.8,LD05952
+DL1187,Sankofa Gifts East · Range expansion,AC185,T07,Referral,2697,Lost,0,2026-07-26,2026-09-19,Price,6.5,LD05959
+DL1188,Diaspora Pantry (Canada) East · New branch supply,AC279,T04,Referral,3086,Lost,0,2026-07-26,2026-09-17,Went silent,18.1,LD05962
+DL1189,Goodway Stores · Reorder,AC211,T03,Event,7672,Lost,0,2026-07-27,2026-09-10,No budget,4.8,LD05965
+DL1190,Unity Supermarket West · Reorder,AC302,T07,Referral,3413,Won,100,2026-07-27,2026-08-17,,2.4,LD05966
+DL1191,Freshmart Supermarket Osu · Reorder,AC157,T03,Event,7883,Lost,0,2026-07-27,2026-08-22,Went silent,9.0,LD05976
+DL1192,Coastal Wings Duty Free North · Christmas gift order,AC138,T01,Google Ads,8670,Lost,0,2026-07-28,2026-09-12,Price,1.8,LD05981
+DL1193,Unity Stores · Range expansion,AC076,T02,Email,7086,Won,100,2026-07-28,2026-08-18,,2.7,LD05985
+DL1194,Coastal Wings Airways Plus · Reorder,AC249,T05,Referral,3959,Lost,0,2026-07-28,2026-09-04,Went silent,2.7,LD05986
+DL1195,Bean & Bake Café Central · Christmas gift order,AC245,T07,Email,6336,Lost,0,2026-07-29,2026-10-01,Product fit,15.2,LD05995
+DL1196,Motherland Pantry GmbH · Valentine stock,AC102,T02,Referral,6368,Won,100,2026-07-30,2026-09-05,,0.3,LD05999
+DL1197,Palace Supermarket South · Christmas gift order,AC285,T07,Event,2509,Lost,0,2026-07-30,2026-09-10,No budget,6.5,LD06008
+DL1198,Freshmart Mart Ahodwo · Range expansion,AC240,T07,Email,8273,Won,100,2026-07-31,2026-09-22,,4.6,LD06017
+DL1199,Kwaku Coffee House Harbour · Range expansion,AC244,T07,Email,7384,Lost,0,2026-07-31,2026-08-25,No budget,16.9,LD06018
+DL1200,Akan Foods (UK) Ltd · New branch supply,AC284,T01,Event,7577,Lost,0,2026-07-31,2026-09-25,Went silent,1.1,LD06019
+DL1201,Family Mart · Reorder,AC051,T06,Website,4856,Lost,0,2026-07-31,2026-09-26,Chose a competitor,4.8,LD06022
+DL1202,Palace Stores · Reorder,AC009,T04,Google Ads,2771,Lost,0,2026-08-01,2026-09-18,Went silent,34.2,LD06024
+DL1203,Motherland Pantry GmbH · New branch supply,AC102,T02,Referral,7746,Lost,0,2026-08-01,2026-10-04,Product fit,11.4,LD06026
+DL1204,Adinkra Hampers Central · Range expansion,AC296,T07,Referral,3860,Won,100,2026-08-01,2026-09-01,,9.5,LD06032
+DL1205,Freshmart Mart Ahodwo · Christmas gift order,AC240,T07,Email,6667,Won,100,2026-08-01,2026-09-09,,1.4,LD06034
+DL1206,Palace Mart North · New branch supply,AC224,T06,LinkedIn,9525,Won,100,2026-08-01,2026-09-06,,9.1,LD06036
+DL1207,Volta View Resort Adum · Valentine stock,AC270,T02,Referral,8984,Won,100,2026-08-02,2026-09-10,,32.6,LD06043
+DL1208,Brew Bakery · Reorder,AC021,T01,LinkedIn,4598,Won,100,2026-08-02,2026-09-15,,2.8,LD06045
+DL1209,Freshmart Mart · Christmas gift order,AC140,T04,Event,10516,Won,100,2026-08-02,2026-09-24,,17.2,LD06048
+DL1210,Adinkra Trading (Canada) South · New branch supply,AC191,T06,Event,9481,Won,100,2026-08-02,2026-10-10,,9.5,LD06051
+DL1211,Palace Mart South · New branch supply,AC201,T07,LinkedIn,8242,Lost,0,2026-08-03,2026-09-13,Product fit,12.9,LD06056
+DL1212,Coastline Hotel East · Valentine stock,AC164,T04,Instagram,6448,Won,100,2026-08-04,2026-10-03,,24.8,LD06067
+DL1213,Coastline Hotel East · Christmas gift order,AC164,T04,Instagram,7268,Lost,0,2026-08-04,2026-09-04,Product fit,20.1,LD06068
+DL1214,Sankofa Gifts East · New branch supply,AC185,T07,Referral,7163,Lost,0,2026-08-04,2026-09-28,Chose a competitor,10.8,LD06076
+DL1215,Kwaku Café North · Valentine stock,AC120,T06,Referral,5180,Lost,0,2026-08-04,2026-08-30,Chose a competitor,4.1,LD06077
+DL1216,Palace Supermarket South · Range expansion,AC285,T07,Event,6854,Lost,0,2026-08-04,2026-09-08,Price,11.3,LD06078
+DL1217,Ebony Foods GmbH West · New branch supply,AC241,T01,Referral,3271,Won,100,2026-08-05,2026-08-28,,3.2,LD06085
+DL1218,Unity Stores East · New branch supply,AC117,T03,Referral,8753,Lost,0,2026-08-06,2026-09-19,Timing,2.3,LD06098
+DL1219,Labadi Bay Hotel · Christmas gift order,AC032,T01,Referral,3319,Won,100,2026-08-06,2026-09-17,,1.4,LD06100
+DL1220,Sahel & Coast (Canada) · Valentine stock,AC093,T05,LinkedIn,5527,Won,100,2026-08-07,2026-09-28,,15.4,LD06106
+DL1221,Kwaku Coffee House Harbour · New branch supply,AC244,T07,Email,10602,Lost,0,2026-08-07,2026-09-16,No budget,3.0,LD06108
+DL1222,Brew Coffee House East · Christmas gift order,AC135,T05,Referral,6454,Lost,0,2026-08-07,2026-08-31,Product fit,3.3,LD06111
+DL1223,Heritage Gifting Co. South · Range expansion,AC251,T07,LinkedIn,6577,Lost,0,2026-08-07,2026-09-24,Went silent,4.0,LD06113
+DL1224,Kwaku Coffee House Harbour · Range expansion,AC244,T07,Email,10577,Lost,0,2026-08-08,2026-10-04,No budget,2.8,LD06117
+DL1225,Kwaku Bakery North · Valentine stock,AC220,T02,LinkedIn,10136,Won,100,2026-08-08,2026-10-07,,6.0,LD06120
+DL1226,Black Star Imports BV (Netherlands) · New branch supply,AC067,T07,LinkedIn,5856,Won,100,2026-08-08,2026-10-07,,2.9,LD06121
+DL1227,Golden Sands Resort · Valentine stock,AC097,T07,Event,4726,Lost,0,2026-08-08,2026-09-17,Price,8.4,LD06122
+DL1228,Bean & Bake Coffee House West · Reorder,AC137,T05,LinkedIn,3157,Won,100,2026-08-08,2026-10-14,,10.4,LD06126
+DL1229,Ridge Hotel Central · New branch supply,AC080,T01,Event,9667,Lost,0,2026-08-08,2026-08-23,Timing,1.4,LD06129
+DL1230,Sankofa Gifts Plus · Valentine stock,AC293,T05,Referral,10673,Lost,0,2026-08-09,2026-10-06,Chose a competitor,2.8,LD06133
+DL1231,Sankofa Gifts East · New branch supply,AC185,T07,Referral,3841,Lost,0,2026-08-09,2026-09-14,Timing,14.5,LD06135
+DL1232,Akwaaba Coffee House Harbour · Range expansion,AC100,T01,Website,10264,Lost,0,2026-08-09,2026-09-25,Price,8.4,LD06136
+DL1233,Unity Stores · Reorder,AC076,T02,Email,9188,Won,100,2026-08-10,2026-09-10,,7.1,LD06151
+DL1234,Bean & Bake Café Spintex · New branch supply,AC275,T02,Event,6789,Lost,0,2026-08-10,2026-09-08,Price,0.7,LD06152
+DL1235,Palace Supermarket Spintex · Reorder,AC030,T07,Referral,6864,Lost,0,2026-08-10,2026-09-17,Chose a competitor,7.2,LD06153
+DL1236,Adinkra Trading (Canada) South · Range expansion,AC191,T06,Event,2891,Won,100,2026-08-11,2026-09-29,,10.0,LD06157
+DL1237,SkyGold Duty Free · Reorder,AC012,T06,Referral,8698,Won,100,2026-08-11,2026-10-18,,6.6,LD06160
+DL1238,Labadi Bay Hotel & Suites · Christmas gift order,AC020,T03,Referral,4371,Won,100,2026-08-11,2026-10-01,,1.3,LD06167
+DL1239,Golden Sands Hotel & Suites North · Range expansion,AC258,T04,Instagram,10526,Won,100,2026-08-12,2026-08-30,,4.5,LD06178
+DL1240,Adinkra Trading (Canada) · Valentine stock,AC036,T03,Event,9197,Lost,0,2026-08-13,2026-10-22,Price,13.1,LD06182
+DL1241,Volta Air Lounges · Valentine stock,AC233,T05,Instagram,6558,Lost,0,2026-08-13,2026-09-29,Product fit,9.0,LD06189
+DL1242,Golden Sands Resort West · Range expansion,AC238,T01,Instagram,3040,Lost,0,2026-08-13,2026-10-01,Went silent,30.8,LD06191
+DL1243,SkyGold Duty Free North · Reorder,AC172,T06,Referral,9215,Lost,0,2026-08-15,2026-10-11,Timing,22.3,LD06214
+DL1244,Adinkra Trading GmbH · Reorder,AC158,T07,Event,9759,Won,100,2026-08-15,2026-10-24,,10.0,LD06220
+DL1245,Lagoon Hotel & Suites Central · Reorder,AC229,T02,Referral,8972,Lost,0,2026-08-15,2026-09-15,Chose a competitor,2.9,LD06226
+DL1246,SkyGold Lounges West · Reorder,AC065,T06,Email,5593,Lost,0,2026-08-15,2026-10-01,Chose a competitor,3.5,LD06227
+DL1247,Royal Stores Central · New branch supply,AC074,T06,Email,9031,Won,100,2026-08-17,2026-09-06,,5.3,LD06244
+DL1248,Adinkra Trading GmbH · Reorder,AC158,T07,Event,5145,Lost,0,2026-08-17,2026-10-18,Product fit,9.8,LD06250
+DL1249,Coastal Wings Airways · Range expansion,AC144,T02,Event,4014,Lost,0,2026-08-18,2026-09-30,Went silent,1.1,LD06262
+DL1250,Akwaaba Bakery Spintex · Christmas gift order,AC049,T03,LinkedIn,2677,Won,100,2026-08-18,2026-09-15,,6.6,LD06269
+DL1251,Labadi Bay Hotel · Reorder,AC032,T01,Referral,4316,Won,100,2026-08-19,2026-09-04,,1.3,LD06275
+DL1252,Family Supermarket North · Valentine stock,AC209,T01,Email,4512,Lost,0,2026-08-20,2026-09-24,Went silent,10.4,LD06287
+DL1253,Freshmart Stores · Range expansion,AC001,T04,Referral,10599,Won,100,2026-08-20,2026-10-09,,3.6,LD06288
+DL1254,Kwaku Café North · Range expansion,AC120,T06,Referral,2772,Won,100,2026-08-21,2026-10-31,,5.0,LD06305
+DL1255,Morning Glory Bakery · Range expansion,AC083,T01,LinkedIn,8587,Lost,0,2026-08-21,2026-10-03,Product fit,0.7,LD06308
+DL1256,Bold Gifts · Reorder,AC022,T07,LinkedIn,10393,Lost,0,2026-08-22,2026-09-06,No budget,21.4,LD06315
+DL1257,Palm Court Hotel & Suites West · Reorder,AC268,T01,Event,9274,Won,100,2026-08-22,2026-10-20,,7.4,LD06317
+DL1258,Freshmart Supermarket Osu · Reorder,AC157,T03,Event,5916,Lost,0,2026-08-22,2026-10-10,Chose a competitor,15.9,LD06322
+DL1259,Sankofa Gifts East · New branch supply,AC185,T07,Referral,10995,Lost,0,2026-08-22,2026-10-14,No budget,7.9,LD06323
+DL1260,Kwaku Café South · Reorder,AC116,T03,Instagram,2831,Lost,0,2026-08-23,2026-10-07,No budget,4.6,LD06325
+DL1261,Morning Glory Café · Reorder,AC062,T02,Referral,10845,Won,100,2026-08-23,2026-10-18,,3.9,LD06329
+DL1262,Sweet Crumb Café · Christmas gift order,AC235,T01,Event,7114,Won,100,2026-08-23,2026-10-20,,3.4,LD06331
+DL1263,Afro Foods GmbH · Reorder,AC091,T07,Referral,8595,Won,100,2026-08-23,2026-11-05,,5.0,LD06337
+DL1264,Heritage Gifting Co. South · New branch supply,AC251,T07,LinkedIn,3790,Won,100,2026-08-24,2026-09-07,,5.5,LD06344
+DL1265,Golden Sands Resort Osu · Valentine stock,AC194,T01,LinkedIn,4407,Won,100,2026-08-24,2026-09-27,,5.9,LD06350
+DL1266,Sahel & Coast (USA) Inc. · Reorder,AC307,T06,Google Ads,6920,Won,100,2026-08-25,2026-10-01,,2.7,LD06355
+DL1267,Akwaaba Bakery · Christmas gift order,AC043,T07,Referral,10156,Won,100,2026-08-25,2026-09-30,,21.3,LD06356
+DL1268,CityShop Supermarket · Valentine stock,AC095,T03,Instagram,4589,Lost,0,2026-08-25,2026-09-28,No budget,0.6,LD06362
+DL1269,Freshmart Mart · New branch supply,AC140,T04,Event,7710,Won,100,2026-08-25,2026-10-27,,11.3,LD06366
+DL1270,Family Mart · Reorder,AC051,T06,Website,10215,Lost,0,2026-08-26,2026-10-05,Price,15.4,LD06382
+DL1271,Kwaku Café South · New branch supply,AC116,T03,Instagram,8868,Won,100,2026-08-26,2026-10-29,,3.0,LD06385
+DL1272,Kwaku Café · Range expansion,AC111,T01,Event,9928,Lost,0,2026-08-27,2026-10-28,Product fit,17.2,LD06391
+DL1273,Family Stores East · New branch supply,AC289,T01,Event,5779,Lost,0,2026-08-27,2026-10-04,Went silent,1.5,LD06396
+DL1274,Bold Hampers · Reorder,AC023,T05,Referral,3016,Lost,0,2026-08-27,2026-10-19,Chose a competitor,4.6,LD06397
+DL1275,Bold Hampers Central · Reorder,AC122,T02,Referral,8228,Won,100,2026-08-28,2026-09-17,,2.3,LD06414
+DL1276,Labadi Bay Resort Cantonments · Christmas gift order,AC004,T07,Instagram,2751,Won,100,2026-08-28,2026-10-25,,5.8,LD06415
+DL1277,Family Supermarket Dzorwulu · Range expansion,AC119,T02,LinkedIn,3370,Lost,0,2026-08-29,2026-10-29,Product fit,1.5,LD06416
+DL1278,Afro Foods GmbH · Reorder,AC091,T07,Referral,6163,Won,100,2026-08-29,2026-10-07,,17.6,LD06417
+DL1279,Black Star Imports BV (Netherlands) · New branch supply,AC067,T07,LinkedIn,9047,Won,100,2026-08-29,2026-10-22,,6.8,LD06428
+DL1280,Sankofa Gifting Co. · Valentine stock,AC069,T03,Website,10835,Won,100,2026-08-29,2026-10-22,,1.4,LD06429
+DL1281,Volta View Resort Adum · Christmas gift order,AC270,T02,Referral,8996,Won,100,2026-08-30,2026-09-18,,5.8,LD06443
+DL1282,Sahel & Coast (USA) Inc. · Valentine stock,AC307,T06,Google Ads,10354,Won,100,2026-08-30,2026-11-03,,2.0,LD06446
+DL1283,Bean & Bake Coffee House West · Range expansion,AC137,T05,LinkedIn,2644,Lost,0,2026-08-31,2026-10-03,Chose a competitor,23.1,LD06452
+DL1284,Lagoon Hotel & Suites Central · Range expansion,AC229,T02,Referral,4695,Lost,0,2026-08-31,2026-09-26,Product fit,8.8,LD06463
+DL1285,Bean & Bake Coffee House · Valentine stock,AC057,T06,Website,9534,Won,100,2026-09-01,2026-10-28,,0.8,LD06471
+DL1286,Palm Court Hotel & Suites East Legon · Christmas gift order,AC281,T03,Referral,3406,Won,100,2026-09-01,2026-10-25,,2.2,LD06473
+DL1287,Ridge Hotel & Suites East Legon · New branch supply,AC206,T04,Referral,6777,Lost,0,2026-09-02,2026-10-21,No budget,14.4,LD06482
+DL1288,Brew Coffee House East · Christmas gift order,AC135,T05,Referral,3698,Lost,0,2026-09-02,2026-11-02,Chose a competitor,7.3,LD06490
+DL1289,Unity Stores East · Christmas gift order,AC117,T03,Referral,5530,Won,100,2026-09-03,2026-09-26,,11.5,LD06504
+DL1290,Sankofa Gifts Plus · Range expansion,AC293,T05,Referral,8991,Won,100,2026-09-04,2026-11-17,,15.2,LD06515
+DL1291,Sankofa Gifting Co. West · Christmas gift order,AC222,T03,LinkedIn,4225,Lost,0,2026-09-04,2026-10-18,Product fit,7.3,LD06518
+DL1292,Royal Stores South · Range expansion,AC214,T01,LinkedIn,6433,Won,100,2026-09-04,2026-10-23,,0.4,LD06523
+DL1293,Adinkra Trading (Canada) · Range expansion,AC036,T03,Event,8805,Lost,0,2026-09-05,2026-09-27,Price,7.4,LD06526
+DL1294,West Africa Trade (UK) Ltd · New branch supply,AC304,T04,Event,5719,Won,100,2026-09-05,2026-10-05,,8.6,LD06528
+DL1295,Bean & Bake Café Central · Reorder,AC245,T07,Email,3765,Won,100,2026-09-05,2026-11-14,,8.7,LD06538
+DL1296,West Africa Trade (UK) Ltd · Christmas gift order,AC304,T04,Event,5626,Lost,0,2026-09-05,2026-09-29,No budget,5.5,LD06540
+DL1297,Freshmart Supermarket Osu · New branch supply,AC157,T03,Event,6940,Lost,0,2026-09-06,2026-09-29,Product fit,9.5,LD06544
+DL1298,Kotoka Airways · New branch supply,AC084,T07,LinkedIn,4589,Lost,0,2026-09-06,2026-10-01,Price,11.4,LD06548
+DL1299,West Africa Trade (UK) Ltd · Reorder,AC304,T04,Event,6965,Lost,0,2026-09-06,2026-10-07,Timing,20.7,LD06550
+DL1300,Bean & Bake Café Central · New branch supply,AC245,T07,Email,4052,Lost,0,2026-09-06,2026-10-02,Went silent,3.1,LD06552
+DL1301,Unity Supermarket North · Christmas gift order,AC088,T07,Event,6564,Lost,0,2026-09-07,2026-10-30,Went silent,2.5,LD06561
+DL1302,Morning Glory Bakery · Reorder,AC083,T01,LinkedIn,9136,Won,100,2026-09-08,2026-10-13,,1.1,LD06577
+DL1303,Adinkra Gifts · Christmas gift order,AC016,T06,Event,10764,Lost,0,2026-09-08,2026-10-01,Product fit,7.6,LD06586
+DL1304,Akwaaba Bakery Spintex · Christmas gift order,AC049,T03,LinkedIn,4713,Lost,0,2026-09-09,2026-10-18,Chose a competitor,6.5,LD06601
+DL1305,Kwaku Café · New branch supply,AC111,T01,Event,8595,Won,100,2026-09-09,2026-11-20,,4.7,LD06603
+DL1306,Coastline Hotel Osu · Christmas gift order,AC041,T07,LinkedIn,6530,Won,100,2026-09-10,2026-10-11,,1.6,LD06609
+DL1307,Accra Link (Canada) · Range expansion,AC044,T02,Referral,8082,Won,100,2026-09-10,2026-10-22,,3.5,LD06613
+DL1308,Goodway Stores · Christmas gift order,AC211,T03,Event,3037,Won,100,2026-09-11,2026-10-30,,3.4,LD06625
+DL1309,Palace Supermarket · Reorder,AC173,T03,Event,4889,Won,100,2026-09-12,2026-11-02,,2.3,LD06634
+DL1310,Bold Gifts South · New branch supply,AC026,T04,Instagram,7699,Lost,0,2026-09-13,2026-11-13,Price,30.1,LD06657
+DL1311,Palm Court Hotel & Suites West · New branch supply,AC268,T01,Event,10344,Won,100,2026-09-14,2026-10-04,,8.4,LD06665
+DL1312,Ebony Foods GmbH · Reorder,AC193,T04,LinkedIn,7764,Won,100,2026-09-14,2026-10-12,,34.4,LD06667
+DL1313,Coastline Hotel & Suites · Reorder,AC264,T04,Referral,8432,Lost,0,2026-09-14,2026-11-04,Went silent,56.8,LD06668
+DL1314,Kwaku Café North · Range expansion,AC120,T06,Referral,6896,Won,100,2026-09-15,2026-10-06,,7.3,LD06681
+DL1315,Labadi Bay Hotel · Christmas gift order,AC032,T01,Referral,5483,Won,100,2026-09-16,2026-10-13,,6.7,LD06703
+DL1316,Sweet Crumb Coffee House Ahodwo · Range expansion,AC247,T05,Email,8422,Lost,0,2026-09-17,2026-11-08,Went silent,4.4,LD06709
+DL1317,Bean & Bake Café East Legon · Reorder,AC213,T06,Email,7296,Won,100,2026-09-17,2026-11-05,,1.3,LD06720
+DL1318,Oven Fresh Coffee House South · Valentine stock,AC171,T04,Event,9842,Lost,0,2026-09-18,2026-10-09,Went silent,44.4,LD06727
+DL1319,West Africa Trade GmbH · Range expansion,AC227,T05,LinkedIn,4528,Won,100,2026-09-18,2026-10-10,,13.6,LD06729
+DL1320,Ridge Hotel & Suites East Legon · Christmas gift order,AC206,T04,Referral,4814,Proposal,50,2026-09-18,2026-11-27,,11.1,LD06733
+DL1321,Akwaaba Bakery · Range expansion,AC043,T07,Referral,10660,Lost,0,2026-09-18,2026-11-18,No budget,12.1,LD06739
+DL1322,Sweet Crumb Coffee House Ahodwo · New branch supply,AC247,T05,Email,9306,Lost,0,2026-09-19,2026-11-08,Timing,7.7,LD06742
+DL1323,Family Stores North · Christmas gift order,AC154,T04,Referral,7426,Won,100,2026-09-20,2026-10-12,,37.9,LD06754
+DL1324,Adinkra Gifts · New branch supply,AC016,T06,Event,8289,Won,100,2026-09-20,2026-10-12,,11.5,LD06764
+DL1325,Family Stores North · Valentine stock,AC154,T04,Referral,3039,Won,100,2026-09-20,2026-10-31,,16.4,LD06765
+DL1326,Adinkra Trading (Canada) · New branch supply,AC036,T03,Event,8141,Won,100,2026-09-20,2026-10-08,,10.9,LD06770
+DL1327,Volta Air Duty Free · New branch supply,AC124,T03,Email,8005,Won,100,2026-09-21,2026-10-30,,17.0,LD06777
+DL1328,Labadi Bay Resort Cantonments · Reorder,AC004,T07,Instagram,4586,Lost,0,2026-09-21,2026-11-08,Product fit,9.6,LD06781
+DL1329,Sweet Crumb Café Osu · Valentine stock,AC066,T04,Referral,5690,Lost,0,2026-09-22,2026-11-21,Price,6.0,LD06787
+DL1330,Sankofa Gifting Co. · Christmas gift order,AC069,T03,Website,4889,Negotiation,75,2026-09-22,2026-11-29,,1.6,LD06793
+DL1331,Sankofa Hampers · Valentine stock,AC136,T03,Email,10270,Prospecting,10,2026-09-22,2026-11-27,,8.3,LD06797
+DL1332,Family Mart · New branch supply,AC051,T06,Website,8123,Lost,0,2026-09-23,2026-10-18,Price,2.0,LD06801
+DL1333,Royal Stores South · Range expansion,AC214,T01,LinkedIn,8817,Proposal,50,2026-09-23,2026-12-03,,12.9,LD06803
+DL1334,Coastal Wings Airways · New branch supply,AC144,T02,Event,10617,Won,100,2026-09-23,2026-11-05,,9.4,LD06804
+DL1335,Freshmart Stores Osu · Christmas gift order,AC282,T04,Event,5094,Qualification,25,2026-09-24,2026-12-01,,20.4,LD06811
+DL1336,Palace Mart South · Valentine stock,AC201,T07,LinkedIn,5535,Won,100,2026-09-24,2026-11-21,,5.3,LD06812
+DL1337,Bean & Bake Coffee House West · New branch supply,AC137,T05,LinkedIn,4128,Lost,0,2026-09-24,2026-10-16,Timing,66.8,LD06813
+DL1338,Unity Supermarket West · Valentine stock,AC302,T07,Referral,10713,Won,100,2026-09-24,2026-11-13,,0.7,LD06822
+DL1339,Kwaku Café North · Christmas gift order,AC120,T06,Referral,7627,Won,100,2026-09-25,2026-10-25,,1.6,LD06831
+DL1340,Palace Mart South · Range expansion,AC201,T07,LinkedIn,3480,Negotiation,75,2026-09-25,2026-12-07,,3.3,LD06835
+DL1341,Volta Air Duty Free North · Reorder,AC168,T01,Event,10105,Won,100,2026-09-25,2026-11-19,,1.5,LD06836
+DL1342,Sankofa Gifting Co. West · New branch supply,AC222,T03,LinkedIn,3897,Lost,0,2026-09-26,2026-11-14,Went silent,11.9,LD06840
+DL1343,Bold Gifts Central · Reorder,AC045,T04,Referral,7645,Lost,0,2026-09-26,2026-10-12,Product fit,17.8,LD06850
+DL1344,Freshmart Supermarket Osu · Range expansion,AC157,T03,Event,8855,Qualification,25,2026-09-26,2026-12-03,,3.0,LD06851
+DL1345,Freshmart Mart West · New branch supply,AC221,T03,LinkedIn,9710,Lost,0,2026-09-27,2026-10-20,Went silent,3.5,LD06865
+DL1346,Palace Supermarket Spintex · Valentine stock,AC030,T07,Referral,5695,Lost,0,2026-09-27,2026-11-01,No budget,19.3,LD06866
+DL1347,Heritage Gifts Central · New branch supply,AC231,T04,Website,7157,Lost,0,2026-09-28,2026-10-25,No budget,67.9,LD06868
+DL1348,Sankofa Gifting Co. South · Range expansion,AC132,T07,Email,6825,Won,100,2026-09-28,2026-11-10,,9.8,LD06869
+DL1349,Freshmart Stores · Christmas gift order,AC001,T04,Referral,10728,Won,100,2026-09-29,2026-10-17,,3.9,LD06887
+DL1350,Lagoon Hotel & Suites Central · Reorder,AC229,T02,Referral,5219,Lost,0,2026-09-29,2026-11-05,Price,4.4,LD06888
+DL1351,Bean & Bake Café East Legon · New branch supply,AC213,T06,Email,10275,Lost,0,2026-09-29,2026-11-21,Timing,16.7,LD06890
+DL1352,Freshmart Mart Ahodwo · Christmas gift order,AC240,T07,Email,9283,Negotiation,75,2026-09-29,2026-11-28,,3.4,LD06896
+DL1353,Coastline Hotel & Suites · Christmas gift order,AC264,T04,Referral,9330,Qualification,25,2026-09-30,2026-12-05,,3.0,LD06898
+DL1354,Palace Supermarket Spintex · Christmas gift order,AC030,T07,Referral,2680,Won,100,2026-09-30,2026-11-04,,10.4,LD06906
+DL1355,Kwaku Bakery North · Reorder,AC220,T02,LinkedIn,5215,Lost,0,2026-09-30,2026-11-12,Went silent,9.9,LD06907
+DL1356,West Africa Trade (UK) Ltd · New branch supply,AC304,T04,Event,8924,Proposal,50,2026-09-30,2026-11-28,,13.3,LD06908
+DL1357,Golden Sands Resort Osu · Reorder,AC194,T01,LinkedIn,7773,Qualification,25,2026-09-30,2026-12-11,,13.0,LD06910
+DL1358,Bold Hampers · Valentine stock,AC023,T05,Referral,9879,Lost,0,2026-10-01,2026-11-18,Went silent,4.6,LD06913
+DL1359,Kwaku Coffee House Harbour · Christmas gift order,AC244,T07,Email,5106,Won,100,2026-10-01,2026-10-21,,3.8,LD06919
+DL1360,Ridge Hotel & Suites East Legon · Valentine stock,AC206,T04,Referral,10041,Proposal,50,2026-10-02,2026-12-07,,1.3,LD06927
+DL1361,Sankofa Gifts · Reorder,AC149,T03,Event,7466,Prospecting,10,2026-10-02,2026-11-29,,3.6,LD06930
+DL1362,Kwaku Coffee House Harbour · Valentine stock,AC244,T07,Email,7175,Won,100,2026-10-02,2026-10-16,,2.8,LD06940
+DL1363,Freshmart Mart Ahodwo · Range expansion,AC240,T07,Email,9983,Won,100,2026-10-03,2026-11-09,,31.9,LD06944
+DL1364,Coastline Hotel East · New branch supply,AC164,T04,Instagram,6089,Lost,0,2026-10-03,2026-11-01,No budget,9.0,LD06948
+DL1365,Adinkra Trading (Canada) · Valentine stock,AC036,T03,Event,9215,Negotiation,75,2026-10-03,2026-11-30,,4.9,LD06954
+DL1366,Akan Foods (UK) Ltd · Christmas gift order,AC284,T01,Event,3110,Won,100,2026-10-04,2026-11-02,,6.6,LD06958
+DL1367,Bean & Bake Coffee House · Christmas gift order,AC057,T06,Website,3294,Lost,0,2026-10-04,2026-10-26,Chose a competitor,10.5,LD06959
+DL1368,Labadi Bay Hotel & Suites Community 25 · Valentine stock,AC092,T02,Event,5692,Lost,0,2026-10-04,2026-11-13,Timing,11.0,LD06963
+DL1369,Volta Air Duty Free North · New branch supply,AC168,T01,Event,9386,Won,100,2026-10-05,2026-10-19,,3.6,LD06982
+DL1370,Volta Air Lounges · Range expansion,AC233,T05,Instagram,5347,Won,100,2026-10-06,2026-10-28,,1.8,LD06992
+DL1371,Akwaaba Bakery Spintex · Christmas gift order,AC049,T03,LinkedIn,9778,Qualification,25,2026-10-07,2026-12-12,,3.1,LD07008
+DL1372,Prestige Gifts North · New branch supply,AC292,T06,Event,9007,Won,100,2026-10-08,2026-11-09,,0.8,LD07014
+DL1373,CityShop Mart · New branch supply,AC163,T04,Referral,9143,Won,100,2026-10-08,2026-11-16,,9.5,LD07017
+DL1374,Bean & Bake Café Spintex · Reorder,AC275,T02,Event,3466,Proposal,50,2026-10-08,2026-12-11,,4.3,LD07021
+DL1375,Kwaku Bakery North · Reorder,AC220,T02,LinkedIn,9989,Negotiation,75,2026-10-08,2026-12-07,,1.6,LD07025
+DL1376,Motherland Pantry BV (Netherlands) · Reorder,AC254,T03,Instagram,3393,Negotiation,75,2026-10-08,2026-12-02,,1.8,LD07026
+DL1377,Volta View Resort Adum · New branch supply,AC270,T02,Referral,5132,Negotiation,75,2026-10-09,2026-12-16,,12.8,LD07034
+DL1378,West Africa Trade (UK) Ltd · New branch supply,AC304,T04,Event,9672,Won,100,2026-10-09,2026-10-30,,6.5,LD07038
+DL1379,Bold Gifts Central · Range expansion,AC045,T04,Referral,8958,Lost,0,2026-10-10,2026-11-01,No budget,24.6,LD07043
+DL1380,Palace Supermarket · Christmas gift order,AC173,T03,Event,6987,Negotiation,75,2026-10-10,2026-12-19,,2.6,LD07052
+DL1381,Sankofa Gifts Plus · Valentine stock,AC293,T05,Referral,3610,Won,100,2026-10-11,2026-11-03,,0.9,LD07063
+DL1382,Accra Link (Canada) · Reorder,AC044,T02,Referral,10100,Won,100,2026-10-11,2026-10-28,,6.0,LD07064
+DL1383,Afro Foods GmbH · New branch supply,AC091,T07,Referral,10799,Negotiation,75,2026-10-12,2026-12-24,,5.5,LD07076
+DL1384,SkyGold Lounges West · Christmas gift order,AC065,T06,Email,3831,Qualification,25,2026-10-13,2026-12-18,,4.4,LD07087
+DL1385,Motherland Pantry GmbH · Christmas gift order,AC102,T02,Referral,2576,Prospecting,10,2026-10-13,2026-12-26,,142.8,LD07089
+DL1386,Brew Coffee House East · New branch supply,AC135,T05,Referral,7204,Proposal,50,2026-10-13,2026-12-15,,1.9,LD07091
+DL1387,Family Supermarket North · Reorder,AC209,T01,Email,10342,Proposal,50,2026-10-13,2026-12-11,,8.5,LD07093
+DL1388,Coastline Hotel & Suites · Valentine stock,AC264,T04,Referral,9344,Won,100,2026-10-13,2026-11-24,,12.8,LD07099
+DL1389,Lagoon Hotel & Suites Central · Valentine stock,AC229,T02,Referral,5961,Won,100,2026-10-14,2026-11-24,,9.5,LD07106
+DL1390,Sweet Crumb Café · Christmas gift order,AC235,T01,Event,5882,Negotiation,75,2026-10-15,2026-12-02,,5.9,LD07117
+DL1391,Bold Gifts South · Reorder,AC026,T04,Instagram,10781,Proposal,50,2026-10-16,2026-12-20,,22.9,LD07129
+DL1392,Bold Gifts Central · New branch supply,AC045,T04,Referral,3147,Negotiation,75,2026-10-16,2026-12-08,,9.0,LD07138
+DL1393,CityShop Mart East Legon · Range expansion,AC239,T01,Event,8161,Won,100,2026-10-16,2026-11-09,,9.5,LD07140
+DL1394,Royal Stores East Legon · Range expansion,AC271,T05,Email,10683,Lost,0,2026-10-17,2026-11-23,Chose a competitor,2.5,LD07144
+DL1395,Prestige Gifting Co. Cantonments · Christmas gift order,AC257,T03,Email,4344,Qualification,25,2026-10-17,2026-12-12,,22.9,LD07146
+DL1396,Adinkra Hampers North · Christmas gift order,AC301,T03,Event,8220,Prospecting,10,2026-10-17,2026-12-08,,3.3,LD07152
+DL1397,Sankofa Hampers Adum · Valentine stock,AC232,T02,Referral,3923,Lost,0,2026-10-18,2026-11-24,Went silent,33.2,LD07158
+DL1398,SkyGold Duty Free North · Range expansion,AC172,T06,Referral,9134,Qualification,25,2026-10-18,2026-12-27,,8.5,LD07159
+DL1399,Golden Sands Resort Osu · Valentine stock,AC194,T01,LinkedIn,8524,Won,100,2026-10-18,2026-11-17,,3.3,LD07165
+DL1400,Kwaku Coffee House Harbour · Valentine stock,AC244,T07,Email,8219,Negotiation,75,2026-10-19,2026-11-26,,10.2,LD07177
+DL1401,Freshmart Stores · Christmas gift order,AC001,T04,Referral,5245,Lost,0,2026-10-19,2026-11-02,Went silent,22.4,LD07180
+DL1402,Freshmart Stores · New branch supply,AC001,T04,Referral,6465,Prospecting,10,2026-10-19,2026-11-27,,6.4,LD07185
+DL1403,Sankofa Gifts Plus · New branch supply,AC293,T05,Referral,10770,Prospecting,10,2026-10-19,2026-12-30,,30.8,LD07189
+DL1404,Bean & Bake Café Spintex · Reorder,AC275,T02,Event,8198,Lost,0,2026-10-20,2026-11-18,Price,4.5,LD07193
+DL1405,Coastline Hotel East · Reorder,AC164,T04,Instagram,5062,Prospecting,10,2026-10-20,2026-12-31,,48.7,LD07195
+DL1406,Coastal Wings Airways · Christmas gift order,AC144,T02,Event,3165,Negotiation,75,2026-10-20,2026-12-15,,2.0,LD07197
+DL1407,Palace Stores · Valentine stock,AC009,T04,Google Ads,7716,Proposal,50,2026-10-20,2026-12-11,,5.4,LD07198
+DL1408,Family Supermarket Dzorwulu · Range expansion,AC119,T02,LinkedIn,4636,Qualification,25,2026-10-21,2026-12-14,,1.8,LD07207
+DL1409,Adinkra Gifts · Christmas gift order,AC016,T06,Event,3789,Negotiation,75,2026-10-21,2026-11-29,,8.9,LD07211
+DL1410,Akan Foods (UK) Ltd · Range expansion,AC284,T01,Event,6150,Won,100,2026-10-21,2026-11-17,,3.2,LD07212
+DL1411,Family Supermarket Dzorwulu · Christmas gift order,AC119,T02,LinkedIn,9581,Negotiation,75,2026-10-21,2026-12-27,,1.2,LD07213
+DL1412,Motherland Pantry GmbH · New branch supply,AC102,T02,Referral,3005,Qualification,25,2026-10-21,2026-12-07,,13.3,LD07215
+DL1413,Palace Supermarket · Reorder,AC173,T03,Event,4917,Qualification,25,2026-10-22,2026-11-30,,0.4,LD07220
+DL1414,Family Stores Central · New branch supply,AC146,T03,Referral,5787,Lost,0,2026-10-22,2026-11-19,No budget,10.7,LD07224
+DL1415,Golden Sands Resort West · Christmas gift order,AC238,T01,Instagram,7200,Lost,0,2026-10-22,2026-11-05,Timing,2.4,LD07227
+DL1416,Prestige Hampers · Valentine stock,AC103,T03,LinkedIn,10419,Won,100,2026-10-22,2026-11-07,,9.2,LD07228
+DL1417,Coastal Wings Airways Plus · Valentine stock,AC249,T05,Referral,10891,Qualification,25,2026-10-23,2026-12-23,,7.2,LD07232
+DL1418,Golden Sands Hotel West · Reorder,AC252,T06,LinkedIn,2919,Lost,0,2026-10-23,2026-11-19,Price,2.4,LD07242
+DL1419,Adinkra Trading (Canada) South · Valentine stock,AC191,T06,Event,9302,Proposal,50,2026-10-23,2026-12-23,,5.1,LD07243
+DL1420,Freshmart Stores South · Valentine stock,AC038,T05,Referral,10063,Negotiation,75,2026-10-24,2026-12-29,,5.4,LD07247
+DL1421,Labadi Bay Hotel & Suites Spintex · Christmas gift order,AC198,T02,LinkedIn,6438,Negotiation,75,2026-10-24,2026-12-18,,7.9,LD07248
+DL1422,Kwaku Café North · Range expansion,AC120,T06,Referral,10994,Prospecting,10,2026-10-24,2026-12-12,,4.3,LD07253
+DL1423,Ebony Foods GmbH West · New branch supply,AC241,T01,Referral,3339,Prospecting,10,2026-10-24,2026-12-03,,5.1,LD07257
+DL1424,Sankofa Gifting Co. West · Reorder,AC222,T03,LinkedIn,9177,Qualification,25,2026-10-24,2026-12-24,,1.4,LD07259
+DL1425,CityShop Supermarket · New branch supply,AC095,T03,Instagram,8650,Prospecting,10,2026-10-25,2027-01-02,,4.5,LD07264
+DL1426,Prestige Hampers · Range expansion,AC103,T03,LinkedIn,8535,Won,100,2026-10-25,2026-11-19,,14.8,LD07269
+DL1427,Golden Sands Hotel South · Christmas gift order,AC303,T05,Event,4298,Prospecting,10,2026-10-25,2026-12-27,,23.1,LD07273
+DL1428,Sankofa Gifting Co. East · New branch supply,AC169,T05,Referral,7867,Proposal,50,2026-10-26,2026-12-18,,2.1,LD07283
+DL1429,Afro Foods GmbH · Reorder,AC091,T07,Referral,6653,Proposal,50,2026-10-26,2027-01-05,,3.0,LD07284
+DL1430,Ridge Hotel Central · New branch supply,AC080,T01,Event,8585,Won,100,2026-10-27,2026-11-21,,1.0,LD07291
+DL1431,Family Mart · Reorder,AC051,T06,Website,3282,Lost,0,2026-10-27,2026-11-18,Chose a competitor,13.9,LD07294
+DL1432,Bean & Bake Coffee House · Christmas gift order,AC057,T06,Website,6539,Qualification,25,2026-10-27,2027-01-02,,2.1,LD07296
+DL1433,Ridge Hotel & Suites East Legon · Range expansion,AC206,T04,Referral,2949,Won,100,2026-10-27,2026-11-14,,5.7,LD07298
+DL1434,CityShop Supermarket South · New branch supply,AC234,T03,Event,2562,Won,100,2026-10-27,2026-11-18,,7.3,LD07306
+DL1435,Oven Fresh Café East · Valentine stock,AC253,T05,Email,5569,Lost,0,2026-10-28,2026-11-16,Timing,15.3,LD07316
+DL1436,Sweet Crumb Café Osu · Christmas gift order,AC066,T04,Referral,6993,Prospecting,10,2026-10-29,2026-11-27,,31.1,LD07323
+DL1437,Sahel & Coast BV (Netherlands) · Reorder,AC019,T05,Email,10353,Qualification,25,2026-10-30,2026-12-30,,33.3,LD07332
+DL1438,Brew Bakery · Valentine stock,AC021,T01,LinkedIn,3498,Prospecting,10,2026-10-30,2026-12-10,,6.8,LD07335
+DL1439,Accra Link (UK) Ltd North · Reorder,AC276,T06,Referral,7702,Negotiation,75,2026-10-30,2026-12-06,,3.9,LD07338
+DL1440,Kwaku Café · Range expansion,AC111,T01,Event,3497,Lost,0,2026-10-30,2026-11-14,Price,6.1,LD07339
+DL1441,Family Mart · Christmas gift order,AC051,T06,Website,6052,Prospecting,10,2026-10-30,2026-12-20,,8.4,LD07344
+DL1442,Motherland Pantry GmbH South · Range expansion,AC167,T03,Referral,8745,Won,100,2026-10-31,2026-11-14,,5.1,LD07352
+DL1443,Adinkra Hampers North · New branch supply,AC301,T03,Event,6747,Prospecting,10,2026-11-01,2026-12-22,,1.8,LD07357
+DL1444,Coastal Wings Airways Plus · New branch supply,AC249,T05,Referral,7736,Prospecting,10,2026-11-01,2026-12-23,,5.0,LD07359
+DL1445,West Africa Trade GmbH · Christmas gift order,AC227,T05,LinkedIn,7429,Proposal,50,2026-11-02,2026-12-06,,8.0,LD07373
+DL1446,West Africa Trade GmbH · Christmas gift order,AC227,T05,LinkedIn,8196,Won,100,2026-11-03,2026-11-18,,7.0,LD07382
+DL1447,Motherland Pantry GmbH South · Reorder,AC167,T03,Referral,4604,Negotiation,75,2026-11-03,2026-12-25,,0.8,LD07386
+DL1448,Sankofa Hampers · New branch supply,AC136,T03,Email,6945,Prospecting,10,2026-11-03,2026-12-23,,2.0,LD07391
+DL1449,Prestige Gifts North · Christmas gift order,AC292,T06,Event,9216,Negotiation,75,2026-11-04,2026-12-14,,5.8,LD07400
+DL1450,Freshmart Mart West · Valentine stock,AC221,T03,LinkedIn,3615,Negotiation,75,2026-11-04,2026-12-11,,4.2,LD07402
+DL1451,Golden Sands Resort Osu · Reorder,AC194,T01,LinkedIn,9039,Qualification,25,2026-11-04,2027-01-03,,7.0,LD07403
+DL1452,Brew Coffee House East · Range expansion,AC135,T05,Referral,3160,Qualification,25,2026-11-04,2026-12-20,,5.7,LD07404
+DL1453,Sankofa Gifting Co. West · Range expansion,AC222,T03,LinkedIn,10627,Qualification,25,2026-11-04,2026-11-25,,10.7,LD07408
+DL1454,Royal Stores · Reorder,AC010,T01,Referral,3649,Prospecting,10,2026-11-04,2027-01-01,,2.2,LD07410
+DL1455,Lagoon Hotel & Suites Central · Christmas gift order,AC229,T02,Referral,10582,Proposal,50,2026-11-04,2026-12-12,,8.6,LD07411
+DL1456,Motherland Pantry BV (Netherlands) · Valentine stock,AC254,T03,Instagram,8337,Qualification,25,2026-11-04,2026-12-05,,8.3,LD07412
+DL1457,Motherland Pantry GmbH South · Reorder,AC167,T03,Referral,6656,Proposal,50,2026-11-04,2026-11-25,,3.5,LD07415
+DL1458,Royal Stores · New branch supply,AC010,T01,Referral,10666,Prospecting,10,2026-11-05,2026-11-27,,9.8,LD07417
+DL1459,Golden Sands Resort Dzorwulu · Reorder,AC306,T06,LinkedIn,4644,Negotiation,75,2026-11-05,2027-01-11,,2.0,LD07419
+DL1460,Coastal Wings Duty Free North · New branch supply,AC138,T01,Google Ads,8583,Prospecting,10,2026-11-05,2026-12-30,,0.2,LD07422
+DL1461,Ebony Foods GmbH · Range expansion,AC193,T04,LinkedIn,6054,Prospecting,10,2026-11-05,2026-12-09,,7.5,LD07423
+DL1462,Morning Glory Café · Valentine stock,AC062,T02,Referral,9573,Won,100,2026-11-05,2026-11-20,,3.4,LD07425
+DL1463,CityShop Supermarket · Range expansion,AC095,T03,Instagram,5841,Negotiation,75,2026-11-05,2026-12-06,,14.4,LD07428
+DL1464,Palace Supermarket South · New branch supply,AC285,T07,Event,4311,Negotiation,75,2026-11-05,2026-12-18,,7.0,LD07432
+DL1465,Golden Sands Hotel West · New branch supply,AC252,T06,LinkedIn,4971,Prospecting,10,2026-11-06,2027-01-16,,9.3,LD07434
+DL1466,Oven Fresh Coffee House South · Reorder,AC171,T04,Event,10890,Won,100,2026-11-06,2026-11-22,,6.1,LD07436
+DL1467,Akwaaba Bakery Spintex · Valentine stock,AC049,T03,LinkedIn,8046,Lost,0,2026-11-06,2026-11-22,Chose a competitor,3.3,LD07440
+DL1468,Ebony Foods GmbH West · Range expansion,AC241,T01,Referral,10287,Proposal,50,2026-11-06,2026-12-30,,1.3,LD07443
+DL1469,Bold Hampers · Valentine stock,AC023,T05,Referral,7990,Prospecting,10,2026-11-07,2026-12-17,,11.9,LD07448
+DL1470,Palace Mart North · Valentine stock,AC224,T06,LinkedIn,6717,Prospecting,10,2026-11-07,2026-12-19,,53.3,LD07449
+DL1471,CityShop Mart East Legon · Range expansion,AC239,T01,Event,4314,Qualification,25,2026-11-07,2026-12-28,,2.6,LD07459
+DL1472,Motherland Pantry (Canada) · Reorder,AC018,T07,Referral,10605,Qualification,25,2026-11-08,2027-01-08,,2.7,LD07460
+DL1473,Royal Supermarket West · Reorder,AC150,T05,Referral,8786,Qualification,25,2026-11-08,2026-12-08,,3.2,LD07466
+DL1474,Sweet Crumb Coffee House Ahodwo · Range expansion,AC247,T05,Email,4136,Prospecting,10,2026-11-08,2026-12-04,,9.4,LD07472
+DL1475,Unity Supermarket North · Reorder,AC088,T07,Event,5794,Qualification,25,2026-11-09,2026-12-03,,2.9,LD07481
+DL1476,Accra Link (Canada) · Reorder,AC044,T02,Referral,5876,Qualification,25,2026-11-09,2026-12-02,,26.5,LD07484
+DL1477,Morning Glory Bakery · New branch supply,AC083,T01,LinkedIn,4626,Negotiation,75,2026-11-09,2027-01-13,,6.9,LD07485
+DL1478,Akwaaba Café · Range expansion,AC280,T06,Instagram,6354,Prospecting,10,2026-11-09,2026-12-01,,7.7,LD07489
+DL1479,CityShop Supermarket · New branch supply,AC095,T03,Instagram,10853,Qualification,25,2026-11-10,2027-01-11,,5.0,LD07494
+DL1480,CityShop Mart · Valentine stock,AC163,T04,Referral,5830,Negotiation,75,2026-11-10,2026-12-05,,16.1,LD07500
+DL1481,Akwaaba Coffee House Harbour · Range expansion,AC100,T01,Website,10877,Prospecting,10,2026-11-10,2026-12-19,,4.2,LD07501
+DL1482,Palm Court Hotel & Suites East Legon · Range expansion,AC281,T03,Referral,10727,Qualification,25,2026-11-11,2027-01-03,,1.4,LD07506
+DL1483,Adinkra Hampers North · New branch supply,AC301,T03,Event,3081,Qualification,25,2026-11-11,2026-12-07,,4.4,LD07510
+DL1484,Sweet Crumb Café Osu · Range expansion,AC066,T04,Referral,5902,Prospecting,10,2026-11-11,2027-01-23,,19.5,LD07514
+DL1485,Sankofa Gifts · Range expansion,AC149,T03,Event,6321,Qualification,25,2026-11-12,2026-11-26,,1.7,LD07517
+DL1486,Unity Stores East · New branch supply,AC117,T03,Referral,6726,Qualification,25,2026-11-12,2026-12-06,,1.7,LD07524
+DL1487,Unity Supermarket West · New branch supply,AC302,T07,Referral,5403,Negotiation,75,2026-11-12,2026-12-23,,25.3,LD07529
+DL1488,Akwaaba Bakery · Reorder,AC043,T07,Referral,4241,Proposal,50,2026-11-13,2026-12-01,,2.6,LD07544
+DL1489,Freshmart Mart · Christmas gift order,AC140,T04,Event,9717,Prospecting,10,2026-11-14,2027-01-08,,1.7,LD07547
+DL1490,Palace Mart South · Christmas gift order,AC201,T07,LinkedIn,7052,Proposal,50,2026-11-14,2027-01-07,,21.1,LD07560
+DL1491,Freshmart Supermarket Spintex · Christmas gift order,AC123,T07,Google Ads,2798,Negotiation,75,2026-11-15,2026-12-17,,29.3,LD07566
+DL1492,Prestige Gifts North · Reorder,AC292,T06,Event,5333,Qualification,25,2026-11-15,2027-01-27,,3.4,LD07572
+DL1493,Labadi Bay Hotel & Suites Community 25 · Valentine stock,AC092,T02,Event,7384,Proposal,50,2026-11-15,2027-01-17,,8.7,LD07575
+DL1494,CityShop Mart · Range expansion,AC163,T04,Referral,8733,Negotiation,75,2026-11-16,2026-12-22,,5.7,LD07581
+DL1495,Golden Sands Hotel South · Reorder,AC303,T05,Event,9272,Proposal,50,2026-11-16,2027-01-07,,37.2,LD07587
+DL1496,Accra Link (UK) Ltd North · Reorder,AC276,T06,Referral,6736,Qualification,25,2026-11-16,2026-12-31,,7.4,LD07592
+DL1497,Bold Gifts · Valentine stock,AC022,T07,LinkedIn,6486,Proposal,50,2026-11-16,2026-12-03,,43.3,LD07593
+DL1498,Adinkra Trading (Canada) South · Valentine stock,AC191,T06,Event,10514,Negotiation,75,2026-11-16,2027-01-27,,22.8,LD07594
+DL1499,Family Stores Central · New branch supply,AC146,T03,Referral,10129,Prospecting,10,2026-11-17,2027-01-19,,3.2,LD07598
+DL1500,Coastline Hotel Osu · Valentine stock,AC041,T07,LinkedIn,5775,Proposal,50,2026-11-17,2027-01-03,,2.5,LD07601
+DL1501,Coastal Wings Duty Free North · Range expansion,AC138,T01,Google Ads,8634,Qualification,25,2026-11-18,2026-12-30,,4.4,LD07614
+DL1502,SkyGold Duty Free Plus · New branch supply,AC204,T06,Event,4767,Negotiation,75,2026-11-18,2027-01-10,,13.3,LD07615
+DL1503,Coastal Wings Airways · Range expansion,AC144,T02,Event,8874,Prospecting,10,2026-11-18,2027-01-21,,2.8,LD07616
+DL1504,Family Stores North · New branch supply,AC154,T04,Referral,10183,Prospecting,10,2026-11-18,2027-01-09,,31.8,LD07617
+DL1505,Palace Mart Spintex · New branch supply,AC039,T06,LinkedIn,5271,Proposal,50,2026-11-18,2027-01-08,,20.0,LD07620
+DL1506,Unity Stores · Range expansion,AC076,T02,Email,8207,Qualification,25,2026-11-18,2026-12-17,,2.3,LD07626
+DL1507,Freshmart Mart · Christmas gift order,AC140,T04,Event,10264,Qualification,25,2026-11-18,2026-12-24,,7.2,LD07629
+DL1508,Prestige Gifting Co. Cantonments · Valentine stock,AC257,T03,Email,4447,Qualification,25,2026-11-19,2026-12-20,,4.8,LD07633
+DL1509,Golden Sands Resort Dzorwulu · Valentine stock,AC306,T06,LinkedIn,8705,Prospecting,10,2026-11-19,2027-01-05,,10.0,LD07634
+DL1510,Akwaaba Café · Valentine stock,AC280,T06,Instagram,8193,Negotiation,75,2026-11-19,2026-12-03,,0.6,LD07636
+DL1511,Diaspora Pantry (Canada) East · Valentine stock,AC279,T04,Referral,8724,Prospecting,10,2026-11-19,2027-01-19,,46.4,LD07641
+DL1512,Ebony Foods GmbH West · Valentine stock,AC241,T01,Referral,4149,Proposal,50,2026-11-19,2027-01-01,,13.7,LD07643
+DL1513,Adinkra Hampers Central · Christmas gift order,AC296,T07,Referral,8548,Negotiation,75,2026-11-20,2027-01-12,,1.8,LD07647
+DL1514,Golden Sands Resort · Reorder,AC097,T07,Event,5280,Qualification,25,2026-11-20,2027-01-18,,9.8,LD07651
+DL1515,Accra Link (UK) Ltd North · Christmas gift order,AC276,T06,Referral,9878,Proposal,50,2026-11-20,2026-12-04,,4.6,LD07654
+DL1516,Adinkra Hampers North · Christmas gift order,AC301,T03,Event,5835,Prospecting,10,2026-11-20,2027-01-27,,6.6,LD07659
+DL1517,SkyGold Duty Free North · Range expansion,AC172,T06,Referral,6478,Negotiation,75,2026-11-20,2026-12-25,,2.9,LD07661
+DL1518,Sankofa Hampers · Reorder,AC136,T03,Email,8689,Qualification,25,2026-11-20,2027-01-16,,10.2,LD07664
+DL1519,Labadi Bay Hotel & Suites Community 25 · New branch supply,AC092,T02,Event,9048,Negotiation,75,2026-11-20,2026-12-19,,1.5,LD07665
+DL1520,Unity Stores East · New branch supply,AC117,T03,Referral,6329,Proposal,50,2026-11-20,2027-01-26,,4.4,LD07667
+DL1521,West Africa Trade GmbH · Range expansion,AC227,T05,LinkedIn,9809,Qualification,25,2026-11-20,2026-12-29,,7.3,LD07671
+DL1522,Akwaaba Coffee House Harbour · Valentine stock,AC100,T01,Website,10145,Proposal,50,2026-11-21,2026-12-16,,1.8,LD07688
+DL1523,Royal Stores South · Range expansion,AC214,T01,LinkedIn,6734,Negotiation,75,2026-11-21,2027-01-25,,2.2,LD07690
+DL1524,Golden Sands Resort · New branch supply,AC097,T07,Event,8246,Negotiation,75,2026-11-22,2026-12-10,,2.3,LD07705
+DL1525,Sankofa Gifts Plus · Reorder,AC293,T05,Referral,6985,Proposal,50,2026-11-22,2026-12-08,,7.1,LD07715
+DL1526,Palace Mart North · New branch supply,AC224,T06,LinkedIn,9169,Proposal,50,2026-11-22,2026-12-10,,5.2,LD07723
+DL1527,Unity Supermarket West · Reorder,AC302,T07,Referral,8738,Negotiation,75,2026-11-22,2027-01-08,,20.7,LD07725
+DL1528,Adinkra Trading (Canada) · Range expansion,AC036,T03,Event,5994,Qualification,25,2026-11-23,2026-12-22,,4.8,LD07730
+DL1529,Labadi Bay Hotel & Suites · Range expansion,AC020,T03,Referral,8376,Negotiation,75,2026-11-23,2026-12-27,,9.0,LD07739
+DL1530,Bean & Bake Bakery · Valentine stock,AC015,T04,Event,2722,Prospecting,10,2026-11-23,2027-01-16,,28.7,LD07740
+DL1531,Heritage Gifts Central · New branch supply,AC231,T04,Website,5405,Prospecting,10,2026-11-23,2027-01-20,,36.5,LD07741
+DL1532,Akwaaba Bakery Spintex · Range expansion,AC049,T03,LinkedIn,2992,Negotiation,75,2026-11-23,2027-01-10,,2.0,LD07754
+DL1533,Heritage Gifting Co. South · Range expansion,AC251,T07,LinkedIn,9785,Prospecting,10,2026-11-23,2027-01-23,,12.5,LD07755
+DL1534,Kwaku Bakery North · Christmas gift order,AC220,T02,LinkedIn,3196,Negotiation,75,2026-11-24,2027-01-17,,9.8,LD07759
+DL1535,Akan Foods (Canada) · Range expansion,AC017,T03,Referral,5791,Qualification,25,2026-11-24,2026-12-30,,4.9,LD07762
+DL1536,Golden Sands Resort · New branch supply,AC097,T07,Event,4840,Proposal,50,2026-11-24,2026-12-25,,3.8,LD07763
+DL1537,Prestige Gifting Co. Cantonments · New branch supply,AC257,T03,Email,2729,Qualification,25,2026-11-24,2026-12-08,,1.2,LD07769
+DL1538,Heritage Gifts Central · Range expansion,AC231,T04,Website,8429,Negotiation,75,2026-11-24,2027-02-05,,3.6,LD07770
+DL1539,Morning Glory Bakery · Christmas gift order,AC083,T01,LinkedIn,3134,Qualification,25,2026-11-24,2027-01-28,,1.7,LD07772
+DL1540,Unity Stores East · Valentine stock,AC117,T03,Referral,4261,Negotiation,75,2026-11-24,2026-12-21,,1.2,LD07775

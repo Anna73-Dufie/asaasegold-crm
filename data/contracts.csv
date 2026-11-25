@@ -1,0 +1,238 @@
+id,account,deal,owner,title,value,start,end,billing,auto_renew,status
+CO0001,AC278,DL0001,T02,Wholesale supply agreement · CityShop Stores Cantonments,35028,2025-02-01,2026-02-01,Monthly,1,Expired
+CO0002,AC231,DL0003,T04,Wholesale supply agreement · Heritage Gifts Central,23879,2025-02-19,2026-02-19,Monthly,0,Expired
+CO0003,AC211,DL0005,T03,Wholesale supply agreement · Goodway Stores,59305,2025-02-03,2026-02-03,Monthly,1,Renewed
+CO0004,AC044,DL0006,T02,Wholesale supply agreement · Accra Link (Canada),24477,2025-02-01,2026-02-01,Monthly,1,Renewed
+CO0005,AC233,DL0007,T05,Wholesale supply agreement · Volta Air Lounges,38796,2025-02-19,2026-02-19,Monthly,0,Expired
+CO0006,AC285,DL0008,T07,Wholesale supply agreement · Palace Supermarket South,39624,2025-01-21,2026-01-21,Monthly,0,Renewed
+CO0007,AC004,DL0009,T07,Wholesale supply agreement · Labadi Bay Resort Cantonments,36703,2025-01-26,2026-01-26,Monthly,1,Renewed
+CO0008,AC301,DL0011,T03,Wholesale supply agreement · Adinkra Hampers North,82448,2025-03-08,2026-03-08,Monthly,1,Renewed
+CO0009,AC271,DL0015,T05,Wholesale supply agreement · Royal Stores East Legon,35731,2025-02-18,2026-02-18,Monthly,1,Renewed
+CO0010,AC036,DL0016,T03,Wholesale supply agreement · Adinkra Trading (Canada),80429,2025-02-21,2026-02-21,Monthly,1,Renewed
+CO0011,AC221,DL0017,T03,Wholesale supply agreement · Freshmart Mart West,27957,2025-03-05,2026-03-05,Monthly,0,Expired
+CO0012,AC043,DL0022,T07,Wholesale supply agreement · Akwaaba Bakery,27795,2025-03-22,2026-03-22,Monthly,1,Renewed
+CO0013,AC069,DL0033,T03,Wholesale supply agreement · Sankofa Gifting Co.,36765,2025-03-19,2026-03-19,Monthly,1,Renewed
+CO0014,AC191,DL0038,T06,Wholesale supply agreement · Adinkra Trading (Canada) South,79709,2025-02-26,2026-02-26,Monthly,0,Renewed
+CO0015,AC074,DL0042,T06,Wholesale supply agreement · Royal Stores Central,28497,2025-04-14,2026-04-14,Monthly,1,Renewed
+CO0016,AC168,DL0043,T01,Wholesale supply agreement · Volta Air Duty Free North,36875,2025-03-03,2026-03-03,Monthly,0,Renewed
+CO0017,AC234,DL0044,T03,Wholesale supply agreement · CityShop Supermarket South,57463,2025-04-12,2026-04-12,Monthly,0,Renewed
+CO0018,AC254,DL0045,T03,Wholesale supply agreement · Motherland Pantry BV (Netherlands),10445,2025-04-14,2026-04-14,Monthly,1,Expired
+CO0019,AC184,DL0046,T07,Wholesale supply agreement · Bold Gifts Ahodwo,29815,2025-04-01,2026-04-01,Monthly,1,Expired
+CO0020,AC169,DL0051,T05,Wholesale supply agreement · Sankofa Gifting Co. East,17868,2025-04-16,2026-04-16,Monthly,1,Renewed
+CO0021,AC247,DL0058,T05,Wholesale supply agreement · Sweet Crumb Coffee House Ahodwo,31813,2025-03-14,2026-03-14,Monthly,0,Renewed
+CO0022,AC088,DL0060,T07,Wholesale supply agreement · Unity Supermarket North,26968,2025-04-19,2026-04-19,Monthly,1,Renewed
+CO0023,AC143,DL0061,T01,Wholesale supply agreement · Oven Fresh Café Plus,16482,2025-04-13,2026-04-13,Monthly,1,Renewed
+CO0024,AC120,DL0062,T06,Wholesale supply agreement · Kwaku Café North,28797,2025-03-29,2026-03-29,Monthly,1,Renewed
+CO0025,AC137,DL0064,T05,Wholesale supply agreement · Bean & Bake Coffee House West,42011,2025-04-08,2026-04-08,Monthly,1,Renewed
+CO0026,AC284,DL0070,T01,Wholesale supply agreement · Akan Foods (UK) Ltd,81858,2025-03-12,2026-03-12,Monthly,1,Renewed
+CO0027,AC032,DL0076,T01,Wholesale supply agreement · Labadi Bay Hotel,36573,2025-04-01,2026-04-01,Monthly,0,Expired
+CO0028,AC108,DL0077,T02,Wholesale supply agreement · Oven Fresh Bakery,11813,2025-03-12,2026-03-12,Monthly,1,Renewed
+CO0029,AC102,DL0078,T02,Wholesale supply agreement · Motherland Pantry GmbH,20305,2025-04-28,2026-04-28,Monthly,1,Renewed
+CO0030,AC162,DL0079,T06,Wholesale supply agreement · Golden Sands Hotel & Suites,13716,2025-04-13,2026-04-13,Monthly,0,Renewed
+CO0031,AC164,DL0081,T04,Wholesale supply agreement · Coastline Hotel East,30350,2025-03-10,2026-03-10,Monthly,0,Expired
+CO0032,AC244,DL0082,T07,Wholesale supply agreement · Kwaku Coffee House Harbour,26556,2025-05-05,2026-05-05,Monthly,0,Renewed
+CO0033,AC150,DL0083,T05,Wholesale supply agreement · Royal Supermarket West,14217,2025-05-03,2026-05-03,Monthly,0,Renewed
+CO0034,AC122,DL0084,T02,Wholesale supply agreement · Bold Hampers Central,33521,2025-04-13,2026-04-13,Monthly,0,Renewed
+CO0035,AC092,DL0085,T02,Wholesale supply agreement · Labadi Bay Hotel & Suites Community 25,44589,2025-04-02,2026-04-02,Monthly,1,Renewed
+CO0036,AC158,DL0087,T07,Wholesale supply agreement · Adinkra Trading GmbH,32829,2025-03-23,2026-03-23,Monthly,1,Renewed
+CO0037,AC193,DL0090,T04,Wholesale supply agreement · Ebony Foods GmbH,20365,2025-05-03,2026-05-03,Monthly,1,Renewed
+CO0038,AC041,DL0095,T07,Wholesale supply agreement · Coastline Hotel Osu,53201,2025-03-24,2026-03-24,Monthly,1,Renewed
+CO0039,AC018,DL0096,T07,Wholesale supply agreement · Motherland Pantry (Canada),37523,2025-04-21,2026-04-21,Monthly,0,Renewed
+CO0040,AC229,DL0104,T02,Wholesale supply agreement · Lagoon Hotel & Suites Central,26880,2025-04-20,2026-04-20,Monthly,0,Expired
+CO0041,AC149,DL0105,T03,Wholesale supply agreement · Sankofa Gifts,98615,2025-04-29,2026-04-29,Monthly,0,Expired
+CO0042,AC173,DL0112,T03,Wholesale supply agreement · Palace Supermarket,46370,2025-05-07,2026-05-07,Monthly,1,Expired
+CO0043,AC084,DL0113,T07,Wholesale supply agreement · Kotoka Airways,45357,2025-06-02,2026-06-02,Monthly,1,Renewed
+CO0044,AC227,DL0120,T05,Wholesale supply agreement · West Africa Trade GmbH,55712,2025-05-25,2026-05-25,Monthly,1,Renewed
+CO0045,AC021,DL0121,T01,Wholesale supply agreement · Brew Bakery,20646,2025-05-17,2026-05-17,Monthly,0,Renewed
+CO0046,AC279,DL0123,T04,Wholesale supply agreement · Diaspora Pantry (Canada) East,29279,2025-04-13,2026-04-13,Monthly,1,Renewed
+CO0047,AC040,DL0126,T04,Wholesale supply agreement · Royal Mart Spintex,21882,2025-05-31,2026-05-31,Monthly,0,Expired
+CO0048,AC138,DL0131,T01,Wholesale supply agreement · Coastal Wings Duty Free North,19968,2025-06-05,2026-06-05,Monthly,1,Renewed
+CO0049,AC251,DL0132,T07,Wholesale supply agreement · Heritage Gifting Co. South,40720,2025-05-20,2026-05-20,Monthly,0,Renewed
+CO0050,AC304,DL0134,T04,Wholesale supply agreement · West Africa Trade (UK) Ltd,46824,2025-05-25,2026-05-25,Monthly,1,Renewed
+CO0051,AC245,DL0137,T07,Wholesale supply agreement · Bean & Bake Café Central,14965,2025-04-19,2026-04-19,Monthly,1,Renewed
+CO0052,AC274,DL0141,T02,Wholesale supply agreement · Sankofa Gifting Co. Adum,29085,2025-05-21,2026-05-21,Monthly,0,Renewed
+CO0053,AC258,DL0143,T04,Wholesale supply agreement · Golden Sands Hotel & Suites North,14301,2025-05-02,2026-05-02,Monthly,1,Renewed
+CO0054,AC022,DL0145,T07,Wholesale supply agreement · Bold Gifts,38096,2025-05-03,2026-05-03,Monthly,1,Expired
+CO0055,AC282,DL0146,T04,Wholesale supply agreement · Freshmart Stores Osu,77517,2025-04-27,2026-04-27,Monthly,1,Renewed
+CO0056,AC009,DL0152,T04,Wholesale supply agreement · Palace Stores,21074,2025-06-22,2026-06-22,Monthly,1,Renewed
+CO0057,AC019,DL0156,T05,Wholesale supply agreement · Sahel & Coast BV (Netherlands),36801,2025-05-05,2026-05-05,Monthly,0,Renewed
+CO0058,AC091,DL0162,T07,Wholesale supply agreement · Afro Foods GmbH,28329,2025-06-13,2026-06-13,Monthly,1,Renewed
+CO0059,AC124,DL0163,T03,Wholesale supply agreement · Volta Air Duty Free,17460,2025-06-24,2026-06-24,Monthly,0,Renewed
+CO0060,AC030,DL0164,T07,Wholesale supply agreement · Palace Supermarket Spintex,38226,2025-05-04,2026-05-04,Monthly,1,Renewed
+CO0061,AC307,DL0165,T06,Wholesale supply agreement · Sahel & Coast (USA) Inc.,25033,2025-06-19,2026-06-19,Monthly,1,Renewed
+CO0062,AC264,DL0169,T04,Wholesale supply agreement · Coastline Hotel & Suites,32365,2025-06-18,2026-06-18,Monthly,0,Renewed
+CO0063,AC076,DL0173,T02,Wholesale supply agreement · Unity Stores,34856,2025-05-23,2026-05-23,Monthly,1,Renewed
+CO0064,AC238,DL0178,T01,Wholesale supply agreement · Golden Sands Resort West,27688,2025-06-07,2026-06-07,Monthly,0,Expired
+CO0065,AC023,DL0204,T05,Wholesale supply agreement · Bold Hampers,29816,2025-06-10,2026-06-10,Monthly,1,Expired
+CO0066,AC213,DL0215,T06,Wholesale supply agreement · Bean & Bake Café East Legon,46031,2025-06-08,2026-06-08,Monthly,1,Expired
+CO0067,AC172,DL0219,T06,Wholesale supply agreement · SkyGold Duty Free North,39874,2025-06-27,2026-06-27,Monthly,0,Expired
+CO0068,AC257,DL0221,T03,Wholesale supply agreement · Prestige Gifting Co. Cantonments,31905,2025-06-14,2026-06-14,Monthly,1,Renewed
+CO0069,AC185,DL0222,T07,Wholesale supply agreement · Sankofa Gifts East,23349,2025-06-30,2026-06-30,Monthly,1,Expired
+CO0070,AC098,DL0224,T01,Wholesale supply agreement · Accra Link BV (Netherlands),10067,2025-07-27,2026-07-27,Monthly,1,Renewed
+CO0071,AC232,DL0229,T02,Wholesale supply agreement · Sankofa Hampers Adum,17655,2025-07-02,2026-07-02,Monthly,0,Renewed
+CO0072,AC240,DL0231,T07,Wholesale supply agreement · Freshmart Mart Ahodwo,23176,2025-07-23,2026-07-23,Monthly,0,Expired
+CO0073,AC051,DL0232,T06,Wholesale supply agreement · Family Mart,17549,2025-06-20,2026-06-20,Monthly,0,Renewed
+CO0074,AC201,DL0234,T07,Wholesale supply agreement · Palace Mart South,16064,2025-08-02,2026-08-02,Monthly,0,Expired
+CO0075,AC222,DL0235,T03,Wholesale supply agreement · Sankofa Gifting Co. West,22602,2025-07-12,2026-07-12,Monthly,1,Renewed
+CO0076,AC204,DL0237,T06,Wholesale supply agreement · SkyGold Duty Free Plus,66882,2025-07-19,2026-07-19,Monthly,0,Expired
+CO0077,AC302,DL0238,T07,Wholesale supply agreement · Unity Supermarket West,12886,2025-07-22,2026-07-22,Monthly,1,Renewed
+CO0078,AC194,DL0245,T01,Wholesale supply agreement · Golden Sands Resort Osu,49067,2025-07-02,2026-07-02,Monthly,1,Expired
+CO0079,AC224,DL0247,T06,Wholesale supply agreement · Palace Mart North,41348,2025-07-31,2026-07-31,Monthly,0,Expired
+CO0080,AC235,DL0249,T01,Wholesale supply agreement · Sweet Crumb Café,27046,2025-06-26,2026-06-26,Monthly,0,Expired
+CO0081,AC292,DL0250,T06,Wholesale supply agreement · Prestige Gifts North,37443,2025-07-28,2026-07-28,Monthly,0,Renewed
+CO0082,AC198,DL0255,T02,Wholesale supply agreement · Labadi Bay Hotel & Suites Spintex,19753,2025-07-06,2026-07-06,Monthly,1,Expired
+CO0083,AC026,DL0265,T04,Wholesale supply agreement · Bold Gifts South,16001,2025-07-07,2026-07-07,Monthly,0,Renewed
+CO0084,AC281,DL0271,T03,Wholesale supply agreement · Palm Court Hotel & Suites East Legon,40966,2025-08-22,2026-08-22,Monthly,0,Renewed
+CO0085,AC117,DL0273,T03,Wholesale supply agreement · Unity Stores East,27751,2025-07-16,2026-07-16,Monthly,1,Expired
+CO0086,AC133,DL0276,T01,Wholesale supply agreement · Sweet Crumb Bakery Airport City,33147,2025-07-14,2026-07-14,Monthly,0,Expired
+CO0087,AC209,DL0277,T01,Wholesale supply agreement · Family Supermarket North,27272,2025-08-22,2026-08-22,Monthly,1,Renewed
+CO0088,AC270,DL0289,T02,Wholesale supply agreement · Volta View Resort Adum,26547,2025-09-19,2026-09-19,Monthly,0,Renewed
+CO0089,AC010,DL0290,T01,Wholesale supply agreement · Royal Stores,45539,2025-09-19,2026-09-19,Monthly,0,Renewed
+CO0090,AC067,DL0291,T07,Wholesale supply agreement · Black Star Imports BV (Netherlands),42736,2025-09-12,2026-09-12,Monthly,0,Renewed
+CO0091,AC140,DL0292,T04,Wholesale supply agreement · Freshmart Mart,64454,2025-08-31,2026-08-31,Monthly,1,Renewed
+CO0092,AC100,DL0293,T01,Wholesale supply agreement · Akwaaba Coffee House Harbour,25414,2025-08-03,2026-08-03,Monthly,1,Renewed
+CO0093,AC066,DL0308,T04,Wholesale supply agreement · Sweet Crumb Café Osu,40565,2025-08-23,2026-08-23,Monthly,1,Renewed
+CO0094,AC220,DL0309,T02,Wholesale supply agreement · Kwaku Bakery North,28486,2025-09-22,2026-09-22,Monthly,0,Renewed
+CO0095,AC135,DL0316,T05,Wholesale supply agreement · Brew Coffee House East,31816,2025-10-06,2026-10-06,Monthly,0,Expired
+CO0096,AC303,DL0321,T05,Wholesale supply agreement · Golden Sands Hotel South,34336,2025-08-31,2026-08-31,Monthly,1,Renewed
+CO0097,AC103,DL0324,T03,Wholesale supply agreement · Prestige Hampers,28164,2025-08-19,2026-08-19,Monthly,1,Renewed
+CO0098,AC062,DL0328,T02,Wholesale supply agreement · Morning Glory Café,12200,2025-08-25,2026-08-25,Monthly,0,Renewed
+CO0099,AC039,DL0331,T06,Wholesale supply agreement · Palace Mart Spintex,41481,2025-10-01,2026-10-01,Monthly,1,Renewed
+CO0100,AC239,DL0336,T01,Wholesale supply agreement · CityShop Mart East Legon,65212,2025-09-24,2026-09-24,Monthly,0,Renewed
+CO0101,AC116,DL0337,T03,Wholesale supply agreement · Kwaku Café South,28170,2025-09-28,2026-09-28,Monthly,0,Renewed
+CO0102,AC214,DL0341,T01,Wholesale supply agreement · Royal Stores South,24336,2025-10-18,2026-10-18,Monthly,1,Expired
+CO0103,AC080,DL0343,T01,Wholesale supply agreement · Ridge Hotel Central,22881,2025-08-29,2026-08-29,Monthly,0,Expired
+CO0104,AC154,DL0346,T04,Wholesale supply agreement · Family Stores North,28251,2025-09-18,2026-09-18,Monthly,0,Renewed
+CO0105,AC206,DL0349,T04,Wholesale supply agreement · Ridge Hotel & Suites East Legon,42142,2025-10-06,2026-10-06,Monthly,0,Renewed
+CO0106,AC276,DL0352,T06,Wholesale supply agreement · Accra Link (UK) Ltd North,12083,2025-10-05,2026-10-05,Monthly,1,Renewed
+CO0107,AC083,DL0359,T01,Wholesale supply agreement · Morning Glory Bakery,51361,2025-09-22,2026-09-22,Monthly,0,Expired
+CO0108,AC136,DL0363,T03,Wholesale supply agreement · Sankofa Hampers,28866,2025-10-20,2026-10-20,Monthly,0,Expired
+CO0109,AC119,DL0374,T02,Wholesale supply agreement · Family Supermarket Dzorwulu,41274,2025-09-15,2026-09-15,Monthly,1,Renewed
+CO0110,AC157,DL0385,T03,Wholesale supply agreement · Freshmart Supermarket Osu,51983,2025-10-04,2026-10-04,Monthly,1,Renewed
+CO0111,AC268,DL0387,T01,Wholesale supply agreement · Palm Court Hotel & Suites West,31408,2025-09-25,2026-09-25,Monthly,0,Renewed
+CO0112,AC289,DL0389,T01,Wholesale supply agreement · Family Stores East,93437,2025-10-20,2026-10-20,Monthly,0,Expired
+CO0113,AC252,DL0390,T06,Wholesale supply agreement · Golden Sands Hotel West,26839,2025-11-22,2026-11-22,Monthly,0,Renewed
+CO0114,AC126,DL0391,T07,Wholesale supply agreement · CityShop Stores West,42356,2025-11-05,2026-11-05,Monthly,0,Renewed
+CO0115,AC167,DL0398,T03,Wholesale supply agreement · Motherland Pantry GmbH South,30628,2025-11-01,2026-11-01,Monthly,0,Expired
+CO0116,AC001,DL0400,T04,Wholesale supply agreement · Freshmart Stores,24467,2025-11-21,2026-11-21,Monthly,1,Renewed
+CO0117,AC016,DL0402,T06,Wholesale supply agreement · Adinkra Gifts,45592,2025-10-15,2026-10-15,Monthly,1,Expired
+CO0118,AC020,DL0407,T03,Wholesale supply agreement · Labadi Bay Hotel & Suites,28932,2025-10-14,2026-10-14,Monthly,0,Renewed
+CO0119,AC012,DL0409,T06,Wholesale supply agreement · SkyGold Duty Free,10971,2025-11-03,2026-11-03,Monthly,0,Renewed
+CO0120,AC111,DL0411,T01,Wholesale supply agreement · Kwaku Café,80703,2025-11-15,2026-11-15,Monthly,1,Renewed
+CO0121,AC280,DL0414,T06,Wholesale supply agreement · Akwaaba Café,34157,2025-12-09,2026-12-09,Monthly,1,Expiring soon
+CO0122,AC015,DL0417,T04,Wholesale supply agreement · Bean & Bake Bakery,76243,2025-10-27,2026-10-27,Monthly,1,Renewed
+CO0123,AC267,DL0418,T04,Wholesale supply agreement · Diaspora Pantry (Canada),11990,2025-11-20,2026-11-20,Monthly,0,Expired
+CO0124,AC144,DL0422,T02,Wholesale supply agreement · Coastal Wings Airways,77286,2025-10-22,2026-10-22,Monthly,1,Renewed
+CO0125,AC293,DL0425,T05,Wholesale supply agreement · Sankofa Gifts Plus,33312,2025-11-24,2026-11-24,Monthly,1,Renewed
+CO0126,AC132,DL0426,T07,Wholesale supply agreement · Sankofa Gifting Co. South,26037,2025-11-05,2026-11-05,Monthly,0,Expired
+CO0127,AC296,DL0431,T07,Wholesale supply agreement · Adinkra Hampers Central,18750,2025-12-02,2026-12-02,Monthly,0,Expiring soon
+CO0128,AC275,DL0432,T02,Wholesale supply agreement · Bean & Bake Café Spintex,55621,2025-11-14,2026-11-14,Monthly,0,Renewed
+CO0129,AC249,DL0439,T05,Wholesale supply agreement · Coastal Wings Airways Plus,23702,2025-11-02,2026-11-02,Monthly,0,Expired
+CO0130,AC306,DL0443,T06,Wholesale supply agreement · Golden Sands Resort Dzorwulu,32429,2025-12-13,2026-12-13,Monthly,0,Expiring soon
+CO0131,AC095,DL0447,T03,Wholesale supply agreement · CityShop Supermarket,37865,2025-10-30,2026-10-30,Monthly,1,Expired
+CO0132,AC241,DL0449,T01,Wholesale supply agreement · Ebony Foods GmbH West,26865,2025-11-20,2026-11-20,Monthly,1,Expired
+CO0133,AC253,DL0450,T05,Wholesale supply agreement · Oven Fresh Café East,23922,2025-11-23,2026-11-23,Monthly,1,Renewed
+CO0134,AC038,DL0452,T05,Wholesale supply agreement · Freshmart Stores South,19250,2025-11-21,2026-11-21,Monthly,0,Expired
+CO0135,AC065,DL0458,T06,Wholesale supply agreement · SkyGold Lounges West,36001,2025-12-12,2026-12-12,Monthly,1,Expiring soon
+CO0136,AC123,DL0463,T07,Wholesale supply agreement · Freshmart Supermarket Spintex,15558,2026-01-02,2027-01-02,Monthly,1,Expiring soon
+CO0137,AC057,DL0465,T06,Wholesale supply agreement · Bean & Bake Coffee House,24880,2025-11-09,2026-11-09,Monthly,0,Expired
+CO0138,AC097,DL0466,T07,Wholesale supply agreement · Golden Sands Resort,78826,2025-12-30,2026-12-30,Monthly,1,Expiring soon
+CO0139,AC163,DL0467,T04,Wholesale supply agreement · CityShop Mart,19101,2025-12-28,2026-12-28,Monthly,1,Expiring soon
+CO0140,AC146,DL0469,T03,Wholesale supply agreement · Family Stores Central,30028,2025-12-19,2026-12-19,Monthly,0,Expiring soon
+CO0141,AC049,DL0474,T03,Wholesale supply agreement · Akwaaba Bakery Spintex,42129,2025-11-17,2026-11-17,Monthly,1,Renewed
+CO0142,AC171,DL0481,T04,Wholesale supply agreement · Oven Fresh Coffee House South,46835,2025-11-30,2026-11-30,Monthly,1,Expiring soon
+CO0143,AC045,DL0486,T04,Wholesale supply agreement · Bold Gifts Central,18401,2025-11-19,2026-11-19,Monthly,1,Renewed
+CO0144,AC017,DL0489,T03,Wholesale supply agreement · Akan Foods (Canada),34487,2025-12-14,2026-12-14,Monthly,1,Expiring soon
+CO0145,AC093,DL0492,T05,Wholesale supply agreement · Sahel & Coast (Canada),43072,2025-12-05,2026-12-05,Monthly,1,Expiring soon
+CO0146,AC211,,T03,Wholesale supply agreement · Goodway Stores (renewal),76188,2026-02-03,2027-02-03,Monthly,1,Active
+CO0147,AC044,,T02,Wholesale supply agreement · Accra Link (Canada) (renewal),26284,2026-02-01,2027-02-01,Monthly,1,Active
+CO0148,AC285,,T07,Wholesale supply agreement · Palace Supermarket South (renewal),47291,2026-01-21,2027-01-21,Monthly,0,Expiring soon
+CO0149,AC004,,T07,Wholesale supply agreement · Labadi Bay Resort Cantonments (renewal),44613,2026-01-26,2027-01-26,Monthly,1,Active
+CO0150,AC301,,T03,Wholesale supply agreement · Adinkra Hampers North (renewal),93964,2026-03-08,2027-03-08,Monthly,1,Active
+CO0151,AC271,,T05,Wholesale supply agreement · Royal Stores East Legon (renewal),40604,2026-02-18,2027-02-18,Monthly,1,Active
+CO0152,AC036,,T03,Wholesale supply agreement · Adinkra Trading (Canada) (renewal),102764,2026-02-21,2027-02-21,Monthly,1,Active
+CO0153,AC043,,T07,Wholesale supply agreement · Akwaaba Bakery (renewal),30475,2026-03-22,2027-03-22,Monthly,1,Active
+CO0154,AC069,,T03,Wholesale supply agreement · Sankofa Gifting Co. (renewal),42826,2026-03-19,2027-03-19,Monthly,1,Active
+CO0155,AC191,,T06,Wholesale supply agreement · Adinkra Trading (Canada) South (renewal),87367,2026-02-26,2027-02-26,Monthly,0,Active
+CO0156,AC074,,T06,Wholesale supply agreement · Royal Stores Central (renewal),30249,2026-04-14,2027-04-14,Monthly,1,Active
+CO0157,AC168,,T01,Wholesale supply agreement · Volta Air Duty Free North (renewal),41986,2026-03-03,2027-03-03,Monthly,0,Active
+CO0158,AC234,,T03,Wholesale supply agreement · CityShop Supermarket South (renewal),64520,2026-04-12,2027-04-12,Monthly,0,Active
+CO0159,AC169,,T05,Wholesale supply agreement · Sankofa Gifting Co. East (renewal),20749,2026-04-16,2027-04-16,Monthly,1,Active
+CO0160,AC247,,T05,Wholesale supply agreement · Sweet Crumb Coffee House Ahodwo (renewal),34285,2026-03-14,2027-03-14,Monthly,0,Active
+CO0161,AC088,,T07,Wholesale supply agreement · Unity Supermarket North (renewal),28625,2026-04-19,2027-04-19,Monthly,1,Active
+CO0162,AC143,,T01,Wholesale supply agreement · Oven Fresh Café Plus (renewal),19889,2026-04-13,2027-04-13,Monthly,1,Active
+CO0163,AC120,,T06,Wholesale supply agreement · Kwaku Café North (renewal),34181,2026-03-29,2027-03-29,Monthly,1,Active
+CO0164,AC137,,T05,Wholesale supply agreement · Bean & Bake Coffee House West (renewal),52826,2026-04-08,2027-04-08,Monthly,1,Active
+CO0165,AC284,,T01,Wholesale supply agreement · Akan Foods (UK) Ltd (renewal),89203,2026-03-12,2027-03-12,Monthly,1,Active
+CO0166,AC108,,T02,Wholesale supply agreement · Oven Fresh Bakery (renewal),12632,2026-03-12,2027-03-12,Monthly,1,Active
+CO0167,AC102,,T02,Wholesale supply agreement · Motherland Pantry GmbH (renewal),25378,2026-04-28,2027-04-28,Monthly,1,Active
+CO0168,AC162,,T06,Wholesale supply agreement · Golden Sands Hotel & Suites (renewal),15675,2026-04-13,2027-04-13,Monthly,0,Active
+CO0169,AC244,,T07,Wholesale supply agreement · Kwaku Coffee House Harbour (renewal),28538,2026-05-05,2027-05-05,Monthly,0,Active
+CO0170,AC150,,T05,Wholesale supply agreement · Royal Supermarket West (renewal),17419,2026-05-03,2027-05-03,Monthly,0,Active
+CO0171,AC122,,T02,Wholesale supply agreement · Bold Hampers Central (renewal),38062,2026-04-13,2027-04-13,Monthly,0,Active
+CO0172,AC092,,T02,Wholesale supply agreement · Labadi Bay Hotel & Suites Community 25 (renewal),51119,2026-04-02,2027-04-02,Monthly,1,Active
+CO0173,AC158,,T07,Wholesale supply agreement · Adinkra Trading GmbH (renewal),36171,2026-03-23,2027-03-23,Monthly,1,Active
+CO0174,AC193,,T04,Wholesale supply agreement · Ebony Foods GmbH (renewal),22889,2026-05-03,2027-05-03,Monthly,1,Active
+CO0175,AC041,,T07,Wholesale supply agreement · Coastline Hotel Osu (renewal),56958,2026-03-24,2027-03-24,Monthly,1,Active
+CO0176,AC018,,T07,Wholesale supply agreement · Motherland Pantry (Canada) (renewal),48418,2026-04-21,2027-04-21,Monthly,0,Active
+CO0177,AC084,,T07,Wholesale supply agreement · Kotoka Airways (renewal),57780,2026-06-02,2027-06-02,Monthly,1,Active
+CO0178,AC227,,T05,Wholesale supply agreement · West Africa Trade GmbH (renewal),64081,2026-05-25,2027-05-25,Monthly,1,Active
+CO0179,AC021,,T01,Wholesale supply agreement · Brew Bakery (renewal),23658,2026-05-17,2027-05-17,Monthly,0,Active
+CO0180,AC279,,T04,Wholesale supply agreement · Diaspora Pantry (Canada) East (renewal),37446,2026-04-13,2027-04-13,Monthly,1,Active
+CO0181,AC138,,T01,Wholesale supply agreement · Coastal Wings Duty Free North (renewal),22326,2026-06-05,2027-06-05,Monthly,1,Active
+CO0182,AC251,,T07,Wholesale supply agreement · Heritage Gifting Co. South (renewal),42953,2026-05-20,2027-05-20,Monthly,0,Active
+CO0183,AC304,,T04,Wholesale supply agreement · West Africa Trade (UK) Ltd (renewal),56750,2026-05-25,2027-05-25,Monthly,1,Active
+CO0184,AC245,,T07,Wholesale supply agreement · Bean & Bake Café Central (renewal),18882,2026-04-19,2027-04-19,Monthly,1,Active
+CO0185,AC274,,T02,Wholesale supply agreement · Sankofa Gifting Co. Adum (renewal),36866,2026-05-21,2027-05-21,Monthly,0,Active
+CO0186,AC258,,T04,Wholesale supply agreement · Golden Sands Hotel & Suites North (renewal),16927,2026-05-02,2027-05-02,Monthly,1,Active
+CO0187,AC282,,T04,Wholesale supply agreement · Freshmart Stores Osu (renewal),95240,2026-04-27,2027-04-27,Monthly,1,Active
+CO0188,AC009,,T04,Wholesale supply agreement · Palace Stores (renewal),26873,2026-06-22,2027-06-22,Monthly,1,Active
+CO0189,AC019,,T05,Wholesale supply agreement · Sahel & Coast BV (Netherlands) (renewal),41611,2026-05-05,2027-05-05,Monthly,0,Active
+CO0190,AC091,,T07,Wholesale supply agreement · Afro Foods GmbH (renewal),33150,2026-06-13,2027-06-13,Monthly,1,Active
+CO0191,AC124,,T03,Wholesale supply agreement · Volta Air Duty Free (renewal),22644,2026-06-24,2027-06-24,Monthly,0,Active
+CO0192,AC030,,T07,Wholesale supply agreement · Palace Supermarket Spintex (renewal),47620,2026-05-04,2027-05-04,Monthly,1,Active
+CO0193,AC307,,T06,Wholesale supply agreement · Sahel & Coast (USA) Inc. (renewal),31332,2026-06-19,2027-06-19,Monthly,1,Active
+CO0194,AC264,,T04,Wholesale supply agreement · Coastline Hotel & Suites (renewal),37307,2026-06-18,2027-06-18,Monthly,0,Active
+CO0195,AC076,,T02,Wholesale supply agreement · Unity Stores (renewal),45298,2026-05-23,2027-05-23,Monthly,1,Active
+CO0196,AC257,,T03,Wholesale supply agreement · Prestige Gifting Co. Cantonments (renewal),34313,2026-06-14,2027-06-14,Monthly,1,Active
+CO0197,AC098,,T01,Wholesale supply agreement · Accra Link BV (Netherlands) (renewal),10705,2026-07-27,2027-07-27,Monthly,1,Active
+CO0198,AC232,,T02,Wholesale supply agreement · Sankofa Hampers Adum (renewal),20011,2026-07-02,2027-07-02,Monthly,0,Active
+CO0199,AC051,,T06,Wholesale supply agreement · Family Mart (renewal),21079,2026-06-20,2027-06-20,Monthly,0,Active
+CO0200,AC222,,T03,Wholesale supply agreement · Sankofa Gifting Co. West (renewal),25213,2026-07-12,2027-07-12,Monthly,1,Active
+CO0201,AC302,,T07,Wholesale supply agreement · Unity Supermarket West (renewal),16744,2026-07-22,2027-07-22,Monthly,1,Active
+CO0202,AC292,,T06,Wholesale supply agreement · Prestige Gifts North (renewal),43498,2026-07-28,2027-07-28,Monthly,0,Active
+CO0203,AC026,,T04,Wholesale supply agreement · Bold Gifts South (renewal),19109,2026-07-07,2027-07-07,Monthly,0,Active
+CO0204,AC281,,T03,Wholesale supply agreement · Palm Court Hotel & Suites East Legon (renewal),43296,2026-08-22,2027-08-22,Monthly,0,Active
+CO0205,AC209,,T01,Wholesale supply agreement · Family Supermarket North (renewal),31653,2026-08-22,2027-08-22,Monthly,1,Active
+CO0206,AC270,,T02,Wholesale supply agreement · Volta View Resort Adum (renewal),33620,2026-09-19,2027-09-19,Monthly,0,Active
+CO0207,AC010,,T01,Wholesale supply agreement · Royal Stores (renewal),53418,2026-09-19,2027-09-19,Monthly,0,Active
+CO0208,AC067,,T07,Wholesale supply agreement · Black Star Imports BV (Netherlands) (renewal),46695,2026-09-12,2027-09-12,Monthly,0,Active
+CO0209,AC140,,T04,Wholesale supply agreement · Freshmart Mart (renewal),73971,2026-08-31,2027-08-31,Monthly,1,Active
+CO0210,AC100,,T01,Wholesale supply agreement · Akwaaba Coffee House Harbour (renewal),28824,2026-08-03,2027-08-03,Monthly,1,Active
+CO0211,AC066,,T04,Wholesale supply agreement · Sweet Crumb Café Osu (renewal),48599,2026-08-23,2027-08-23,Monthly,1,Active
+CO0212,AC220,,T02,Wholesale supply agreement · Kwaku Bakery North (renewal),36251,2026-09-22,2027-09-22,Monthly,0,Active
+CO0213,AC303,,T05,Wholesale supply agreement · Golden Sands Hotel South (renewal),40083,2026-08-31,2027-08-31,Monthly,1,Active
+CO0214,AC103,,T03,Wholesale supply agreement · Prestige Hampers (renewal),32591,2026-08-19,2027-08-19,Monthly,1,Active
+CO0215,AC062,,T02,Wholesale supply agreement · Morning Glory Café (renewal),15020,2026-08-25,2027-08-25,Monthly,0,Active
+CO0216,AC039,,T06,Wholesale supply agreement · Palace Mart Spintex (renewal),46865,2026-10-01,2027-10-01,Monthly,1,Active
+CO0217,AC239,,T01,Wholesale supply agreement · CityShop Mart East Legon (renewal),84547,2026-09-24,2027-09-24,Monthly,0,Active
+CO0218,AC116,,T03,Wholesale supply agreement · Kwaku Café South (renewal),31589,2026-09-28,2027-09-28,Monthly,0,Active
+CO0219,AC154,,T04,Wholesale supply agreement · Family Stores North (renewal),29951,2026-09-18,2027-09-18,Monthly,0,Active
+CO0220,AC206,,T04,Wholesale supply agreement · Ridge Hotel & Suites East Legon (renewal),51215,2026-10-06,2027-10-06,Monthly,0,Active
+CO0221,AC276,,T06,Wholesale supply agreement · Accra Link (UK) Ltd North (renewal),15680,2026-10-05,2027-10-05,Monthly,1,Active
+CO0222,AC119,,T02,Wholesale supply agreement · Family Supermarket Dzorwulu (renewal),52250,2026-09-15,2027-09-15,Monthly,1,Active
+CO0223,AC157,,T03,Wholesale supply agreement · Freshmart Supermarket Osu (renewal),56689,2026-10-04,2027-10-04,Monthly,1,Active
+CO0224,AC268,,T01,Wholesale supply agreement · Palm Court Hotel & Suites West (renewal),36986,2026-09-25,2027-09-25,Monthly,0,Active
+CO0225,AC252,,T06,Wholesale supply agreement · Golden Sands Hotel West (renewal),29859,2026-11-22,2027-11-22,Monthly,0,Active
+CO0226,AC126,,T07,Wholesale supply agreement · CityShop Stores West (renewal),52670,2026-11-05,2027-11-05,Monthly,0,Active
+CO0227,AC001,,T04,Wholesale supply agreement · Freshmart Stores (renewal),27532,2026-11-21,2027-11-21,Monthly,1,Active
+CO0228,AC020,,T03,Wholesale supply agreement · Labadi Bay Hotel & Suites (renewal),35856,2026-10-14,2027-10-14,Monthly,0,Active
+CO0229,AC012,,T06,Wholesale supply agreement · SkyGold Duty Free (renewal),13116,2026-11-03,2027-11-03,Monthly,0,Active
+CO0230,AC111,,T01,Wholesale supply agreement · Kwaku Café (renewal),95096,2026-11-15,2027-11-15,Monthly,1,Active
+CO0231,AC015,,T04,Wholesale supply agreement · Bean & Bake Bakery (renewal),81344,2026-10-27,2027-10-27,Monthly,1,Active
+CO0232,AC144,,T02,Wholesale supply agreement · Coastal Wings Airways (renewal),82740,2026-10-22,2027-10-22,Monthly,1,Active
+CO0233,AC293,,T05,Wholesale supply agreement · Sankofa Gifts Plus (renewal),40298,2026-11-24,2027-11-24,Monthly,1,Active
+CO0234,AC275,,T02,Wholesale supply agreement · Bean & Bake Café Spintex (renewal),72027,2026-11-14,2027-11-14,Monthly,0,Active
+CO0235,AC253,,T05,Wholesale supply agreement · Oven Fresh Café East (renewal),27190,2026-11-23,2027-11-23,Monthly,1,Active
+CO0236,AC049,,T03,Wholesale supply agreement · Akwaaba Bakery Spintex (renewal),49192,2026-11-17,2027-11-17,Monthly,1,Active
+CO0237,AC045,,T04,Wholesale supply agreement · Bold Gifts Central (renewal),19933,2026-11-19,2027-11-19,Monthly,1,Active

@@ -1,0 +1,27 @@
+id,name,type,city,date,capacity,ticket_price,cost,status,registered,attended,revenue,leads,wholesale_value
+EV01,National Chocolate Day Market · Accra Mall 2025,Pop-up,Accra,2025-02-20,400,0,6220,Completed,276,172,37415,23,285435
+EV02,Chocolate Tasting Masterclass 2025,Masterclass,Accra,2025-03-18,60,250,4716,Completed,52,44,24010,8,172679
+EV03,Hospitality Buyers Breakfast 2025,Trade event,Accra,2025-04-11,45,0,5732,Completed,44,25,0,8,59371
+EV04,New Flavour Launch Night 2025,Product launch,Accra,2025-05-18,150,100,10526,Completed,166,145,49627,21,156706
+EV05,Kumasi Chocolate Pop-up 2025,Pop-up,Kumasi,2025-05-18,400,0,5772,Completed,276,177,31911,18,156706
+EV06,Made-in-Ghana Expo 2025,Trade fair,Accra,2025-06-05,600,0,13082,Completed,562,342,0,128,94439
+EV07,Export Buyers Webinar 2025,Webinar,Online,2025-07-21,300,0,715,Completed,273,168,0,19,148907
+EV08,Farm-to-Bar Tour · Suhum 2025,Masterclass,Suhum,2025-08-09,60,250,4624,Completed,42,37,20785,3,252094
+EV09,Chocolate & Wine Pairing Evening 2025,Masterclass,Accra,2025-09-25,60,250,4111,Completed,53,45,22159,3,358007
+EV10,Cocoa Origins Webinar 2025,Webinar,Online,2025-10-12,300,0,534,Completed,220,129,0,17,193634
+EV11,Corporate Gifting Showcase 2025,Trade event,Accra,2025-10-07,45,0,4729,Completed,33,21,0,10,242098
+EV12,December in GH Gift Market 2025,Pop-up,Accra,2025-12-17,400,0,6925,Completed,317,197,46256,21,127060
+EV13,Kente Gift Box Launch 2025,Product launch,Accra,2025-11-12,150,100,11933,Completed,175,148,52453,19,135843
+EV14,National Chocolate Day Market · Accra Mall 2026,Pop-up,Accra,2026-02-06,400,0,7215,Completed,231,155,35069,18,119499
+EV15,Chocolate Tasting Masterclass 2026,Masterclass,Accra,2026-03-17,60,250,4209,Completed,63,52,28563,8,60147
+EV16,Hospitality Buyers Breakfast 2026,Trade event,Accra,2026-04-04,45,0,5681,Completed,45,28,0,9,81252
+EV17,New Flavour Launch Night 2026,Product launch,Accra,2026-05-25,150,100,13396,Completed,173,150,53591,16,152399
+EV18,Kumasi Chocolate Pop-up 2026,Pop-up,Kumasi,2026-05-24,400,0,6578,Completed,220,139,28275,22,138164
+EV19,Made-in-Ghana Expo 2026,Trade fair,Accra,2026-06-18,600,0,17608,Completed,496,297,0,108,119227
+EV20,Export Buyers Webinar 2026,Webinar,Online,2026-07-04,300,0,623,Completed,188,116,0,12,103675
+EV21,Farm-to-Bar Tour · Suhum 2026,Masterclass,Suhum,2026-08-21,60,250,3768,Completed,59,54,28130,1,106330
+EV22,Chocolate & Wine Pairing Evening 2026,Masterclass,Accra,2026-09-20,60,250,4727,Completed,65,61,32011,7,93785
+EV23,Cocoa Origins Webinar 2026,Webinar,Online,2026-10-26,300,0,583,Completed,173,111,0,17,22037
+EV24,Corporate Gifting Showcase 2026,Trade event,Accra,2026-10-07,45,0,5746,Completed,27,14,0,7,55027
+EV25,December in GH Gift Market 2026,Pop-up,Accra,2026-12-24,400,0,7005,Upcoming,162,0,0,0,0
+EV26,Kente Gift Box Launch 2026,Product launch,Accra,2026-11-13,150,100,11650,Completed,163,138,48704,25,0

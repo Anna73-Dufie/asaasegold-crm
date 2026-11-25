@@ -1,0 +1,533 @@
+id,title,date,start,end,owner,type
+CA0001,Hotel buyer meeting · Palm Court Hotel Community 25,2026-12-12,09:00,10:00,T01,Client
+CA0002,Hotel buyer meeting · Adinkra Gifts South,2026-09-17,09:00,10:00,T02,Client
+CA0003,Tasting session · Gye Nyame Gifts,2026-09-28,14:00,15:00,T11,Client
+CA0004,Team pipeline review,2026-10-10,16:00,17:00,T12,Meeting
+CA0005,Contract renewal call · Labadi Bay Hotel & Suites North,2026-10-14,15:00,16:00,T07,Client
+CA0006,Content shoot,2026-12-25,14:00,15:00,T03,Marketing
+CA0007,Content shoot,2026-10-27,10:00,11:00,T02,Marketing
+CA0008,Farm visit · cooperative,2026-12-29,11:00,12:00,T03,Meeting
+CA0009,Team pipeline review,2026-11-14,16:00,17:00,T06,Meeting
+CA0010,Content shoot,2026-11-12,14:00,15:00,T05,Marketing
+CA0011,Team pipeline review,2026-09-30,11:00,12:00,T04,Meeting
+CA0012,Hotel buyer meeting · Palm Court Resort,2026-11-20,10:00,11:00,T07,Client
+CA0013,Content shoot,2026-09-23,12:00,13:00,T01,Marketing
+CA0014,Farm visit · cooperative,2026-11-13,16:00,17:00,T07,Meeting
+CA0015,Hotel buyer meeting · Family Stores Plus,2026-09-16,12:00,13:00,T02,Client
+CA0016,Team pipeline review,2026-10-27,11:00,12:00,T04,Meeting
+CA0017,Contract renewal call · SkyGold Duty Free,2026-11-20,16:00,17:00,T05,Client
+CA0018,Account review · Adinkra Gifts South,2026-10-20,16:00,17:00,T01,Meeting
+CA0019,Farm visit · cooperative,2026-09-05,09:00,10:00,T05,Meeting
+CA0020,Hotel buyer meeting · Palace Stores Central,2026-09-12,09:00,10:00,T06,Client
+CA0021,Hotel buyer meeting · Family Mart East,2026-12-14,14:00,15:00,T05,Client
+CA0022,Tasting session · Unity Stores,2026-11-02,14:00,15:00,T12,Client
+CA0023,Farm visit · cooperative,2026-10-28,09:00,10:00,T04,Meeting
+CA0024,Contract renewal call · Oven Fresh Café East,2026-11-18,09:00,10:00,T07,Client
+CA0025,Account review · Bean & Bake Café,2026-12-09,11:00,12:00,T02,Meeting
+CA0026,Team pipeline review,2026-10-08,10:00,11:00,T06,Meeting
+CA0027,Tasting session · Kwaku Café,2026-12-14,10:00,11:00,T06,Client
+CA0028,Farm visit · cooperative,2026-12-10,16:00,17:00,T11,Meeting
+CA0029,Account review · Goodway Mart East,2026-12-03,14:00,15:00,T03,Meeting
+CA0030,Team pipeline review,2026-12-17,10:00,11:00,T06,Meeting
+CA0031,Hotel buyer meeting · Adinkra Hampers,2026-11-27,12:00,13:00,T12,Client
+CA0032,Hotel buyer meeting · Heritage Gifting Co.,2026-08-31,15:00,16:00,T12,Client
+CA0033,Contract renewal call · Family Stores West,2026-10-03,09:00,10:00,T06,Client
+CA0034,Supermarket visit · Adinkra Trading GmbH,2026-11-13,11:00,12:00,T12,Client
+CA0035,Account review · Family Supermarket,2026-09-10,11:00,12:00,T04,Meeting
+CA0036,Tasting session · Prestige Gifting Co.,2026-10-24,16:00,17:00,T01,Client
+CA0037,Contract renewal call · Heritage Gifts,2026-11-24,15:00,16:00,T05,Client
+CA0038,Farm visit · cooperative,2026-10-14,09:00,10:00,T06,Meeting
+CA0039,Content shoot,2026-10-12,14:00,15:00,T11,Marketing
+CA0040,Team pipeline review,2026-09-04,14:00,15:00,T11,Meeting
+CA0041,Team pipeline review,2026-12-28,11:00,12:00,T06,Meeting
+CA0042,Content shoot,2026-11-28,09:00,10:00,T07,Marketing
+CA0043,Supermarket visit · Diaspora Pantry GmbH,2026-10-05,09:00,10:00,T07,Client
+CA0044,Hotel buyer meeting · Golden Sands Hotel North,2026-08-31,09:00,10:00,T05,Client
+CA0045,Contract renewal call · SkyGold Lounges West,2026-11-02,16:00,17:00,T11,Client
+CA0046,Team pipeline review,2026-10-14,10:00,11:00,T04,Meeting
+CA0047,Supermarket visit · Oven Fresh Café East,2026-10-20,14:00,15:00,T12,Client
+CA0048,Team pipeline review,2026-12-28,09:00,10:00,T12,Meeting
+CA0049,Content shoot,2026-09-18,16:00,17:00,T05,Marketing
+CA0050,Contract renewal call · Oven Fresh Café Plus,2026-09-05,10:00,11:00,T04,Client
+CA0051,Content shoot,2026-09-29,14:00,15:00,T03,Marketing
+CA0052,Farm visit · cooperative,2026-12-18,12:00,13:00,T04,Meeting
+CA0053,Supermarket visit · Value Mart Harbour,2026-11-18,12:00,13:00,T03,Client
+CA0054,Account review · Ridge Hotel & Suites,2026-11-10,12:00,13:00,T05,Meeting
+CA0055,Tasting session · Kwaku Café South,2026-09-04,10:00,11:00,T07,Client
+CA0056,Content shoot,2026-10-28,14:00,15:00,T11,Marketing
+CA0057,Supermarket visit · Akan Foods (Canada),2026-11-07,14:00,15:00,T05,Client
+CA0058,Supermarket visit · Bean & Bake Coffee House Plus,2026-11-10,12:00,13:00,T06,Client
+CA0059,Hotel buyer meeting · CityShop Mart,2026-10-10,12:00,13:00,T05,Client
+CA0060,Tasting session · SkyGold Duty Free North,2026-11-11,10:00,11:00,T07,Client
+CA0061,Hotel buyer meeting · Sankofa Gifts East,2026-08-29,14:00,15:00,T04,Client
+CA0062,Content shoot,2026-12-11,09:00,10:00,T07,Marketing
+CA0063,Supermarket visit · Prestige Gifting Co. Cantonments,2026-12-07,11:00,12:00,T07,Client
+CA0064,Farm visit · cooperative,2026-12-15,11:00,12:00,T06,Meeting
+CA0065,Content shoot,2026-10-23,09:00,10:00,T11,Marketing
+CA0066,Contract renewal call · Bean & Bake Bakery East,2026-09-19,14:00,15:00,T07,Client
+CA0067,Supermarket visit · Brew Coffee House North,2026-12-14,16:00,17:00,T07,Client
+CA0068,Content shoot,2026-12-28,15:00,16:00,T12,Marketing
+CA0069,Tasting session · Coastline Hotel Osu,2026-12-16,15:00,16:00,T04,Client
+CA0070,Farm visit · cooperative,2026-10-09,10:00,11:00,T01,Meeting
+CA0071,Hotel buyer meeting · Unity Stores Asokwa,2026-12-03,16:00,17:00,T02,Client
+CA0072,Tasting session · Ridge Resort,2026-12-02,09:00,10:00,T11,Client
+CA0073,Tasting session · Adinkra Hampers Central,2026-10-13,12:00,13:00,T02,Client
+CA0074,Contract renewal call · Freshmart Stores West,2026-09-26,09:00,10:00,T04,Client
+CA0075,Supermarket visit · Freshmart Stores South,2026-10-08,10:00,11:00,T03,Client
+CA0076,Hotel buyer meeting · Bean & Bake Café,2026-12-05,15:00,16:00,T05,Client
+CA0077,Supermarket visit · Family Mart Plus,2026-09-22,11:00,12:00,T12,Client
+CA0078,Account review · Ebony Foods GmbH West,2026-10-10,12:00,13:00,T05,Meeting
+CA0079,Farm visit · cooperative,2026-09-15,09:00,10:00,T07,Meeting
+CA0080,Account review · Family Supermarket,2026-09-26,12:00,13:00,T05,Meeting
+CA0081,Account review · Palm Court Hotel & Suites West,2026-09-02,12:00,13:00,T02,Meeting
+CA0082,Farm visit · cooperative,2026-09-12,16:00,17:00,T06,Meeting
+CA0083,Account review · Gold Coast Imports BV (Netherlands),2026-11-20,15:00,16:00,T02,Meeting
+CA0084,Tasting session · Morning Glory Bakery West,2026-11-30,11:00,12:00,T03,Client
+CA0085,Contract renewal call · Motherland Pantry (USA) Inc.,2026-10-03,11:00,12:00,T04,Client
+CA0086,Team pipeline review,2026-10-14,15:00,16:00,T07,Meeting
+CA0087,Tasting session · Goodway Stores,2026-11-19,12:00,13:00,T04,Client
+CA0088,Contract renewal call · Accra Link (Canada),2026-10-15,09:00,10:00,T11,Client
+CA0089,Farm visit · cooperative,2026-10-22,11:00,12:00,T03,Meeting
+CA0090,Content shoot,2026-12-03,16:00,17:00,T05,Marketing
+CA0091,Farm visit · cooperative,2026-12-10,11:00,12:00,T02,Meeting
+CA0092,Tasting session · Oven Fresh Café,2026-11-07,14:00,15:00,T01,Client
+CA0093,Team pipeline review,2026-09-11,11:00,12:00,T02,Meeting
+CA0094,Team pipeline review,2026-12-15,12:00,13:00,T03,Meeting
+CA0095,Farm visit · cooperative,2026-09-11,10:00,11:00,T07,Meeting
+CA0096,Team pipeline review,2026-12-10,14:00,15:00,T01,Meeting
+CA0097,Tasting session · Palace Mart East Legon,2026-11-04,12:00,13:00,T04,Client
+CA0098,Hotel buyer meeting · Ridge Resort,2026-09-16,09:00,10:00,T04,Client
+CA0099,Hotel buyer meeting · Royal Mart,2026-10-03,10:00,11:00,T06,Client
+CA0100,Tasting session · Motherland Pantry (USA) Inc.,2026-12-02,12:00,13:00,T12,Client
+CA0101,Supermarket visit · CityShop Mart,2026-11-10,09:00,10:00,T11,Client
+CA0102,Content shoot,2026-09-04,10:00,11:00,T07,Marketing
+CA0103,Account review · Golden Sands Resort West,2026-09-12,11:00,12:00,T07,Meeting
+CA0104,Content shoot,2026-08-29,16:00,17:00,T07,Marketing
+CA0105,Farm visit · cooperative,2026-09-02,16:00,17:00,T01,Meeting
+CA0106,Hotel buyer meeting · Prestige Hampers,2026-10-06,15:00,16:00,T11,Client
+CA0107,Account review · Royal Stores,2026-12-15,15:00,16:00,T04,Meeting
+CA0108,Tasting session · Family Mart,2026-09-24,11:00,12:00,T04,Client
+CA0109,Tasting session · Sahel & Coast (USA) Inc.,2026-11-24,10:00,11:00,T05,Client
+CA0110,Tasting session · Freshmart Supermarket Spintex,2026-09-01,11:00,12:00,T01,Client
+CA0111,Supermarket visit · Volta View Resort Adum,2026-11-24,16:00,17:00,T11,Client
+CA0112,Supermarket visit · Palace Supermarket East,2026-12-01,15:00,16:00,T01,Client
+CA0113,Supermarket visit · Bean & Bake Bakery,2026-12-22,16:00,17:00,T11,Client
+CA0114,Team pipeline review,2026-10-14,14:00,15:00,T05,Meeting
+CA0115,Contract renewal call · Goodway Mart East,2026-09-26,11:00,12:00,T03,Client
+CA0116,Supermarket visit · Golden Sands Resort Dzorwulu,2026-11-24,16:00,17:00,T05,Client
+CA0117,Contract renewal call · Royal Stores,2026-11-03,15:00,16:00,T06,Client
+CA0118,Contract renewal call · Lagoon Hotel Central,2026-10-21,16:00,17:00,T04,Client
+CA0119,Team pipeline review,2026-11-20,14:00,15:00,T06,Meeting
+CA0120,Tasting session · Freshmart Supermarket Osu,2026-10-19,12:00,13:00,T02,Client
+CA0121,Content shoot,2026-12-15,16:00,17:00,T05,Marketing
+CA0122,Farm visit · cooperative,2026-11-24,09:00,10:00,T11,Meeting
+CA0123,Team pipeline review,2026-11-12,10:00,11:00,T05,Meeting
+CA0124,Account review · Value Supermarket,2026-09-22,12:00,13:00,T02,Meeting
+CA0125,Tasting session · Ridge Hotel & Suites,2026-10-01,15:00,16:00,T12,Client
+CA0126,Contract renewal call · Akwaaba Bakery,2026-11-27,16:00,17:00,T04,Client
+CA0127,Team pipeline review,2026-09-05,11:00,12:00,T03,Meeting
+CA0128,Tasting session · Palm Court Hotel & Suites West,2026-11-23,16:00,17:00,T01,Client
+CA0129,Account review · Lagoon Hotel & Suites East,2026-11-06,10:00,11:00,T12,Meeting
+CA0130,Team pipeline review,2026-12-22,16:00,17:00,T11,Meeting
+CA0131,Contract renewal call · Palace Mart South,2026-11-17,15:00,16:00,T12,Client
+CA0132,Content shoot,2026-09-07,16:00,17:00,T05,Marketing
+CA0133,Hotel buyer meeting · SkyGold Airways,2026-09-28,12:00,13:00,T06,Client
+CA0134,Farm visit · cooperative,2026-10-13,15:00,16:00,T11,Meeting
+CA0135,Contract renewal call · Family Mart East,2026-10-29,14:00,15:00,T06,Client
+CA0136,Tasting session · Akwaaba Bakery,2026-12-24,12:00,13:00,T05,Client
+CA0137,Team pipeline review,2026-09-26,09:00,10:00,T01,Meeting
+CA0138,Farm visit · cooperative,2026-09-17,15:00,16:00,T07,Meeting
+CA0139,Supermarket visit · Family Supermarket North,2026-11-19,09:00,10:00,T12,Client
+CA0140,Hotel buyer meeting · Ridge Resort Adum,2026-09-15,09:00,10:00,T02,Client
+CA0141,Contract renewal call · Akan Foods (Canada),2026-11-02,09:00,10:00,T06,Client
+CA0142,Farm visit · cooperative,2026-12-19,09:00,10:00,T06,Meeting
+CA0143,Contract renewal call · Palace Supermarket South,2026-09-05,10:00,11:00,T05,Client
+CA0144,Hotel buyer meeting · Goodway Mart Ahodwo,2026-10-07,14:00,15:00,T05,Client
+CA0145,Supermarket visit · Black Star Imports BV (Netherlands),2026-12-15,10:00,11:00,T12,Client
+CA0146,Content shoot,2026-10-01,14:00,15:00,T07,Marketing
+CA0147,Account review · Ridge Hotel East Legon,2026-09-02,16:00,17:00,T01,Meeting
+CA0148,Contract renewal call · Volta Air Duty Free North,2026-09-30,11:00,12:00,T03,Client
+CA0149,Contract renewal call · Bean & Bake Café East Legon,2026-10-30,16:00,17:00,T02,Client
+CA0150,Team pipeline review,2026-09-21,09:00,10:00,T05,Meeting
+CA0151,Supermarket visit · Brew Bakery,2026-12-18,14:00,15:00,T06,Client
+CA0152,Team pipeline review,2026-12-26,10:00,11:00,T04,Meeting
+CA0153,Team pipeline review,2026-09-17,11:00,12:00,T12,Meeting
+CA0154,Tasting session · Royal Stores,2026-12-28,15:00,16:00,T12,Client
+CA0155,Hotel buyer meeting · Freshmart Mart North,2026-10-19,14:00,15:00,T11,Client
+CA0156,Team pipeline review,2026-09-10,15:00,16:00,T03,Meeting
+CA0157,Team pipeline review,2026-10-14,10:00,11:00,T03,Meeting
+CA0158,Supermarket visit · Bold Gifts East Legon,2026-12-23,12:00,13:00,T07,Client
+CA0159,Tasting session · Accra Link (UK) Ltd North,2026-11-12,15:00,16:00,T07,Client
+CA0160,Contract renewal call · Freshmart Stores West,2026-09-25,11:00,12:00,T07,Client
+CA0161,Supermarket visit · Palace Supermarket South,2026-10-16,14:00,15:00,T01,Client
+CA0162,Account review · Akwaaba Bakery East,2026-10-08,12:00,13:00,T02,Meeting
+CA0163,Tasting session · Akan Foods (USA) Inc.,2026-10-15,16:00,17:00,T01,Client
+CA0164,Contract renewal call · Bean & Bake Coffee House West,2026-11-13,14:00,15:00,T05,Client
+CA0165,Supermarket visit · Black Star Imports BV (Netherlands),2026-09-09,14:00,15:00,T11,Client
+CA0166,Contract renewal call · Diaspora Pantry (UK) Ltd North,2026-12-04,10:00,11:00,T05,Client
+CA0167,Hotel buyer meeting · CityShop Supermarket South,2026-10-03,14:00,15:00,T06,Client
+CA0168,Contract renewal call · Bold Hampers West,2026-09-05,15:00,16:00,T02,Client
+CA0169,Hotel buyer meeting · Coastline Hotel & Suites,2026-09-07,14:00,15:00,T12,Client
+CA0170,Contract renewal call · Heritage Hampers Labone,2026-10-07,15:00,16:00,T12,Client
+CA0171,Supermarket visit · Family Stores Plus,2026-11-05,16:00,17:00,T12,Client
+CA0172,Team pipeline review,2026-12-29,14:00,15:00,T04,Meeting
+CA0173,Tasting session · West Africa Trade GmbH,2026-11-28,11:00,12:00,T01,Client
+CA0174,Hotel buyer meeting · Motherland Pantry (Canada) East,2026-12-09,09:00,10:00,T05,Client
+CA0175,Content shoot,2026-09-21,12:00,13:00,T06,Marketing
+CA0176,Tasting session · Lagoon Hotel,2026-11-11,15:00,16:00,T12,Client
+CA0177,Contract renewal call · Palace Supermarket Spintex,2026-09-29,14:00,15:00,T05,Client
+CA0178,Farm visit · cooperative,2026-10-12,14:00,15:00,T07,Meeting
+CA0179,Tasting session · Goodway Supermarket,2026-12-23,11:00,12:00,T04,Client
+CA0180,Hotel buyer meeting · Palace Supermarket,2026-09-04,16:00,17:00,T02,Client
+CA0181,Team pipeline review,2026-11-20,09:00,10:00,T01,Meeting
+CA0182,Tasting session · Diaspora Pantry (UK) Ltd,2026-11-07,14:00,15:00,T06,Client
+CA0183,Account review · Unity Stores Asokwa,2026-11-07,15:00,16:00,T07,Meeting
+CA0184,Contract renewal call · SkyGold Lounges North,2026-10-02,14:00,15:00,T01,Client
+CA0185,Contract renewal call · CityShop Mart,2026-12-05,09:00,10:00,T03,Client
+CA0186,Account review · Motherland Pantry (Canada) East,2026-09-23,14:00,15:00,T03,Meeting
+CA0187,Account review · Palace Mart,2026-08-31,12:00,13:00,T04,Meeting
+CA0188,Contract renewal call · West Africa Trade (UK) Ltd,2026-09-22,09:00,10:00,T02,Client
+CA0189,Tasting session · Labadi Bay Resort Cantonments,2026-11-10,11:00,12:00,T12,Client
+CA0190,Tasting session · Sankofa Gifting Co. East,2026-11-25,12:00,13:00,T04,Client
+CA0191,Account review · Akan Foods (UK) Ltd Central,2026-09-25,09:00,10:00,T05,Meeting
+CA0192,Farm visit · cooperative,2026-09-24,15:00,16:00,T06,Meeting
+CA0193,Team pipeline review,2026-11-16,15:00,16:00,T07,Meeting
+CA0194,Contract renewal call · Family Stores North,2026-09-03,12:00,13:00,T02,Client
+CA0195,Farm visit · cooperative,2026-08-29,11:00,12:00,T07,Meeting
+CA0196,Tasting session · Adinkra Hampers,2026-12-02,11:00,12:00,T04,Client
+CA0197,Hotel buyer meeting · Bean & Bake Café,2026-11-18,10:00,11:00,T02,Client
+CA0198,Farm visit · cooperative,2026-12-16,15:00,16:00,T12,Meeting
+CA0199,Content shoot,2026-10-23,14:00,15:00,T07,Marketing
+CA0200,Supermarket visit · Accra Link (UK) Ltd,2026-09-21,11:00,12:00,T01,Client
+CA0201,Tasting session · Black Star Imports GmbH,2026-11-30,12:00,13:00,T02,Client
+CA0202,Team pipeline review,2026-08-31,16:00,17:00,T01,Meeting
+CA0203,Hotel buyer meeting · Diaspora Pantry (UK) Ltd,2026-11-14,14:00,15:00,T12,Client
+CA0204,Farm visit · cooperative,2026-12-14,15:00,16:00,T11,Meeting
+CA0205,Tasting session · Sankofa Gifts East,2026-11-23,16:00,17:00,T01,Client
+CA0206,Content shoot,2026-12-05,16:00,17:00,T12,Marketing
+CA0207,Tasting session · Bean & Bake Café Central,2026-12-22,09:00,10:00,T12,Client
+CA0208,Content shoot,2026-08-31,16:00,17:00,T02,Marketing
+CA0209,Tasting session · Freshmart Supermarket Osu,2026-10-21,12:00,13:00,T04,Client
+CA0210,Tasting session · Oven Fresh Café,2026-11-09,11:00,12:00,T06,Client
+CA0211,Farm visit · cooperative,2026-10-08,15:00,16:00,T11,Meeting
+CA0212,Contract renewal call · CityShop Supermarket West,2026-09-17,09:00,10:00,T05,Client
+CA0213,Content shoot,2026-10-27,14:00,15:00,T05,Marketing
+CA0214,Hotel buyer meeting · Oven Fresh Coffee House,2026-10-09,10:00,11:00,T03,Client
+CA0215,Tasting session · Family Mart East,2026-11-24,10:00,11:00,T01,Client
+CA0216,Account review · CityShop Stores Central,2026-11-25,15:00,16:00,T12,Meeting
+CA0217,Tasting session · Palace Supermarket,2026-10-22,11:00,12:00,T01,Client
+CA0218,Hotel buyer meeting · Brew Coffee House East,2026-12-22,14:00,15:00,T05,Client
+CA0219,Account review · SkyGold Duty Free East,2026-09-07,11:00,12:00,T06,Meeting
+CA0220,Contract renewal call · Family Stores East,2026-12-02,16:00,17:00,T11,Client
+CA0221,Tasting session · Coastal Wings Airways,2026-12-25,15:00,16:00,T03,Client
+CA0222,Hotel buyer meeting · Adinkra Hampers North,2026-11-20,11:00,12:00,T05,Client
+CA0223,Tasting session · Unity Stores South,2026-08-27,15:00,16:00,T12,Client
+CA0224,Tasting session · Prestige Hampers Osu,2026-10-22,12:00,13:00,T01,Client
+CA0225,Tasting session · Palace Mart North,2026-12-18,16:00,17:00,T01,Client
+CA0226,Content shoot,2026-12-12,12:00,13:00,T12,Marketing
+CA0227,Contract renewal call · Oven Fresh Café East,2026-09-28,10:00,11:00,T05,Client
+CA0228,Account review · Bean & Bake Café Spintex,2026-11-02,16:00,17:00,T01,Meeting
+CA0229,Content shoot,2026-11-07,12:00,13:00,T11,Marketing
+CA0230,Farm visit · cooperative,2026-11-05,12:00,13:00,T05,Meeting
+CA0231,Hotel buyer meeting · Akan Foods (UK) Ltd,2026-09-29,09:00,10:00,T03,Client
+CA0232,Team pipeline review,2026-12-17,10:00,11:00,T04,Meeting
+CA0233,Farm visit · cooperative,2026-11-20,12:00,13:00,T05,Meeting
+CA0234,Tasting session · Golden Sands Hotel & Suites Labone East,2026-12-03,12:00,13:00,T05,Client
+CA0235,Hotel buyer meeting · Sahel & Coast (USA) Inc.,2026-10-30,14:00,15:00,T07,Client
+CA0236,Contract renewal call · Coastline Hotel North,2026-10-05,16:00,17:00,T03,Client
+CA0237,Hotel buyer meeting · SkyGold Airways,2026-12-14,16:00,17:00,T05,Client
+CA0238,Team pipeline review,2026-09-29,16:00,17:00,T02,Meeting
+CA0239,Hotel buyer meeting · Gye Nyame Gifts Cantonments,2026-11-18,16:00,17:00,T01,Client
+CA0240,Team pipeline review,2026-12-24,09:00,10:00,T04,Meeting
+CA0241,Tasting session · Volta Air Airways Plus,2026-09-23,14:00,15:00,T04,Client
+CA0242,Tasting session · Unity Supermarket,2026-12-28,14:00,15:00,T07,Client
+CA0243,Team pipeline review,2026-12-15,15:00,16:00,T05,Meeting
+CA0244,Team pipeline review,2026-12-14,16:00,17:00,T11,Meeting
+CA0245,Content shoot,2026-10-21,12:00,13:00,T05,Marketing
+CA0246,Supermarket visit · Family Supermarket,2026-12-10,09:00,10:00,T02,Client
+CA0247,Tasting session · Freshmart Stores North,2026-11-06,16:00,17:00,T01,Client
+CA0248,Farm visit · cooperative,2026-10-29,16:00,17:00,T02,Meeting
+CA0249,Supermarket visit · Akwaaba Bakery Spintex,2026-08-31,09:00,10:00,T04,Client
+CA0250,Team pipeline review,2026-10-12,11:00,12:00,T01,Meeting
+CA0251,Tasting session · Freshmart Mart,2026-11-06,16:00,17:00,T02,Client
+CA0252,Farm visit · cooperative,2026-09-15,11:00,12:00,T07,Meeting
+CA0253,Tasting session · Kwaku Coffee House,2026-12-03,15:00,16:00,T03,Client
+CA0254,Tasting session · Palace Mart North,2026-12-25,14:00,15:00,T12,Client
+CA0255,Supermarket visit · Unity Stores West,2026-10-12,10:00,11:00,T04,Client
+CA0256,Content shoot,2026-10-17,11:00,12:00,T07,Marketing
+CA0257,Account review · CityShop Stores,2026-11-23,15:00,16:00,T04,Meeting
+CA0258,Content shoot,2026-11-02,10:00,11:00,T04,Marketing
+CA0259,Contract renewal call · CityShop Mart,2026-08-27,14:00,15:00,T11,Client
+CA0260,Contract renewal call · Bold Gifts Ahodwo,2026-11-23,16:00,17:00,T06,Client
+CA0261,Farm visit · cooperative,2026-09-30,15:00,16:00,T03,Meeting
+CA0262,Hotel buyer meeting · Family Stores Plus,2026-10-24,14:00,15:00,T02,Client
+CA0263,Hotel buyer meeting · Goodway Mart East,2026-12-02,12:00,13:00,T11,Client
+CA0264,Farm visit · cooperative,2026-12-04,12:00,13:00,T07,Meeting
+CA0265,Hotel buyer meeting · CityShop Stores West,2026-12-29,16:00,17:00,T02,Client
+CA0266,Supermarket visit · Family Mart,2026-09-03,10:00,11:00,T02,Client
+CA0267,Farm visit · cooperative,2026-10-13,10:00,11:00,T01,Meeting
+CA0268,Supermarket visit · Goodway Mart Ahodwo,2026-11-19,12:00,13:00,T03,Client
+CA0269,Account review · Akwaaba Bakery Plus,2026-09-17,14:00,15:00,T04,Meeting
+CA0270,Supermarket visit · Gye Nyame Gifts,2026-12-28,11:00,12:00,T07,Client
+CA0271,Account review · Bean & Bake Coffee House Plus,2026-11-09,11:00,12:00,T07,Meeting
+CA0272,Content shoot,2026-09-02,15:00,16:00,T06,Marketing
+CA0273,Hotel buyer meeting · Motherland Pantry BV (Netherlands),2026-11-23,09:00,10:00,T05,Client
+CA0274,Supermarket visit · Gye Nyame Gifting Co. West,2026-09-03,14:00,15:00,T06,Client
+CA0275,Account review · Palm Court Resort Central,2026-09-26,15:00,16:00,T03,Meeting
+CA0276,Farm visit · cooperative,2026-10-28,16:00,17:00,T11,Meeting
+CA0277,Supermarket visit · Palace Supermarket East,2026-10-09,14:00,15:00,T01,Client
+CA0278,Contract renewal call · Family Stores,2026-09-11,12:00,13:00,T02,Client
+CA0279,Tasting session · Sahel & Coast (Canada),2026-12-19,11:00,12:00,T05,Client
+CA0280,Hotel buyer meeting · Bean & Bake Bakery East,2026-11-30,11:00,12:00,T01,Client
+CA0281,Supermarket visit · Volta View Hotel & Suites,2026-11-30,14:00,15:00,T07,Client
+CA0282,Team pipeline review,2026-09-12,10:00,11:00,T03,Meeting
+CA0283,Farm visit · cooperative,2026-09-25,09:00,10:00,T03,Meeting
+CA0284,Supermarket visit · Adinkra Trading GmbH,2026-09-22,14:00,15:00,T12,Client
+CA0285,Content shoot,2026-10-21,11:00,12:00,T03,Marketing
+CA0286,Account review · Freshmart Mart Harbour,2026-10-27,12:00,13:00,T01,Meeting
+CA0287,Tasting session · Adinkra Gifts South,2026-10-13,11:00,12:00,T04,Client
+CA0288,Contract renewal call · Sankofa Gifting Co.,2026-09-24,14:00,15:00,T07,Client
+CA0289,Team pipeline review,2026-10-20,11:00,12:00,T01,Meeting
+CA0290,Tasting session · Bold Gifts,2026-11-16,10:00,11:00,T01,Client
+CA0291,Hotel buyer meeting · Family Stores,2026-12-09,11:00,12:00,T12,Client
+CA0292,Supermarket visit · Morning Glory Coffee House Spintex,2026-09-26,10:00,11:00,T02,Client
+CA0293,Farm visit · cooperative,2026-10-01,09:00,10:00,T06,Meeting
+CA0294,Tasting session · Palace Supermarket Spintex,2026-09-15,15:00,16:00,T06,Client
+CA0295,Account review · Morning Glory Bakery,2026-10-03,12:00,13:00,T11,Meeting
+CA0296,Account review · Kwaku Coffee House,2026-10-10,11:00,12:00,T11,Meeting
+CA0297,Content shoot,2026-10-31,09:00,10:00,T12,Marketing
+CA0298,Account review · Akan Foods (UK) Ltd Central,2026-09-09,12:00,13:00,T01,Meeting
+CA0299,Hotel buyer meeting · Sweet Crumb Coffee House Ahodwo,2026-11-14,14:00,15:00,T12,Client
+CA0300,Hotel buyer meeting · Bean & Bake Bakery,2026-11-13,12:00,13:00,T07,Client
+CA0301,Content shoot,2026-12-10,16:00,17:00,T03,Marketing
+CA0302,Content shoot,2026-12-07,15:00,16:00,T02,Marketing
+CA0303,Farm visit · cooperative,2026-11-13,11:00,12:00,T07,Meeting
+CA0304,Farm visit · cooperative,2026-11-04,15:00,16:00,T02,Meeting
+CA0305,Farm visit · cooperative,2026-12-23,10:00,11:00,T06,Meeting
+CA0306,Contract renewal call · Bold Gifts East Legon,2026-09-25,14:00,15:00,T12,Client
+CA0307,Content shoot,2026-12-29,16:00,17:00,T12,Marketing
+CA0308,Supermarket visit · Akwaaba Coffee House Community 25,2026-11-24,11:00,12:00,T05,Client
+CA0309,Account review · Labadi Bay Hotel & Suites Spintex,2026-12-16,09:00,10:00,T01,Meeting
+CA0310,Contract renewal call · Morning Glory Bakery West,2026-11-17,10:00,11:00,T01,Client
+CA0311,Content shoot,2026-09-12,14:00,15:00,T03,Marketing
+CA0312,Content shoot,2026-11-26,09:00,10:00,T11,Marketing
+CA0313,Account review · CityShop Mart Adum,2026-09-12,12:00,13:00,T03,Meeting
+CA0314,Supermarket visit · Goodway Mart Ahodwo,2026-09-26,12:00,13:00,T03,Client
+CA0315,Content shoot,2026-11-18,14:00,15:00,T06,Marketing
+CA0316,Tasting session · Adinkra Hampers North,2026-08-26,09:00,10:00,T02,Client
+CA0317,Content shoot,2026-10-10,15:00,16:00,T04,Marketing
+CA0318,Content shoot,2026-09-02,11:00,12:00,T01,Marketing
+CA0319,Contract renewal call · Ebony Foods GmbH,2026-10-21,15:00,16:00,T04,Client
+CA0320,Team pipeline review,2026-09-26,12:00,13:00,T02,Meeting
+CA0321,Contract renewal call · SkyGold Lounges,2026-11-12,10:00,11:00,T01,Client
+CA0322,Content shoot,2026-12-09,10:00,11:00,T11,Marketing
+CA0323,Farm visit · cooperative,2026-12-15,11:00,12:00,T07,Meeting
+CA0324,Supermarket visit · Adinkra Trading (Canada),2026-12-22,12:00,13:00,T12,Client
+CA0325,Team pipeline review,2026-10-08,14:00,15:00,T04,Meeting
+CA0326,Tasting session · Heritage Hampers Labone,2026-09-28,16:00,17:00,T02,Client
+CA0327,Team pipeline review,2026-09-22,14:00,15:00,T03,Meeting
+CA0328,Account review · Ridge Resort,2026-10-15,10:00,11:00,T07,Meeting
+CA0329,Tasting session · Palace Mart,2026-09-04,11:00,12:00,T03,Client
+CA0330,Tasting session · Sankofa Gifts Labone,2026-11-04,12:00,13:00,T06,Client
+CA0331,Hotel buyer meeting · Unity Supermarket West,2026-12-17,15:00,16:00,T04,Client
+CA0332,Tasting session · Bean & Bake Coffee House,2026-10-03,14:00,15:00,T06,Client
+CA0333,Content shoot,2026-12-29,14:00,15:00,T02,Marketing
+CA0334,Supermarket visit · Brew Coffee House East,2026-10-08,10:00,11:00,T01,Client
+CA0335,Farm visit · cooperative,2026-11-03,15:00,16:00,T04,Meeting
+CA0336,Contract renewal call · Palace Stores East,2026-12-07,11:00,12:00,T11,Client
+CA0337,Account review · Palace Mart Spintex,2026-12-26,16:00,17:00,T05,Meeting
+CA0338,Contract renewal call · Adinkra Gifts North,2026-11-18,14:00,15:00,T04,Client
+CA0339,Tasting session · Labadi Bay Hotel & Suites East,2026-12-23,15:00,16:00,T04,Client
+CA0340,Hotel buyer meeting · Gye Nyame Gifts Cantonments,2026-12-12,09:00,10:00,T01,Client
+CA0341,Tasting session · Oven Fresh Bakery,2026-12-16,12:00,13:00,T01,Client
+CA0342,Farm visit · cooperative,2026-10-05,09:00,10:00,T11,Meeting
+CA0343,Hotel buyer meeting · Golden Sands Resort West,2026-09-12,14:00,15:00,T03,Client
+CA0344,Team pipeline review,2026-12-14,10:00,11:00,T11,Meeting
+CA0345,Contract renewal call · Family Mart,2026-12-14,12:00,13:00,T01,Client
+CA0346,Hotel buyer meeting · Family Stores Central,2026-11-16,09:00,10:00,T12,Client
+CA0347,Tasting session · Bean & Bake Coffee House,2026-09-11,16:00,17:00,T04,Client
+CA0348,Team pipeline review,2026-09-19,12:00,13:00,T01,Meeting
+CA0349,Farm visit · cooperative,2026-12-21,12:00,13:00,T06,Meeting
+CA0350,Supermarket visit · Bean & Bake Bakery,2026-11-17,09:00,10:00,T03,Client
+CA0351,Content shoot,2026-12-01,16:00,17:00,T03,Marketing
+CA0352,Tasting session · Kwaku Bakery,2026-09-26,09:00,10:00,T01,Client
+CA0353,Contract renewal call · Oven Fresh Café Plus,2026-11-12,10:00,11:00,T11,Client
+CA0354,Account review · Sweet Crumb Café Osu,2026-09-12,16:00,17:00,T04,Meeting
+CA0355,Hotel buyer meeting · Sweet Crumb Bakery,2026-09-19,10:00,11:00,T04,Client
+CA0356,Account review · Ebony Foods GmbH,2026-10-16,10:00,11:00,T07,Meeting
+CA0357,Content shoot,2026-12-12,10:00,11:00,T05,Marketing
+CA0358,Tasting session · Akwaaba Bakery East,2026-12-07,11:00,12:00,T07,Client
+CA0359,Supermarket visit · Sankofa Hampers,2026-10-10,09:00,10:00,T02,Client
+CA0360,Farm visit · cooperative,2026-08-27,11:00,12:00,T11,Meeting
+CA0361,Farm visit · cooperative,2026-09-19,16:00,17:00,T02,Meeting
+CA0362,Account review · CityShop Stores,2026-12-02,09:00,10:00,T01,Meeting
+CA0363,Tasting session · Morning Glory Coffee House Spintex,2026-08-31,12:00,13:00,T07,Client
+CA0364,Tasting session · Coastal Wings Duty Free North,2026-09-04,11:00,12:00,T05,Client
+CA0365,Account review · Gye Nyame Gifts,2026-10-08,15:00,16:00,T05,Meeting
+CA0366,Account review · Sankofa Gifts East,2026-12-15,15:00,16:00,T07,Meeting
+CA0367,Account review · Labadi Bay Hotel & Suites Community 25,2026-10-20,10:00,11:00,T02,Meeting
+CA0368,Hotel buyer meeting · Adinkra Gifts South,2026-09-30,12:00,13:00,T02,Client
+CA0369,Supermarket visit · Royal Stores,2026-09-25,15:00,16:00,T05,Client
+CA0370,Team pipeline review,2026-10-09,09:00,10:00,T03,Meeting
+CA0371,Account review · Palm Court Hotel & Suites East Legon,2026-10-30,09:00,10:00,T04,Meeting
+CA0372,Account review · Oven Fresh Café East,2026-11-05,09:00,10:00,T07,Meeting
+CA0373,Content shoot,2026-10-12,16:00,17:00,T06,Marketing
+CA0374,Hotel buyer meeting · Unity Stores South,2026-12-15,15:00,16:00,T01,Client
+CA0375,Content shoot,2026-08-31,10:00,11:00,T11,Marketing
+CA0376,Account review · Family Stores Central,2026-11-21,16:00,17:00,T02,Meeting
+CA0377,Content shoot,2026-10-02,12:00,13:00,T06,Marketing
+CA0378,Contract renewal call · Bold Gifts East Legon,2026-11-24,12:00,13:00,T03,Client
+CA0379,Account review · Value Mart Harbour,2026-10-12,15:00,16:00,T03,Meeting
+CA0380,Farm visit · cooperative,2026-09-10,14:00,15:00,T06,Meeting
+CA0381,Contract renewal call · Palace Mart,2026-10-06,11:00,12:00,T02,Client
+CA0382,Contract renewal call · Black Star Imports (UK) Ltd,2026-12-23,14:00,15:00,T02,Client
+CA0383,Tasting session · SkyGold Duty Free East,2026-12-03,16:00,17:00,T12,Client
+CA0384,Content shoot,2026-09-30,10:00,11:00,T07,Marketing
+CA0385,Farm visit · cooperative,2026-09-25,12:00,13:00,T05,Meeting
+CA0386,Team pipeline review,2026-10-28,09:00,10:00,T04,Meeting
+CA0387,Account review · Palace Mart North,2026-12-16,11:00,12:00,T07,Meeting
+CA0388,Farm visit · cooperative,2026-09-15,16:00,17:00,T04,Meeting
+CA0389,Hotel buyer meeting · Palace Supermarket East,2026-09-01,10:00,11:00,T03,Client
+CA0390,Supermarket visit · Royal Stores Plus,2026-11-17,15:00,16:00,T07,Client
+CA0391,Supermarket visit · Family Stores Plus,2026-11-23,09:00,10:00,T02,Client
+CA0392,Supermarket visit · Bean & Bake Bakery Labone,2026-10-23,09:00,10:00,T04,Client
+CA0393,Account review · Sankofa Gifts,2026-12-22,12:00,13:00,T01,Meeting
+CA0394,Content shoot,2026-11-21,14:00,15:00,T05,Marketing
+CA0395,Contract renewal call · Adinkra Hampers North,2026-10-27,10:00,11:00,T12,Client
+CA0396,Supermarket visit · SkyGold Duty Free,2026-12-10,11:00,12:00,T02,Client
+CA0397,Tasting session · Unity Supermarket,2026-11-03,12:00,13:00,T05,Client
+CA0398,Farm visit · cooperative,2026-12-15,16:00,17:00,T12,Meeting
+CA0399,Tasting session · Kwaku Bakery,2026-12-21,11:00,12:00,T06,Client
+CA0400,Account review · Coastline Hotel Osu,2026-10-16,16:00,17:00,T04,Meeting
+CA0401,Account review · Sankofa Gifts East Legon,2026-10-14,16:00,17:00,T03,Meeting
+CA0402,Farm visit · cooperative,2026-11-13,11:00,12:00,T06,Meeting
+CA0403,Supermarket visit · West Africa Trade GmbH,2026-12-17,11:00,12:00,T07,Client
+CA0404,Account review · Coastal Wings Duty Free,2026-12-15,11:00,12:00,T07,Meeting
+CA0405,Account review · Oven Fresh Café,2026-10-05,10:00,11:00,T05,Meeting
+CA0406,Farm visit · cooperative,2026-11-10,11:00,12:00,T04,Meeting
+CA0407,Content shoot,2026-12-14,10:00,11:00,T01,Marketing
+CA0408,Content shoot,2026-08-28,09:00,10:00,T04,Marketing
+CA0409,Account review · Palace Mart South,2026-12-18,16:00,17:00,T01,Meeting
+CA0410,Supermarket visit · Palace Supermarket Spintex,2026-12-24,09:00,10:00,T06,Client
+CA0411,Contract renewal call · Kwaku Café,2026-09-02,12:00,13:00,T06,Client
+CA0412,Account review · Lagoon Resort,2026-11-14,12:00,13:00,T04,Meeting
+CA0413,Hotel buyer meeting · Brew Bakery North,2026-09-03,12:00,13:00,T06,Client
+CA0414,Contract renewal call · Family Stores Plus,2026-12-19,16:00,17:00,T02,Client
+CA0415,Content shoot,2026-12-08,16:00,17:00,T06,Marketing
+CA0416,Content shoot,2026-09-30,11:00,12:00,T01,Marketing
+CA0417,Farm visit · cooperative,2026-12-01,16:00,17:00,T06,Meeting
+CA0418,Account review · Palm Court Resort Central,2026-10-08,16:00,17:00,T11,Meeting
+CA0419,Farm visit · cooperative,2026-08-26,14:00,15:00,T06,Meeting
+CA0420,Content shoot,2026-10-17,15:00,16:00,T07,Marketing
+CA0421,Farm visit · cooperative,2026-10-03,11:00,12:00,T12,Meeting
+CA0422,Farm visit · cooperative,2026-12-25,11:00,12:00,T02,Meeting
+CA0423,Hotel buyer meeting · Freshmart Mart West,2026-11-17,15:00,16:00,T12,Client
+CA0424,Account review · Royal Mart Spintex,2026-10-09,10:00,11:00,T01,Meeting
+CA0425,Hotel buyer meeting · Morning Glory Coffee House Spintex,2026-12-10,09:00,10:00,T07,Client
+CA0426,Content shoot,2026-09-02,12:00,13:00,T11,Marketing
+CA0427,Contract renewal call · Bold Gifting Co.,2026-12-28,12:00,13:00,T01,Client
+CA0428,Tasting session · Palace Mart North,2026-12-24,12:00,13:00,T11,Client
+CA0429,Account review · Akwaaba Bakery South,2026-09-29,16:00,17:00,T07,Meeting
+CA0430,Content shoot,2026-11-11,10:00,11:00,T02,Marketing
+CA0431,Content shoot,2026-10-19,16:00,17:00,T11,Marketing
+CA0432,Farm visit · cooperative,2026-10-07,11:00,12:00,T06,Meeting
+CA0433,Contract renewal call · Morning Glory Coffee House Spintex,2026-12-05,10:00,11:00,T12,Client
+CA0434,Account review · Prestige Gifting Co.,2026-11-23,10:00,11:00,T03,Meeting
+CA0435,Content shoot,2026-10-01,16:00,17:00,T05,Marketing
+CA0436,Hotel buyer meeting · Family Stores Plus,2026-09-28,16:00,17:00,T04,Client
+CA0437,Contract renewal call · Akwaaba Bakery South,2026-11-09,14:00,15:00,T04,Client
+CA0438,Hotel buyer meeting · Akan Foods (UK) Ltd,2026-11-05,10:00,11:00,T02,Client
+CA0439,Account review · Labadi Bay Hotel & Suites East,2026-11-27,14:00,15:00,T04,Meeting
+CA0440,Tasting session · Palm Court Hotel & Suites East Legon,2026-10-30,14:00,15:00,T05,Client
+CA0441,Content shoot,2026-11-24,14:00,15:00,T05,Marketing
+CA0442,Content shoot,2026-09-23,09:00,10:00,T11,Marketing
+CA0443,Team pipeline review,2026-09-08,16:00,17:00,T11,Meeting
+CA0444,Supermarket visit · Afro Foods (UK) Ltd,2026-09-05,09:00,10:00,T05,Client
+CA0445,Hotel buyer meeting · Value Supermarket,2026-08-26,16:00,17:00,T01,Client
+CA0446,Contract renewal call · Kwaku Bakery North,2026-09-14,11:00,12:00,T05,Client
+CA0447,Farm visit · cooperative,2026-10-21,16:00,17:00,T11,Meeting
+CA0448,Hotel buyer meeting · Sahel & Coast BV (Netherlands) West,2026-10-09,09:00,10:00,T01,Client
+CA0449,Team pipeline review,2026-10-29,10:00,11:00,T03,Meeting
+CA0450,Farm visit · cooperative,2026-09-14,09:00,10:00,T03,Meeting
+CA0451,Account review · Freshmart Mart Harbour,2026-12-25,16:00,17:00,T11,Meeting
+CA0452,Hotel buyer meeting · Brew Café Dzorwulu,2026-12-14,11:00,12:00,T02,Client
+CA0453,Account review · Bold Gifts East Legon,2026-10-05,16:00,17:00,T12,Meeting
+CA0454,Account review · Value Supermarket Osu,2026-10-05,16:00,17:00,T04,Meeting
+CA0455,Tasting session · Freshmart Mart,2026-12-09,15:00,16:00,T12,Client
+CA0456,Supermarket visit · Golden Sands Hotel & Suites,2026-11-02,09:00,10:00,T12,Client
+CA0457,Contract renewal call · Sahel & Coast (UK) Ltd,2026-10-28,12:00,13:00,T06,Client
+CA0458,Team pipeline review,2026-10-14,16:00,17:00,T11,Meeting
+CA0459,Farm visit · cooperative,2026-10-30,12:00,13:00,T07,Meeting
+CA0460,Contract renewal call · Royal Supermarket North,2026-12-21,09:00,10:00,T05,Client
+CA0461,Farm visit · cooperative,2026-09-17,16:00,17:00,T05,Meeting
+CA0462,Account review · SkyGold Airways,2026-10-12,12:00,13:00,T06,Meeting
+CA0463,Content shoot,2026-11-04,14:00,15:00,T12,Marketing
+CA0464,Farm visit · cooperative,2026-10-06,16:00,17:00,T05,Meeting
+CA0465,Contract renewal call · Diaspora Pantry (Canada),2026-09-19,11:00,12:00,T11,Client
+CA0466,Content shoot,2026-12-29,14:00,15:00,T05,Marketing
+CA0467,Contract renewal call · Oven Fresh Coffee House,2026-10-16,14:00,15:00,T07,Client
+CA0468,Content shoot,2026-09-03,15:00,16:00,T07,Marketing
+CA0469,Hotel buyer meeting · Royal Mart,2026-11-05,14:00,15:00,T07,Client
+CA0470,Account review · Freshmart Stores South,2026-11-03,10:00,11:00,T11,Meeting
+CA0471,Tasting session · Goodway Supermarket,2026-11-21,16:00,17:00,T06,Client
+CA0472,Contract renewal call · Accra Link (Canada),2026-09-02,11:00,12:00,T06,Client
+CA0473,Farm visit · cooperative,2026-11-25,10:00,11:00,T03,Meeting
+CA0474,Contract renewal call · Ridge Hotel Central,2026-11-27,09:00,10:00,T02,Client
+CA0475,Supermarket visit · Bean & Bake Bakery Labone,2026-10-13,15:00,16:00,T06,Client
+CA0476,Farm visit · cooperative,2026-11-11,12:00,13:00,T12,Meeting
+CA0477,Content shoot,2026-12-12,14:00,15:00,T03,Marketing
+CA0478,Contract renewal call · Heritage Gifting Co.,2026-12-24,11:00,12:00,T07,Client
+CA0479,Farm visit · cooperative,2026-11-17,10:00,11:00,T07,Meeting
+CA0480,Team pipeline review,2026-12-01,11:00,12:00,T02,Meeting
+CA0481,Account review · Freshmart Stores South,2026-09-15,12:00,13:00,T02,Meeting
+CA0482,Supermarket visit · Goodway Supermarket,2026-10-29,10:00,11:00,T02,Client
+CA0483,Tasting session · Palace Stores,2026-10-01,15:00,16:00,T03,Client
+CA0484,Account review · Volta Air Airways,2026-12-28,16:00,17:00,T03,Meeting
+CA0485,Farm visit · cooperative,2026-09-24,15:00,16:00,T12,Meeting
+CA0486,Hotel buyer meeting · Volta Air Airways Plus,2026-09-07,15:00,16:00,T06,Client
+CA0487,Content shoot,2026-11-07,09:00,10:00,T06,Marketing
+CA0488,Account review · Bean & Bake Café Airport City,2026-10-08,09:00,10:00,T05,Meeting
+CA0489,Team pipeline review,2026-12-28,12:00,13:00,T11,Meeting
+CA0490,Content shoot,2026-11-28,09:00,10:00,T07,Marketing
+CA0491,Hotel buyer meeting · Royal Supermarket,2026-12-24,12:00,13:00,T01,Client
+CA0492,Supermarket visit · Oven Fresh Café,2026-09-28,10:00,11:00,T03,Client
+CA0493,Tasting session · Freshmart Mart North,2026-12-24,11:00,12:00,T07,Client
+CA0494,Tasting session · Kwaku Café,2026-11-25,16:00,17:00,T05,Client
+CA0495,Supermarket visit · Akwaaba Coffee House Harbour,2026-12-21,12:00,13:00,T04,Client
+CA0496,Contract renewal call · Family Stores Plus,2026-09-19,16:00,17:00,T01,Client
+CA0497,Account review · Oven Fresh Café Plus,2026-12-17,12:00,13:00,T05,Meeting
+CA0498,Supermarket visit · Coastal Wings Duty Free North,2026-10-13,15:00,16:00,T04,Client
+CA0499,Farm visit · cooperative,2026-10-22,12:00,13:00,T04,Meeting
+CA0500,Supermarket visit · Sankofa Gifts Plus,2026-09-17,12:00,13:00,T12,Client
+CA0501,Team pipeline review,2026-11-02,14:00,15:00,T01,Meeting
+CA0502,Farm visit · cooperative,2026-10-17,14:00,15:00,T07,Meeting
+CA0503,Team pipeline review,2026-10-12,15:00,16:00,T02,Meeting
+CA0504,Hotel buyer meeting · Oven Fresh Coffee House,2026-11-19,11:00,12:00,T05,Client
+CA0505,Team pipeline review,2026-09-14,16:00,17:00,T11,Meeting
+CA0506,Hotel buyer meeting · Kotoka Airways,2026-10-17,12:00,13:00,T03,Client
+CA0507,National Chocolate Day Market · Accra Mall 2025,2025-02-20,10:00,16:00,T11,Event
+CA0508,Chocolate Tasting Masterclass 2025,2025-03-18,10:00,16:00,T11,Event
+CA0509,Hospitality Buyers Breakfast 2025,2025-04-11,10:00,16:00,T11,Event
+CA0510,New Flavour Launch Night 2025,2025-05-18,10:00,16:00,T11,Event
+CA0511,Kumasi Chocolate Pop-up 2025,2025-05-18,10:00,16:00,T11,Event
+CA0512,Made-in-Ghana Expo 2025,2025-06-05,10:00,16:00,T11,Event
+CA0513,Export Buyers Webinar 2025,2025-07-21,10:00,16:00,T11,Event
+CA0514,Farm-to-Bar Tour · Suhum 2025,2025-08-09,10:00,16:00,T11,Event
+CA0515,Chocolate & Wine Pairing Evening 2025,2025-09-25,10:00,16:00,T11,Event
+CA0516,Cocoa Origins Webinar 2025,2025-10-12,10:00,16:00,T11,Event
+CA0517,Corporate Gifting Showcase 2025,2025-10-07,10:00,16:00,T11,Event
+CA0518,December in GH Gift Market 2025,2025-12-17,10:00,16:00,T11,Event
+CA0519,Kente Gift Box Launch 2025,2025-11-12,10:00,16:00,T11,Event
+CA0520,National Chocolate Day Market · Accra Mall 2026,2026-02-06,10:00,16:00,T11,Event
+CA0521,Chocolate Tasting Masterclass 2026,2026-03-17,10:00,16:00,T11,Event
+CA0522,Hospitality Buyers Breakfast 2026,2026-04-04,10:00,16:00,T11,Event
+CA0523,New Flavour Launch Night 2026,2026-05-25,10:00,16:00,T11,Event
+CA0524,Kumasi Chocolate Pop-up 2026,2026-05-24,10:00,16:00,T11,Event
+CA0525,Made-in-Ghana Expo 2026,2026-06-18,10:00,16:00,T11,Event
+CA0526,Export Buyers Webinar 2026,2026-07-04,10:00,16:00,T11,Event
+CA0527,Farm-to-Bar Tour · Suhum 2026,2026-08-21,10:00,16:00,T11,Event
+CA0528,Chocolate & Wine Pairing Evening 2026,2026-09-20,10:00,16:00,T11,Event
+CA0529,Cocoa Origins Webinar 2026,2026-10-26,10:00,16:00,T11,Event
+CA0530,Corporate Gifting Showcase 2026,2026-10-07,10:00,16:00,T11,Event
+CA0531,December in GH Gift Market 2026,2026-12-24,10:00,16:00,T11,Event
+CA0532,Kente Gift Box Launch 2026,2026-11-13,10:00,16:00,T11,Event

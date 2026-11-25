@@ -1,0 +1,1059 @@
+id,account,name,title,email,phone,primary
+CT0001,AC001,Dede Gyamfi,Category Buyer,dgyamfi@freshmart.example,+233 55 *** 8956,1
+CT0002,AC001,Delali Ofori,Store Manager,dofori@freshmart.example,+233 20 *** 5326,0
+CT0003,AC001,Naa Aryee,Owner,naryee@freshmart.example,+233 54 *** 2319,0
+CT0004,AC001,Priscilla Bonsu,Assistant Manager,pbonsu@freshmart.example,+233 20 *** 5918,0
+CT0005,AC002,Adwoa Okine,Owner,aokine@kwaku.example,+233 50 *** 1299,1
+CT0006,AC002,Hawa Bonsu,Head Baker,hbonsu@kwaku.example,+233 50 *** 6863,0
+CT0007,AC002,Nii Adjei,Manager,nadjei@kwaku.example,+233 27 *** 8897,0
+CT0008,AC002,Linda Boateng,Assistant Manager,lboateng@kwaku.example,+233 27 *** 7042,0
+CT0009,AC002,Fatima Aryee,Accounts Officer,faryee@kwaku.example,+233 50 *** 6701,0
+CT0010,AC003,Fiifi Kumi,F&B Manager,fkumi@ridge.example,+233 27 *** 3710,1
+CT0011,AC003,Efua Sarpong,Procurement Manager,esarpong@ridge.example,+233 54 *** 1334,0
+CT0012,AC004,Akosua Wiredu,F&B Manager,awiredu@labadi.example,+233 50 *** 4388,1
+CT0013,AC004,Nana Agbeko,Procurement Manager,nagbeko@labadi.example,+233 55 *** 4841,0
+CT0014,AC004,Naa Sarpong,GM,nsarpong@labadi.example,+233 27 *** 8559,0
+CT0015,AC005,Issah Mahama,F&B Manager,imahama@ridge.example,+233 55 *** 9433,1
+CT0016,AC005,Efua Quaye,Procurement Manager,equaye@ridge.example,+233 27 *** 7329,0
+CT0017,AC006,Selorm Wiredu,Managing Director,swiredu@diaspora.example,+233 50 *** 4156,1
+CT0018,AC006,Akua Ankrah,Import Manager,aankrah@diaspora.example,+233 55 *** 9300,0
+CT0019,AC006,Issah Kyei,Buyer,ikyei@diaspora.example,+233 20 *** 9882,0
+CT0020,AC007,Korkor Mahama,Managing Director,kmahama@diaspora.example,+233 50 *** 1093,1
+CT0021,AC007,Gifty Agbeko,Import Manager,gagbeko@diaspora.example,+233 20 *** 1759,0
+CT0022,AC007,Fiifi Issah,Buyer,fissah@diaspora.example,+233 24 *** 6222,0
+CT0023,AC008,Rita Darko,Category Buyer,rdarko@unity.example,+233 54 *** 7233,1
+CT0024,AC008,Priscilla Okine,Store Manager,pokine@unity.example,+233 20 *** 9651,0
+CT0025,AC008,Yaw Antwi,Owner,yantwi@unity.example,+233 55 *** 7647,0
+CT0026,AC009,Araba Amoah,Category Buyer,aamoah@palace.example,+233 50 *** 4896,1
+CT0027,AC009,Yaa Mensah,Store Manager,ymensah@palace.example,+233 27 *** 8605,0
+CT0028,AC009,Yaa Osei,Owner,yosei@palace.example,+233 27 *** 1851,0
+CT0029,AC010,Abena Kyei,Category Buyer,akyei@royal.example,+233 55 *** 5804,1
+CT0030,AC010,Lamisi Frimpong,Store Manager,lfrimpong@royal.example,+233 54 *** 4059,0
+CT0031,AC010,Adjoa Gyamfi,Owner,agyamfi@royal.example,+233 50 *** 6342,0
+CT0032,AC010,Yaa Amoah,Front Desk Lead,yamoah@royal.example,+233 55 *** 6376,0
+CT0033,AC011,Issah Quaye,Founder,iquaye@heritage.example,+233 20 *** 2330,1
+CT0034,AC011,Naa Badu,Account Director,nbadu@heritage.example,+233 54 *** 4832,0
+CT0035,AC011,Kweku Agyei,Procurement Lead,kagyei@heritage.example,+233 54 *** 1800,0
+CT0036,AC012,Araba Badu,Catering Manager,abadu@skygold.example,+233 55 *** 8836,1
+CT0037,AC012,Nadia Abdulai,Procurement Officer,nabdulai@skygold.example,+233 27 *** 9272,0
+CT0038,AC012,Yaw Gyamfi,Retail Manager,ygyamfi@skygold.example,+233 27 *** 3030,0
+CT0039,AC012,Yaa Okine,Assistant Manager,yokine@skygold.example,+233 50 *** 2731,0
+CT0040,AC013,Aseye Asante,Catering Manager,aasante@skygold.example,+233 24 *** 2314,1
+CT0041,AC013,Abena Kyei,Procurement Officer,akyei@skygold.example,+233 50 *** 7425,0
+CT0042,AC013,Kwabena Sowah,Retail Manager,ksowah@skygold.example,+233 55 *** 9191,0
+CT0043,AC013,Selorm Addo,Accounts Officer,saddo@skygold.example,+233 50 *** 8168,0
+CT0044,AC014,Naa Dogbe,F&B Manager,ndogbe@golden.example,+233 55 *** 2145,1
+CT0045,AC014,Mawuli Badu,Procurement Manager,mbadu@golden.example,+233 20 *** 8873,0
+CT0046,AC014,Kwesi Ofori,GM,kofori@golden.example,+233 55 *** 3663,0
+CT0047,AC015,Yaa Opoku,Owner,yopoku@bean.example,+233 55 *** 3114,1
+CT0048,AC015,Kukua Boateng,Head Baker,kboateng@bean.example,+233 50 *** 5122,0
+CT0049,AC015,Linda Darko,Manager,ldarko@bean.example,+233 24 *** 7330,0
+CT0050,AC016,Afua Ofori,Founder,aofori@adinkra.example,+233 55 *** 7534,1
+CT0051,AC016,Daniel Darko,Account Director,ddarko@adinkra.example,+233 24 *** 7164,0
+CT0052,AC016,Selorm Asante,Procurement Lead,sasante@adinkra.example,+233 20 *** 5277,0
+CT0053,AC016,Kofi Ankrah,Accounts Officer,kankrah@adinkra.example,+233 55 *** 6446,0
+CT0054,AC017,Araba Addo,Managing Director,aaddo@akan.example,+233 55 *** 6103,1
+CT0055,AC017,Korkor Boateng,Import Manager,kboateng@akan.example,+233 54 *** 2333,0
+CT0056,AC017,Rita Kumi,Buyer,rkumi@akan.example,+233 50 *** 5263,0
+CT0057,AC018,Priscilla Mahama,Managing Director,pmahama@motherland.example,+233 20 *** 5987,1
+CT0058,AC018,Priscilla Aryee,Import Manager,paryee@motherland.example,+233 24 *** 1275,0
+CT0059,AC018,Nana Gyamfi,Buyer,ngyamfi@motherland.example,+233 20 *** 3652,0
+CT0060,AC018,Fatima Appiah,Front Desk Lead,fappiah@motherland.example,+233 55 *** 2254,0
+CT0061,AC019,Sena Bonsu,Managing Director,sbonsu@sahel.example,+233 24 *** 8964,1
+CT0062,AC019,Ama Wiredu,Import Manager,awiredu@sahel.example,+233 24 *** 8083,0
+CT0063,AC019,Kwame Owusu,Buyer,kowusu@sahel.example,+233 20 *** 8219,0
+CT0064,AC019,Ewurabena Mahama,Assistant Manager,emahama@sahel.example,+233 54 *** 4568,0
+CT0065,AC019,Fatima Quaye,Assistant Manager,fquaye@sahel.example,+233 20 *** 8606,0
+CT0066,AC020,Delali Bonsu,F&B Manager,dbonsu@labadi.example,+233 27 *** 3080,1
+CT0067,AC020,Emmanuel Issah,Procurement Manager,eissah@labadi.example,+233 27 *** 9815,0
+CT0068,AC020,Gifty Ankrah,GM,gankrah@labadi.example,+233 24 *** 2034,0
+CT0069,AC021,Afua Kyei,Owner,akyei@brew.example,+233 55 *** 7380,1
+CT0070,AC021,Joyce Badu,Head Baker,jbadu@brew.example,+233 50 *** 5139,0
+CT0071,AC022,Ewurabena Badu,Founder,ebadu@bold.example,+233 20 *** 7120,1
+CT0072,AC022,Sandra Bonsu,Account Director,sbonsu@bold.example,+233 50 *** 6158,0
+CT0073,AC023,Joyce Agyei,Founder,jagyei@bold.example,+233 20 *** 7600,1
+CT0074,AC023,Belinda Boateng,Account Director,bboateng@bold.example,+233 50 *** 9402,0
+CT0075,AC023,Mawusi Boateng,Procurement Lead,mboateng@bold.example,+233 50 *** 4488,0
+CT0076,AC023,Nana Osei,Assistant Manager,nosei@bold.example,+233 50 *** 8376,0
+CT0077,AC024,Nadia Agyei,Managing Director,nagyei@accra.example,+233 20 *** 3553,1
+CT0078,AC024,Dzifa Appiah,Import Manager,dappiah@accra.example,+233 20 *** 2386,0
+CT0079,AC024,Maame Badu,Buyer,mbadu@accra.example,+233 50 *** 4961,0
+CT0080,AC025,Korkor Acheampong,Category Buyer,kacheampong@palace.example,+233 50 *** 1844,1
+CT0081,AC025,Yaa Ankrah,Store Manager,yankrah@palace.example,+233 50 *** 4108,0
+CT0082,AC026,Zainab Abdulai,Founder,zabdulai@bold.example,+233 24 *** 6038,1
+CT0083,AC026,Abena Agbeko,Account Director,aagbeko@bold.example,+233 20 *** 6408,0
+CT0084,AC026,Fatima Asante,Procurement Lead,fasante@bold.example,+233 20 *** 9262,0
+CT0085,AC027,Belinda Aryee,F&B Manager,baryee@ridge.example,+233 50 *** 4604,1
+CT0086,AC027,Mansa Acheampong,Procurement Manager,macheampong@ridge.example,+233 55 *** 2288,0
+CT0087,AC027,Bright Sowah,GM,bsowah@ridge.example,+233 27 *** 1603,0
+CT0088,AC028,Efua Asante,Founder,easante@heritage.example,+233 27 *** 3609,1
+CT0089,AC028,Linda Lartey,Account Director,llartey@heritage.example,+233 20 *** 5320,0
+CT0090,AC029,Selasi Agyei,Owner,sagyei@brew.example,+233 20 *** 6330,1
+CT0091,AC029,Mawuli Badu,Head Baker,mbadu@brew.example,+233 20 *** 2079,0
+CT0092,AC029,Edem Asante,Manager,easante@brew.example,+233 24 *** 1294,0
+CT0093,AC030,Gifty Abdulai,Category Buyer,gabdulai@palace.example,+233 54 *** 2481,1
+CT0094,AC030,Esi Frimpong,Store Manager,efrimpong@palace.example,+233 54 *** 3628,0
+CT0095,AC030,Korkor Agyei,Owner,kagyei@palace.example,+233 54 *** 3218,0
+CT0096,AC031,Ibrahim Kyei,F&B Manager,ikyei@golden.example,+233 50 *** 7910,1
+CT0097,AC031,Zainab Agbeko,Procurement Manager,zagbeko@golden.example,+233 24 *** 5554,0
+CT0098,AC031,Linda Mensah,GM,lmensah@golden.example,+233 54 *** 8387,0
+CT0099,AC032,Mansa Addo,F&B Manager,maddo@labadi.example,+233 20 *** 8619,1
+CT0100,AC032,Rita Aryee,Procurement Manager,raryee@labadi.example,+233 20 *** 8729,0
+CT0101,AC032,Aseye Appiah,GM,aappiah@labadi.example,+233 20 *** 8590,0
+CT0102,AC032,Emmanuel Bonsu,Assistant Manager,ebonsu@labadi.example,+233 50 *** 7630,0
+CT0103,AC032,Adjoa Addo,Accounts Officer,aaddo@labadi.example,+233 20 *** 2705,0
+CT0104,AC033,Fatima Ankrah,Catering Manager,fankrah@skygold.example,+233 55 *** 2907,1
+CT0105,AC033,Fiifi Tetteh,Procurement Officer,ftetteh@skygold.example,+233 24 *** 5709,0
+CT0106,AC034,Daniel Badu,Owner,dbadu@akwaaba.example,+233 55 *** 3882,1
+CT0107,AC034,Adwoa Ansah,Head Baker,aansah@akwaaba.example,+233 24 *** 4633,0
+CT0108,AC034,Ebo Issah,Manager,eissah@akwaaba.example,+233 27 *** 9546,0
+CT0109,AC035,Naa Bonsu,Category Buyer,nbonsu@family.example,+233 24 *** 5886,1
+CT0110,AC035,Selorm Kyei,Store Manager,skyei@family.example,+233 24 *** 2972,0
+CT0111,AC035,Hawa Wiredu,Owner,hwiredu@family.example,+233 27 *** 6810,0
+CT0112,AC036,Dede Abdulai,Managing Director,dabdulai@adinkra.example,+233 54 *** 9671,1
+CT0113,AC036,Daniel Tetteh,Import Manager,dtetteh@adinkra.example,+233 27 *** 8894,0
+CT0114,AC036,Selorm Ofori,Buyer,sofori@adinkra.example,+233 20 *** 1050,0
+CT0115,AC037,Maame Issah,F&B Manager,missah@lagoon.example,+233 54 *** 2971,1
+CT0116,AC037,Lamisi Agyei,Procurement Manager,lagyei@lagoon.example,+233 27 *** 5474,0
+CT0117,AC037,Fiifi Bonsu,GM,fbonsu@lagoon.example,+233 27 *** 8043,0
+CT0118,AC038,Naa Opoku,Category Buyer,nopoku@freshmart.example,+233 24 *** 6689,1
+CT0119,AC038,Fiifi Aryee,Store Manager,faryee@freshmart.example,+233 24 *** 9071,0
+CT0120,AC038,Korkor Quaye,Owner,kquaye@freshmart.example,+233 55 *** 3446,0
+CT0121,AC038,Emmanuel Mahama,Accounts Officer,emahama@freshmart.example,+233 24 *** 8404,0
+CT0122,AC039,Mawuli Ankrah,Category Buyer,mankrah@palace.example,+233 54 *** 3221,1
+CT0123,AC039,Esi Boateng,Store Manager,eboateng@palace.example,+233 55 *** 1684,0
+CT0124,AC039,Yaw Agyei,Owner,yagyei@palace.example,+233 54 *** 5245,0
+CT0125,AC040,Ama Asante,Category Buyer,aasante@royal.example,+233 20 *** 5578,1
+CT0126,AC040,Sena Abdulai,Store Manager,sabdulai@royal.example,+233 27 *** 5650,0
+CT0127,AC040,Fatima Ankrah,Owner,fankrah@royal.example,+233 24 *** 1370,0
+CT0128,AC041,Kwesi Acheampong,F&B Manager,kacheampong@coastline.example,+233 24 *** 1348,1
+CT0129,AC041,Kofi Quaye,Procurement Manager,kquaye@coastline.example,+233 20 *** 7728,0
+CT0130,AC041,Abena Gyamfi,GM,agyamfi@coastline.example,+233 20 *** 3003,0
+CT0131,AC042,Kwabena Addo,Managing Director,kaddo@diaspora.example,+233 50 *** 1509,1
+CT0132,AC042,Ewurabena Appiah,Import Manager,eappiah@diaspora.example,+233 24 *** 3765,0
+CT0133,AC042,Nadia Badu,Buyer,nbadu@diaspora.example,+233 55 *** 7606,0
+CT0134,AC043,Akosua Kyei,Owner,akyei@akwaaba.example,+233 55 *** 4201,1
+CT0135,AC043,Adwoa Osei,Head Baker,aosei@akwaaba.example,+233 20 *** 1921,0
+CT0136,AC043,Emmanuel Kumi,Manager,ekumi@akwaaba.example,+233 54 *** 6523,0
+CT0137,AC043,Elikem Ansah,Front Desk Lead,eansah@akwaaba.example,+233 27 *** 5191,0
+CT0138,AC044,Adjoa Sowah,Managing Director,asowah@accra.example,+233 50 *** 5131,1
+CT0139,AC044,Daniel Mensah,Import Manager,dmensah@accra.example,+233 55 *** 9590,0
+CT0140,AC044,Fatima Owusu,Buyer,fowusu@accra.example,+233 24 *** 5087,0
+CT0141,AC045,Aseye Ofori,Founder,aofori@bold.example,+233 50 *** 9428,1
+CT0142,AC045,Joyce Yeboah,Account Director,jyeboah@bold.example,+233 55 *** 8400,0
+CT0143,AC046,Selasi Agbeko,Owner,sagbeko@bean.example,+233 24 *** 4092,1
+CT0144,AC046,Nana Bonsu,Head Baker,nbonsu@bean.example,+233 54 *** 8322,0
+CT0145,AC046,Issah Antwi,Manager,iantwi@bean.example,+233 27 *** 4330,0
+CT0146,AC046,Adjoa Appiah,Accounts Officer,aappiah@bean.example,+233 54 *** 3724,0
+CT0147,AC046,Bright Bonsu,Front Desk Lead,bbonsu@bean.example,+233 54 *** 1552,0
+CT0148,AC047,Selasi Quaye,Founder,squaye@sankofa.example,+233 55 *** 7655,1
+CT0149,AC047,Joyce Addo,Account Director,jaddo@sankofa.example,+233 27 *** 5691,0
+CT0150,AC047,Dede Gyamfi,Procurement Lead,dgyamfi@sankofa.example,+233 55 *** 9112,0
+CT0151,AC047,Delali Sowah,Accounts Officer,dsowah@sankofa.example,+233 20 *** 6090,0
+CT0152,AC047,Mawusi Dogbe,Accounts Officer,mdogbe@sankofa.example,+233 50 *** 6454,0
+CT0153,AC048,Ama Amoah,Category Buyer,aamoah@value.example,+233 55 *** 6781,1
+CT0154,AC048,Mawusi Abdulai,Store Manager,mabdulai@value.example,+233 54 *** 2568,0
+CT0155,AC048,Daniel Mahama,Owner,dmahama@value.example,+233 50 *** 8723,0
+CT0156,AC049,Mansa Asante,Owner,masante@akwaaba.example,+233 55 *** 6441,1
+CT0157,AC049,Kwesi Ofori,Head Baker,kofori@akwaaba.example,+233 54 *** 7289,0
+CT0158,AC049,Kwabena Amoah,Manager,kamoah@akwaaba.example,+233 20 *** 1576,0
+CT0159,AC049,Ibrahim Agyei,Front Desk Lead,iagyei@akwaaba.example,+233 27 *** 6844,0
+CT0160,AC049,Rita Sarpong,Front Desk Lead,rsarpong@akwaaba.example,+233 24 *** 3063,0
+CT0161,AC050,Sena Acheampong,Founder,sacheampong@adinkra.example,+233 27 *** 4599,1
+CT0162,AC050,Mawusi Amoah,Account Director,mamoah@adinkra.example,+233 27 *** 4754,0
+CT0163,AC050,Hawa Yeboah,Procurement Lead,hyeboah@adinkra.example,+233 24 *** 8133,0
+CT0164,AC050,Kwabena Abdulai,Assistant Manager,kabdulai@adinkra.example,+233 54 *** 5171,0
+CT0165,AC051,Belinda Appiah,Category Buyer,bappiah@family.example,+233 54 *** 8594,1
+CT0166,AC051,Adwoa Acheampong,Store Manager,aacheampong@family.example,+233 54 *** 4719,0
+CT0167,AC051,Korkor Mahama,Owner,kmahama@family.example,+233 24 *** 8220,0
+CT0168,AC051,Emmanuel Kumi,Accounts Officer,ekumi@family.example,+233 55 *** 8431,0
+CT0169,AC051,Ibrahim Appiah,Accounts Officer,iappiah@family.example,+233 20 *** 5689,0
+CT0170,AC052,Elikem Sowah,Category Buyer,esowah@cityshop.example,+233 55 *** 3363,1
+CT0171,AC052,Araba Tetteh,Store Manager,atetteh@cityshop.example,+233 54 *** 8756,0
+CT0172,AC052,Delali Frimpong,Owner,dfrimpong@cityshop.example,+233 55 *** 7355,0
+CT0173,AC052,Kwame Opoku,Front Desk Lead,kopoku@cityshop.example,+233 50 *** 2477,0
+CT0174,AC052,Yaw Nyarko,Accounts Officer,ynyarko@cityshop.example,+233 20 *** 2055,0
+CT0175,AC053,Delali Osei,Owner,dosei@bean.example,+233 50 *** 1705,1
+CT0176,AC053,Kwesi Lartey,Head Baker,klartey@bean.example,+233 24 *** 4525,0
+CT0177,AC054,Delali Issah,Managing Director,dissah@adinkra.example,+233 54 *** 7669,1
+CT0178,AC054,Fatima Abdulai,Import Manager,fabdulai@adinkra.example,+233 50 *** 6634,0
+CT0179,AC054,Delali Kumi,Buyer,dkumi@adinkra.example,+233 55 *** 7626,0
+CT0180,AC054,Bright Owusu,Assistant Manager,bowusu@adinkra.example,+233 20 *** 5654,0
+CT0181,AC055,Araba Lartey,Category Buyer,alartey@value.example,+233 55 *** 5558,1
+CT0182,AC055,Afua Appiah,Store Manager,aappiah@value.example,+233 20 *** 7302,0
+CT0183,AC055,Kwabena Kyei,Owner,kkyei@value.example,+233 54 *** 8726,0
+CT0184,AC056,Yaa Badu,Catering Manager,ybadu@coastal.example,+233 27 *** 6043,1
+CT0185,AC056,Kwesi Kyei,Procurement Officer,kkyei@coastal.example,+233 54 *** 7429,0
+CT0186,AC056,Akosua Acheampong,Retail Manager,aacheampong@coastal.example,+233 55 *** 9944,0
+CT0187,AC057,Mawuli Amoah,Owner,mamoah@bean.example,+233 20 *** 4169,1
+CT0188,AC057,Issah Agbeko,Head Baker,iagbeko@bean.example,+233 20 *** 1428,0
+CT0189,AC057,Nii Sowah,Manager,nsowah@bean.example,+233 54 *** 1257,0
+CT0190,AC057,Yaw Ansah,Accounts Officer,yansah@bean.example,+233 27 *** 9643,0
+CT0191,AC057,Akua Agbeko,Assistant Manager,aagbeko@bean.example,+233 27 *** 8439,0
+CT0192,AC058,Kwame Asante,Founder,kasante@sankofa.example,+233 50 *** 6513,1
+CT0193,AC058,Sena Aryee,Account Director,saryee@sankofa.example,+233 54 *** 8477,0
+CT0194,AC058,Maame Owusu,Procurement Lead,mowusu@sankofa.example,+233 20 *** 9251,0
+CT0195,AC058,Lamisi Opoku,Accounts Officer,lopoku@sankofa.example,+233 50 *** 9321,0
+CT0196,AC059,Bright Kyei,F&B Manager,bkyei@lagoon.example,+233 54 *** 2981,1
+CT0197,AC059,Ebo Mahama,Procurement Manager,emahama@lagoon.example,+233 54 *** 4248,0
+CT0198,AC059,Araba Okine,GM,aokine@lagoon.example,+233 24 *** 5124,0
+CT0199,AC060,Delali Osei,Category Buyer,dosei@value.example,+233 50 *** 1970,1
+CT0200,AC060,Priscilla Sarpong,Store Manager,psarpong@value.example,+233 20 *** 5126,0
+CT0201,AC060,Esi Addo,Owner,eaddo@value.example,+233 50 *** 9531,0
+CT0202,AC060,Rita Kumi,Front Desk Lead,rkumi@value.example,+233 55 *** 3863,0
+CT0203,AC060,Naa Darko,Assistant Manager,ndarko@value.example,+233 24 *** 4566,0
+CT0204,AC061,Joyce Lartey,Founder,jlartey@adinkra.example,+233 54 *** 8741,1
+CT0205,AC061,Sandra Abdulai,Account Director,sabdulai@adinkra.example,+233 24 *** 4161,0
+CT0206,AC061,Elikem Boateng,Procurement Lead,eboateng@adinkra.example,+233 20 *** 3221,0
+CT0207,AC061,Edem Adjei,Accounts Officer,eadjei@adinkra.example,+233 54 *** 1728,0
+CT0208,AC062,Gifty Frimpong,Owner,gfrimpong@morning.example,+233 24 *** 9792,1
+CT0209,AC062,Emmanuel Quaye,Head Baker,equaye@morning.example,+233 54 *** 9148,0
+CT0210,AC062,Ewurabena Ankrah,Manager,eankrah@morning.example,+233 20 *** 4921,0
+CT0211,AC063,Ebo Opoku,Owner,eopoku@kwaku.example,+233 20 *** 5832,1
+CT0212,AC063,Daniel Ansah,Head Baker,dansah@kwaku.example,+233 24 *** 2820,0
+CT0213,AC063,Dzifa Bonsu,Manager,dbonsu@kwaku.example,+233 55 *** 3193,0
+CT0214,AC063,Yaa Antwi,Assistant Manager,yantwi@kwaku.example,+233 20 *** 4963,0
+CT0215,AC064,Selasi Darko,Catering Manager,sdarko@volta.example,+233 50 *** 2361,1
+CT0216,AC064,Gifty Frimpong,Procurement Officer,gfrimpong@volta.example,+233 55 *** 2899,0
+CT0217,AC064,Zainab Opoku,Retail Manager,zopoku@volta.example,+233 55 *** 1725,0
+CT0218,AC065,Edem Kyei,Catering Manager,ekyei@skygold.example,+233 50 *** 8270,1
+CT0219,AC065,Kwabena Mensah,Procurement Officer,kmensah@skygold.example,+233 27 *** 6048,0
+CT0220,AC065,Vida Lartey,Retail Manager,vlartey@skygold.example,+233 55 *** 4316,0
+CT0221,AC065,Bright Owusu,Front Desk Lead,bowusu@skygold.example,+233 27 *** 3875,0
+CT0222,AC066,Priscilla Kumi,Owner,pkumi@sweet.example,+233 27 *** 3739,1
+CT0223,AC066,Emmanuel Frimpong,Head Baker,efrimpong@sweet.example,+233 50 *** 5616,0
+CT0224,AC067,Linda Ofori,Managing Director,lofori@black.example,+233 55 *** 9015,1
+CT0225,AC067,Mawuli Yeboah,Import Manager,myeboah@black.example,+233 27 *** 9776,0
+CT0226,AC067,Abena Darko,Buyer,adarko@black.example,+233 24 *** 6442,0
+CT0227,AC067,Delali Bonsu,Front Desk Lead,dbonsu@black.example,+233 54 *** 1176,0
+CT0228,AC068,Bright Agyei,Catering Manager,bagyei@kotoka.example,+233 27 *** 8577,1
+CT0229,AC068,Selasi Sarpong,Procurement Officer,ssarpong@kotoka.example,+233 50 *** 2964,0
+CT0230,AC068,Aseye Sarpong,Retail Manager,asarpong@kotoka.example,+233 24 *** 5018,0
+CT0231,AC068,Esi Bonsu,Assistant Manager,ebonsu@kotoka.example,+233 27 *** 2462,0
+CT0232,AC069,Selasi Addo,Founder,saddo@sankofa.example,+233 54 *** 1544,1
+CT0233,AC069,Hawa Mensah,Account Director,hmensah@sankofa.example,+233 50 *** 2003,0
+CT0234,AC069,Delali Ofori,Procurement Lead,dofori@sankofa.example,+233 55 *** 5258,0
+CT0235,AC070,Araba Dogbe,Category Buyer,adogbe@family.example,+233 24 *** 1950,1
+CT0236,AC070,Hawa Asante,Store Manager,hasante@family.example,+233 27 *** 8048,0
+CT0237,AC070,Mawusi Boateng,Owner,mboateng@family.example,+233 24 *** 5559,0
+CT0238,AC071,Zainab Kumi,Owner,zkumi@akwaaba.example,+233 50 *** 2071,1
+CT0239,AC071,Issah Acheampong,Head Baker,iacheampong@akwaaba.example,+233 50 *** 3616,0
+CT0240,AC072,Kwame Bonsu,Category Buyer,kbonsu@unity.example,+233 50 *** 2604,1
+CT0241,AC072,Edem Tetteh,Store Manager,etetteh@unity.example,+233 24 *** 1674,0
+CT0242,AC072,Efua Okine,Owner,eokine@unity.example,+233 50 *** 5175,0
+CT0243,AC073,Selorm Abdulai,Owner,sabdulai@oven.example,+233 55 *** 1094,1
+CT0244,AC073,Kukua Frimpong,Head Baker,kfrimpong@oven.example,+233 27 *** 5006,0
+CT0245,AC073,Ewurabena Bonsu,Manager,ebonsu@oven.example,+233 55 *** 4451,0
+CT0246,AC073,Kofi Adjei,Assistant Manager,kadjei@oven.example,+233 24 *** 9282,0
+CT0247,AC074,Akua Mensah,Category Buyer,amensah@royal.example,+233 20 *** 5577,1
+CT0248,AC074,Ama Acheampong,Store Manager,aacheampong@royal.example,+233 54 *** 4374,0
+CT0249,AC074,Abena Abdulai,Owner,aabdulai@royal.example,+233 24 *** 1979,0
+CT0250,AC074,Fatima Agbeko,Front Desk Lead,fagbeko@royal.example,+233 27 *** 2672,0
+CT0251,AC074,Elikem Mahama,Accounts Officer,emahama@royal.example,+233 55 *** 1351,0
+CT0252,AC075,Kofi Opoku,F&B Manager,kopoku@coastline.example,+233 27 *** 8939,1
+CT0253,AC075,Adjoa Owusu,Procurement Manager,aowusu@coastline.example,+233 54 *** 3778,0
+CT0254,AC075,Ebo Gyamfi,GM,egyamfi@coastline.example,+233 20 *** 5774,0
+CT0255,AC076,Nadia Frimpong,Category Buyer,nfrimpong@unity.example,+233 24 *** 1703,1
+CT0256,AC076,Sandra Appiah,Store Manager,sappiah@unity.example,+233 55 *** 1594,0
+CT0257,AC077,Gifty Okine,Owner,gokine@brew.example,+233 20 *** 6101,1
+CT0258,AC077,Maame Agyei,Head Baker,magyei@brew.example,+233 50 *** 6000,0
+CT0259,AC077,Delali Agyei,Manager,dagyei@brew.example,+233 54 *** 1138,0
+CT0260,AC077,Joyce Kyei,Accounts Officer,jkyei@brew.example,+233 54 *** 9912,0
+CT0261,AC078,Aseye Antwi,Founder,aantwi@prestige.example,+233 27 *** 1803,1
+CT0262,AC078,Ama Badu,Account Director,abadu@prestige.example,+233 50 *** 2506,0
+CT0263,AC078,Daniel Acheampong,Procurement Lead,dacheampong@prestige.example,+233 55 *** 5552,0
+CT0264,AC078,Akosua Appiah,Accounts Officer,aappiah@prestige.example,+233 24 *** 6667,0
+CT0265,AC079,Abena Lartey,F&B Manager,alartey@lagoon.example,+233 54 *** 8613,1
+CT0266,AC079,Joyce Frimpong,Procurement Manager,jfrimpong@lagoon.example,+233 20 *** 3861,0
+CT0267,AC079,Akosua Nyarko,GM,anyarko@lagoon.example,+233 20 *** 9234,0
+CT0268,AC080,Aseye Asante,F&B Manager,aasante@ridge.example,+233 50 *** 5475,1
+CT0269,AC080,Bright Boateng,Procurement Manager,bboateng@ridge.example,+233 27 *** 6020,0
+CT0270,AC080,Maame Acheampong,GM,macheampong@ridge.example,+233 27 *** 3315,0
+CT0271,AC081,Kojo Opoku,Managing Director,kopoku@motherland.example,+233 27 *** 9998,1
+CT0272,AC081,Kukua Asante,Import Manager,kasante@motherland.example,+233 24 *** 6031,0
+CT0273,AC082,Gifty Okine,Category Buyer,gokine@unity.example,+233 50 *** 5508,1
+CT0274,AC082,Adwoa Sowah,Store Manager,asowah@unity.example,+233 50 *** 5862,0
+CT0275,AC082,Ewurabena Amoah,Owner,eamoah@unity.example,+233 24 *** 4584,0
+CT0276,AC082,Joyce Gyamfi,Accounts Officer,jgyamfi@unity.example,+233 27 *** 8473,0
+CT0277,AC082,Bright Nyarko,Assistant Manager,bnyarko@unity.example,+233 55 *** 5722,0
+CT0278,AC083,Kojo Nyarko,Owner,knyarko@morning.example,+233 50 *** 8649,1
+CT0279,AC083,Adwoa Adjei,Head Baker,aadjei@morning.example,+233 55 *** 7585,0
+CT0280,AC083,Vida Wiredu,Manager,vwiredu@morning.example,+233 55 *** 4855,0
+CT0281,AC083,Selorm Appiah,Front Desk Lead,sappiah@morning.example,+233 24 *** 5895,0
+CT0282,AC084,Sandra Appiah,Catering Manager,sappiah@kotoka.example,+233 55 *** 3814,1
+CT0283,AC084,Abena Antwi,Procurement Officer,aantwi@kotoka.example,+233 50 *** 3017,0
+CT0284,AC084,Zainab Asante,Retail Manager,zasante@kotoka.example,+233 24 *** 7707,0
+CT0285,AC085,Yaw Badu,Category Buyer,ybadu@unity.example,+233 24 *** 4839,1
+CT0286,AC085,Adjoa Opoku,Store Manager,aopoku@unity.example,+233 27 *** 6853,0
+CT0287,AC085,Issah Agbeko,Owner,iagbeko@unity.example,+233 27 *** 4170,0
+CT0288,AC086,Hawa Acheampong,Category Buyer,hacheampong@palace.example,+233 24 *** 7020,1
+CT0289,AC086,Selorm Yeboah,Store Manager,syeboah@palace.example,+233 27 *** 6189,0
+CT0290,AC086,Priscilla Dogbe,Owner,pdogbe@palace.example,+233 27 *** 8094,0
+CT0291,AC086,Aseye Agyei,Accounts Officer,aagyei@palace.example,+233 50 *** 4773,0
+CT0292,AC087,Priscilla Mensah,Managing Director,pmensah@black.example,+233 55 *** 9443,1
+CT0293,AC087,Akosua Okine,Import Manager,aokine@black.example,+233 54 *** 3635,0
+CT0294,AC087,Ewurabena Badu,Buyer,ebadu@black.example,+233 27 *** 3850,0
+CT0295,AC087,Elikem Acheampong,Assistant Manager,eacheampong@black.example,+233 55 *** 9763,0
+CT0296,AC088,Selasi Okine,Category Buyer,sokine@unity.example,+233 27 *** 3827,1
+CT0297,AC088,Abena Gyamfi,Store Manager,agyamfi@unity.example,+233 20 *** 8826,0
+CT0298,AC088,Rita Darko,Owner,rdarko@unity.example,+233 54 *** 8526,0
+CT0299,AC089,Joyce Asante,F&B Manager,jasante@lagoon.example,+233 55 *** 1212,1
+CT0300,AC089,Edem Ankrah,Procurement Manager,eankrah@lagoon.example,+233 24 *** 1090,0
+CT0301,AC089,Hawa Abdulai,GM,habdulai@lagoon.example,+233 27 *** 4869,0
+CT0302,AC090,Vida Yeboah,Category Buyer,vyeboah@goodway.example,+233 55 *** 4006,1
+CT0303,AC090,Lamisi Sarpong,Store Manager,lsarpong@goodway.example,+233 24 *** 5277,0
+CT0304,AC090,Ebo Tetteh,Owner,etetteh@goodway.example,+233 20 *** 9114,0
+CT0305,AC091,Kukua Appiah,Managing Director,kappiah@afro.example,+233 55 *** 7913,1
+CT0306,AC091,Mawuli Antwi,Import Manager,mantwi@afro.example,+233 54 *** 4233,0
+CT0307,AC091,Nadia Mahama,Buyer,nmahama@afro.example,+233 50 *** 9383,0
+CT0308,AC091,Linda Wiredu,Assistant Manager,lwiredu@afro.example,+233 54 *** 3212,0
+CT0309,AC091,Fiifi Aryee,Front Desk Lead,faryee@afro.example,+233 55 *** 2724,0
+CT0310,AC092,Ewurabena Okine,F&B Manager,eokine@labadi.example,+233 20 *** 1150,1
+CT0311,AC092,Delali Badu,Procurement Manager,dbadu@labadi.example,+233 55 *** 1429,0
+CT0312,AC093,Fiifi Yeboah,Managing Director,fyeboah@sahel.example,+233 54 *** 5197,1
+CT0313,AC093,Nii Adjei,Import Manager,nadjei@sahel.example,+233 54 *** 8037,0
+CT0314,AC093,Gifty Yeboah,Buyer,gyeboah@sahel.example,+233 55 *** 9383,0
+CT0315,AC094,Adjoa Dogbe,Category Buyer,adogbe@family.example,+233 50 *** 6804,1
+CT0316,AC094,Mawuli Okine,Store Manager,mokine@family.example,+233 27 *** 1136,0
+CT0317,AC094,Bright Owusu,Owner,bowusu@family.example,+233 20 *** 9002,0
+CT0318,AC095,Yaa Ankrah,Category Buyer,yankrah@cityshop.example,+233 24 *** 2796,1
+CT0319,AC095,Joyce Darko,Store Manager,jdarko@cityshop.example,+233 20 *** 9575,0
+CT0320,AC096,Mawusi Agyei,Category Buyer,magyei@palace.example,+233 50 *** 4347,1
+CT0321,AC096,Linda Frimpong,Store Manager,lfrimpong@palace.example,+233 20 *** 7419,0
+CT0322,AC096,Akosua Abdulai,Owner,aabdulai@palace.example,+233 27 *** 8727,0
+CT0323,AC096,Mansa Quaye,Assistant Manager,mquaye@palace.example,+233 54 *** 2249,0
+CT0324,AC096,Belinda Appiah,Front Desk Lead,bappiah@palace.example,+233 27 *** 5818,0
+CT0325,AC097,Kofi Wiredu,F&B Manager,kwiredu@golden.example,+233 20 *** 1382,1
+CT0326,AC097,Nii Aryee,Procurement Manager,naryee@golden.example,+233 50 *** 5156,0
+CT0327,AC097,Kukua Abdulai,GM,kabdulai@golden.example,+233 24 *** 9038,0
+CT0328,AC097,Maame Sarpong,Accounts Officer,msarpong@golden.example,+233 20 *** 6533,0
+CT0329,AC097,Kwabena Yeboah,Assistant Manager,kyeboah@golden.example,+233 20 *** 1755,0
+CT0330,AC098,Yaa Darko,Managing Director,ydarko@accra.example,+233 54 *** 7844,1
+CT0331,AC098,Esi Osei,Import Manager,eosei@accra.example,+233 27 *** 9426,0
+CT0332,AC098,Hawa Ansah,Buyer,hansah@accra.example,+233 20 *** 9882,0
+CT0333,AC098,Mawuli Quaye,Front Desk Lead,mquaye@accra.example,+233 27 *** 6096,0
+CT0334,AC099,Sandra Acheampong,Founder,sacheampong@adinkra.example,+233 55 *** 9177,1
+CT0335,AC099,Nii Ansah,Account Director,nansah@adinkra.example,+233 27 *** 5346,0
+CT0336,AC099,Kwesi Gyamfi,Procurement Lead,kgyamfi@adinkra.example,+233 20 *** 2117,0
+CT0337,AC099,Yaa Antwi,Assistant Manager,yantwi@adinkra.example,+233 20 *** 8826,0
+CT0338,AC099,Nana Agyei,Accounts Officer,nagyei@adinkra.example,+233 54 *** 3476,0
+CT0339,AC100,Linda Owusu,Owner,lowusu@akwaaba.example,+233 24 *** 3707,1
+CT0340,AC100,Dede Issah,Head Baker,dissah@akwaaba.example,+233 50 *** 4339,0
+CT0341,AC101,Nadia Bonsu,Owner,nbonsu@brew.example,+233 24 *** 1328,1
+CT0342,AC101,Ibrahim Badu,Head Baker,ibadu@brew.example,+233 54 *** 7038,0
+CT0343,AC102,Zainab Ankrah,Managing Director,zankrah@motherland.example,+233 54 *** 6835,1
+CT0344,AC102,Naa Okine,Import Manager,nokine@motherland.example,+233 20 *** 1725,0
+CT0345,AC102,Maame Wiredu,Buyer,mwiredu@motherland.example,+233 55 *** 3378,0
+CT0346,AC102,Maame Ankrah,Assistant Manager,mankrah@motherland.example,+233 55 *** 1201,0
+CT0347,AC103,Afua Lartey,Founder,alartey@prestige.example,+233 50 *** 4065,1
+CT0348,AC103,Yaw Gyamfi,Account Director,ygyamfi@prestige.example,+233 55 *** 7835,0
+CT0349,AC103,Sandra Ofori,Procurement Lead,sofori@prestige.example,+233 50 *** 7103,0
+CT0350,AC103,Sena Ankrah,Front Desk Lead,sankrah@prestige.example,+233 20 *** 3431,0
+CT0351,AC104,Elikem Antwi,Category Buyer,eantwi@value.example,+233 55 *** 6055,1
+CT0352,AC104,Kwame Wiredu,Store Manager,kwiredu@value.example,+233 55 *** 9019,0
+CT0353,AC104,Vida Kyei,Owner,vkyei@value.example,+233 55 *** 1441,0
+CT0354,AC104,Kojo Ankrah,Front Desk Lead,kankrah@value.example,+233 27 *** 2743,0
+CT0355,AC105,Maame Addo,Managing Director,maddo@accra.example,+233 55 *** 2356,1
+CT0356,AC105,Kweku Okine,Import Manager,kokine@accra.example,+233 24 *** 7914,0
+CT0357,AC105,Delali Sowah,Buyer,dsowah@accra.example,+233 27 *** 3202,0
+CT0358,AC106,Joyce Sarpong,Category Buyer,jsarpong@palace.example,+233 54 *** 6763,1
+CT0359,AC106,Naa Badu,Store Manager,nbadu@palace.example,+233 24 *** 2318,0
+CT0360,AC106,Fiifi Antwi,Owner,fantwi@palace.example,+233 54 *** 8419,0
+CT0361,AC106,Naa Mensah,Assistant Manager,nmensah@palace.example,+233 24 *** 7654,0
+CT0362,AC106,Ebo Kyei,Assistant Manager,ekyei@palace.example,+233 55 *** 2198,0
+CT0363,AC107,Dede Amoah,F&B Manager,damoah@ridge.example,+233 20 *** 2192,1
+CT0364,AC107,Daniel Yeboah,Procurement Manager,dyeboah@ridge.example,+233 24 *** 7257,0
+CT0365,AC107,Esi Opoku,GM,eopoku@ridge.example,+233 24 *** 2380,0
+CT0366,AC107,Sena Dogbe,Accounts Officer,sdogbe@ridge.example,+233 55 *** 6520,0
+CT0367,AC108,Kwame Okine,Owner,kokine@oven.example,+233 24 *** 3693,1
+CT0368,AC108,Ama Dogbe,Head Baker,adogbe@oven.example,+233 50 *** 2812,0
+CT0369,AC108,Yaa Agbeko,Manager,yagbeko@oven.example,+233 27 *** 3574,0
+CT0370,AC108,Fiifi Kyei,Accounts Officer,fkyei@oven.example,+233 20 *** 4024,0
+CT0371,AC108,Kweku Abdulai,Accounts Officer,kabdulai@oven.example,+233 27 *** 1722,0
+CT0372,AC109,Rita Frimpong,Owner,rfrimpong@bean.example,+233 27 *** 4755,1
+CT0373,AC109,Ebo Appiah,Head Baker,eappiah@bean.example,+233 50 *** 9397,0
+CT0374,AC109,Sandra Gyamfi,Manager,sgyamfi@bean.example,+233 20 *** 5252,0
+CT0375,AC109,Nii Owusu,Assistant Manager,nowusu@bean.example,+233 50 *** 9749,0
+CT0376,AC110,Kwabena Yeboah,Category Buyer,kyeboah@family.example,+233 55 *** 9451,1
+CT0377,AC110,Araba Ansah,Store Manager,aansah@family.example,+233 20 *** 3038,0
+CT0378,AC111,Ibrahim Frimpong,Owner,ifrimpong@kwaku.example,+233 27 *** 7312,1
+CT0379,AC111,Delali Issah,Head Baker,dissah@kwaku.example,+233 54 *** 4600,0
+CT0380,AC112,Ebo Badu,Category Buyer,ebadu@unity.example,+233 27 *** 5697,1
+CT0381,AC112,Afua Agyei,Store Manager,aagyei@unity.example,+233 50 *** 8298,0
+CT0382,AC112,Ama Boateng,Owner,aboateng@unity.example,+233 20 *** 1369,0
+CT0383,AC113,Mansa Antwi,Category Buyer,mantwi@cityshop.example,+233 24 *** 1197,1
+CT0384,AC113,Lamisi Gyamfi,Store Manager,lgyamfi@cityshop.example,+233 50 *** 9061,0
+CT0385,AC114,Nii Ansah,Managing Director,nansah@sahel.example,+233 20 *** 1172,1
+CT0386,AC114,Dede Okine,Import Manager,dokine@sahel.example,+233 54 *** 4597,0
+CT0387,AC114,Sena Sarpong,Buyer,ssarpong@sahel.example,+233 54 *** 2693,0
+CT0388,AC114,Sandra Lartey,Front Desk Lead,slartey@sahel.example,+233 50 *** 1105,0
+CT0389,AC114,Belinda Badu,Accounts Officer,bbadu@sahel.example,+233 54 *** 3195,0
+CT0390,AC115,Priscilla Owusu,Catering Manager,powusu@volta.example,+233 24 *** 3022,1
+CT0391,AC115,Kukua Darko,Procurement Officer,kdarko@volta.example,+233 24 *** 8356,0
+CT0392,AC115,Kweku Bonsu,Retail Manager,kbonsu@volta.example,+233 54 *** 4989,0
+CT0393,AC115,Yaw Agyei,Accounts Officer,yagyei@volta.example,+233 20 *** 3438,0
+CT0394,AC115,Yaw Kumi,Assistant Manager,ykumi@volta.example,+233 20 *** 4909,0
+CT0395,AC116,Aseye Amoah,Owner,aamoah@kwaku.example,+233 55 *** 3827,1
+CT0396,AC116,Adwoa Mahama,Head Baker,amahama@kwaku.example,+233 24 *** 1042,0
+CT0397,AC116,Daniel Tetteh,Manager,dtetteh@kwaku.example,+233 50 *** 5376,0
+CT0398,AC117,Kwame Sowah,Category Buyer,ksowah@unity.example,+233 27 *** 1400,1
+CT0399,AC117,Selasi Antwi,Store Manager,santwi@unity.example,+233 50 *** 2603,0
+CT0400,AC117,Selasi Frimpong,Owner,sfrimpong@unity.example,+233 50 *** 3162,0
+CT0401,AC118,Ebo Ankrah,F&B Manager,eankrah@coastline.example,+233 54 *** 4266,1
+CT0402,AC118,Kwabena Acheampong,Procurement Manager,kacheampong@coastline.example,+233 20 *** 7593,0
+CT0403,AC118,Selorm Kumi,GM,skumi@coastline.example,+233 55 *** 1843,0
+CT0404,AC119,Kwame Yeboah,Category Buyer,kyeboah@family.example,+233 55 *** 1912,1
+CT0405,AC119,Joyce Owusu,Store Manager,jowusu@family.example,+233 54 *** 4594,0
+CT0406,AC119,Fiifi Yeboah,Owner,fyeboah@family.example,+233 20 *** 7908,0
+CT0407,AC119,Hawa Ofori,Assistant Manager,hofori@family.example,+233 27 *** 2617,0
+CT0408,AC120,Emmanuel Ansah,Owner,eansah@kwaku.example,+233 24 *** 2491,1
+CT0409,AC120,Adwoa Yeboah,Head Baker,ayeboah@kwaku.example,+233 24 *** 1503,0
+CT0410,AC120,Delali Abdulai,Manager,dabdulai@kwaku.example,+233 55 *** 2441,0
+CT0411,AC120,Afua Amoah,Front Desk Lead,aamoah@kwaku.example,+233 55 *** 5617,0
+CT0412,AC120,Ebo Bonsu,Assistant Manager,ebonsu@kwaku.example,+233 20 *** 3320,0
+CT0413,AC121,Adjoa Mahama,Owner,amahama@bean.example,+233 54 *** 2979,1
+CT0414,AC121,Kofi Nyarko,Head Baker,knyarko@bean.example,+233 20 *** 8931,0
+CT0415,AC121,Kofi Appiah,Manager,kappiah@bean.example,+233 24 *** 3079,0
+CT0416,AC121,Fatima Adjei,Front Desk Lead,fadjei@bean.example,+233 27 *** 3009,0
+CT0417,AC121,Nadia Badu,Assistant Manager,nbadu@bean.example,+233 55 *** 2467,0
+CT0418,AC122,Adwoa Sowah,Founder,asowah@bold.example,+233 27 *** 4462,1
+CT0419,AC122,Elikem Osei,Account Director,eosei@bold.example,+233 27 *** 8046,0
+CT0420,AC122,Gifty Antwi,Procurement Lead,gantwi@bold.example,+233 55 *** 4128,0
+CT0421,AC122,Rita Lartey,Accounts Officer,rlartey@bold.example,+233 54 *** 6458,0
+CT0422,AC123,Emmanuel Addo,Category Buyer,eaddo@freshmart.example,+233 55 *** 4155,1
+CT0423,AC123,Mawuli Agbeko,Store Manager,magbeko@freshmart.example,+233 24 *** 5404,0
+CT0424,AC123,Edem Aryee,Owner,earyee@freshmart.example,+233 55 *** 4835,0
+CT0425,AC123,Selasi Okine,Assistant Manager,sokine@freshmart.example,+233 20 *** 4704,0
+CT0426,AC124,Mawuli Frimpong,Catering Manager,mfrimpong@volta.example,+233 55 *** 5940,1
+CT0427,AC124,Yaa Kyei,Procurement Officer,ykyei@volta.example,+233 54 *** 5307,0
+CT0428,AC124,Kojo Boateng,Retail Manager,kboateng@volta.example,+233 55 *** 3777,0
+CT0429,AC124,Emmanuel Acheampong,Accounts Officer,eacheampong@volta.example,+233 20 *** 7699,0
+CT0430,AC124,Selorm Acheampong,Accounts Officer,sacheampong@volta.example,+233 20 *** 3645,0
+CT0431,AC125,Ama Amoah,F&B Manager,aamoah@volta.example,+233 27 *** 5405,1
+CT0432,AC125,Daniel Bonsu,Procurement Manager,dbonsu@volta.example,+233 27 *** 1470,0
+CT0433,AC125,Delali Dogbe,GM,ddogbe@volta.example,+233 50 *** 6705,0
+CT0434,AC126,Belinda Mensah,Category Buyer,bmensah@cityshop.example,+233 50 *** 8773,1
+CT0435,AC126,Vida Appiah,Store Manager,vappiah@cityshop.example,+233 54 *** 9150,0
+CT0436,AC126,Priscilla Ansah,Owner,pansah@cityshop.example,+233 24 *** 6631,0
+CT0437,AC126,Korkor Ofori,Accounts Officer,kofori@cityshop.example,+233 54 *** 7469,0
+CT0438,AC127,Efua Frimpong,Founder,efrimpong@gye.example,+233 27 *** 7002,1
+CT0439,AC127,Belinda Kyei,Account Director,bkyei@gye.example,+233 50 *** 1314,0
+CT0440,AC127,Ewurabena Agbeko,Procurement Lead,eagbeko@gye.example,+233 55 *** 2266,0
+CT0441,AC128,Ibrahim Tetteh,F&B Manager,itetteh@ridge.example,+233 50 *** 7748,1
+CT0442,AC128,Nana Frimpong,Procurement Manager,nfrimpong@ridge.example,+233 27 *** 4760,0
+CT0443,AC129,Araba Mensah,Founder,amensah@sankofa.example,+233 50 *** 2498,1
+CT0444,AC129,Nadia Darko,Account Director,ndarko@sankofa.example,+233 20 *** 5573,0
+CT0445,AC129,Dede Agbeko,Procurement Lead,dagbeko@sankofa.example,+233 24 *** 2530,0
+CT0446,AC130,Elikem Ankrah,Category Buyer,eankrah@royal.example,+233 27 *** 9319,1
+CT0447,AC130,Afua Owusu,Store Manager,aowusu@royal.example,+233 50 *** 9087,0
+CT0448,AC130,Kukua Addo,Owner,kaddo@royal.example,+233 27 *** 4824,0
+CT0449,AC131,Ama Agbeko,Category Buyer,aagbeko@freshmart.example,+233 20 *** 5965,1
+CT0450,AC131,Dzifa Bonsu,Store Manager,dbonsu@freshmart.example,+233 24 *** 5236,0
+CT0451,AC131,Selorm Agyei,Owner,sagyei@freshmart.example,+233 55 *** 5409,0
+CT0452,AC131,Ewurabena Ansah,Assistant Manager,eansah@freshmart.example,+233 27 *** 2221,0
+CT0453,AC132,Vida Sowah,Founder,vsowah@sankofa.example,+233 50 *** 1115,1
+CT0454,AC132,Maame Wiredu,Account Director,mwiredu@sankofa.example,+233 50 *** 4468,0
+CT0455,AC132,Joyce Okine,Procurement Lead,jokine@sankofa.example,+233 20 *** 4010,0
+CT0456,AC132,Yaa Okine,Assistant Manager,yokine@sankofa.example,+233 50 *** 3168,0
+CT0457,AC132,Ibrahim Lartey,Accounts Officer,ilartey@sankofa.example,+233 50 *** 2727,0
+CT0458,AC133,Fatima Acheampong,Owner,facheampong@sweet.example,+233 55 *** 4706,1
+CT0459,AC133,Kwame Amoah,Head Baker,kamoah@sweet.example,+233 24 *** 6410,0
+CT0460,AC133,Aseye Quaye,Manager,aquaye@sweet.example,+233 24 *** 1983,0
+CT0461,AC133,Akosua Antwi,Accounts Officer,aantwi@sweet.example,+233 27 *** 4133,0
+CT0462,AC133,Ibrahim Adjei,Assistant Manager,iadjei@sweet.example,+233 54 *** 7611,0
+CT0463,AC134,Ebo Agyei,Owner,eagyei@akwaaba.example,+233 50 *** 5242,1
+CT0464,AC134,Bright Kyei,Head Baker,bkyei@akwaaba.example,+233 55 *** 4424,0
+CT0465,AC134,Ibrahim Asante,Manager,iasante@akwaaba.example,+233 54 *** 4728,0
+CT0466,AC134,Kwame Osei,Front Desk Lead,kosei@akwaaba.example,+233 27 *** 4077,0
+CT0467,AC135,Lamisi Kumi,Owner,lkumi@brew.example,+233 27 *** 2891,1
+CT0468,AC135,Abena Wiredu,Head Baker,awiredu@brew.example,+233 27 *** 8190,0
+CT0469,AC135,Abena Yeboah,Manager,ayeboah@brew.example,+233 27 *** 9264,0
+CT0470,AC136,Emmanuel Wiredu,Founder,ewiredu@sankofa.example,+233 55 *** 1188,1
+CT0471,AC136,Kojo Agyei,Account Director,kagyei@sankofa.example,+233 50 *** 9887,0
+CT0472,AC137,Vida Acheampong,Owner,vacheampong@bean.example,+233 20 *** 5147,1
+CT0473,AC137,Nana Frimpong,Head Baker,nfrimpong@bean.example,+233 20 *** 9551,0
+CT0474,AC137,Issah Yeboah,Manager,iyeboah@bean.example,+233 24 *** 8499,0
+CT0475,AC138,Yaw Agbeko,Catering Manager,yagbeko@coastal.example,+233 50 *** 4593,1
+CT0476,AC138,Korkor Owusu,Procurement Officer,kowusu@coastal.example,+233 50 *** 3377,0
+CT0477,AC138,Kojo Abdulai,Retail Manager,kabdulai@coastal.example,+233 55 *** 6198,0
+CT0478,AC138,Fiifi Kyei,Assistant Manager,fkyei@coastal.example,+233 20 *** 2035,0
+CT0479,AC138,Kukua Agyei,Front Desk Lead,kagyei@coastal.example,+233 24 *** 2364,0
+CT0480,AC139,Linda Sowah,Managing Director,lsowah@afro.example,+233 55 *** 2683,1
+CT0481,AC139,Abena Gyamfi,Import Manager,agyamfi@afro.example,+233 20 *** 3795,0
+CT0482,AC139,Fiifi Mensah,Buyer,fmensah@afro.example,+233 50 *** 2251,0
+CT0483,AC139,Yaw Sowah,Accounts Officer,ysowah@afro.example,+233 50 *** 6178,0
+CT0484,AC139,Hawa Osei,Front Desk Lead,hosei@afro.example,+233 54 *** 9072,0
+CT0485,AC140,Efua Wiredu,Category Buyer,ewiredu@freshmart.example,+233 27 *** 5193,1
+CT0486,AC140,Yaa Nyarko,Store Manager,ynyarko@freshmart.example,+233 54 *** 6970,0
+CT0487,AC140,Nana Abdulai,Owner,nabdulai@freshmart.example,+233 50 *** 2236,0
+CT0488,AC140,Delali Kumi,Assistant Manager,dkumi@freshmart.example,+233 54 *** 7052,0
+CT0489,AC141,Kojo Kyei,Managing Director,kkyei@black.example,+233 54 *** 5761,1
+CT0490,AC141,Araba Adjei,Import Manager,aadjei@black.example,+233 54 *** 7313,0
+CT0491,AC141,Efua Sarpong,Buyer,esarpong@black.example,+233 50 *** 8885,0
+CT0492,AC141,Korkor Ofori,Assistant Manager,kofori@black.example,+233 27 *** 5530,0
+CT0493,AC141,Edem Lartey,Accounts Officer,elartey@black.example,+233 24 *** 6389,0
+CT0494,AC142,Kweku Lartey,Owner,klartey@oven.example,+233 24 *** 7166,1
+CT0495,AC142,Issah Okine,Head Baker,iokine@oven.example,+233 50 *** 5053,0
+CT0496,AC142,Kweku Antwi,Manager,kantwi@oven.example,+233 20 *** 6227,0
+CT0497,AC143,Abena Boateng,Owner,aboateng@oven.example,+233 20 *** 2832,1
+CT0498,AC143,Yaa Aryee,Head Baker,yaryee@oven.example,+233 55 *** 3282,0
+CT0499,AC144,Issah Addo,Catering Manager,iaddo@coastal.example,+233 24 *** 2966,1
+CT0500,AC144,Bright Addo,Procurement Officer,baddo@coastal.example,+233 27 *** 2018,0
+CT0501,AC144,Abena Sarpong,Retail Manager,asarpong@coastal.example,+233 24 *** 7002,0
+CT0502,AC145,Ewurabena Boateng,Category Buyer,eboateng@family.example,+233 27 *** 2303,1
+CT0503,AC145,Ewurabena Acheampong,Store Manager,eacheampong@family.example,+233 55 *** 9237,0
+CT0504,AC145,Bright Sowah,Owner,bsowah@family.example,+233 55 *** 2949,0
+CT0505,AC146,Nana Mahama,Category Buyer,nmahama@family.example,+233 27 *** 2039,1
+CT0506,AC146,Ibrahim Acheampong,Store Manager,iacheampong@family.example,+233 24 *** 2512,0
+CT0507,AC147,Akosua Mahama,Founder,amahama@heritage.example,+233 20 *** 6924,1
+CT0508,AC147,Adjoa Gyamfi,Account Director,agyamfi@heritage.example,+233 24 *** 6945,0
+CT0509,AC147,Joyce Frimpong,Procurement Lead,jfrimpong@heritage.example,+233 54 *** 6449,0
+CT0510,AC148,Sandra Amoah,Founder,samoah@gye.example,+233 20 *** 8723,1
+CT0511,AC148,Naa Amoah,Account Director,namoah@gye.example,+233 55 *** 2774,0
+CT0512,AC148,Vida Bonsu,Procurement Lead,vbonsu@gye.example,+233 54 *** 1097,0
+CT0513,AC149,Nii Aryee,Founder,naryee@sankofa.example,+233 20 *** 3339,1
+CT0514,AC149,Delali Gyamfi,Account Director,dgyamfi@sankofa.example,+233 50 *** 5246,0
+CT0515,AC149,Gifty Abdulai,Procurement Lead,gabdulai@sankofa.example,+233 55 *** 2990,0
+CT0516,AC149,Delali Issah,Front Desk Lead,dissah@sankofa.example,+233 54 *** 8064,0
+CT0517,AC150,Esi Amoah,Category Buyer,eamoah@royal.example,+233 55 *** 2972,1
+CT0518,AC150,Kwesi Owusu,Store Manager,kowusu@royal.example,+233 20 *** 5783,0
+CT0519,AC150,Adjoa Ofori,Owner,aofori@royal.example,+233 20 *** 6560,0
+CT0520,AC151,Lamisi Darko,F&B Manager,ldarko@golden.example,+233 54 *** 9885,1
+CT0521,AC151,Rita Gyamfi,Procurement Manager,rgyamfi@golden.example,+233 27 *** 7421,0
+CT0522,AC151,Ibrahim Yeboah,GM,iyeboah@golden.example,+233 24 *** 1107,0
+CT0523,AC151,Hawa Issah,Assistant Manager,hissah@golden.example,+233 20 *** 1297,0
+CT0524,AC152,Sena Ankrah,Category Buyer,sankrah@value.example,+233 50 *** 2328,1
+CT0525,AC152,Linda Kyei,Store Manager,lkyei@value.example,+233 20 *** 6542,0
+CT0526,AC152,Nii Addo,Owner,naddo@value.example,+233 54 *** 4796,0
+CT0527,AC153,Adjoa Boateng,Managing Director,aboateng@sahel.example,+233 20 *** 7084,1
+CT0528,AC153,Nadia Darko,Import Manager,ndarko@sahel.example,+233 27 *** 6138,0
+CT0529,AC153,Gifty Kumi,Buyer,gkumi@sahel.example,+233 50 *** 8270,0
+CT0530,AC153,Aseye Addo,Front Desk Lead,aaddo@sahel.example,+233 50 *** 6503,0
+CT0531,AC153,Mansa Badu,Accounts Officer,mbadu@sahel.example,+233 54 *** 6103,0
+CT0532,AC154,Yaa Owusu,Category Buyer,yowusu@family.example,+233 50 *** 5587,1
+CT0533,AC154,Efua Sowah,Store Manager,esowah@family.example,+233 20 *** 8952,0
+CT0534,AC154,Selasi Sarpong,Owner,ssarpong@family.example,+233 27 *** 9580,0
+CT0535,AC154,Sena Sowah,Assistant Manager,ssowah@family.example,+233 54 *** 1069,0
+CT0536,AC155,Gifty Antwi,Owner,gantwi@brew.example,+233 54 *** 3702,1
+CT0537,AC155,Adwoa Bonsu,Head Baker,abonsu@brew.example,+233 20 *** 6189,0
+CT0538,AC155,Lamisi Badu,Manager,lbadu@brew.example,+233 20 *** 8274,0
+CT0539,AC156,Daniel Mensah,F&B Manager,dmensah@labadi.example,+233 24 *** 1416,1
+CT0540,AC156,Mawusi Acheampong,Procurement Manager,macheampong@labadi.example,+233 27 *** 2777,0
+CT0541,AC156,Maame Issah,GM,missah@labadi.example,+233 55 *** 8620,0
+CT0542,AC157,Nii Osei,Category Buyer,nosei@freshmart.example,+233 50 *** 6813,1
+CT0543,AC157,Kofi Kyei,Store Manager,kkyei@freshmart.example,+233 24 *** 6357,0
+CT0544,AC158,Mawusi Tetteh,Managing Director,mtetteh@adinkra.example,+233 20 *** 1339,1
+CT0545,AC158,Priscilla Appiah,Import Manager,pappiah@adinkra.example,+233 54 *** 8368,0
+CT0546,AC158,Kukua Owusu,Buyer,kowusu@adinkra.example,+233 55 *** 1900,0
+CT0547,AC159,Ama Amoah,Founder,aamoah@bold.example,+233 24 *** 4499,1
+CT0548,AC159,Esi Owusu,Account Director,eowusu@bold.example,+233 50 *** 6377,0
+CT0549,AC159,Selorm Agbeko,Procurement Lead,sagbeko@bold.example,+233 55 *** 7293,0
+CT0550,AC159,Elikem Ansah,Assistant Manager,eansah@bold.example,+233 50 *** 4015,0
+CT0551,AC160,Mansa Owusu,Owner,mowusu@morning.example,+233 20 *** 1926,1
+CT0552,AC160,Belinda Sowah,Head Baker,bsowah@morning.example,+233 50 *** 3451,0
+CT0553,AC160,Delali Issah,Manager,dissah@morning.example,+233 55 *** 7381,0
+CT0554,AC160,Hawa Aryee,Accounts Officer,haryee@morning.example,+233 55 *** 5041,0
+CT0555,AC161,Ama Kumi,Category Buyer,akumi@royal.example,+233 24 *** 4465,1
+CT0556,AC161,Selorm Addo,Store Manager,saddo@royal.example,+233 54 *** 4398,0
+CT0557,AC161,Gifty Kyei,Owner,gkyei@royal.example,+233 55 *** 7363,0
+CT0558,AC161,Mawusi Opoku,Accounts Officer,mopoku@royal.example,+233 54 *** 3319,0
+CT0559,AC161,Kweku Bonsu,Front Desk Lead,kbonsu@royal.example,+233 55 *** 8486,0
+CT0560,AC162,Fiifi Issah,F&B Manager,fissah@golden.example,+233 54 *** 4438,1
+CT0561,AC162,Kofi Agyei,Procurement Manager,kagyei@golden.example,+233 24 *** 1625,0
+CT0562,AC162,Akua Aryee,GM,aaryee@golden.example,+233 27 *** 3269,0
+CT0563,AC163,Sandra Badu,Category Buyer,sbadu@cityshop.example,+233 50 *** 8367,1
+CT0564,AC163,Adjoa Ankrah,Store Manager,aankrah@cityshop.example,+233 20 *** 1012,0
+CT0565,AC163,Mawuli Badu,Owner,mbadu@cityshop.example,+233 54 *** 7872,0
+CT0566,AC163,Elikem Appiah,Front Desk Lead,eappiah@cityshop.example,+233 27 *** 9411,0
+CT0567,AC164,Akua Addo,F&B Manager,aaddo@coastline.example,+233 55 *** 4127,1
+CT0568,AC164,Mawuli Darko,Procurement Manager,mdarko@coastline.example,+233 24 *** 9230,0
+CT0569,AC164,Afua Kyei,GM,akyei@coastline.example,+233 27 *** 5256,0
+CT0570,AC165,Daniel Mensah,Category Buyer,dmensah@unity.example,+233 50 *** 7973,1
+CT0571,AC165,Nii Aryee,Store Manager,naryee@unity.example,+233 54 *** 7422,0
+CT0572,AC165,Hawa Kumi,Owner,hkumi@unity.example,+233 54 *** 7060,0
+CT0573,AC165,Ebo Sowah,Accounts Officer,esowah@unity.example,+233 55 *** 7788,0
+CT0574,AC165,Nii Ansah,Accounts Officer,nansah@unity.example,+233 27 *** 5020,0
+CT0575,AC166,Kwame Agyei,Owner,kagyei@morning.example,+233 20 *** 5166,1
+CT0576,AC166,Mawusi Darko,Head Baker,mdarko@morning.example,+233 20 *** 7704,0
+CT0577,AC166,Kwame Kyei,Manager,kkyei@morning.example,+233 50 *** 5683,0
+CT0578,AC166,Maame Lartey,Front Desk Lead,mlartey@morning.example,+233 50 *** 6685,0
+CT0579,AC167,Adjoa Asante,Managing Director,aasante@motherland.example,+233 20 *** 1152,1
+CT0580,AC167,Ibrahim Owusu,Import Manager,iowusu@motherland.example,+233 20 *** 9241,0
+CT0581,AC167,Emmanuel Gyamfi,Buyer,egyamfi@motherland.example,+233 20 *** 9229,0
+CT0582,AC167,Fiifi Nyarko,Accounts Officer,fnyarko@motherland.example,+233 50 *** 1133,0
+CT0583,AC167,Efua Bonsu,Assistant Manager,ebonsu@motherland.example,+233 24 *** 6637,0
+CT0584,AC168,Akua Opoku,Catering Manager,aopoku@volta.example,+233 27 *** 2678,1
+CT0585,AC168,Belinda Tetteh,Procurement Officer,btetteh@volta.example,+233 55 *** 5349,0
+CT0586,AC168,Zainab Tetteh,Retail Manager,ztetteh@volta.example,+233 54 *** 4696,0
+CT0587,AC168,Daniel Dogbe,Assistant Manager,ddogbe@volta.example,+233 50 *** 3098,0
+CT0588,AC169,Maame Kyei,Founder,mkyei@sankofa.example,+233 20 *** 3646,1
+CT0589,AC169,Belinda Boateng,Account Director,bboateng@sankofa.example,+233 54 *** 8097,0
+CT0590,AC170,Lamisi Gyamfi,Managing Director,lgyamfi@motherland.example,+233 55 *** 1055,1
+CT0591,AC170,Joyce Appiah,Import Manager,jappiah@motherland.example,+233 54 *** 4468,0
+CT0592,AC170,Mansa Nyarko,Buyer,mnyarko@motherland.example,+233 55 *** 8293,0
+CT0593,AC171,Mansa Nyarko,Owner,mnyarko@oven.example,+233 27 *** 4049,1
+CT0594,AC171,Gifty Kyei,Head Baker,gkyei@oven.example,+233 27 *** 5476,0
+CT0595,AC172,Sandra Ofori,Catering Manager,sofori@skygold.example,+233 27 *** 4239,1
+CT0596,AC172,Esi Dogbe,Procurement Officer,edogbe@skygold.example,+233 24 *** 4638,0
+CT0597,AC172,Kofi Issah,Retail Manager,kissah@skygold.example,+233 20 *** 2965,0
+CT0598,AC172,Nii Sowah,Accounts Officer,nsowah@skygold.example,+233 24 *** 8058,0
+CT0599,AC172,Esi Tetteh,Accounts Officer,etetteh@skygold.example,+233 24 *** 5046,0
+CT0600,AC173,Mansa Bonsu,Category Buyer,mbonsu@palace.example,+233 27 *** 9288,1
+CT0601,AC173,Kwame Opoku,Store Manager,kopoku@palace.example,+233 54 *** 6780,0
+CT0602,AC173,Nii Opoku,Owner,nopoku@palace.example,+233 24 *** 6237,0
+CT0603,AC174,Mansa Addo,F&B Manager,maddo@golden.example,+233 50 *** 1959,1
+CT0604,AC174,Vida Quaye,Procurement Manager,vquaye@golden.example,+233 27 *** 8442,0
+CT0605,AC174,Joyce Antwi,GM,jantwi@golden.example,+233 54 *** 5810,0
+CT0606,AC175,Vida Mensah,Founder,vmensah@prestige.example,+233 27 *** 3832,1
+CT0607,AC175,Mawusi Okine,Account Director,mokine@prestige.example,+233 55 *** 8603,0
+CT0608,AC175,Zainab Addo,Procurement Lead,zaddo@prestige.example,+233 27 *** 5121,0
+CT0609,AC176,Afua Bonsu,Founder,abonsu@bold.example,+233 54 *** 7249,1
+CT0610,AC176,Linda Mahama,Account Director,lmahama@bold.example,+233 55 *** 9226,0
+CT0611,AC176,Emmanuel Agbeko,Procurement Lead,eagbeko@bold.example,+233 27 *** 1329,0
+CT0612,AC177,Sandra Addo,Category Buyer,saddo@cityshop.example,+233 55 *** 2199,1
+CT0613,AC177,Nadia Boateng,Store Manager,nboateng@cityshop.example,+233 50 *** 5912,0
+CT0614,AC177,Efua Amoah,Owner,eamoah@cityshop.example,+233 20 *** 8626,0
+CT0615,AC177,Dzifa Quaye,Front Desk Lead,dquaye@cityshop.example,+233 27 *** 3598,0
+CT0616,AC177,Lamisi Mensah,Front Desk Lead,lmensah@cityshop.example,+233 27 *** 3066,0
+CT0617,AC178,Rita Owusu,F&B Manager,rowusu@lagoon.example,+233 27 *** 6526,1
+CT0618,AC178,Akua Mensah,Procurement Manager,amensah@lagoon.example,+233 55 *** 3513,0
+CT0619,AC178,Efua Ansah,GM,eansah@lagoon.example,+233 54 *** 5418,0
+CT0620,AC179,Edem Bonsu,Category Buyer,ebonsu@family.example,+233 55 *** 5406,1
+CT0621,AC179,Bright Gyamfi,Store Manager,bgyamfi@family.example,+233 50 *** 1505,0
+CT0622,AC179,Sandra Darko,Owner,sdarko@family.example,+233 55 *** 7933,0
+CT0623,AC180,Ebo Tetteh,Category Buyer,etetteh@value.example,+233 50 *** 4738,1
+CT0624,AC180,Nadia Quaye,Store Manager,nquaye@value.example,+233 20 *** 9708,0
+CT0625,AC181,Fiifi Osei,Managing Director,fosei@west.example,+233 27 *** 2774,1
+CT0626,AC181,Adwoa Lartey,Import Manager,alartey@west.example,+233 24 *** 5668,0
+CT0627,AC181,Mansa Adjei,Buyer,madjei@west.example,+233 50 *** 9142,0
+CT0628,AC181,Kwabena Mensah,Assistant Manager,kmensah@west.example,+233 54 *** 5295,0
+CT0629,AC181,Kwame Owusu,Accounts Officer,kowusu@west.example,+233 20 *** 8429,0
+CT0630,AC182,Lamisi Amoah,Category Buyer,lamoah@unity.example,+233 54 *** 4420,1
+CT0631,AC182,Vida Osei,Store Manager,vosei@unity.example,+233 50 *** 6617,0
+CT0632,AC182,Akosua Aryee,Owner,aaryee@unity.example,+233 50 *** 2450,0
+CT0633,AC183,Akosua Appiah,Category Buyer,aappiah@palace.example,+233 50 *** 2908,1
+CT0634,AC183,Yaa Wiredu,Store Manager,ywiredu@palace.example,+233 24 *** 1014,0
+CT0635,AC183,Lamisi Osei,Owner,losei@palace.example,+233 24 *** 7494,0
+CT0636,AC183,Rita Darko,Accounts Officer,rdarko@palace.example,+233 54 *** 4256,0
+CT0637,AC183,Maame Mahama,Assistant Manager,mmahama@palace.example,+233 27 *** 8144,0
+CT0638,AC184,Bright Ankrah,Founder,bankrah@bold.example,+233 55 *** 2470,1
+CT0639,AC184,Sena Darko,Account Director,sdarko@bold.example,+233 54 *** 9817,0
+CT0640,AC184,Kofi Boateng,Procurement Lead,kboateng@bold.example,+233 24 *** 8915,0
+CT0641,AC184,Mansa Sowah,Front Desk Lead,msowah@bold.example,+233 20 *** 3885,0
+CT0642,AC184,Adjoa Tetteh,Front Desk Lead,atetteh@bold.example,+233 50 *** 6663,0
+CT0643,AC185,Selorm Ankrah,Founder,sankrah@sankofa.example,+233 24 *** 6639,1
+CT0644,AC185,Dede Abdulai,Account Director,dabdulai@sankofa.example,+233 27 *** 2172,0
+CT0645,AC185,Edem Appiah,Procurement Lead,eappiah@sankofa.example,+233 50 *** 3963,0
+CT0646,AC186,Naa Ofori,F&B Manager,nofori@lagoon.example,+233 50 *** 2981,1
+CT0647,AC186,Ebo Adjei,Procurement Manager,eadjei@lagoon.example,+233 50 *** 3050,0
+CT0648,AC187,Mawuli Osei,Catering Manager,mosei@coastal.example,+233 50 *** 8273,1
+CT0649,AC187,Maame Owusu,Procurement Officer,mowusu@coastal.example,+233 50 *** 8191,0
+CT0650,AC188,Ewurabena Agbeko,F&B Manager,eagbeko@palm.example,+233 24 *** 5321,1
+CT0651,AC188,Edem Yeboah,Procurement Manager,eyeboah@palm.example,+233 54 *** 7682,0
+CT0652,AC188,Dzifa Mensah,GM,dmensah@palm.example,+233 20 *** 7564,0
+CT0653,AC188,Kwesi Mensah,Accounts Officer,kmensah@palm.example,+233 24 *** 1736,0
+CT0654,AC189,Mawuli Acheampong,Founder,macheampong@gye.example,+233 54 *** 3870,1
+CT0655,AC189,Linda Badu,Account Director,lbadu@gye.example,+233 24 *** 1258,0
+CT0656,AC189,Akosua Osei,Procurement Lead,aosei@gye.example,+233 20 *** 4994,0
+CT0657,AC190,Kukua Amoah,Managing Director,kamoah@motherland.example,+233 20 *** 3880,1
+CT0658,AC190,Rita Mahama,Import Manager,rmahama@motherland.example,+233 55 *** 8621,0
+CT0659,AC190,Ibrahim Mahama,Buyer,imahama@motherland.example,+233 27 *** 1080,0
+CT0660,AC191,Zainab Agbeko,Managing Director,zagbeko@adinkra.example,+233 20 *** 4037,1
+CT0661,AC191,Aseye Okine,Import Manager,aokine@adinkra.example,+233 20 *** 2299,0
+CT0662,AC192,Ewurabena Sarpong,F&B Manager,esarpong@golden.example,+233 24 *** 5797,1
+CT0663,AC192,Lamisi Boateng,Procurement Manager,lboateng@golden.example,+233 27 *** 2630,0
+CT0664,AC192,Kukua Issah,GM,kissah@golden.example,+233 27 *** 8713,0
+CT0665,AC193,Nana Acheampong,Managing Director,nacheampong@ebony.example,+233 55 *** 3522,1
+CT0666,AC193,Korkor Mensah,Import Manager,kmensah@ebony.example,+233 27 *** 6676,0
+CT0667,AC193,Nadia Adjei,Buyer,nadjei@ebony.example,+233 27 *** 9203,0
+CT0668,AC194,Ewurabena Lartey,F&B Manager,elartey@golden.example,+233 24 *** 2369,1
+CT0669,AC194,Bright Dogbe,Procurement Manager,bdogbe@golden.example,+233 55 *** 1318,0
+CT0670,AC195,Sandra Ofori,F&B Manager,sofori@labadi.example,+233 20 *** 4552,1
+CT0671,AC195,Priscilla Dogbe,Procurement Manager,pdogbe@labadi.example,+233 54 *** 1629,0
+CT0672,AC195,Mawusi Kyei,GM,mkyei@labadi.example,+233 20 *** 7224,0
+CT0673,AC196,Kwesi Okine,Owner,kokine@brew.example,+233 20 *** 5895,1
+CT0674,AC196,Mansa Issah,Head Baker,missah@brew.example,+233 55 *** 1388,0
+CT0675,AC197,Kwame Sowah,F&B Manager,ksowah@volta.example,+233 54 *** 1560,1
+CT0676,AC197,Afua Quaye,Procurement Manager,aquaye@volta.example,+233 24 *** 7016,0
+CT0677,AC197,Efua Gyamfi,GM,egyamfi@volta.example,+233 54 *** 1740,0
+CT0678,AC197,Ebo Mensah,Assistant Manager,emensah@volta.example,+233 27 *** 6323,0
+CT0679,AC197,Daniel Gyamfi,Assistant Manager,dgyamfi@volta.example,+233 24 *** 2716,0
+CT0680,AC198,Yaw Issah,F&B Manager,yissah@labadi.example,+233 50 *** 7119,1
+CT0681,AC198,Yaa Bonsu,Procurement Manager,ybonsu@labadi.example,+233 54 *** 5511,0
+CT0682,AC198,Mawusi Owusu,GM,mowusu@labadi.example,+233 24 *** 9673,0
+CT0683,AC198,Akosua Adjei,Front Desk Lead,aadjei@labadi.example,+233 55 *** 7571,0
+CT0684,AC199,Ama Antwi,Category Buyer,aantwi@unity.example,+233 20 *** 9007,1
+CT0685,AC199,Delali Issah,Store Manager,dissah@unity.example,+233 20 *** 9232,0
+CT0686,AC200,Naa Ankrah,Catering Manager,nankrah@skygold.example,+233 24 *** 8308,1
+CT0687,AC200,Elikem Adjei,Procurement Officer,eadjei@skygold.example,+233 27 *** 6011,0
+CT0688,AC200,Efua Boateng,Retail Manager,eboateng@skygold.example,+233 55 *** 8190,0
+CT0689,AC200,Dzifa Wiredu,Assistant Manager,dwiredu@skygold.example,+233 55 *** 1510,0
+CT0690,AC200,Naa Kyei,Front Desk Lead,nkyei@skygold.example,+233 50 *** 1849,0
+CT0691,AC201,Dede Agbeko,Category Buyer,dagbeko@palace.example,+233 24 *** 8641,1
+CT0692,AC201,Kweku Adjei,Store Manager,kadjei@palace.example,+233 24 *** 9990,0
+CT0693,AC201,Ewurabena Adjei,Owner,eadjei@palace.example,+233 50 *** 1059,0
+CT0694,AC201,Sandra Tetteh,Assistant Manager,stetteh@palace.example,+233 54 *** 6179,0
+CT0695,AC201,Kwame Okine,Front Desk Lead,kokine@palace.example,+233 55 *** 3618,0
+CT0696,AC202,Bright Nyarko,Founder,bnyarko@adinkra.example,+233 27 *** 3985,1
+CT0697,AC202,Sena Sowah,Account Director,ssowah@adinkra.example,+233 54 *** 9223,0
+CT0698,AC202,Bright Mahama,Procurement Lead,bmahama@adinkra.example,+233 20 *** 7018,0
+CT0699,AC202,Gifty Tetteh,Accounts Officer,gtetteh@adinkra.example,+233 50 *** 9642,0
+CT0700,AC203,Lamisi Sarpong,F&B Manager,lsarpong@coastline.example,+233 55 *** 9507,1
+CT0701,AC203,Ebo Bonsu,Procurement Manager,ebonsu@coastline.example,+233 54 *** 1371,0
+CT0702,AC203,Nana Mensah,GM,nmensah@coastline.example,+233 54 *** 7987,0
+CT0703,AC203,Elikem Abdulai,Accounts Officer,eabdulai@coastline.example,+233 27 *** 7962,0
+CT0704,AC204,Efua Adjei,Catering Manager,eadjei@skygold.example,+233 55 *** 4899,1
+CT0705,AC204,Nadia Addo,Procurement Officer,naddo@skygold.example,+233 55 *** 6577,0
+CT0706,AC204,Lamisi Darko,Retail Manager,ldarko@skygold.example,+233 54 *** 7643,0
+CT0707,AC204,Kwabena Appiah,Assistant Manager,kappiah@skygold.example,+233 55 *** 1755,0
+CT0708,AC205,Vida Badu,Owner,vbadu@sweet.example,+233 50 *** 1574,1
+CT0709,AC205,Elikem Kyei,Head Baker,ekyei@sweet.example,+233 27 *** 8106,0
+CT0710,AC205,Delali Okine,Manager,dokine@sweet.example,+233 55 *** 5765,0
+CT0711,AC205,Delali Issah,Front Desk Lead,dissah@sweet.example,+233 27 *** 9456,0
+CT0712,AC206,Hawa Gyamfi,F&B Manager,hgyamfi@ridge.example,+233 27 *** 4587,1
+CT0713,AC206,Delali Quaye,Procurement Manager,dquaye@ridge.example,+233 24 *** 6686,0
+CT0714,AC206,Afua Gyamfi,GM,agyamfi@ridge.example,+233 54 *** 1686,0
+CT0715,AC207,Kwame Antwi,Owner,kantwi@oven.example,+233 55 *** 5306,1
+CT0716,AC207,Fatima Osei,Head Baker,fosei@oven.example,+233 27 *** 8248,0
+CT0717,AC207,Lamisi Kyei,Manager,lkyei@oven.example,+233 50 *** 6090,0
+CT0718,AC207,Rita Frimpong,Assistant Manager,rfrimpong@oven.example,+233 50 *** 8561,0
+CT0719,AC207,Edem Sowah,Assistant Manager,esowah@oven.example,+233 20 *** 5734,0
+CT0720,AC208,Mansa Ankrah,Owner,mankrah@kwaku.example,+233 50 *** 8461,1
+CT0721,AC208,Akosua Ankrah,Head Baker,aankrah@kwaku.example,+233 54 *** 4468,0
+CT0722,AC208,Ama Addo,Manager,aaddo@kwaku.example,+233 50 *** 7825,0
+CT0723,AC208,Joyce Ansah,Front Desk Lead,jansah@kwaku.example,+233 54 *** 5328,0
+CT0724,AC209,Rita Addo,Category Buyer,raddo@family.example,+233 27 *** 1168,1
+CT0725,AC209,Naa Lartey,Store Manager,nlartey@family.example,+233 54 *** 2631,0
+CT0726,AC210,Dede Boateng,Category Buyer,dboateng@palace.example,+233 27 *** 1883,1
+CT0727,AC210,Yaa Tetteh,Store Manager,ytetteh@palace.example,+233 27 *** 3090,0
+CT0728,AC210,Efua Abdulai,Owner,eabdulai@palace.example,+233 24 *** 4894,0
+CT0729,AC210,Yaa Ofori,Assistant Manager,yofori@palace.example,+233 55 *** 2738,0
+CT0730,AC210,Dede Addo,Front Desk Lead,daddo@palace.example,+233 55 *** 1084,0
+CT0731,AC211,Maame Adjei,Category Buyer,madjei@goodway.example,+233 20 *** 7946,1
+CT0732,AC211,Gifty Lartey,Store Manager,glartey@goodway.example,+233 27 *** 3673,0
+CT0733,AC212,Korkor Adjei,Category Buyer,kadjei@cityshop.example,+233 54 *** 3632,1
+CT0734,AC212,Gifty Ofori,Store Manager,gofori@cityshop.example,+233 50 *** 1510,0
+CT0735,AC212,Fatima Frimpong,Owner,ffrimpong@cityshop.example,+233 27 *** 4000,0
+CT0736,AC213,Mawuli Badu,Owner,mbadu@bean.example,+233 24 *** 8245,1
+CT0737,AC213,Kwesi Badu,Head Baker,kbadu@bean.example,+233 20 *** 7745,0
+CT0738,AC213,Akua Dogbe,Manager,adogbe@bean.example,+233 27 *** 4189,0
+CT0739,AC213,Naa Ankrah,Assistant Manager,nankrah@bean.example,+233 27 *** 9007,0
+CT0740,AC214,Bright Frimpong,Category Buyer,bfrimpong@royal.example,+233 54 *** 8677,1
+CT0741,AC214,Efua Kumi,Store Manager,ekumi@royal.example,+233 55 *** 8350,0
+CT0742,AC214,Zainab Gyamfi,Owner,zgyamfi@royal.example,+233 50 *** 1430,0
+CT0743,AC215,Yaw Ofori,Catering Manager,yofori@skygold.example,+233 54 *** 4866,1
+CT0744,AC215,Hawa Darko,Procurement Officer,hdarko@skygold.example,+233 54 *** 4227,0
+CT0745,AC215,Vida Agbeko,Retail Manager,vagbeko@skygold.example,+233 50 *** 7637,0
+CT0746,AC216,Edem Ankrah,Owner,eankrah@bean.example,+233 27 *** 5144,1
+CT0747,AC216,Fatima Frimpong,Head Baker,ffrimpong@bean.example,+233 50 *** 5800,0
+CT0748,AC217,Vida Sarpong,Category Buyer,vsarpong@freshmart.example,+233 24 *** 6857,1
+CT0749,AC217,Selasi Gyamfi,Store Manager,sgyamfi@freshmart.example,+233 55 *** 2369,0
+CT0750,AC217,Kwesi Adjei,Owner,kadjei@freshmart.example,+233 20 *** 8612,0
+CT0751,AC217,Mawuli Owusu,Accounts Officer,mowusu@freshmart.example,+233 20 *** 6468,0
+CT0752,AC218,Ibrahim Addo,Category Buyer,iaddo@value.example,+233 50 *** 3304,1
+CT0753,AC218,Selorm Ansah,Store Manager,sansah@value.example,+233 54 *** 7921,0
+CT0754,AC218,Nadia Bonsu,Owner,nbonsu@value.example,+233 20 *** 6562,0
+CT0755,AC219,Nii Owusu,Managing Director,nowusu@gold.example,+233 54 *** 4995,1
+CT0756,AC219,Maame Wiredu,Import Manager,mwiredu@gold.example,+233 50 *** 6161,0
+CT0757,AC220,Yaa Nyarko,Owner,ynyarko@kwaku.example,+233 55 *** 8230,1
+CT0758,AC220,Mawusi Yeboah,Head Baker,myeboah@kwaku.example,+233 20 *** 7402,0
+CT0759,AC220,Akua Agbeko,Manager,aagbeko@kwaku.example,+233 54 *** 1655,0
+CT0760,AC221,Naa Ofori,Category Buyer,nofori@freshmart.example,+233 50 *** 9523,1
+CT0761,AC221,Mansa Owusu,Store Manager,mowusu@freshmart.example,+233 54 *** 7920,0
+CT0762,AC221,Esi Agbeko,Owner,eagbeko@freshmart.example,+233 55 *** 9425,0
+CT0763,AC221,Kwame Yeboah,Accounts Officer,kyeboah@freshmart.example,+233 54 *** 1401,0
+CT0764,AC221,Adwoa Lartey,Accounts Officer,alartey@freshmart.example,+233 20 *** 9521,0
+CT0765,AC222,Ewurabena Ankrah,Founder,eankrah@sankofa.example,+233 54 *** 1055,1
+CT0766,AC222,Naa Sowah,Account Director,nsowah@sankofa.example,+233 27 *** 8138,0
+CT0767,AC222,Bright Dogbe,Procurement Lead,bdogbe@sankofa.example,+233 27 *** 1832,0
+CT0768,AC223,Mawusi Sarpong,Owner,msarpong@kwaku.example,+233 50 *** 8199,1
+CT0769,AC223,Mansa Aryee,Head Baker,maryee@kwaku.example,+233 50 *** 6813,0
+CT0770,AC223,Rita Darko,Manager,rdarko@kwaku.example,+233 54 *** 6906,0
+CT0771,AC223,Yaw Frimpong,Accounts Officer,yfrimpong@kwaku.example,+233 55 *** 5431,0
+CT0772,AC224,Selorm Addo,Category Buyer,saddo@palace.example,+233 20 *** 8253,1
+CT0773,AC224,Dzifa Boateng,Store Manager,dboateng@palace.example,+233 54 *** 7944,0
+CT0774,AC225,Akosua Tetteh,Founder,atetteh@bold.example,+233 20 *** 9186,1
+CT0775,AC225,Rita Addo,Account Director,raddo@bold.example,+233 50 *** 1749,0
+CT0776,AC225,Delali Gyamfi,Procurement Lead,dgyamfi@bold.example,+233 20 *** 1066,0
+CT0777,AC225,Kwesi Amoah,Assistant Manager,kamoah@bold.example,+233 27 *** 6880,0
+CT0778,AC225,Nadia Mahama,Accounts Officer,nmahama@bold.example,+233 24 *** 2949,0
+CT0779,AC226,Korkor Mensah,F&B Manager,kmensah@palm.example,+233 20 *** 2211,1
+CT0780,AC226,Selasi Okine,Procurement Manager,sokine@palm.example,+233 54 *** 2945,0
+CT0781,AC226,Nadia Owusu,GM,nowusu@palm.example,+233 24 *** 1878,0
+CT0782,AC227,Ebo Nyarko,Managing Director,enyarko@west.example,+233 24 *** 5466,1
+CT0783,AC227,Kukua Addo,Import Manager,kaddo@west.example,+233 50 *** 4525,0
+CT0784,AC227,Mansa Osei,Buyer,mosei@west.example,+233 27 *** 6639,0
+CT0785,AC228,Abena Mensah,Founder,amensah@prestige.example,+233 50 *** 8928,1
+CT0786,AC228,Elikem Abdulai,Account Director,eabdulai@prestige.example,+233 24 *** 7374,0
+CT0787,AC228,Mawusi Gyamfi,Procurement Lead,mgyamfi@prestige.example,+233 55 *** 3203,0
+CT0788,AC228,Fatima Gyamfi,Front Desk Lead,fgyamfi@prestige.example,+233 54 *** 3185,0
+CT0789,AC228,Bright Badu,Assistant Manager,bbadu@prestige.example,+233 27 *** 3621,0
+CT0790,AC229,Vida Okine,F&B Manager,vokine@lagoon.example,+233 20 *** 6084,1
+CT0791,AC229,Araba Owusu,Procurement Manager,aowusu@lagoon.example,+233 55 *** 9217,0
+CT0792,AC229,Kwame Mahama,GM,kmahama@lagoon.example,+233 27 *** 2609,0
+CT0793,AC229,Selasi Mensah,Assistant Manager,smensah@lagoon.example,+233 50 *** 6516,0
+CT0794,AC229,Efua Gyamfi,Accounts Officer,egyamfi@lagoon.example,+233 50 *** 5137,0
+CT0795,AC230,Hawa Ankrah,Category Buyer,hankrah@royal.example,+233 24 *** 3305,1
+CT0796,AC230,Efua Kumi,Store Manager,ekumi@royal.example,+233 20 *** 1539,0
+CT0797,AC230,Sena Amoah,Owner,samoah@royal.example,+233 50 *** 3137,0
+CT0798,AC231,Nadia Mahama,Founder,nmahama@heritage.example,+233 54 *** 3864,1
+CT0799,AC231,Ebo Abdulai,Account Director,eabdulai@heritage.example,+233 55 *** 8110,0
+CT0800,AC232,Mansa Frimpong,Founder,mfrimpong@sankofa.example,+233 55 *** 3835,1
+CT0801,AC232,Lamisi Sarpong,Account Director,lsarpong@sankofa.example,+233 55 *** 9237,0
+CT0802,AC233,Joyce Bonsu,Catering Manager,jbonsu@volta.example,+233 55 *** 7922,1
+CT0803,AC233,Nadia Wiredu,Procurement Officer,nwiredu@volta.example,+233 50 *** 6289,0
+CT0804,AC233,Abena Okine,Retail Manager,aokine@volta.example,+233 27 *** 3507,0
+CT0805,AC233,Daniel Kyei,Assistant Manager,dkyei@volta.example,+233 20 *** 1251,0
+CT0806,AC233,Belinda Frimpong,Accounts Officer,bfrimpong@volta.example,+233 27 *** 2284,0
+CT0807,AC234,Kojo Aryee,Category Buyer,karyee@cityshop.example,+233 24 *** 1165,1
+CT0808,AC234,Hawa Okine,Store Manager,hokine@cityshop.example,+233 20 *** 4979,0
+CT0809,AC234,Yaa Ansah,Owner,yansah@cityshop.example,+233 55 *** 1363,0
+CT0810,AC235,Efua Issah,Owner,eissah@sweet.example,+233 20 *** 9617,1
+CT0811,AC235,Kofi Dogbe,Head Baker,kdogbe@sweet.example,+233 27 *** 9783,0
+CT0812,AC235,Edem Frimpong,Manager,efrimpong@sweet.example,+233 27 *** 3994,0
+CT0813,AC236,Delali Appiah,Category Buyer,dappiah@unity.example,+233 27 *** 5918,1
+CT0814,AC236,Korkor Antwi,Store Manager,kantwi@unity.example,+233 27 *** 9634,0
+CT0815,AC236,Abena Adjei,Owner,aadjei@unity.example,+233 20 *** 3838,0
+CT0816,AC236,Rita Adjei,Accounts Officer,radjei@unity.example,+233 55 *** 3037,0
+CT0817,AC237,Mansa Abdulai,Managing Director,mabdulai@akan.example,+233 55 *** 2965,1
+CT0818,AC237,Kojo Acheampong,Import Manager,kacheampong@akan.example,+233 50 *** 6816,0
+CT0819,AC238,Priscilla Lartey,F&B Manager,plartey@golden.example,+233 20 *** 5718,1
+CT0820,AC238,Adwoa Kumi,Procurement Manager,akumi@golden.example,+233 50 *** 2065,0
+CT0821,AC238,Ewurabena Mensah,GM,emensah@golden.example,+233 20 *** 9194,0
+CT0822,AC239,Naa Quaye,Category Buyer,nquaye@cityshop.example,+233 24 *** 7153,1
+CT0823,AC239,Gifty Opoku,Store Manager,gopoku@cityshop.example,+233 24 *** 8572,0
+CT0824,AC240,Lamisi Appiah,Category Buyer,lappiah@freshmart.example,+233 54 *** 8737,1
+CT0825,AC240,Kofi Tetteh,Store Manager,ktetteh@freshmart.example,+233 27 *** 7150,0
+CT0826,AC240,Dede Addo,Owner,daddo@freshmart.example,+233 27 *** 1211,0
+CT0827,AC241,Adwoa Dogbe,Managing Director,adogbe@ebony.example,+233 50 *** 1926,1
+CT0828,AC241,Kwame Adjei,Import Manager,kadjei@ebony.example,+233 54 *** 8066,0
+CT0829,AC241,Edem Kumi,Buyer,ekumi@ebony.example,+233 54 *** 8386,0
+CT0830,AC241,Elikem Okine,Front Desk Lead,eokine@ebony.example,+233 27 *** 6276,0
+CT0831,AC242,Sandra Dogbe,Category Buyer,sdogbe@cityshop.example,+233 55 *** 2745,1
+CT0832,AC242,Mawuli Mensah,Store Manager,mmensah@cityshop.example,+233 20 *** 6310,0
+CT0833,AC243,Kwesi Abdulai,Founder,kabdulai@gye.example,+233 50 *** 5468,1
+CT0834,AC243,Gifty Osei,Account Director,gosei@gye.example,+233 24 *** 9424,0
+CT0835,AC243,Kojo Boateng,Procurement Lead,kboateng@gye.example,+233 55 *** 5071,0
+CT0836,AC244,Mawuli Sowah,Owner,msowah@kwaku.example,+233 20 *** 3991,1
+CT0837,AC244,Elikem Kyei,Head Baker,ekyei@kwaku.example,+233 24 *** 3596,0
+CT0838,AC245,Delali Darko,Owner,ddarko@bean.example,+233 54 *** 7038,1
+CT0839,AC245,Daniel Nyarko,Head Baker,dnyarko@bean.example,+233 50 *** 5163,0
+CT0840,AC245,Gifty Ofori,Manager,gofori@bean.example,+233 54 *** 6355,0
+CT0841,AC245,Kukua Sowah,Front Desk Lead,ksowah@bean.example,+233 20 *** 4595,0
+CT0842,AC246,Mawuli Quaye,Category Buyer,mquaye@goodway.example,+233 50 *** 4349,1
+CT0843,AC246,Daniel Osei,Store Manager,dosei@goodway.example,+233 27 *** 6714,0
+CT0844,AC246,Kwabena Asante,Owner,kasante@goodway.example,+233 24 *** 7726,0
+CT0845,AC246,Abena Ansah,Accounts Officer,aansah@goodway.example,+233 50 *** 6520,0
+CT0846,AC247,Selorm Ansah,Owner,sansah@sweet.example,+233 50 *** 9011,1
+CT0847,AC247,Belinda Badu,Head Baker,bbadu@sweet.example,+233 50 *** 3848,0
+CT0848,AC247,Dede Lartey,Manager,dlartey@sweet.example,+233 24 *** 6161,0
+CT0849,AC247,Kweku Mensah,Assistant Manager,kmensah@sweet.example,+233 20 *** 8660,0
+CT0850,AC248,Bright Badu,Category Buyer,bbadu@palace.example,+233 50 *** 1757,1
+CT0851,AC248,Delali Appiah,Store Manager,dappiah@palace.example,+233 54 *** 8199,0
+CT0852,AC248,Daniel Mensah,Owner,dmensah@palace.example,+233 50 *** 1384,0
+CT0853,AC249,Esi Acheampong,Catering Manager,eacheampong@coastal.example,+233 50 *** 4501,1
+CT0854,AC249,Emmanuel Ansah,Procurement Officer,eansah@coastal.example,+233 55 *** 7460,0
+CT0855,AC250,Kwabena Appiah,Category Buyer,kappiah@goodway.example,+233 27 *** 9383,1
+CT0856,AC250,Ama Dogbe,Store Manager,adogbe@goodway.example,+233 55 *** 2337,0
+CT0857,AC250,Hawa Boateng,Owner,hboateng@goodway.example,+233 27 *** 8527,0
+CT0858,AC251,Akua Aryee,Founder,aaryee@heritage.example,+233 27 *** 7659,1
+CT0859,AC251,Delali Appiah,Account Director,dappiah@heritage.example,+233 55 *** 4683,0
+CT0860,AC251,Ama Asante,Procurement Lead,aasante@heritage.example,+233 55 *** 7483,0
+CT0861,AC251,Hawa Aryee,Front Desk Lead,haryee@heritage.example,+233 55 *** 5874,0
+CT0862,AC252,Nadia Dogbe,F&B Manager,ndogbe@golden.example,+233 55 *** 4739,1
+CT0863,AC252,Issah Ofori,Procurement Manager,iofori@golden.example,+233 20 *** 2665,0
+CT0864,AC252,Adjoa Badu,GM,abadu@golden.example,+233 24 *** 5829,0
+CT0865,AC252,Mawusi Sowah,Accounts Officer,msowah@golden.example,+233 54 *** 4837,0
+CT0866,AC252,Kukua Antwi,Accounts Officer,kantwi@golden.example,+233 55 *** 4104,0
+CT0867,AC253,Yaa Appiah,Owner,yappiah@oven.example,+233 54 *** 7532,1
+CT0868,AC253,Daniel Agyei,Head Baker,dagyei@oven.example,+233 55 *** 8577,0
+CT0869,AC253,Ama Tetteh,Manager,atetteh@oven.example,+233 24 *** 4955,0
+CT0870,AC253,Sena Okine,Front Desk Lead,sokine@oven.example,+233 55 *** 6337,0
+CT0871,AC253,Emmanuel Quaye,Front Desk Lead,equaye@oven.example,+233 24 *** 9335,0
+CT0872,AC254,Lamisi Badu,Managing Director,lbadu@motherland.example,+233 20 *** 6895,1
+CT0873,AC254,Sena Antwi,Import Manager,santwi@motherland.example,+233 50 *** 3942,0
+CT0874,AC254,Kofi Ansah,Buyer,kansah@motherland.example,+233 27 *** 8322,0
+CT0875,AC255,Rita Acheampong,F&B Manager,racheampong@ridge.example,+233 24 *** 6431,1
+CT0876,AC255,Mawuli Badu,Procurement Manager,mbadu@ridge.example,+233 55 *** 6912,0
+CT0877,AC255,Kwame Acheampong,GM,kacheampong@ridge.example,+233 50 *** 2815,0
+CT0878,AC256,Lamisi Amoah,Catering Manager,lamoah@skygold.example,+233 50 *** 8283,1
+CT0879,AC256,Kweku Yeboah,Procurement Officer,kyeboah@skygold.example,+233 20 *** 1406,0
+CT0880,AC256,Ewurabena Dogbe,Retail Manager,edogbe@skygold.example,+233 55 *** 4032,0
+CT0881,AC256,Efua Owusu,Assistant Manager,eowusu@skygold.example,+233 54 *** 9928,0
+CT0882,AC256,Kweku Sowah,Accounts Officer,ksowah@skygold.example,+233 24 *** 2377,0
+CT0883,AC257,Sena Bonsu,Founder,sbonsu@prestige.example,+233 55 *** 1320,1
+CT0884,AC257,Araba Yeboah,Account Director,ayeboah@prestige.example,+233 20 *** 6683,0
+CT0885,AC257,Naa Adjei,Procurement Lead,nadjei@prestige.example,+233 20 *** 4578,0
+CT0886,AC257,Linda Boateng,Front Desk Lead,lboateng@prestige.example,+233 50 *** 7520,0
+CT0887,AC258,Delali Ansah,F&B Manager,dansah@golden.example,+233 27 *** 8668,1
+CT0888,AC258,Aseye Mensah,Procurement Manager,amensah@golden.example,+233 54 *** 4541,0
+CT0889,AC258,Kwame Mahama,GM,kmahama@golden.example,+233 50 *** 6762,0
+CT0890,AC259,Yaa Badu,Category Buyer,ybadu@royal.example,+233 24 *** 4319,1
+CT0891,AC259,Sandra Darko,Store Manager,sdarko@royal.example,+233 20 *** 1867,0
+CT0892,AC259,Vida Lartey,Owner,vlartey@royal.example,+233 27 *** 4146,0
+CT0893,AC259,Daniel Nyarko,Assistant Manager,dnyarko@royal.example,+233 55 *** 6018,0
+CT0894,AC260,Kofi Appiah,Category Buyer,kappiah@goodway.example,+233 54 *** 9010,1
+CT0895,AC260,Fatima Addo,Store Manager,faddo@goodway.example,+233 50 *** 2929,0
+CT0896,AC260,Dede Antwi,Owner,dantwi@goodway.example,+233 50 *** 6394,0
+CT0897,AC261,Fatima Nyarko,F&B Manager,fnyarko@labadi.example,+233 20 *** 8773,1
+CT0898,AC261,Abena Osei,Procurement Manager,aosei@labadi.example,+233 24 *** 4870,0
+CT0899,AC261,Kojo Wiredu,GM,kwiredu@labadi.example,+233 24 *** 1336,0
+CT0900,AC262,Daniel Mahama,Category Buyer,dmahama@value.example,+233 27 *** 6536,1
+CT0901,AC262,Adwoa Lartey,Store Manager,alartey@value.example,+233 54 *** 6516,0
+CT0902,AC262,Kojo Okine,Owner,kokine@value.example,+233 54 *** 4246,0
+CT0903,AC262,Elikem Gyamfi,Assistant Manager,egyamfi@value.example,+233 50 *** 3664,0
+CT0904,AC262,Nadia Appiah,Accounts Officer,nappiah@value.example,+233 55 *** 8017,0
+CT0905,AC263,Korkor Sowah,F&B Manager,ksowah@palm.example,+233 55 *** 4734,1
+CT0906,AC263,Kofi Mensah,Procurement Manager,kmensah@palm.example,+233 50 *** 8246,0
+CT0907,AC263,Gifty Dogbe,GM,gdogbe@palm.example,+233 54 *** 1257,0
+CT0908,AC263,Afua Sarpong,Front Desk Lead,asarpong@palm.example,+233 27 *** 2640,0
+CT0909,AC264,Kwesi Amoah,F&B Manager,kamoah@coastline.example,+233 24 *** 7055,1
+CT0910,AC264,Rita Tetteh,Procurement Manager,rtetteh@coastline.example,+233 50 *** 2413,0
+CT0911,AC264,Nadia Opoku,GM,nopoku@coastline.example,+233 20 *** 3593,0
+CT0912,AC265,Belinda Mahama,Founder,bmahama@gye.example,+233 55 *** 6709,1
+CT0913,AC265,Dzifa Okine,Account Director,dokine@gye.example,+233 50 *** 8127,0
+CT0914,AC266,Hawa Kumi,F&B Manager,hkumi@ridge.example,+233 50 *** 6300,1
+CT0915,AC266,Kojo Quaye,Procurement Manager,kquaye@ridge.example,+233 27 *** 9863,0
+CT0916,AC267,Mawuli Ofori,Managing Director,mofori@diaspora.example,+233 55 *** 3892,1
+CT0917,AC267,Naa Dogbe,Import Manager,ndogbe@diaspora.example,+233 24 *** 9046,0
+CT0918,AC267,Yaw Sowah,Buyer,ysowah@diaspora.example,+233 55 *** 2031,0
+CT0919,AC267,Nana Amoah,Assistant Manager,namoah@diaspora.example,+233 55 *** 7087,0
+CT0920,AC267,Nana Agbeko,Accounts Officer,nagbeko@diaspora.example,+233 20 *** 5774,0
+CT0921,AC268,Emmanuel Opoku,F&B Manager,eopoku@palm.example,+233 20 *** 8329,1
+CT0922,AC268,Akosua Adjei,Procurement Manager,aadjei@palm.example,+233 50 *** 7226,0
+CT0923,AC269,Akosua Mahama,Owner,amahama@bean.example,+233 54 *** 8615,1
+CT0924,AC269,Vida Quaye,Head Baker,vquaye@bean.example,+233 54 *** 4310,0
+CT0925,AC269,Daniel Quaye,Manager,dquaye@bean.example,+233 55 *** 8738,0
+CT0926,AC270,Akua Addo,F&B Manager,aaddo@volta.example,+233 24 *** 6719,1
+CT0927,AC270,Akua Tetteh,Procurement Manager,atetteh@volta.example,+233 24 *** 5953,0
+CT0928,AC270,Hawa Acheampong,GM,hacheampong@volta.example,+233 54 *** 8998,0
+CT0929,AC270,Sandra Adjei,Accounts Officer,sadjei@volta.example,+233 24 *** 1370,0
+CT0930,AC270,Kwame Kyei,Accounts Officer,kkyei@volta.example,+233 54 *** 9741,0
+CT0931,AC271,Priscilla Nyarko,Category Buyer,pnyarko@royal.example,+233 27 *** 2599,1
+CT0932,AC271,Ebo Mensah,Store Manager,emensah@royal.example,+233 54 *** 2173,0
+CT0933,AC272,Ama Adjei,Category Buyer,aadjei@royal.example,+233 20 *** 5197,1
+CT0934,AC272,Kweku Opoku,Store Manager,kopoku@royal.example,+233 24 *** 3047,0
+CT0935,AC272,Naa Boateng,Owner,nboateng@royal.example,+233 55 *** 1184,0
+CT0936,AC272,Kwabena Gyamfi,Front Desk Lead,kgyamfi@royal.example,+233 27 *** 6606,0
+CT0937,AC273,Ebo Antwi,Catering Manager,eantwi@kotoka.example,+233 20 *** 6365,1
+CT0938,AC273,Mawuli Opoku,Procurement Officer,mopoku@kotoka.example,+233 54 *** 8173,0
+CT0939,AC273,Efua Appiah,Retail Manager,eappiah@kotoka.example,+233 55 *** 7488,0
+CT0940,AC274,Priscilla Amoah,Founder,pamoah@sankofa.example,+233 50 *** 5804,1
+CT0941,AC274,Nana Nyarko,Account Director,nnyarko@sankofa.example,+233 20 *** 4435,0
+CT0942,AC275,Sena Ansah,Owner,sansah@bean.example,+233 24 *** 2091,1
+CT0943,AC275,Aseye Sarpong,Head Baker,asarpong@bean.example,+233 55 *** 9062,0
+CT0944,AC275,Linda Addo,Manager,laddo@bean.example,+233 54 *** 2480,0
+CT0945,AC276,Linda Sarpong,Managing Director,lsarpong@accra.example,+233 55 *** 3638,1
+CT0946,AC276,Kojo Frimpong,Import Manager,kfrimpong@accra.example,+233 50 *** 4775,0
+CT0947,AC276,Aseye Ofori,Buyer,aofori@accra.example,+233 27 *** 2223,0
+CT0948,AC277,Nadia Amoah,Founder,namoah@prestige.example,+233 50 *** 7491,1
+CT0949,AC277,Lamisi Lartey,Account Director,llartey@prestige.example,+233 27 *** 3611,0
+CT0950,AC277,Efua Quaye,Procurement Lead,equaye@prestige.example,+233 24 *** 4153,0
+CT0951,AC278,Nadia Appiah,Category Buyer,nappiah@cityshop.example,+233 24 *** 3560,1
+CT0952,AC278,Ama Amoah,Store Manager,aamoah@cityshop.example,+233 27 *** 8738,0
+CT0953,AC279,Kwesi Issah,Managing Director,kissah@diaspora.example,+233 24 *** 9717,1
+CT0954,AC279,Sena Ansah,Import Manager,sansah@diaspora.example,+233 24 *** 1043,0
+CT0955,AC280,Priscilla Lartey,Owner,plartey@akwaaba.example,+233 50 *** 6605,1
+CT0956,AC280,Selorm Asante,Head Baker,sasante@akwaaba.example,+233 24 *** 5799,0
+CT0957,AC280,Abena Okine,Manager,aokine@akwaaba.example,+233 24 *** 1610,0
+CT0958,AC281,Esi Kyei,F&B Manager,ekyei@palm.example,+233 50 *** 6327,1
+CT0959,AC281,Ibrahim Nyarko,Procurement Manager,inyarko@palm.example,+233 54 *** 2708,0
+CT0960,AC281,Mawusi Boateng,GM,mboateng@palm.example,+233 24 *** 3699,0
+CT0961,AC281,Sandra Boateng,Assistant Manager,sboateng@palm.example,+233 54 *** 5496,0
+CT0962,AC282,Fiifi Badu,Category Buyer,fbadu@freshmart.example,+233 24 *** 1066,1
+CT0963,AC282,Ewurabena Mahama,Store Manager,emahama@freshmart.example,+233 24 *** 6917,0
+CT0964,AC282,Dzifa Issah,Owner,dissah@freshmart.example,+233 20 *** 8784,0
+CT0965,AC282,Linda Acheampong,Front Desk Lead,lacheampong@freshmart.example,+233 24 *** 5493,0
+CT0966,AC282,Abena Aryee,Assistant Manager,aaryee@freshmart.example,+233 50 *** 4614,0
+CT0967,AC283,Sena Acheampong,Category Buyer,sacheampong@freshmart.example,+233 50 *** 8997,1
+CT0968,AC283,Mawusi Frimpong,Store Manager,mfrimpong@freshmart.example,+233 20 *** 5533,0
+CT0969,AC283,Elikem Sowah,Owner,esowah@freshmart.example,+233 55 *** 5597,0
+CT0970,AC284,Delali Badu,Managing Director,dbadu@akan.example,+233 20 *** 6743,1
+CT0971,AC284,Kwame Boateng,Import Manager,kboateng@akan.example,+233 50 *** 8199,0
+CT0972,AC284,Nii Sarpong,Buyer,nsarpong@akan.example,+233 50 *** 2367,0
+CT0973,AC285,Gifty Kumi,Category Buyer,gkumi@palace.example,+233 50 *** 4563,1
+CT0974,AC285,Priscilla Amoah,Store Manager,pamoah@palace.example,+233 27 *** 7627,0
+CT0975,AC285,Esi Yeboah,Owner,eyeboah@palace.example,+233 27 *** 5115,0
+CT0976,AC285,Fatima Nyarko,Assistant Manager,fnyarko@palace.example,+233 55 *** 2455,0
+CT0977,AC286,Rita Acheampong,F&B Manager,racheampong@palm.example,+233 20 *** 6718,1
+CT0978,AC286,Abena Acheampong,Procurement Manager,aacheampong@palm.example,+233 54 *** 4954,0
+CT0979,AC287,Nadia Ankrah,Owner,nankrah@akwaaba.example,+233 24 *** 3936,1
+CT0980,AC287,Esi Appiah,Head Baker,eappiah@akwaaba.example,+233 20 *** 8641,0
+CT0981,AC288,Kwesi Appiah,Founder,kappiah@adinkra.example,+233 50 *** 4737,1
+CT0982,AC288,Hawa Amoah,Account Director,hamoah@adinkra.example,+233 20 *** 4661,0
+CT0983,AC289,Lamisi Osei,Category Buyer,losei@family.example,+233 27 *** 3210,1
+CT0984,AC289,Rita Adjei,Store Manager,radjei@family.example,+233 54 *** 6466,0
+CT0985,AC290,Araba Ankrah,Managing Director,aankrah@akan.example,+233 27 *** 1497,1
+CT0986,AC290,Kofi Mensah,Import Manager,kmensah@akan.example,+233 50 *** 1052,0
+CT0987,AC290,Efua Mensah,Buyer,emensah@akan.example,+233 20 *** 8059,0
+CT0988,AC291,Kwabena Frimpong,Founder,kfrimpong@heritage.example,+233 27 *** 5310,1
+CT0989,AC291,Yaw Kyei,Account Director,ykyei@heritage.example,+233 55 *** 9118,0
+CT0990,AC291,Edem Gyamfi,Procurement Lead,egyamfi@heritage.example,+233 24 *** 3295,0
+CT0991,AC292,Emmanuel Kumi,Founder,ekumi@prestige.example,+233 20 *** 4552,1
+CT0992,AC292,Fiifi Mahama,Account Director,fmahama@prestige.example,+233 50 *** 9596,0
+CT0993,AC292,Joyce Addo,Procurement Lead,jaddo@prestige.example,+233 54 *** 8866,0
+CT0994,AC292,Korkor Wiredu,Front Desk Lead,kwiredu@prestige.example,+233 27 *** 2454,0
+CT0995,AC292,Gifty Yeboah,Assistant Manager,gyeboah@prestige.example,+233 50 *** 1530,0
+CT0996,AC293,Sena Darko,Founder,sdarko@sankofa.example,+233 27 *** 2525,1
+CT0997,AC293,Lamisi Issah,Account Director,lissah@sankofa.example,+233 54 *** 6203,0
+CT0998,AC293,Mawuli Gyamfi,Procurement Lead,mgyamfi@sankofa.example,+233 55 *** 3260,0
+CT0999,AC294,Afua Acheampong,Category Buyer,aacheampong@freshmart.example,+233 50 *** 8837,1
+CT1000,AC294,Mawusi Okine,Store Manager,mokine@freshmart.example,+233 55 *** 5114,0
+CT1001,AC294,Mawuli Ofori,Owner,mofori@freshmart.example,+233 55 *** 3963,0
+CT1002,AC295,Dzifa Mensah,Founder,dmensah@sankofa.example,+233 54 *** 3587,1
+CT1003,AC295,Emmanuel Wiredu,Account Director,ewiredu@sankofa.example,+233 54 *** 6047,0
+CT1004,AC295,Aseye Ansah,Procurement Lead,aansah@sankofa.example,+233 54 *** 1008,0
+CT1005,AC295,Kwesi Gyamfi,Front Desk Lead,kgyamfi@sankofa.example,+233 54 *** 9183,0
+CT1006,AC296,Gifty Agbeko,Founder,gagbeko@adinkra.example,+233 54 *** 1836,1
+CT1007,AC296,Priscilla Sarpong,Account Director,psarpong@adinkra.example,+233 54 *** 3852,0
+CT1008,AC296,Adwoa Ansah,Procurement Lead,aansah@adinkra.example,+233 24 *** 4944,0
+CT1009,AC296,Kukua Owusu,Front Desk Lead,kowusu@adinkra.example,+233 55 *** 7366,0
+CT1010,AC296,Delali Ankrah,Accounts Officer,dankrah@adinkra.example,+233 50 *** 7456,0
+CT1011,AC297,Zainab Owusu,Managing Director,zowusu@afro.example,+233 50 *** 1878,1
+CT1012,AC297,Kweku Ofori,Import Manager,kofori@afro.example,+233 24 *** 3199,0
+CT1013,AC297,Araba Antwi,Buyer,aantwi@afro.example,+233 50 *** 1456,0
+CT1014,AC298,Ebo Adjei,Managing Director,eadjei@sahel.example,+233 24 *** 8888,1
+CT1015,AC298,Kukua Gyamfi,Import Manager,kgyamfi@sahel.example,+233 54 *** 3332,0
+CT1016,AC298,Priscilla Wiredu,Buyer,pwiredu@sahel.example,+233 50 *** 3603,0
+CT1017,AC298,Ama Addo,Front Desk Lead,aaddo@sahel.example,+233 54 *** 8594,0
+CT1018,AC298,Sandra Aryee,Front Desk Lead,saryee@sahel.example,+233 20 *** 2760,0
+CT1019,AC299,Afua Ansah,F&B Manager,aansah@ridge.example,+233 27 *** 8323,1
+CT1020,AC299,Rita Darko,Procurement Manager,rdarko@ridge.example,+233 50 *** 1192,0
+CT1021,AC299,Abena Owusu,GM,aowusu@ridge.example,+233 55 *** 7397,0
+CT1022,AC299,Sena Aryee,Accounts Officer,saryee@ridge.example,+233 55 *** 2112,0
+CT1023,AC300,Kwame Quaye,Managing Director,kquaye@afro.example,+233 50 *** 4451,1
+CT1024,AC300,Delali Lartey,Import Manager,dlartey@afro.example,+233 50 *** 8831,0
+CT1025,AC300,Linda Tetteh,Buyer,ltetteh@afro.example,+233 54 *** 6044,0
+CT1026,AC300,Mawuli Dogbe,Accounts Officer,mdogbe@afro.example,+233 20 *** 4777,0
+CT1027,AC301,Daniel Mahama,Founder,dmahama@adinkra.example,+233 50 *** 3406,1
+CT1028,AC301,Ibrahim Bonsu,Account Director,ibonsu@adinkra.example,+233 54 *** 5596,0
+CT1029,AC302,Fiifi Bonsu,Category Buyer,fbonsu@unity.example,+233 55 *** 5199,1
+CT1030,AC302,Gifty Ansah,Store Manager,gansah@unity.example,+233 24 *** 3996,0
+CT1031,AC302,Zainab Okine,Owner,zokine@unity.example,+233 27 *** 1950,0
+CT1032,AC303,Hawa Boateng,F&B Manager,hboateng@golden.example,+233 50 *** 2464,1
+CT1033,AC303,Kojo Okine,Procurement Manager,kokine@golden.example,+233 20 *** 5761,0
+CT1034,AC303,Sandra Bonsu,GM,sbonsu@golden.example,+233 24 *** 1417,0
+CT1035,AC303,Ewurabena Ofori,Accounts Officer,eofori@golden.example,+233 27 *** 7137,0
+CT1036,AC304,Nadia Appiah,Managing Director,nappiah@west.example,+233 24 *** 9657,1
+CT1037,AC304,Efua Mahama,Import Manager,emahama@west.example,+233 54 *** 2934,0
+CT1038,AC304,Delali Wiredu,Buyer,dwiredu@west.example,+233 50 *** 8199,0
+CT1039,AC305,Sandra Ofori,Category Buyer,sofori@family.example,+233 24 *** 8404,1
+CT1040,AC305,Kwesi Yeboah,Store Manager,kyeboah@family.example,+233 20 *** 9038,0
+CT1041,AC305,Kofi Kyei,Owner,kkyei@family.example,+233 27 *** 8401,0
+CT1042,AC305,Kweku Asante,Accounts Officer,kasante@family.example,+233 27 *** 9099,0
+CT1043,AC306,Aseye Tetteh,F&B Manager,atetteh@golden.example,+233 27 *** 4099,1
+CT1044,AC306,Efua Kumi,Procurement Manager,ekumi@golden.example,+233 20 *** 6719,0
+CT1045,AC307,Gifty Quaye,Managing Director,gquaye@sahel.example,+233 27 *** 4871,1
+CT1046,AC307,Linda Tetteh,Import Manager,ltetteh@sahel.example,+233 24 *** 6970,0
+CT1047,AC307,Araba Mahama,Buyer,amahama@sahel.example,+233 20 *** 6926,0
+CT1048,AC308,Nadia Opoku,Catering Manager,nopoku@skygold.example,+233 27 *** 2238,1
+CT1049,AC308,Vida Badu,Procurement Officer,vbadu@skygold.example,+233 54 *** 8019,0
+CT1050,AC308,Kweku Bonsu,Retail Manager,kbonsu@skygold.example,+233 54 *** 4576,0
+CT1051,AC309,Kukua Frimpong,Owner,kfrimpong@morning.example,+233 54 *** 4511,1
+CT1052,AC309,Araba Amoah,Head Baker,aamoah@morning.example,+233 24 *** 4304,0
+CT1053,AC309,Akosua Antwi,Manager,aantwi@morning.example,+233 27 *** 7924,0
+CT1054,AC310,Belinda Darko,Category Buyer,bdarko@value.example,+233 55 *** 8092,1
+CT1055,AC310,Mawuli Kyei,Store Manager,mkyei@value.example,+233 50 *** 3397,0
+CT1056,AC310,Mansa Yeboah,Owner,myeboah@value.example,+233 54 *** 6268,0
+CT1057,AC310,Gifty Kumi,Accounts Officer,gkumi@value.example,+233 55 *** 5778,0
+CT1058,AC310,Kojo Opoku,Assistant Manager,kopoku@value.example,+233 50 *** 1152,0

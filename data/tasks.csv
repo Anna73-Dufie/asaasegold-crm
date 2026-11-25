@@ -1,0 +1,1501 @@
+id,title,due,owner,priority,status,related_to
+TS0001,Chase overdue invoice,2026-09-02,T01,Medium,Done,AC221
+TS0002,Chase overdue invoice,2026-08-08,T04,Medium,Overdue,DL0495
+TS0003,Check stock for hotel order,2026-11-01,T01,Medium,Done,AC052
+TS0004,Reply to collab request,2026-08-19,T02,Medium,Done,AC206
+TS0005,Plan event stand,2026-09-05,T04,Medium,Done,DL0097
+TS0006,Reply to collab request,2026-08-23,T12,Medium,Done,AC114
+TS0007,Arrange tasting,2026-12-02,T06,Medium,In progress,AC123
+TS0008,Reply to collab request,2026-11-29,T11,Medium,To do,AC097
+TS0009,Chase overdue invoice,2026-10-23,T02,Medium,Overdue,AC282
+TS0010,Plan event stand,2026-08-12,T06,Medium,Done,AC123
+TS0011,Update lead notes,2026-08-10,T03,Medium,Overdue,AC050
+TS0012,Prepare contract renewal,2026-10-14,T07,Low,Done,DL1148
+TS0013,Reply to collab request,2026-10-15,T06,Medium,Overdue,AC079
+TS0014,Send price list,2026-08-24,T05,Low,Done,DL1162
+TS0015,Follow up on proposal,2026-08-02,T03,Medium,Done,AC241
+TS0016,Chase overdue invoice,2026-10-31,T01,Medium,Done,DL0851
+TS0017,Follow up on proposal,2026-11-04,T04,Medium,Done,AC222
+TS0018,Plan event stand,2026-12-19,T04,Low,To do,AC063
+TS0019,Prepare contract renewal,2026-10-13,T01,Medium,Done,DL1205
+TS0020,Reply to collab request,2026-07-29,T04,Medium,Done,AC222
+TS0021,Update lead notes,2026-08-02,T04,Low,Overdue,DL0611
+TS0022,Chase overdue invoice,2026-11-06,T06,Low,Done,DL0984
+TS0023,Reply to collab request,2026-12-11,T12,Medium,To do,AC038
+TS0024,Call to confirm order,2026-11-16,T07,Medium,Done,AC133
+TS0025,Follow up on proposal,2026-12-02,T05,Medium,To do,AC108
+TS0026,Follow up on proposal,2026-10-31,T04,High,Overdue,DL1248
+TS0027,Update lead notes,2026-08-21,T01,High,Done,DL0099
+TS0028,Check stock for hotel order,2026-10-03,T12,Medium,Done,AC200
+TS0029,Chase overdue invoice,2026-09-18,T04,Medium,Done,DL1209
+TS0030,Chase overdue invoice,2026-11-01,T03,Medium,Done,DL0513
+TS0031,Chase overdue invoice,2026-09-14,T04,Medium,Done,AC155
+TS0032,Call to confirm order,2026-10-10,T11,Medium,Done,AC293
+TS0033,Send price list,2026-09-24,T03,Low,Done,AC205
+TS0034,Chase overdue invoice,2026-11-25,T01,Medium,In progress,DL0598
+TS0035,Plan event stand,2026-08-04,T04,Medium,Done,DL0929
+TS0036,Arrange tasting,2026-10-24,T02,Medium,Done,DL0154
+TS0037,Prepare contract renewal,2026-08-06,T07,Medium,Done,AC175
+TS0038,Plan event stand,2026-11-25,T04,Medium,To do,AC178
+TS0039,Send price list,2026-09-06,T05,Low,Done,DL1468
+TS0040,Arrange tasting,2026-08-12,T05,High,Done,AC013
+TS0041,Arrange tasting,2026-10-04,T05,Medium,Done,AC188
+TS0042,Follow up on proposal,2026-11-21,T03,High,Done,AC200
+TS0043,Prepare contract renewal,2026-08-28,T06,High,Done,DL1001
+TS0044,Arrange tasting,2026-08-12,T02,High,Done,AC060
+TS0045,Follow up on proposal,2026-12-10,T05,High,To do,AC069
+TS0046,Follow up on proposal,2026-09-07,T11,Medium,Done,AC080
+TS0047,Update lead notes,2026-08-29,T07,High,Done,AC073
+TS0048,Call to confirm order,2026-12-22,T03,Low,To do,DL0016
+TS0049,Follow up on proposal,2026-11-26,T07,Medium,To do,AC307
+TS0050,Plan event stand,2026-09-23,T07,High,Done,DL0684
+TS0051,Check stock for hotel order,2026-08-18,T01,Medium,Done,AC118
+TS0052,Update lead notes,2026-08-31,T03,Low,Done,DL0746
+TS0053,Send price list,2026-11-21,T04,Medium,Done,DL0947
+TS0054,Chase overdue invoice,2026-10-18,T06,Medium,Done,AC046
+TS0055,Follow up on proposal,2026-12-21,T11,Medium,To do,AC085
+TS0056,Follow up on proposal,2026-08-26,T03,Low,Done,DL0078
+TS0057,Arrange tasting,2026-08-16,T12,Low,Done,DL1319
+TS0058,Follow up on proposal,2026-08-04,T12,Medium,Done,DL1200
+TS0059,Send price list,2026-09-30,T06,Low,Done,AC233
+TS0060,Arrange tasting,2026-08-24,T07,High,Done,DL0814
+TS0061,Call to confirm order,2026-08-20,T05,Medium,Done,AC037
+TS0062,Update lead notes,2026-10-13,T12,Low,Done,DL0798
+TS0063,Follow up on proposal,2026-08-30,T03,Medium,Done,AC159
+TS0064,Follow up on proposal,2026-09-02,T06,High,Done,DL0500
+TS0065,Reply to collab request,2026-11-27,T06,Medium,To do,AC299
+TS0066,Arrange tasting,2026-10-07,T01,Low,Done,DL0637
+TS0067,Chase overdue invoice,2026-12-11,T07,Medium,To do,AC024
+TS0068,Send price list,2026-10-31,T11,Medium,Done,DL1279
+TS0069,Reply to collab request,2026-11-25,T05,Medium,To do,AC293
+TS0070,Call to confirm order,2026-11-05,T05,Low,Done,AC196
+TS0071,Arrange tasting,2026-11-27,T04,High,To do,DL0478
+TS0072,Plan event stand,2026-12-14,T11,Medium,To do,DL0049
+TS0073,Prepare contract renewal,2026-12-06,T01,Medium,To do,DL0716
+TS0074,Call to confirm order,2026-09-12,T03,High,Done,AC199
+TS0075,Prepare contract renewal,2026-10-30,T06,Medium,Done,AC061
+TS0076,Send price list,2026-09-02,T06,Medium,Done,DL1207
+TS0077,Arrange tasting,2026-11-08,T04,Medium,Done,AC284
+TS0078,Plan event stand,2026-11-20,T05,Medium,Done,AC136
+TS0079,Follow up on proposal,2026-09-26,T11,Medium,Done,AC069
+TS0080,Send price list,2026-11-14,T03,Low,Done,AC194
+TS0081,Update lead notes,2026-09-19,T05,Medium,Done,AC185
+TS0082,Update lead notes,2026-11-21,T01,Medium,Done,DL0644
+TS0083,Send price list,2026-11-28,T06,Low,To do,DL0485
+TS0084,Prepare contract renewal,2026-10-27,T07,High,Done,DL0342
+TS0085,Send price list,2026-10-19,T07,High,Done,DL1312
+TS0086,Plan event stand,2026-12-04,T04,Medium,To do,AC290
+TS0087,Prepare contract renewal,2026-12-12,T12,High,To do,AC141
+TS0088,Send price list,2026-08-30,T06,High,Done,DL0285
+TS0089,Call to confirm order,2026-11-13,T03,Low,Done,DL0986
+TS0090,Check stock for hotel order,2026-12-17,T01,Low,To do,DL0817
+TS0091,Check stock for hotel order,2026-09-07,T07,Medium,Done,DL0179
+TS0092,Plan event stand,2026-09-24,T02,Low,Done,AC088
+TS0093,Check stock for hotel order,2026-11-26,T05,Low,To do,DL1183
+TS0094,Send price list,2026-11-10,T01,Low,Done,AC031
+TS0095,Reply to collab request,2026-10-17,T07,Medium,Done,DL1465
+TS0096,Reply to collab request,2026-07-31,T07,Medium,Done,DL0108
+TS0097,Update lead notes,2026-11-02,T07,Medium,Done,AC054
+TS0098,Arrange tasting,2026-08-16,T06,Medium,Done,AC089
+TS0099,Update lead notes,2026-11-11,T07,Low,Done,AC286
+TS0100,Chase overdue invoice,2026-09-19,T12,Medium,Done,DL0601
+TS0101,Arrange tasting,2026-11-06,T12,Medium,Done,AC058
+TS0102,Check stock for hotel order,2026-08-10,T06,Medium,Overdue,AC031
+TS0103,Call to confirm order,2026-11-08,T03,Low,Overdue,AC121
+TS0104,Prepare contract renewal,2026-11-20,T05,Low,Done,DL0173
+TS0105,Plan event stand,2026-10-11,T06,High,Done,AC297
+TS0106,Call to confirm order,2026-09-23,T02,Low,Done,AC233
+TS0107,Check stock for hotel order,2026-10-08,T03,Medium,Done,AC126
+TS0108,Send price list,2026-10-05,T01,Medium,Done,AC105
+TS0109,Call to confirm order,2026-09-10,T12,Medium,Done,DL1324
+TS0110,Call to confirm order,2026-09-24,T05,Medium,Overdue,DL0564
+TS0111,Reply to collab request,2026-12-18,T02,High,To do,DL0556
+TS0112,Plan event stand,2026-10-14,T04,Low,Overdue,AC183
+TS0113,Call to confirm order,2026-12-04,T06,Medium,To do,AC261
+TS0114,Plan event stand,2026-12-02,T02,High,To do,AC081
+TS0115,Chase overdue invoice,2026-08-28,T11,Low,Done,DL0324
+TS0116,Call to confirm order,2026-07-28,T05,Low,Done,DL0347
+TS0117,Reply to collab request,2026-11-05,T06,Medium,Done,DL1368
+TS0118,Plan event stand,2026-11-01,T05,High,Done,DL0139
+TS0119,Prepare contract renewal,2026-08-11,T06,Low,Done,AC310
+TS0120,Send price list,2026-07-28,T05,Low,Done,DL0071
+TS0121,Reply to collab request,2026-11-04,T04,Medium,In progress,DL0611
+TS0122,Follow up on proposal,2026-12-08,T04,Medium,In progress,AC187
+TS0123,Update lead notes,2026-08-16,T12,Low,Overdue,DL1202
+TS0124,Send price list,2026-10-24,T11,Low,Done,DL0305
+TS0125,Chase overdue invoice,2026-07-27,T03,Medium,Done,DL0915
+TS0126,Follow up on proposal,2026-10-15,T11,Low,Done,AC030
+TS0127,Plan event stand,2026-12-14,T06,High,To do,AC048
+TS0128,Call to confirm order,2026-12-11,T01,Medium,To do,DL0072
+TS0129,Send price list,2026-11-12,T02,Medium,Done,AC029
+TS0130,Check stock for hotel order,2026-11-14,T02,Low,Done,DL0574
+TS0131,Plan event stand,2026-12-03,T11,Medium,To do,AC119
+TS0132,Arrange tasting,2026-08-21,T02,Medium,Done,AC099
+TS0133,Update lead notes,2026-12-20,T11,Medium,To do,DL0332
+TS0134,Send price list,2026-11-26,T11,Low,To do,DL0557
+TS0135,Follow up on proposal,2026-10-31,T02,Medium,Done,DL0793
+TS0136,Plan event stand,2026-10-04,T06,Medium,Done,DL0356
+TS0137,Prepare contract renewal,2026-08-04,T12,Medium,Done,DL0863
+TS0138,Prepare contract renewal,2026-07-31,T11,Medium,Overdue,AC209
+TS0139,Reply to collab request,2026-12-19,T03,High,To do,AC048
+TS0140,Follow up on proposal,2026-11-23,T01,Medium,Overdue,AC166
+TS0141,Follow up on proposal,2026-11-07,T02,Low,Done,AC193
+TS0142,Chase overdue invoice,2026-09-01,T01,High,Done,DL0653
+TS0143,Plan event stand,2026-12-20,T11,High,To do,DL1334
+TS0144,Plan event stand,2026-09-07,T01,Medium,Done,DL0149
+TS0145,Update lead notes,2026-10-20,T03,Low,Done,AC278
+TS0146,Reply to collab request,2026-08-28,T06,Low,Done,DL1109
+TS0147,Follow up on proposal,2026-08-16,T12,Medium,Done,AC009
+TS0148,Chase overdue invoice,2026-08-26,T03,Medium,Done,DL0799
+TS0149,Update lead notes,2026-11-21,T11,Medium,Done,AC010
+TS0150,Send price list,2026-10-14,T06,Medium,Done,AC136
+TS0151,Arrange tasting,2026-08-01,T03,Low,Done,AC171
+TS0152,Chase overdue invoice,2026-09-05,T12,Low,Done,DL1464
+TS0153,Chase overdue invoice,2026-08-26,T02,Low,Done,DL0325
+TS0154,Chase overdue invoice,2026-07-30,T07,Medium,Overdue,DL0302
+TS0155,Send price list,2026-09-28,T05,Medium,Done,DL0613
+TS0156,Chase overdue invoice,2026-11-15,T06,Low,Done,AC276
+TS0157,Update lead notes,2026-10-11,T11,Low,Done,DL0753
+TS0158,Update lead notes,2026-09-08,T02,Medium,Done,DL1302
+TS0159,Chase overdue invoice,2026-10-14,T06,Medium,Done,DL0039
+TS0160,Reply to collab request,2026-08-05,T07,Medium,Done,AC160
+TS0161,Call to confirm order,2026-11-05,T04,Low,Done,DL0787
+TS0162,Follow up on proposal,2026-11-10,T11,Low,Done,DL0181
+TS0163,Plan event stand,2026-09-25,T06,Medium,Done,DL0050
+TS0164,Arrange tasting,2026-08-17,T11,Medium,Done,DL0623
+TS0165,Follow up on proposal,2026-09-18,T07,Medium,Done,DL0390
+TS0166,Prepare contract renewal,2026-12-08,T12,Low,To do,AC257
+TS0167,Reply to collab request,2026-10-10,T05,High,Done,DL0158
+TS0168,Check stock for hotel order,2026-09-12,T11,Low,Done,DL1374
+TS0169,Reply to collab request,2026-10-17,T06,Low,Done,DL0223
+TS0170,Reply to collab request,2026-11-25,T06,Medium,To do,AC198
+TS0171,Plan event stand,2026-07-30,T03,Low,Done,DL0834
+TS0172,Plan event stand,2026-11-03,T01,Low,Done,AC197
+TS0173,Send price list,2026-11-04,T07,Medium,Done,AC125
+TS0174,Update lead notes,2026-08-18,T01,High,Done,DL0592
+TS0175,Update lead notes,2026-08-13,T05,High,Overdue,AC307
+TS0176,Call to confirm order,2026-08-14,T12,Medium,Done,AC266
+TS0177,Send price list,2026-11-22,T04,Medium,Overdue,DL1414
+TS0178,Follow up on proposal,2026-11-20,T12,Low,Done,AC077
+TS0179,Prepare contract renewal,2026-09-04,T11,Medium,In progress,DL0218
+TS0180,Call to confirm order,2026-08-02,T07,Low,Done,AC011
+TS0181,Reply to collab request,2026-08-17,T11,Medium,Done,DL0023
+TS0182,Call to confirm order,2026-09-21,T11,Medium,Done,DL1039
+TS0183,Chase overdue invoice,2026-08-27,T01,Medium,Done,AC112
+TS0184,Chase overdue invoice,2026-12-17,T12,High,To do,AC012
+TS0185,Reply to collab request,2026-11-19,T06,Low,Done,DL0686
+TS0186,Call to confirm order,2026-09-07,T03,Medium,Done,DL0171
+TS0187,Reply to collab request,2026-07-27,T11,Medium,Done,DL1378
+TS0188,Plan event stand,2026-12-22,T12,High,To do,AC173
+TS0189,Send price list,2026-10-30,T07,Medium,Done,DL1269
+TS0190,Call to confirm order,2026-11-11,T03,Medium,Done,DL0060
+TS0191,Update lead notes,2026-11-20,T06,Medium,Done,AC307
+TS0192,Chase overdue invoice,2026-08-29,T04,High,Done,AC025
+TS0193,Call to confirm order,2026-09-01,T04,Low,Done,DL0148
+TS0194,Arrange tasting,2026-09-13,T12,Low,Overdue,AC134
+TS0195,Reply to collab request,2026-12-17,T02,Medium,To do,DL0077
+TS0196,Reply to collab request,2026-12-14,T03,Medium,To do,AC003
+TS0197,Send price list,2026-12-04,T07,Medium,To do,DL1274
+TS0198,Check stock for hotel order,2026-08-16,T07,Medium,Done,AC073
+TS0199,Follow up on proposal,2026-11-17,T02,Low,Done,DL1384
+TS0200,Send price list,2026-07-29,T03,High,Done,DL0954
+TS0201,Chase overdue invoice,2026-12-11,T11,Medium,To do,DL0924
+TS0202,Follow up on proposal,2026-12-10,T02,Medium,To do,AC148
+TS0203,Prepare contract renewal,2026-08-23,T04,Medium,Done,AC199
+TS0204,Check stock for hotel order,2026-11-06,T04,Medium,Done,AC227
+TS0205,Call to confirm order,2026-11-05,T06,Low,Done,DL1271
+TS0206,Follow up on proposal,2026-11-26,T04,Low,To do,DL0067
+TS0207,Send price list,2026-11-30,T11,High,To do,DL0080
+TS0208,Update lead notes,2026-09-02,T06,Low,Done,AC065
+TS0209,Check stock for hotel order,2026-08-18,T06,Low,Done,DL1244
+TS0210,Arrange tasting,2026-07-28,T06,Medium,Done,AC227
+TS0211,Plan event stand,2026-11-27,T07,Low,To do,AC309
+TS0212,Follow up on proposal,2026-10-20,T06,Medium,Overdue,DL0781
+TS0213,Plan event stand,2026-11-13,T12,Medium,Done,AC137
+TS0214,Follow up on proposal,2026-08-25,T05,Low,Overdue,AC189
+TS0215,Arrange tasting,2026-12-17,T02,Low,To do,DL0110
+TS0216,Call to confirm order,2026-08-31,T01,Medium,Done,AC241
+TS0217,Chase overdue invoice,2026-08-02,T07,Low,Done,AC146
+TS0218,Update lead notes,2026-11-06,T07,Medium,Done,AC094
+TS0219,Check stock for hotel order,2026-10-28,T03,Medium,Done,AC073
+TS0220,Call to confirm order,2026-09-26,T12,High,Done,DL1124
+TS0221,Call to confirm order,2026-11-28,T01,Low,To do,AC184
+TS0222,Chase overdue invoice,2026-07-27,T12,High,Done,AC019
+TS0223,Check stock for hotel order,2026-11-30,T12,Medium,To do,AC185
+TS0224,Chase overdue invoice,2026-11-26,T02,High,To do,AC177
+TS0225,Send price list,2026-09-14,T01,Medium,Overdue,AC305
+TS0226,Check stock for hotel order,2026-09-27,T02,Medium,Done,DL1121
+TS0227,Plan event stand,2026-12-07,T02,Low,To do,AC019
+TS0228,Update lead notes,2026-10-22,T03,Low,Done,AC244
+TS0229,Send price list,2026-08-08,T03,Medium,Done,DL0503
+TS0230,Call to confirm order,2026-12-17,T02,Low,To do,AC071
+TS0231,Update lead notes,2026-09-03,T07,Low,Done,DL0083
+TS0232,Check stock for hotel order,2026-09-28,T06,Low,Done,AC265
+TS0233,Follow up on proposal,2026-10-09,T07,Low,Done,AC284
+TS0234,Reply to collab request,2026-10-02,T02,Medium,Overdue,AC299
+TS0235,Send price list,2026-08-14,T04,Low,Done,DL1093
+TS0236,Send price list,2026-11-06,T11,Medium,Done,DL1471
+TS0237,Arrange tasting,2026-10-19,T01,Low,Done,DL0540
+TS0238,Update lead notes,2026-10-21,T03,High,Done,DL0939
+TS0239,Update lead notes,2026-08-22,T11,Medium,Done,AC097
+TS0240,Follow up on proposal,2026-10-25,T07,Medium,Done,AC273
+TS0241,Call to confirm order,2026-11-12,T07,High,Done,AC261
+TS0242,Send price list,2026-11-22,T11,Low,Overdue,AC011
+TS0243,Call to confirm order,2026-10-01,T04,Medium,Done,AC298
+TS0244,Update lead notes,2026-09-19,T03,Low,Done,DL1205
+TS0245,Follow up on proposal,2026-10-25,T04,Medium,Done,AC061
+TS0246,Reply to collab request,2026-08-27,T07,Medium,Done,AC127
+TS0247,Follow up on proposal,2026-10-27,T05,Low,Done,AC067
+TS0248,Check stock for hotel order,2026-10-27,T11,Medium,Done,DL0617
+TS0249,Arrange tasting,2026-07-28,T11,Medium,Done,AC048
+TS0250,Chase overdue invoice,2026-11-14,T12,Medium,Done,AC057
+TS0251,Send price list,2026-10-20,T12,Medium,Done,DL0680
+TS0252,Prepare contract renewal,2026-12-16,T12,Medium,In progress,AC027
+TS0253,Send price list,2026-10-25,T03,Medium,Done,AC152
+TS0254,Plan event stand,2026-09-04,T11,Low,In progress,AC276
+TS0255,Follow up on proposal,2026-11-20,T01,Medium,Done,AC041
+TS0256,Call to confirm order,2026-12-24,T01,High,To do,DL1388
+TS0257,Send price list,2026-09-21,T04,Medium,Done,AC224
+TS0258,Update lead notes,2026-09-26,T02,Low,Done,DL0147
+TS0259,Update lead notes,2026-12-10,T06,Low,To do,DL0291
+TS0260,Reply to collab request,2026-12-23,T01,Low,To do,AC264
+TS0261,Follow up on proposal,2026-10-31,T02,Medium,Done,AC134
+TS0262,Reply to collab request,2026-11-12,T05,High,Done,DL0005
+TS0263,Arrange tasting,2026-12-21,T12,Low,To do,DL1522
+TS0264,Follow up on proposal,2026-11-27,T06,Low,In progress,AC027
+TS0265,Follow up on proposal,2026-11-27,T11,Medium,To do,AC008
+TS0266,Call to confirm order,2026-12-07,T02,Medium,To do,DL0563
+TS0267,Plan event stand,2026-08-14,T06,Low,Done,DL1311
+TS0268,Arrange tasting,2026-10-13,T02,High,Done,AC225
+TS0269,Reply to collab request,2026-10-30,T06,Medium,Overdue,AC147
+TS0270,Follow up on proposal,2026-12-18,T07,Low,To do,DL1306
+TS0271,Plan event stand,2026-09-01,T06,Low,Overdue,AC057
+TS0272,Chase overdue invoice,2026-07-27,T01,Medium,Done,AC065
+TS0273,Plan event stand,2026-08-06,T03,Medium,Done,DL0484
+TS0274,Send price list,2026-09-19,T05,Medium,Done,DL1176
+TS0275,Follow up on proposal,2026-08-06,T03,Medium,Done,AC108
+TS0276,Send price list,2026-08-28,T05,High,Done,DL1000
+TS0277,Chase overdue invoice,2026-12-20,T04,Low,To do,AC154
+TS0278,Check stock for hotel order,2026-10-29,T01,Low,Done,AC223
+TS0279,Send price list,2026-10-11,T04,Low,Done,DL0280
+TS0280,Prepare contract renewal,2026-10-22,T02,High,Done,AC097
+TS0281,Follow up on proposal,2026-08-02,T07,Low,Done,DL0530
+TS0282,Check stock for hotel order,2026-11-08,T04,Medium,Done,AC147
+TS0283,Reply to collab request,2026-10-03,T04,Medium,Done,DL1267
+TS0284,Call to confirm order,2026-12-06,T07,Low,To do,DL0228
+TS0285,Update lead notes,2026-11-07,T07,Medium,Done,DL0989
+TS0286,Send price list,2026-12-15,T01,Medium,In progress,AC248
+TS0287,Arrange tasting,2026-07-28,T01,Low,Done,AC222
+TS0288,Check stock for hotel order,2026-09-03,T06,Medium,Done,AC158
+TS0289,Call to confirm order,2026-08-27,T03,High,Done,DL0349
+TS0290,Follow up on proposal,2026-10-31,T02,Medium,Done,AC191
+TS0291,Send price list,2026-10-04,T03,Medium,Done,AC029
+TS0292,Chase overdue invoice,2026-12-24,T02,Medium,To do,AC001
+TS0293,Prepare contract renewal,2026-09-09,T11,Low,Done,AC116
+TS0294,Update lead notes,2026-10-26,T03,High,Done,AC119
+TS0295,Update lead notes,2026-10-24,T03,Medium,Done,AC188
+TS0296,Prepare contract renewal,2026-10-09,T03,Medium,Done,DL0071
+TS0297,Prepare contract renewal,2026-09-18,T12,Low,In progress,AC204
+TS0298,Arrange tasting,2026-10-25,T07,Medium,Done,DL0039
+TS0299,Chase overdue invoice,2026-08-28,T07,Low,Overdue,AC246
+TS0300,Update lead notes,2026-07-31,T02,Medium,Overdue,AC156
+TS0301,Follow up on proposal,2026-11-09,T11,Low,Done,AC139
+TS0302,Update lead notes,2026-09-21,T07,High,Done,DL0560
+TS0303,Update lead notes,2026-11-01,T05,Low,Overdue,DL0352
+TS0304,Plan event stand,2026-10-23,T11,Medium,Done,AC138
+TS0305,Update lead notes,2026-11-25,T04,Low,To do,AC198
+TS0306,Arrange tasting,2026-10-13,T01,Medium,Done,AC086
+TS0307,Prepare contract renewal,2026-11-12,T03,Medium,Done,DL0549
+TS0308,Chase overdue invoice,2026-08-13,T02,Low,Done,DL0897
+TS0309,Update lead notes,2026-12-09,T12,Low,To do,AC157
+TS0310,Chase overdue invoice,2026-11-22,T02,Medium,In progress,DL0668
+TS0311,Prepare contract renewal,2026-10-15,T03,Low,In progress,AC080
+TS0312,Send price list,2026-09-17,T11,Medium,Done,AC254
+TS0313,Prepare contract renewal,2026-11-04,T04,Medium,Done,DL0231
+TS0314,Plan event stand,2026-10-31,T03,High,Done,AC188
+TS0315,Arrange tasting,2026-11-18,T11,Medium,Done,DL1397
+TS0316,Update lead notes,2026-11-15,T04,High,Done,AC241
+TS0317,Follow up on proposal,2026-09-27,T06,High,Done,DL1030
+TS0318,Call to confirm order,2026-09-07,T01,Medium,Done,DL0643
+TS0319,Plan event stand,2026-08-24,T11,High,Done,DL0849
+TS0320,Send price list,2026-09-27,T06,Low,Done,AC215
+TS0321,Update lead notes,2026-09-01,T11,Low,Done,AC138
+TS0322,Send price list,2026-08-31,T02,Medium,Done,AC064
+TS0323,Follow up on proposal,2026-10-13,T06,Medium,Done,AC247
+TS0324,Reply to collab request,2026-09-28,T07,Low,Done,AC083
+TS0325,Update lead notes,2026-11-24,T06,Low,To do,AC072
+TS0326,Follow up on proposal,2026-09-29,T12,Medium,Done,DL1171
+TS0327,Chase overdue invoice,2026-08-31,T07,High,Overdue,AC123
+TS0328,Plan event stand,2026-08-08,T01,Medium,Done,AC197
+TS0329,Send price list,2026-09-06,T12,Low,Done,DL1301
+TS0330,Check stock for hotel order,2026-10-17,T07,Medium,Done,DL1459
+TS0331,Arrange tasting,2026-10-18,T12,Medium,Done,DL1315
+TS0332,Reply to collab request,2026-08-28,T05,Medium,Overdue,AC163
+TS0333,Reply to collab request,2026-11-30,T12,Low,To do,AC074
+TS0334,Update lead notes,2026-07-29,T06,High,Done,DL0901
+TS0335,Update lead notes,2026-09-03,T04,Low,Overdue,AC170
+TS0336,Prepare contract renewal,2026-08-01,T05,Low,Done,AC252
+TS0337,Reply to collab request,2026-10-08,T11,Medium,Overdue,AC117
+TS0338,Check stock for hotel order,2026-10-31,T11,High,Done,DL0268
+TS0339,Arrange tasting,2026-07-30,T07,High,Done,DL0036
+TS0340,Follow up on proposal,2026-11-17,T02,High,Done,DL0924
+TS0341,Arrange tasting,2026-09-07,T04,Medium,Done,DL1530
+TS0342,Send price list,2026-09-07,T12,Medium,Done,AC059
+TS0343,Check stock for hotel order,2026-12-11,T02,Medium,To do,DL1086
+TS0344,Chase overdue invoice,2026-08-20,T06,Low,Done,AC081
+TS0345,Chase overdue invoice,2026-11-17,T06,Medium,Done,DL0551
+TS0346,Update lead notes,2026-10-02,T12,Low,Done,AC016
+TS0347,Reply to collab request,2026-11-24,T05,Low,To do,DL1525
+TS0348,Plan event stand,2026-12-09,T12,Low,To do,DL1091
+TS0349,Arrange tasting,2026-08-18,T07,Medium,Done,DL0598
+TS0350,Reply to collab request,2026-12-10,T11,Medium,To do,DL0769
+TS0351,Send price list,2026-12-08,T03,Medium,To do,AC011
+TS0352,Call to confirm order,2026-07-31,T11,Medium,Done,DL0272
+TS0353,Arrange tasting,2026-08-02,T03,Low,Done,AC180
+TS0354,Arrange tasting,2026-10-31,T12,Medium,Done,DL1537
+TS0355,Call to confirm order,2026-11-14,T02,Low,Overdue,DL0164
+TS0356,Arrange tasting,2026-10-23,T03,Medium,Done,DL0433
+TS0357,Follow up on proposal,2026-12-09,T05,Low,To do,AC105
+TS0358,Chase overdue invoice,2026-10-29,T01,High,Done,AC273
+TS0359,Follow up on proposal,2026-09-20,T03,Medium,Done,DL0338
+TS0360,Check stock for hotel order,2026-12-10,T12,Low,To do,AC131
+TS0361,Chase overdue invoice,2026-08-19,T04,Medium,Done,AC108
+TS0362,Follow up on proposal,2026-09-18,T04,Medium,Overdue,DL1521
+TS0363,Check stock for hotel order,2026-08-15,T11,Medium,Done,AC027
+TS0364,Check stock for hotel order,2026-12-18,T11,Medium,To do,AC267
+TS0365,Call to confirm order,2026-10-30,T03,Low,Done,DL1293
+TS0366,Arrange tasting,2026-09-07,T03,Medium,Overdue,AC164
+TS0367,Update lead notes,2026-11-26,T06,Medium,To do,DL0769
+TS0368,Check stock for hotel order,2026-11-30,T11,Medium,To do,AC129
+TS0369,Send price list,2026-08-26,T02,Medium,Done,AC053
+TS0370,Arrange tasting,2026-12-21,T12,High,To do,AC060
+TS0371,Chase overdue invoice,2026-10-04,T01,Medium,Overdue,DL0549
+TS0372,Chase overdue invoice,2026-11-26,T07,Medium,To do,DL0537
+TS0373,Chase overdue invoice,2026-08-09,T07,Medium,Done,AC153
+TS0374,Prepare contract renewal,2026-12-16,T11,High,To do,AC153
+TS0375,Check stock for hotel order,2026-08-10,T03,Medium,Done,AC213
+TS0376,Call to confirm order,2026-11-13,T01,High,Done,DL0868
+TS0377,Chase overdue invoice,2026-10-23,T05,Medium,Done,AC310
+TS0378,Plan event stand,2026-10-22,T01,Low,Overdue,DL0686
+TS0379,Follow up on proposal,2026-09-28,T02,Medium,Done,DL0400
+TS0380,Chase overdue invoice,2026-07-29,T07,Low,Done,DL0453
+TS0381,Call to confirm order,2026-10-20,T12,Low,Done,AC046
+TS0382,Plan event stand,2026-08-10,T02,Low,In progress,AC071
+TS0383,Arrange tasting,2026-10-01,T06,Medium,Done,DL0778
+TS0384,Arrange tasting,2026-09-16,T01,Medium,Done,DL0311
+TS0385,Send price list,2026-12-06,T07,Low,To do,DL0870
+TS0386,Call to confirm order,2026-11-20,T04,Medium,Done,DL0642
+TS0387,Reply to collab request,2026-10-19,T01,High,Done,AC055
+TS0388,Check stock for hotel order,2026-08-04,T06,High,Done,DL1222
+TS0389,Update lead notes,2026-10-20,T01,Medium,Done,DL0630
+TS0390,Plan event stand,2026-12-12,T06,Medium,To do,DL0963
+TS0391,Check stock for hotel order,2026-09-04,T02,Medium,Done,DL0359
+TS0392,Check stock for hotel order,2026-12-05,T02,Medium,To do,DL0319
+TS0393,Plan event stand,2026-08-21,T02,Low,Done,DL0996
+TS0394,Send price list,2026-10-18,T04,High,Done,AC143
+TS0395,Prepare contract renewal,2026-10-06,T05,Medium,Done,AC222
+TS0396,Prepare contract renewal,2026-11-11,T12,Medium,Done,DL0915
+TS0397,Send price list,2026-11-24,T01,Medium,In progress,DL1080
+TS0398,Update lead notes,2026-11-26,T02,Low,To do,DL0571
+TS0399,Prepare contract renewal,2026-11-08,T02,Low,Done,AC261
+TS0400,Plan event stand,2026-08-31,T11,Medium,Done,DL0674
+TS0401,Chase overdue invoice,2026-12-03,T04,High,In progress,DL1428
+TS0402,Check stock for hotel order,2026-09-24,T06,High,Done,AC170
+TS0403,Reply to collab request,2026-11-15,T07,Low,Overdue,DL0820
+TS0404,Call to confirm order,2026-12-06,T06,Medium,To do,AC125
+TS0405,Call to confirm order,2026-12-21,T07,Medium,In progress,AC155
+TS0406,Arrange tasting,2026-10-24,T05,Medium,Done,DL0689
+TS0407,Plan event stand,2026-10-03,T02,High,Done,AC077
+TS0408,Arrange tasting,2026-12-15,T11,Medium,To do,DL1155
+TS0409,Reply to collab request,2026-11-02,T11,Medium,Done,AC021
+TS0410,Check stock for hotel order,2026-12-08,T06,Low,In progress,AC258
+TS0411,Prepare contract renewal,2026-12-06,T02,Low,In progress,DL0664
+TS0412,Call to confirm order,2026-10-29,T05,High,Done,AC064
+TS0413,Prepare contract renewal,2026-11-11,T12,Medium,Done,DL0607
+TS0414,Plan event stand,2026-10-20,T07,High,Done,DL0114
+TS0415,Follow up on proposal,2026-10-13,T12,Medium,Done,AC297
+TS0416,Reply to collab request,2026-08-03,T11,Medium,Overdue,DL1129
+TS0417,Check stock for hotel order,2026-12-13,T02,Medium,To do,AC060
+TS0418,Check stock for hotel order,2026-11-22,T04,Low,Overdue,AC244
+TS0419,Follow up on proposal,2026-08-15,T07,Medium,Done,DL1225
+TS0420,Send price list,2026-09-26,T05,Medium,Done,AC298
+TS0421,Update lead notes,2026-09-05,T03,Low,Done,DL1006
+TS0422,Prepare contract renewal,2026-09-16,T05,Low,Done,DL0841
+TS0423,Send price list,2026-11-09,T03,Medium,Done,DL1315
+TS0424,Chase overdue invoice,2026-08-11,T07,High,Overdue,AC088
+TS0425,Send price list,2026-11-24,T02,Medium,In progress,AC075
+TS0426,Check stock for hotel order,2026-07-31,T05,High,Overdue,AC078
+TS0427,Arrange tasting,2026-09-04,T05,High,Done,AC233
+TS0428,Reply to collab request,2026-07-28,T07,Medium,Done,AC307
+TS0429,Send price list,2026-12-05,T03,Medium,In progress,AC234
+TS0430,Plan event stand,2026-09-01,T02,Low,Done,AC197
+TS0431,Reply to collab request,2026-08-02,T03,Low,Done,DL0496
+TS0432,Prepare contract renewal,2026-08-03,T04,Low,Done,DL0067
+TS0433,Chase overdue invoice,2026-11-16,T05,Medium,Done,AC195
+TS0434,Reply to collab request,2026-11-08,T01,Low,Done,DL0685
+TS0435,Chase overdue invoice,2026-10-04,T01,Medium,Done,AC012
+TS0436,Arrange tasting,2026-11-05,T11,Medium,Done,DL0019
+TS0437,Plan event stand,2026-08-21,T11,High,Done,AC001
+TS0438,Update lead notes,2026-11-25,T12,Medium,To do,AC074
+TS0439,Check stock for hotel order,2026-09-29,T03,Low,Done,DL1516
+TS0440,Reply to collab request,2026-09-13,T04,Low,Done,AC243
+TS0441,Check stock for hotel order,2026-09-23,T11,Medium,Done,AC175
+TS0442,Reply to collab request,2026-09-17,T03,Medium,Done,AC310
+TS0443,Send price list,2026-09-24,T01,Medium,Done,DL1498
+TS0444,Call to confirm order,2026-12-22,T12,Low,To do,DL1057
+TS0445,Call to confirm order,2026-10-23,T02,Medium,Done,DL1100
+TS0446,Reply to collab request,2026-10-23,T07,Medium,Done,DL0845
+TS0447,Call to confirm order,2026-12-19,T07,Medium,To do,AC005
+TS0448,Chase overdue invoice,2026-10-09,T04,High,Done,AC017
+TS0449,Chase overdue invoice,2026-08-04,T05,Low,Overdue,AC015
+TS0450,Reply to collab request,2026-08-28,T06,Medium,Done,DL1378
+TS0451,Arrange tasting,2026-08-21,T01,Low,Done,AC277
+TS0452,Send price list,2026-08-03,T03,Low,Done,AC075
+TS0453,Update lead notes,2026-11-08,T01,Low,Done,DL0244
+TS0454,Check stock for hotel order,2026-09-17,T04,Medium,Done,AC053
+TS0455,Send price list,2026-09-03,T05,Medium,Done,DL1005
+TS0456,Chase overdue invoice,2026-08-11,T04,Medium,Done,AC014
+TS0457,Follow up on proposal,2026-10-12,T04,Medium,Done,DL0152
+TS0458,Check stock for hotel order,2026-12-07,T03,Medium,To do,AC051
+TS0459,Reply to collab request,2026-09-13,T03,Medium,Overdue,DL1501
+TS0460,Reply to collab request,2026-09-07,T03,High,Done,AC092
+TS0461,Arrange tasting,2026-11-18,T03,Medium,Done,AC029
+TS0462,Prepare contract renewal,2026-10-15,T07,Low,Done,AC166
+TS0463,Update lead notes,2026-08-12,T12,Medium,Done,DL0010
+TS0464,Chase overdue invoice,2026-08-06,T06,Low,Done,DL1245
+TS0465,Check stock for hotel order,2026-12-05,T11,Medium,To do,AC090
+TS0466,Check stock for hotel order,2026-08-08,T07,Medium,Done,DL0158
+TS0467,Arrange tasting,2026-11-05,T05,High,Done,DL0560
+TS0468,Plan event stand,2026-09-21,T02,Medium,Done,DL0864
+TS0469,Arrange tasting,2026-12-17,T11,Medium,To do,AC071
+TS0470,Update lead notes,2026-10-25,T01,Medium,Done,DL0415
+TS0471,Update lead notes,2026-12-13,T07,Medium,To do,AC121
+TS0472,Plan event stand,2026-10-28,T02,Low,Done,AC271
+TS0473,Call to confirm order,2026-11-26,T07,Medium,To do,AC145
+TS0474,Update lead notes,2026-11-21,T11,High,Done,DL0549
+TS0475,Prepare contract renewal,2026-09-27,T01,Low,Done,AC169
+TS0476,Update lead notes,2026-11-23,T04,Medium,Overdue,DL1162
+TS0477,Follow up on proposal,2026-10-28,T11,Medium,Done,DL0739
+TS0478,Prepare contract renewal,2026-09-08,T01,Medium,Overdue,DL1066
+TS0479,Send price list,2026-10-18,T02,High,In progress,AC149
+TS0480,Follow up on proposal,2026-12-21,T03,Medium,To do,DL1344
+TS0481,Update lead notes,2026-12-04,T06,Medium,To do,DL1430
+TS0482,Arrange tasting,2026-08-31,T12,Low,Done,DL0032
+TS0483,Reply to collab request,2026-09-12,T07,Medium,Done,AC107
+TS0484,Update lead notes,2026-12-23,T01,High,To do,DL1224
+TS0485,Prepare contract renewal,2026-12-12,T01,Low,To do,AC092
+TS0486,Arrange tasting,2026-10-13,T03,Low,Done,AC202
+TS0487,Update lead notes,2026-08-28,T07,Medium,Done,DL0133
+TS0488,Plan event stand,2026-10-31,T11,Low,Done,AC117
+TS0489,Prepare contract renewal,2026-10-19,T06,Low,Done,AC238
+TS0490,Follow up on proposal,2026-10-01,T05,Medium,Done,AC252
+TS0491,Follow up on proposal,2026-10-11,T12,Low,Done,AC260
+TS0492,Call to confirm order,2026-11-01,T04,Medium,Done,AC158
+TS0493,Plan event stand,2026-09-03,T04,Medium,Done,AC159
+TS0494,Update lead notes,2026-11-01,T02,Low,Done,AC307
+TS0495,Chase overdue invoice,2026-10-06,T04,Medium,Done,DL0114
+TS0496,Send price list,2026-10-15,T11,High,Done,AC270
+TS0497,Reply to collab request,2026-08-18,T03,High,Overdue,AC159
+TS0498,Check stock for hotel order,2026-08-12,T02,Low,Overdue,AC222
+TS0499,Send price list,2026-10-02,T04,Medium,Done,AC137
+TS0500,Reply to collab request,2026-11-13,T07,High,Done,AC164
+TS0501,Chase overdue invoice,2026-12-19,T06,Low,To do,AC304
+TS0502,Arrange tasting,2026-10-01,T06,Low,Done,DL0748
+TS0503,Check stock for hotel order,2026-11-02,T12,High,Done,AC020
+TS0504,Plan event stand,2026-09-28,T06,Low,Done,AC258
+TS0505,Follow up on proposal,2026-08-31,T04,Medium,Done,DL0339
+TS0506,Arrange tasting,2026-08-12,T12,High,Done,DL1096
+TS0507,Chase overdue invoice,2026-11-13,T07,High,Done,AC047
+TS0508,Send price list,2026-11-19,T07,Medium,Done,DL0297
+TS0509,Update lead notes,2026-12-19,T07,Medium,To do,AC086
+TS0510,Reply to collab request,2026-08-15,T03,Medium,Done,AC220
+TS0511,Arrange tasting,2026-10-23,T02,High,Done,AC254
+TS0512,Send price list,2026-09-08,T05,Low,Done,DL0056
+TS0513,Send price list,2026-08-25,T12,Low,Done,DL0218
+TS0514,Check stock for hotel order,2026-11-16,T07,High,Done,AC072
+TS0515,Prepare contract renewal,2026-08-15,T02,Medium,Done,AC118
+TS0516,Check stock for hotel order,2026-08-04,T05,Medium,Done,AC287
+TS0517,Follow up on proposal,2026-08-13,T06,Medium,Done,AC190
+TS0518,Plan event stand,2026-09-06,T12,Medium,Done,DL1358
+TS0519,Plan event stand,2026-09-30,T02,Medium,Done,AC120
+TS0520,Arrange tasting,2026-09-16,T04,Low,Done,DL0174
+TS0521,Update lead notes,2026-09-25,T03,Medium,Done,AC292
+TS0522,Call to confirm order,2026-11-05,T06,Low,Done,DL1079
+TS0523,Check stock for hotel order,2026-08-07,T01,High,In progress,DL0937
+TS0524,Check stock for hotel order,2026-10-30,T03,Medium,Done,DL0902
+TS0525,Call to confirm order,2026-12-08,T05,Medium,In progress,AC176
+TS0526,Arrange tasting,2026-09-25,T05,High,Done,AC022
+TS0527,Prepare contract renewal,2026-10-14,T06,Medium,Overdue,DL1028
+TS0528,Update lead notes,2026-11-24,T05,Medium,To do,AC166
+TS0529,Send price list,2026-08-23,T11,Medium,Done,DL0349
+TS0530,Update lead notes,2026-09-18,T05,Low,Done,DL0631
+TS0531,Arrange tasting,2026-09-15,T05,Medium,Done,DL0381
+TS0532,Prepare contract renewal,2026-09-06,T02,Low,Done,DL0096
+TS0533,Prepare contract renewal,2026-08-24,T07,Medium,Done,DL0685
+TS0534,Check stock for hotel order,2026-10-03,T06,Medium,Done,DL0948
+TS0535,Plan event stand,2026-11-27,T05,Medium,To do,AC011
+TS0536,Update lead notes,2026-11-02,T05,Medium,Done,AC006
+TS0537,Arrange tasting,2026-08-21,T04,Low,Done,AC085
+TS0538,Arrange tasting,2026-10-03,T02,High,Done,DL0632
+TS0539,Check stock for hotel order,2026-08-17,T01,High,Overdue,AC165
+TS0540,Call to confirm order,2026-11-25,T12,Low,To do,DL1334
+TS0541,Arrange tasting,2026-10-01,T02,Medium,Done,AC105
+TS0542,Prepare contract renewal,2026-12-07,T05,High,To do,AC052
+TS0543,Call to confirm order,2026-10-21,T03,Low,Done,AC161
+TS0544,Check stock for hotel order,2026-12-23,T07,Medium,To do,DL1254
+TS0545,Reply to collab request,2026-12-21,T03,Medium,To do,DL0071
+TS0546,Arrange tasting,2026-07-29,T02,Medium,In progress,AC044
+TS0547,Follow up on proposal,2026-11-10,T04,Low,Done,DL1070
+TS0548,Reply to collab request,2026-11-13,T12,Medium,Done,AC094
+TS0549,Plan event stand,2026-12-17,T02,Low,To do,AC242
+TS0550,Reply to collab request,2026-09-12,T01,High,Done,AC120
+TS0551,Check stock for hotel order,2026-11-20,T11,Medium,Done,DL0142
+TS0552,Plan event stand,2026-11-30,T11,Low,To do,DL0541
+TS0553,Reply to collab request,2026-12-16,T11,High,To do,DL0597
+TS0554,Plan event stand,2026-12-19,T11,Medium,To do,AC010
+TS0555,Check stock for hotel order,2026-11-27,T05,Low,In progress,DL0357
+TS0556,Update lead notes,2026-11-19,T02,Low,Done,DL1003
+TS0557,Check stock for hotel order,2026-07-28,T12,Medium,Done,AC155
+TS0558,Plan event stand,2026-09-13,T05,Low,Done,AC237
+TS0559,Update lead notes,2026-10-02,T12,Low,Done,AC166
+TS0560,Follow up on proposal,2026-08-12,T01,Low,Overdue,AC249
+TS0561,Update lead notes,2026-08-27,T01,Medium,Done,DL0951
+TS0562,Prepare contract renewal,2026-11-08,T03,Low,Done,DL1294
+TS0563,Follow up on proposal,2026-12-15,T12,Low,To do,DL0755
+TS0564,Check stock for hotel order,2026-08-26,T02,Medium,Done,DL0201
+TS0565,Follow up on proposal,2026-10-27,T05,Medium,Overdue,DL0428
+TS0566,Arrange tasting,2026-09-27,T01,Medium,Done,DL0214
+TS0567,Send price list,2026-09-26,T03,High,Done,DL0111
+TS0568,Follow up on proposal,2026-12-11,T12,Low,To do,AC024
+TS0569,Plan event stand,2026-11-09,T06,Low,Done,DL1290
+TS0570,Call to confirm order,2026-10-25,T05,Medium,Done,AC170
+TS0571,Check stock for hotel order,2026-10-31,T06,High,Done,AC064
+TS0572,Reply to collab request,2026-11-14,T06,High,Done,DL1131
+TS0573,Follow up on proposal,2026-12-23,T12,High,To do,AC088
+TS0574,Update lead notes,2026-11-26,T12,High,To do,DL1161
+TS0575,Send price list,2026-10-18,T05,Low,Done,AC066
+TS0576,Reply to collab request,2026-12-22,T03,Medium,To do,DL1194
+TS0577,Arrange tasting,2026-12-10,T07,High,To do,AC102
+TS0578,Arrange tasting,2026-09-18,T05,Medium,Done,AC129
+TS0579,Arrange tasting,2026-10-25,T11,Low,Done,AC305
+TS0580,Prepare contract renewal,2026-10-28,T05,High,Done,AC150
+TS0581,Send price list,2026-10-04,T07,Medium,Done,DL0745
+TS0582,Send price list,2026-10-28,T06,Medium,Overdue,AC273
+TS0583,Send price list,2026-12-04,T01,High,To do,DL0718
+TS0584,Arrange tasting,2026-11-01,T05,High,Done,DL1210
+TS0585,Chase overdue invoice,2026-12-21,T05,Low,In progress,DL0501
+TS0586,Prepare contract renewal,2026-11-04,T03,High,Done,DL1029
+TS0587,Call to confirm order,2026-10-17,T03,Low,Done,AC222
+TS0588,Call to confirm order,2026-11-23,T05,Medium,Overdue,DL0487
+TS0589,Arrange tasting,2026-12-20,T04,Medium,To do,AC239
+TS0590,Plan event stand,2026-08-29,T04,High,Done,DL0260
+TS0591,Send price list,2026-09-15,T11,Medium,Done,DL1121
+TS0592,Arrange tasting,2026-10-02,T02,Low,Done,DL0348
+TS0593,Plan event stand,2026-12-16,T06,Medium,To do,AC278
+TS0594,Arrange tasting,2026-12-07,T05,Medium,To do,DL0551
+TS0595,Call to confirm order,2026-09-26,T12,High,Done,AC029
+TS0596,Send price list,2026-09-15,T02,Medium,Overdue,AC101
+TS0597,Plan event stand,2026-09-08,T04,Medium,Done,DL0033
+TS0598,Prepare contract renewal,2026-09-26,T05,Low,Done,AC151
+TS0599,Reply to collab request,2026-12-09,T07,Medium,To do,AC037
+TS0600,Call to confirm order,2026-07-29,T03,Low,Done,AC120
+TS0601,Plan event stand,2026-10-27,T07,Low,Done,DL1425
+TS0602,Check stock for hotel order,2026-11-30,T05,Medium,To do,DL0479
+TS0603,Check stock for hotel order,2026-11-30,T06,Medium,To do,DL1476
+TS0604,Call to confirm order,2026-09-27,T11,Medium,Done,AC216
+TS0605,Chase overdue invoice,2026-07-27,T06,Medium,Done,DL0474
+TS0606,Reply to collab request,2026-09-08,T03,High,Done,AC153
+TS0607,Send price list,2026-12-09,T07,Medium,In progress,AC237
+TS0608,Prepare contract renewal,2026-08-06,T12,Low,Done,AC145
+TS0609,Arrange tasting,2026-11-10,T04,Medium,Done,DL1306
+TS0610,Plan event stand,2026-09-27,T11,Low,Done,DL0724
+TS0611,Send price list,2026-07-27,T03,Low,Done,DL0755
+TS0612,Check stock for hotel order,2026-11-17,T03,High,Done,AC296
+TS0613,Check stock for hotel order,2026-10-21,T11,High,Done,DL0694
+TS0614,Arrange tasting,2026-12-21,T05,Low,To do,AC142
+TS0615,Plan event stand,2026-08-27,T12,Low,Done,AC065
+TS0616,Follow up on proposal,2026-08-09,T04,Low,Done,DL0553
+TS0617,Call to confirm order,2026-12-20,T05,Medium,To do,AC096
+TS0618,Call to confirm order,2026-09-24,T01,Medium,Done,DL0712
+TS0619,Update lead notes,2026-09-23,T11,High,Done,AC167
+TS0620,Follow up on proposal,2026-10-31,T12,Medium,Done,AC074
+TS0621,Arrange tasting,2026-09-02,T06,Low,Done,AC282
+TS0622,Arrange tasting,2026-11-29,T02,Low,To do,DL0762
+TS0623,Send price list,2026-09-12,T06,Medium,Done,AC017
+TS0624,Update lead notes,2026-11-16,T01,Low,Done,DL0920
+TS0625,Prepare contract renewal,2026-10-25,T04,Low,Done,DL0246
+TS0626,Prepare contract renewal,2026-10-13,T03,High,Done,DL1068
+TS0627,Arrange tasting,2026-10-31,T05,Medium,Done,AC092
+TS0628,Arrange tasting,2026-11-03,T12,Medium,In progress,AC169
+TS0629,Call to confirm order,2026-10-25,T06,Low,Done,AC052
+TS0630,Arrange tasting,2026-07-29,T12,High,Done,DL0969
+TS0631,Plan event stand,2026-12-04,T06,Medium,To do,AC075
+TS0632,Check stock for hotel order,2026-12-14,T06,Medium,To do,DL0644
+TS0633,Update lead notes,2026-11-30,T05,Low,To do,DL0656
+TS0634,Update lead notes,2026-11-07,T05,Medium,Done,DL0857
+TS0635,Chase overdue invoice,2026-08-22,T05,Low,Overdue,DL1291
+TS0636,Prepare contract renewal,2026-10-20,T02,Low,In progress,AC087
+TS0637,Reply to collab request,2026-12-23,T06,Medium,To do,DL0122
+TS0638,Arrange tasting,2026-08-15,T11,Medium,Done,AC049
+TS0639,Send price list,2026-10-20,T07,Low,Done,DL0393
+TS0640,Arrange tasting,2026-09-15,T04,Medium,Done,DL0662
+TS0641,Chase overdue invoice,2026-08-29,T11,Low,Done,AC143
+TS0642,Send price list,2026-11-17,T04,Medium,Overdue,DL0111
+TS0643,Update lead notes,2026-08-02,T06,Medium,Done,AC027
+TS0644,Call to confirm order,2026-10-12,T07,Low,Overdue,DL0519
+TS0645,Update lead notes,2026-11-24,T03,High,To do,AC146
+TS0646,Check stock for hotel order,2026-09-29,T03,High,Done,AC091
+TS0647,Follow up on proposal,2026-08-26,T12,Low,Done,DL0956
+TS0648,Chase overdue invoice,2026-08-16,T07,Medium,Done,AC025
+TS0649,Chase overdue invoice,2026-09-22,T11,High,Done,DL0879
+TS0650,Chase overdue invoice,2026-11-09,T12,Medium,Done,DL0692
+TS0651,Arrange tasting,2026-11-19,T07,Low,Done,DL1053
+TS0652,Check stock for hotel order,2026-08-26,T01,Low,Done,AC223
+TS0653,Plan event stand,2026-11-08,T05,Medium,Done,AC117
+TS0654,Send price list,2026-11-27,T02,High,To do,AC226
+TS0655,Update lead notes,2026-12-13,T03,Low,To do,AC254
+TS0656,Call to confirm order,2026-11-29,T05,Low,To do,AC106
+TS0657,Follow up on proposal,2026-12-01,T12,Low,To do,AC206
+TS0658,Plan event stand,2026-11-27,T03,High,To do,AC180
+TS0659,Follow up on proposal,2026-10-10,T06,High,Done,DL1258
+TS0660,Send price list,2026-12-22,T04,Medium,To do,AC091
+TS0661,Check stock for hotel order,2026-11-11,T12,Medium,Done,DL0803
+TS0662,Call to confirm order,2026-12-12,T06,Medium,To do,AC061
+TS0663,Check stock for hotel order,2026-12-13,T01,Medium,To do,DL0956
+TS0664,Chase overdue invoice,2026-10-22,T01,Low,Done,AC138
+TS0665,Update lead notes,2026-10-28,T06,High,Overdue,AC298
+TS0666,Arrange tasting,2026-08-26,T07,Low,Done,DL0500
+TS0667,Check stock for hotel order,2026-12-17,T12,High,To do,AC116
+TS0668,Call to confirm order,2026-07-27,T06,Low,Done,AC108
+TS0669,Send price list,2026-09-06,T04,High,Done,AC075
+TS0670,Chase overdue invoice,2026-11-13,T07,High,Done,DL0988
+TS0671,Update lead notes,2026-07-31,T02,Medium,Done,DL0786
+TS0672,Plan event stand,2026-08-18,T06,High,Done,DL1504
+TS0673,Arrange tasting,2026-12-11,T05,High,To do,DL1205
+TS0674,Prepare contract renewal,2026-08-29,T05,Medium,Done,AC234
+TS0675,Prepare contract renewal,2026-11-30,T02,Low,In progress,AC170
+TS0676,Prepare contract renewal,2026-12-08,T06,Low,To do,AC178
+TS0677,Update lead notes,2026-12-01,T02,Low,In progress,DL0169
+TS0678,Check stock for hotel order,2026-11-24,T12,Low,To do,DL0600
+TS0679,Prepare contract renewal,2026-11-13,T02,Medium,Done,AC006
+TS0680,Update lead notes,2026-12-12,T07,Medium,To do,DL1166
+TS0681,Reply to collab request,2026-07-27,T07,Medium,Done,AC095
+TS0682,Check stock for hotel order,2026-09-23,T12,High,Done,AC064
+TS0683,Reply to collab request,2026-12-08,T11,High,To do,AC220
+TS0684,Send price list,2026-10-11,T11,Medium,Done,DL0133
+TS0685,Check stock for hotel order,2026-09-15,T05,Medium,Done,DL1460
+TS0686,Send price list,2026-12-16,T05,Medium,To do,DL0752
+TS0687,Prepare contract renewal,2026-10-11,T02,High,Done,AC118
+TS0688,Follow up on proposal,2026-10-14,T04,Medium,Done,DL1056
+TS0689,Check stock for hotel order,2026-12-09,T11,Medium,To do,DL1260
+TS0690,Chase overdue invoice,2026-10-11,T01,High,Done,AC158
+TS0691,Arrange tasting,2026-12-22,T05,Medium,In progress,AC049
+TS0692,Plan event stand,2026-11-09,T04,High,Done,AC157
+TS0693,Reply to collab request,2026-12-11,T05,Medium,To do,AC022
+TS0694,Send price list,2026-09-14,T02,Medium,Done,AC281
+TS0695,Follow up on proposal,2026-11-03,T12,High,Done,AC241
+TS0696,Plan event stand,2026-09-30,T12,High,Done,DL1465
+TS0697,Call to confirm order,2026-10-04,T12,Medium,Done,AC155
+TS0698,Follow up on proposal,2026-11-08,T02,High,Done,AC164
+TS0699,Plan event stand,2026-09-05,T07,Medium,Done,DL1224
+TS0700,Prepare contract renewal,2026-10-25,T04,Low,Done,DL0620
+TS0701,Chase overdue invoice,2026-09-05,T11,Medium,Overdue,AC078
+TS0702,Prepare contract renewal,2026-10-10,T01,Medium,Done,DL0591
+TS0703,Chase overdue invoice,2026-08-24,T07,Low,Done,DL0936
+TS0704,Follow up on proposal,2026-11-28,T03,Medium,To do,AC203
+TS0705,Plan event stand,2026-08-01,T04,Medium,Done,AC254
+TS0706,Arrange tasting,2026-11-20,T03,Low,Done,DL1343
+TS0707,Reply to collab request,2026-07-28,T05,Medium,Overdue,DL0651
+TS0708,Arrange tasting,2026-08-30,T01,Medium,Overdue,DL1117
+TS0709,Check stock for hotel order,2026-11-03,T04,Medium,Done,AC227
+TS0710,Prepare contract renewal,2026-11-28,T01,Medium,To do,DL1436
+TS0711,Send price list,2026-08-20,T05,Low,Done,AC221
+TS0712,Reply to collab request,2026-08-05,T04,High,Done,DL0736
+TS0713,Call to confirm order,2026-09-04,T07,Medium,Done,AC011
+TS0714,Chase overdue invoice,2026-10-11,T11,Medium,Done,AC097
+TS0715,Arrange tasting,2026-10-21,T11,Medium,Done,DL0455
+TS0716,Prepare contract renewal,2026-10-28,T11,Medium,Done,AC074
+TS0717,Reply to collab request,2026-11-12,T07,Low,Done,DL0773
+TS0718,Call to confirm order,2026-11-23,T06,Low,Overdue,DL0411
+TS0719,Call to confirm order,2026-11-21,T01,Low,Done,AC238
+TS0720,Send price list,2026-09-26,T11,Medium,Overdue,AC052
+TS0721,Check stock for hotel order,2026-10-27,T06,Medium,Done,DL1358
+TS0722,Prepare contract renewal,2026-09-28,T02,Medium,Done,DL1201
+TS0723,Prepare contract renewal,2026-08-28,T04,Medium,Done,AC260
+TS0724,Prepare contract renewal,2026-12-18,T11,High,To do,DL1426
+TS0725,Follow up on proposal,2026-08-07,T07,Medium,Done,AC257
+TS0726,Reply to collab request,2026-08-19,T06,Medium,Done,DL0366
+TS0727,Plan event stand,2026-10-18,T03,Medium,Done,DL0636
+TS0728,Call to confirm order,2026-09-25,T01,High,Done,AC168
+TS0729,Chase overdue invoice,2026-12-20,T03,High,To do,DL0322
+TS0730,Chase overdue invoice,2026-09-02,T04,Medium,Done,DL1066
+TS0731,Call to confirm order,2026-12-02,T12,High,To do,DL0029
+TS0732,Call to confirm order,2026-10-22,T05,High,Done,DL0104
+TS0733,Update lead notes,2026-08-19,T02,Medium,Done,AC181
+TS0734,Prepare contract renewal,2026-11-18,T12,Medium,Done,DL0669
+TS0735,Reply to collab request,2026-10-29,T04,Low,Done,DL0413
+TS0736,Send price list,2026-12-07,T12,Medium,To do,DL1415
+TS0737,Follow up on proposal,2026-09-25,T11,Medium,Done,AC212
+TS0738,Call to confirm order,2026-12-06,T02,High,To do,AC094
+TS0739,Plan event stand,2026-11-27,T04,Medium,To do,DL0490
+TS0740,Plan event stand,2026-12-14,T07,Low,To do,AC241
+TS0741,Plan event stand,2026-12-17,T03,Low,In progress,AC131
+TS0742,Chase overdue invoice,2026-09-28,T12,Low,Done,AC103
+TS0743,Chase overdue invoice,2026-08-21,T05,Medium,Done,AC201
+TS0744,Arrange tasting,2026-09-16,T12,Medium,Done,DL1192
+TS0745,Call to confirm order,2026-08-15,T12,Medium,Done,DL1222
+TS0746,Prepare contract renewal,2026-07-27,T12,High,Done,DL0627
+TS0747,Reply to collab request,2026-11-29,T11,Low,In progress,DL1094
+TS0748,Prepare contract renewal,2026-10-05,T01,Medium,Done,AC150
+TS0749,Check stock for hotel order,2026-09-24,T12,Medium,Done,AC240
+TS0750,Chase overdue invoice,2026-10-06,T03,Medium,Done,DL0065
+TS0751,Arrange tasting,2026-09-02,T05,Medium,Done,DL0012
+TS0752,Check stock for hotel order,2026-10-13,T07,High,Overdue,DL0486
+TS0753,Arrange tasting,2026-11-24,T03,Low,To do,AC287
+TS0754,Plan event stand,2026-12-11,T03,High,To do,AC287
+TS0755,Follow up on proposal,2026-08-20,T07,Low,Done,DL1420
+TS0756,Check stock for hotel order,2026-11-24,T03,High,To do,DL0065
+TS0757,Prepare contract renewal,2026-08-08,T01,Low,Done,DL0651
+TS0758,Reply to collab request,2026-12-12,T12,Medium,To do,AC197
+TS0759,Reply to collab request,2026-11-16,T04,High,Done,AC228
+TS0760,Send price list,2026-10-13,T06,High,Done,DL0227
+TS0761,Follow up on proposal,2026-10-29,T04,Low,Done,DL0102
+TS0762,Call to confirm order,2026-08-09,T05,High,Done,AC227
+TS0763,Send price list,2026-09-04,T11,High,Done,DL0295
+TS0764,Arrange tasting,2026-09-06,T07,Low,Overdue,AC260
+TS0765,Send price list,2026-11-27,T05,High,To do,DL1304
+TS0766,Plan event stand,2026-11-20,T03,High,Done,AC136
+TS0767,Chase overdue invoice,2026-11-24,T06,Low,In progress,AC173
+TS0768,Check stock for hotel order,2026-11-26,T12,Low,To do,DL1072
+TS0769,Follow up on proposal,2026-10-14,T01,Medium,Done,DL1226
+TS0770,Prepare contract renewal,2026-11-16,T12,Medium,Done,DL0551
+TS0771,Update lead notes,2026-11-10,T12,Low,Done,DL0592
+TS0772,Update lead notes,2026-10-16,T07,Low,Done,DL1366
+TS0773,Call to confirm order,2026-12-01,T12,Medium,To do,DL0747
+TS0774,Chase overdue invoice,2026-08-21,T05,High,Done,DL0820
+TS0775,Call to confirm order,2026-08-30,T12,Low,Done,AC055
+TS0776,Plan event stand,2026-11-05,T11,Medium,Done,DL1309
+TS0777,Call to confirm order,2026-09-14,T04,Low,Done,AC176
+TS0778,Arrange tasting,2026-09-25,T03,Medium,Done,DL1368
+TS0779,Update lead notes,2026-07-28,T04,High,Overdue,DL1059
+TS0780,Send price list,2026-08-21,T05,Medium,Done,AC145
+TS0781,Check stock for hotel order,2026-09-27,T04,Medium,Done,DL0209
+TS0782,Arrange tasting,2026-12-18,T01,Medium,To do,DL1007
+TS0783,Arrange tasting,2026-08-30,T01,Low,Done,AC266
+TS0784,Reply to collab request,2026-10-12,T04,High,Done,DL0308
+TS0785,Send price list,2026-08-02,T02,Low,Done,DL0798
+TS0786,Check stock for hotel order,2026-12-02,T04,Medium,To do,AC040
+TS0787,Reply to collab request,2026-08-10,T01,Low,Done,DL0700
+TS0788,Send price list,2026-09-18,T11,High,Done,DL0026
+TS0789,Reply to collab request,2026-10-29,T04,Medium,Overdue,DL1471
+TS0790,Update lead notes,2026-12-13,T06,Low,To do,DL0780
+TS0791,Follow up on proposal,2026-10-15,T02,High,Done,DL1116
+TS0792,Arrange tasting,2026-09-27,T07,Medium,Done,DL0353
+TS0793,Follow up on proposal,2026-12-02,T07,Low,To do,DL0995
+TS0794,Arrange tasting,2026-10-12,T07,Medium,Done,AC018
+TS0795,Call to confirm order,2026-09-16,T01,Low,Done,AC275
+TS0796,Update lead notes,2026-08-23,T03,Medium,Overdue,AC052
+TS0797,Check stock for hotel order,2026-08-25,T06,Medium,Done,AC292
+TS0798,Update lead notes,2026-12-23,T06,Medium,To do,AC108
+TS0799,Arrange tasting,2026-12-13,T02,High,To do,DL0779
+TS0800,Arrange tasting,2026-11-23,T02,Low,Overdue,DL1217
+TS0801,Update lead notes,2026-10-17,T01,Low,Done,AC261
+TS0802,Arrange tasting,2026-09-26,T04,Low,Done,DL0904
+TS0803,Call to confirm order,2026-09-17,T02,Low,Done,AC224
+TS0804,Update lead notes,2026-09-30,T07,High,Done,DL1540
+TS0805,Follow up on proposal,2026-08-21,T12,Low,Done,AC212
+TS0806,Reply to collab request,2026-12-17,T11,Medium,To do,AC088
+TS0807,Reply to collab request,2026-10-29,T06,Medium,Done,AC085
+TS0808,Arrange tasting,2026-12-10,T12,Medium,To do,AC140
+TS0809,Update lead notes,2026-10-21,T05,High,Done,DL0923
+TS0810,Plan event stand,2026-10-09,T12,Medium,Done,AC055
+TS0811,Follow up on proposal,2026-09-09,T07,Low,Done,DL1221
+TS0812,Reply to collab request,2026-08-28,T04,Medium,Done,AC119
+TS0813,Update lead notes,2026-09-04,T01,Low,Done,AC147
+TS0814,Call to confirm order,2026-11-21,T11,Low,Done,DL0173
+TS0815,Update lead notes,2026-12-23,T12,Medium,To do,DL0801
+TS0816,Arrange tasting,2026-08-11,T12,Medium,Done,DL1091
+TS0817,Send price list,2026-08-22,T12,Low,Done,AC260
+TS0818,Chase overdue invoice,2026-08-20,T04,Low,Done,DL1310
+TS0819,Arrange tasting,2026-09-07,T04,Low,Done,AC172
+TS0820,Follow up on proposal,2026-12-16,T01,High,To do,AC276
+TS0821,Follow up on proposal,2026-08-04,T04,Medium,Done,DL1360
+TS0822,Send price list,2026-11-05,T01,Medium,Done,DL0802
+TS0823,Chase overdue invoice,2026-10-17,T03,High,Done,AC018
+TS0824,Plan event stand,2026-10-27,T03,Medium,Done,DL0702
+TS0825,Check stock for hotel order,2026-08-07,T01,Medium,Overdue,DL1099
+TS0826,Chase overdue invoice,2026-11-08,T11,Low,Done,AC241
+TS0827,Call to confirm order,2026-10-12,T11,High,Done,DL0640
+TS0828,Check stock for hotel order,2026-08-22,T02,Low,Done,AC116
+TS0829,Chase overdue invoice,2026-09-16,T11,Medium,Done,DL0492
+TS0830,Chase overdue invoice,2026-08-18,T12,High,Done,DL1151
+TS0831,Follow up on proposal,2026-10-12,T05,Low,Done,AC060
+TS0832,Chase overdue invoice,2026-08-30,T05,Medium,Done,DL0984
+TS0833,Reply to collab request,2026-11-24,T06,Medium,To do,AC250
+TS0834,Chase overdue invoice,2026-08-27,T07,Medium,Done,DL1059
+TS0835,Arrange tasting,2026-08-09,T11,High,Done,DL0710
+TS0836,Reply to collab request,2026-08-23,T02,High,Done,AC096
+TS0837,Update lead notes,2026-08-10,T02,Low,Done,DL0605
+TS0838,Chase overdue invoice,2026-10-15,T12,Low,Done,AC287
+TS0839,Arrange tasting,2026-10-28,T03,Low,Done,DL0465
+TS0840,Send price list,2026-11-14,T04,Medium,Done,DL1066
+TS0841,Chase overdue invoice,2026-10-06,T01,High,Done,AC145
+TS0842,Prepare contract renewal,2026-08-01,T03,Medium,Done,DL1070
+TS0843,Arrange tasting,2026-10-12,T02,Medium,Done,DL0687
+TS0844,Follow up on proposal,2026-07-29,T06,Low,Done,DL0476
+TS0845,Call to confirm order,2026-09-24,T02,High,Done,AC120
+TS0846,Call to confirm order,2026-11-06,T04,Medium,Done,AC020
+TS0847,Plan event stand,2026-11-25,T01,High,To do,DL1059
+TS0848,Arrange tasting,2026-12-01,T04,Medium,To do,DL1464
+TS0849,Call to confirm order,2026-11-27,T06,High,To do,DL1421
+TS0850,Prepare contract renewal,2026-12-20,T12,Medium,To do,DL0230
+TS0851,Call to confirm order,2026-08-14,T05,Medium,In progress,DL1250
+TS0852,Arrange tasting,2026-10-11,T07,Medium,Done,AC221
+TS0853,Plan event stand,2026-10-28,T05,High,Overdue,DL0433
+TS0854,Reply to collab request,2026-11-26,T11,Low,To do,AC240
+TS0855,Update lead notes,2026-10-12,T03,Low,Done,DL1313
+TS0856,Follow up on proposal,2026-11-08,T02,Low,Done,AC193
+TS0857,Check stock for hotel order,2026-08-13,T01,High,Done,AC019
+TS0858,Call to confirm order,2026-08-13,T04,Medium,Done,AC274
+TS0859,Send price list,2026-11-28,T02,Medium,To do,DL1312
+TS0860,Call to confirm order,2026-09-18,T02,Medium,Done,AC040
+TS0861,Follow up on proposal,2026-08-06,T12,Low,Done,DL0412
+TS0862,Check stock for hotel order,2026-10-03,T03,Low,Done,DL0335
+TS0863,Chase overdue invoice,2026-11-27,T03,Medium,To do,AC131
+TS0864,Call to confirm order,2026-10-16,T02,Medium,Done,AC266
+TS0865,Prepare contract renewal,2026-09-30,T03,Low,Done,AC092
+TS0866,Arrange tasting,2026-11-03,T01,High,Done,DL0550
+TS0867,Prepare contract renewal,2026-08-11,T01,Medium,Done,AC041
+TS0868,Reply to collab request,2026-12-17,T04,Low,In progress,AC233
+TS0869,Plan event stand,2026-12-04,T07,Low,To do,DL0133
+TS0870,Prepare contract renewal,2026-08-02,T11,Medium,Done,AC251
+TS0871,Update lead notes,2026-09-04,T05,Medium,Done,DL0116
+TS0872,Check stock for hotel order,2026-12-21,T02,Medium,To do,DL0112
+TS0873,Arrange tasting,2026-09-15,T01,High,Done,DL0532
+TS0874,Arrange tasting,2026-08-26,T06,High,Done,DL1423
+TS0875,Update lead notes,2026-11-21,T02,Low,Done,DL0048
+TS0876,Reply to collab request,2026-08-05,T11,Low,Done,AC073
+TS0877,Call to confirm order,2026-10-27,T12,Medium,Done,AC131
+TS0878,Plan event stand,2026-08-09,T01,Medium,In progress,DL0922
+TS0879,Call to confirm order,2026-11-21,T12,Low,Done,DL1378
+TS0880,Chase overdue invoice,2026-10-01,T07,High,Overdue,AC113
+TS0881,Reply to collab request,2026-07-29,T07,High,Done,AC063
+TS0882,Call to confirm order,2026-10-13,T05,High,Done,AC041
+TS0883,Plan event stand,2026-09-02,T11,Low,Done,DL0829
+TS0884,Reply to collab request,2026-08-31,T02,High,Done,DL1448
+TS0885,Update lead notes,2026-11-11,T03,Medium,Done,DL1244
+TS0886,Chase overdue invoice,2026-07-28,T07,Low,Done,AC301
+TS0887,Follow up on proposal,2026-12-24,T04,Medium,To do,DL1036
+TS0888,Reply to collab request,2026-08-26,T02,High,Overdue,AC166
+TS0889,Send price list,2026-09-03,T07,Medium,Done,DL0679
+TS0890,Check stock for hotel order,2026-09-06,T02,Low,Done,DL0828
+TS0891,Prepare contract renewal,2026-10-09,T04,High,Done,DL0834
+TS0892,Arrange tasting,2026-08-17,T04,Low,Overdue,AC186
+TS0893,Send price list,2026-09-28,T04,Medium,Done,AC201
+TS0894,Check stock for hotel order,2026-10-20,T04,Low,Done,DL0352
+TS0895,Check stock for hotel order,2026-09-28,T07,High,Done,DL1216
+TS0896,Plan event stand,2026-11-14,T06,Medium,Done,AC304
+TS0897,Update lead notes,2026-12-21,T12,Medium,To do,DL0677
+TS0898,Check stock for hotel order,2026-11-25,T01,Low,To do,AC107
+TS0899,Call to confirm order,2026-10-25,T03,Low,Done,AC168
+TS0900,Arrange tasting,2026-07-30,T06,Low,Done,DL0863
+TS0901,Send price list,2026-11-01,T02,Medium,Done,DL1126
+TS0902,Plan event stand,2026-09-09,T03,Medium,Done,DL0039
+TS0903,Send price list,2026-10-11,T06,Low,Done,AC053
+TS0904,Reply to collab request,2026-10-09,T11,Medium,Done,DL0538
+TS0905,Check stock for hotel order,2026-10-27,T02,Low,Done,DL0414
+TS0906,Arrange tasting,2026-12-14,T07,Low,To do,AC027
+TS0907,Update lead notes,2026-10-08,T04,Medium,Done,DL0353
+TS0908,Plan event stand,2026-11-21,T06,Low,Done,AC282
+TS0909,Prepare contract renewal,2026-08-17,T01,Medium,Done,AC270
+TS0910,Update lead notes,2026-11-23,T06,Medium,Overdue,AC052
+TS0911,Prepare contract renewal,2026-10-29,T11,High,Overdue,DL1055
+TS0912,Arrange tasting,2026-08-27,T07,Medium,Done,AC232
+TS0913,Send price list,2026-10-29,T04,Medium,Done,AC139
+TS0914,Follow up on proposal,2026-07-30,T01,High,Done,DL0928
+TS0915,Chase overdue invoice,2026-12-15,T02,Low,To do,DL0538
+TS0916,Chase overdue invoice,2026-08-28,T02,Medium,Done,DL0923
+TS0917,Send price list,2026-10-10,T12,High,Done,DL0180
+TS0918,Follow up on proposal,2026-11-06,T07,High,Done,AC228
+TS0919,Check stock for hotel order,2026-11-16,T07,Medium,Done,AC276
+TS0920,Call to confirm order,2026-11-05,T01,Medium,Done,DL0771
+TS0921,Prepare contract renewal,2026-08-02,T11,Low,Done,DL1105
+TS0922,Chase overdue invoice,2026-09-10,T01,Medium,Done,AC180
+TS0923,Arrange tasting,2026-12-03,T07,Medium,To do,AC076
+TS0924,Prepare contract renewal,2026-08-22,T11,High,Done,DL0834
+TS0925,Send price list,2026-11-07,T04,Medium,Done,AC300
+TS0926,Plan event stand,2026-10-23,T06,Medium,Done,AC040
+TS0927,Reply to collab request,2026-12-24,T05,High,To do,DL1293
+TS0928,Check stock for hotel order,2026-08-06,T07,Medium,Done,AC176
+TS0929,Check stock for hotel order,2026-12-06,T07,Medium,In progress,AC177
+TS0930,Check stock for hotel order,2026-09-05,T12,Medium,Done,DL0905
+TS0931,Follow up on proposal,2026-07-30,T12,Medium,Done,AC253
+TS0932,Arrange tasting,2026-12-07,T04,Medium,To do,DL0963
+TS0933,Follow up on proposal,2026-08-20,T03,High,Done,DL0459
+TS0934,Chase overdue invoice,2026-08-19,T04,Medium,Done,AC122
+TS0935,Update lead notes,2026-07-31,T07,Medium,Done,DL0967
+TS0936,Follow up on proposal,2026-11-19,T02,Medium,Done,DL0567
+TS0937,Call to confirm order,2026-09-08,T03,Medium,Done,DL0692
+TS0938,Arrange tasting,2026-08-17,T06,Low,Done,DL1268
+TS0939,Arrange tasting,2026-08-09,T11,High,Done,DL0137
+TS0940,Reply to collab request,2026-08-31,T03,Medium,Done,DL0238
+TS0941,Reply to collab request,2026-08-10,T04,Medium,Done,DL0206
+TS0942,Follow up on proposal,2026-08-31,T04,Low,Done,AC234
+TS0943,Prepare contract renewal,2026-08-05,T06,Low,Done,AC010
+TS0944,Update lead notes,2026-09-30,T06,High,Done,DL1014
+TS0945,Follow up on proposal,2026-12-23,T07,Medium,To do,DL0889
+TS0946,Chase overdue invoice,2026-12-15,T06,High,In progress,AC117
+TS0947,Follow up on proposal,2026-10-07,T12,Low,Done,AC086
+TS0948,Arrange tasting,2026-08-09,T07,Low,Done,DL0766
+TS0949,Reply to collab request,2026-08-01,T07,Medium,Done,DL0321
+TS0950,Reply to collab request,2026-09-09,T11,Medium,Done,DL0958
+TS0951,Follow up on proposal,2026-08-30,T03,Medium,Done,AC018
+TS0952,Arrange tasting,2026-08-13,T01,Medium,Done,DL0528
+TS0953,Call to confirm order,2026-10-23,T07,High,Done,DL0974
+TS0954,Reply to collab request,2026-09-04,T01,High,Done,DL0311
+TS0955,Update lead notes,2026-10-28,T11,Medium,Done,AC290
+TS0956,Chase overdue invoice,2026-12-09,T01,Medium,To do,AC251
+TS0957,Check stock for hotel order,2026-11-16,T11,Medium,Done,DL0177
+TS0958,Chase overdue invoice,2026-10-04,T04,High,Done,DL0116
+TS0959,Arrange tasting,2026-09-05,T12,High,Done,DL0937
+TS0960,Reply to collab request,2026-11-23,T11,Low,In progress,DL1528
+TS0961,Chase overdue invoice,2026-08-03,T06,Low,Done,DL1366
+TS0962,Prepare contract renewal,2026-08-27,T02,Medium,Overdue,DL0432
+TS0963,Check stock for hotel order,2026-10-19,T03,Medium,Done,DL0775
+TS0964,Plan event stand,2026-08-14,T01,Medium,Overdue,AC173
+TS0965,Prepare contract renewal,2026-11-18,T03,Low,Done,DL0026
+TS0966,Chase overdue invoice,2026-08-10,T12,High,Done,DL0872
+TS0967,Prepare contract renewal,2026-09-27,T02,Low,Done,AC029
+TS0968,Call to confirm order,2026-12-17,T11,Medium,To do,AC211
+TS0969,Reply to collab request,2026-12-18,T06,Medium,To do,AC297
+TS0970,Check stock for hotel order,2026-07-28,T05,Low,Done,DL0083
+TS0971,Arrange tasting,2026-08-25,T02,High,Done,AC115
+TS0972,Send price list,2026-09-04,T03,Medium,Done,AC279
+TS0973,Prepare contract renewal,2026-10-18,T04,Low,Done,AC201
+TS0974,Chase overdue invoice,2026-11-25,T05,Medium,To do,AC014
+TS0975,Update lead notes,2026-10-20,T04,Medium,Done,AC279
+TS0976,Plan event stand,2026-09-02,T03,Medium,Overdue,DL0137
+TS0977,Send price list,2026-12-18,T06,Medium,To do,AC288
+TS0978,Update lead notes,2026-10-02,T02,Medium,Done,DL0613
+TS0979,Chase overdue invoice,2026-11-11,T04,Low,Done,AC014
+TS0980,Check stock for hotel order,2026-09-01,T02,Low,Overdue,DL0190
+TS0981,Reply to collab request,2026-08-21,T05,Medium,Done,DL0076
+TS0982,Update lead notes,2026-12-13,T11,Low,To do,AC146
+TS0983,Call to confirm order,2026-09-25,T01,Medium,Done,AC021
+TS0984,Arrange tasting,2026-12-09,T04,High,To do,AC021
+TS0985,Plan event stand,2026-11-22,T02,Medium,Overdue,AC146
+TS0986,Check stock for hotel order,2026-10-11,T07,Low,Done,DL0412
+TS0987,Chase overdue invoice,2026-10-01,T03,Low,Done,AC047
+TS0988,Send price list,2026-10-02,T06,High,Done,DL1104
+TS0989,Chase overdue invoice,2026-10-07,T06,High,Done,AC099
+TS0990,Follow up on proposal,2026-10-09,T05,Medium,Done,AC044
+TS0991,Plan event stand,2026-10-22,T01,High,Done,AC165
+TS0992,Plan event stand,2026-10-10,T06,High,Done,AC205
+TS0993,Update lead notes,2026-11-24,T02,Low,To do,AC275
+TS0994,Update lead notes,2026-09-08,T05,High,Done,DL0932
+TS0995,Call to confirm order,2026-08-14,T05,Medium,Done,DL0994
+TS0996,Reply to collab request,2026-09-07,T03,Medium,Done,AC061
+TS0997,Reply to collab request,2026-09-28,T06,Low,Done,AC073
+TS0998,Call to confirm order,2026-11-04,T01,Medium,Done,DL0516
+TS0999,Follow up on proposal,2026-08-17,T04,Low,Done,DL0332
+TS1000,Follow up on proposal,2026-08-29,T04,Medium,Done,AC133
+TS1001,Follow up on proposal,2026-11-18,T07,Low,Done,DL0595
+TS1002,Plan event stand,2026-09-02,T03,Low,Done,DL0584
+TS1003,Plan event stand,2026-09-06,T07,Medium,Done,DL0394
+TS1004,Prepare contract renewal,2026-08-19,T05,Medium,Overdue,AC282
+TS1005,Follow up on proposal,2026-10-23,T01,High,Done,DL0881
+TS1006,Send price list,2026-08-03,T11,Medium,Done,DL0417
+TS1007,Plan event stand,2026-12-19,T04,Medium,To do,DL1145
+TS1008,Send price list,2026-08-25,T04,High,Done,DL0435
+TS1009,Check stock for hotel order,2026-08-01,T01,High,Done,AC230
+TS1010,Prepare contract renewal,2026-08-06,T07,Medium,Done,AC244
+TS1011,Prepare contract renewal,2026-12-21,T07,High,To do,AC096
+TS1012,Update lead notes,2026-08-09,T02,High,Done,AC192
+TS1013,Follow up on proposal,2026-08-09,T07,Low,Done,AC228
+TS1014,Chase overdue invoice,2026-11-18,T05,High,Done,DL1270
+TS1015,Prepare contract renewal,2026-08-02,T11,Medium,Overdue,AC239
+TS1016,Follow up on proposal,2026-11-28,T11,Medium,In progress,AC007
+TS1017,Plan event stand,2026-12-19,T06,Medium,In progress,DL0224
+TS1018,Arrange tasting,2026-09-04,T02,High,Done,AC225
+TS1019,Plan event stand,2026-11-29,T12,Low,To do,AC195
+TS1020,Call to confirm order,2026-09-18,T01,Low,Done,DL1305
+TS1021,Check stock for hotel order,2026-10-09,T12,Low,Done,DL1354
+TS1022,Chase overdue invoice,2026-10-03,T05,Medium,Done,AC250
+TS1023,Call to confirm order,2026-08-02,T07,Medium,Done,DL0120
+TS1024,Update lead notes,2026-12-13,T05,High,To do,DL0027
+TS1025,Chase overdue invoice,2026-08-14,T12,High,Done,DL0647
+TS1026,Call to confirm order,2026-10-15,T07,Low,Done,DL0340
+TS1027,Send price list,2026-12-08,T02,Medium,To do,AC036
+TS1028,Plan event stand,2026-08-22,T07,High,Done,AC295
+TS1029,Chase overdue invoice,2026-10-29,T01,Medium,Done,DL0154
+TS1030,Check stock for hotel order,2026-08-19,T12,Medium,Done,DL0714
+TS1031,Update lead notes,2026-11-08,T06,Low,Done,DL0258
+TS1032,Chase overdue invoice,2026-11-16,T07,High,Done,AC022
+TS1033,Chase overdue invoice,2026-08-24,T07,Medium,Done,DL0165
+TS1034,Arrange tasting,2026-11-08,T04,Low,Done,AC185
+TS1035,Plan event stand,2026-10-12,T03,Low,Done,DL0638
+TS1036,Arrange tasting,2026-11-28,T11,High,In progress,AC064
+TS1037,Prepare contract renewal,2026-09-18,T07,High,Done,DL0573
+TS1038,Plan event stand,2026-11-20,T05,High,Done,AC285
+TS1039,Plan event stand,2026-09-13,T06,High,Done,AC165
+TS1040,Send price list,2026-11-12,T03,Low,Done,DL1449
+TS1041,Update lead notes,2026-08-29,T12,Medium,Done,AC023
+TS1042,Prepare contract renewal,2026-11-29,T11,High,To do,AC033
+TS1043,Send price list,2026-12-22,T11,Low,To do,DL1447
+TS1044,Follow up on proposal,2026-11-26,T03,High,To do,AC144
+TS1045,Send price list,2026-10-28,T11,Low,Done,AC048
+TS1046,Send price list,2026-09-17,T11,Medium,Done,AC215
+TS1047,Plan event stand,2026-12-17,T03,Medium,To do,AC164
+TS1048,Update lead notes,2026-08-11,T06,Medium,Done,AC214
+TS1049,Chase overdue invoice,2026-08-07,T01,Medium,Overdue,AC007
+TS1050,Call to confirm order,2026-08-25,T01,High,Done,AC042
+TS1051,Prepare contract renewal,2026-12-05,T01,Medium,To do,DL0588
+TS1052,Call to confirm order,2026-11-07,T11,Low,Done,DL0921
+TS1053,Chase overdue invoice,2026-09-18,T04,High,Done,DL0500
+TS1054,Arrange tasting,2026-08-11,T12,High,Done,AC120
+TS1055,Plan event stand,2026-10-26,T11,Medium,Done,DL1038
+TS1056,Send price list,2026-10-24,T02,Medium,Done,DL0703
+TS1057,Check stock for hotel order,2026-11-06,T02,High,Done,DL0242
+TS1058,Follow up on proposal,2026-10-05,T03,Low,Done,AC054
+TS1059,Prepare contract renewal,2026-09-23,T12,Low,Done,DL0647
+TS1060,Follow up on proposal,2026-10-23,T03,Low,Done,DL0560
+TS1061,Plan event stand,2026-09-09,T05,Medium,Done,DL0671
+TS1062,Plan event stand,2026-08-08,T12,Medium,Done,DL0746
+TS1063,Check stock for hotel order,2026-08-11,T07,High,Done,DL0339
+TS1064,Call to confirm order,2026-08-29,T11,Low,Done,AC217
+TS1065,Check stock for hotel order,2026-09-08,T11,Medium,Done,AC146
+TS1066,Chase overdue invoice,2026-12-08,T12,High,In progress,DL0191
+TS1067,Chase overdue invoice,2026-11-10,T07,High,Overdue,AC109
+TS1068,Reply to collab request,2026-10-21,T07,High,Done,AC048
+TS1069,Prepare contract renewal,2026-11-30,T06,High,To do,DL0553
+TS1070,Reply to collab request,2026-08-31,T03,Low,Done,AC261
+TS1071,Follow up on proposal,2026-10-21,T01,Medium,Done,AC266
+TS1072,Reply to collab request,2026-09-17,T05,Low,Done,DL0606
+TS1073,Chase overdue invoice,2026-10-21,T11,High,Done,DL0182
+TS1074,Follow up on proposal,2026-10-25,T05,Medium,Done,DL0305
+TS1075,Call to confirm order,2026-08-12,T05,High,Done,AC182
+TS1076,Check stock for hotel order,2026-10-08,T11,Medium,Done,DL0999
+TS1077,Update lead notes,2026-08-17,T03,Low,Done,DL1095
+TS1078,Follow up on proposal,2026-08-30,T06,Medium,Done,AC180
+TS1079,Call to confirm order,2026-11-19,T12,Low,Done,DL1060
+TS1080,Follow up on proposal,2026-09-02,T07,Medium,Done,AC090
+TS1081,Check stock for hotel order,2026-09-25,T02,High,Done,DL0739
+TS1082,Prepare contract renewal,2026-09-10,T03,Medium,Done,AC229
+TS1083,Call to confirm order,2026-12-18,T02,Low,In progress,DL1187
+TS1084,Arrange tasting,2026-12-04,T05,Medium,To do,DL1187
+TS1085,Send price list,2026-09-18,T12,Medium,Done,DL1066
+TS1086,Update lead notes,2026-08-05,T12,Medium,Done,AC096
+TS1087,Prepare contract renewal,2026-10-19,T06,High,Overdue,DL1428
+TS1088,Follow up on proposal,2026-10-21,T12,High,Done,DL1422
+TS1089,Prepare contract renewal,2026-09-30,T01,High,Done,DL0030
+TS1090,Plan event stand,2026-11-30,T01,High,To do,AC102
+TS1091,Update lead notes,2026-11-14,T11,Low,Done,AC265
+TS1092,Send price list,2026-11-22,T06,Medium,Overdue,AC101
+TS1093,Update lead notes,2026-08-26,T11,Low,Overdue,AC077
+TS1094,Prepare contract renewal,2026-12-09,T07,Medium,To do,AC243
+TS1095,Plan event stand,2026-08-05,T11,Medium,Done,DL1436
+TS1096,Chase overdue invoice,2026-09-14,T12,Low,Done,AC155
+TS1097,Arrange tasting,2026-09-15,T04,High,Done,AC230
+TS1098,Send price list,2026-09-30,T07,Medium,Done,DL0914
+TS1099,Reply to collab request,2026-11-30,T05,Low,To do,DL1268
+TS1100,Call to confirm order,2026-10-27,T04,Medium,Done,DL1499
+TS1101,Plan event stand,2026-09-18,T12,Low,Done,DL1488
+TS1102,Send price list,2026-09-09,T05,Medium,Done,DL1188
+TS1103,Arrange tasting,2026-09-24,T12,High,Done,DL1139
+TS1104,Check stock for hotel order,2026-12-07,T03,High,To do,DL0392
+TS1105,Reply to collab request,2026-08-02,T07,High,Overdue,AC178
+TS1106,Chase overdue invoice,2026-12-23,T11,High,To do,AC057
+TS1107,Send price list,2026-08-01,T04,Low,Done,DL1295
+TS1108,Chase overdue invoice,2026-10-09,T03,Medium,In progress,AC082
+TS1109,Plan event stand,2026-09-17,T05,Low,Done,DL0508
+TS1110,Send price list,2026-08-22,T03,High,Done,AC190
+TS1111,Check stock for hotel order,2026-08-28,T07,High,Done,DL1242
+TS1112,Call to confirm order,2026-07-30,T11,Medium,Done,DL0954
+TS1113,Chase overdue invoice,2026-08-28,T02,High,Done,AC024
+TS1114,Call to confirm order,2026-09-10,T07,Low,Done,AC296
+TS1115,Plan event stand,2026-11-06,T06,Medium,Done,DL1094
+TS1116,Plan event stand,2026-08-02,T12,Medium,Done,AC275
+TS1117,Call to confirm order,2026-07-27,T02,Medium,Done,DL0467
+TS1118,Plan event stand,2026-11-06,T05,Medium,Done,DL1399
+TS1119,Plan event stand,2026-09-19,T06,Low,Done,AC262
+TS1120,Check stock for hotel order,2026-08-22,T02,Low,Done,AC210
+TS1121,Call to confirm order,2026-12-17,T06,Medium,In progress,AC149
+TS1122,Arrange tasting,2026-08-11,T12,Low,Done,DL0658
+TS1123,Prepare contract renewal,2026-09-14,T12,High,Done,DL0204
+TS1124,Arrange tasting,2026-09-02,T05,Low,Done,AC204
+TS1125,Reply to collab request,2026-10-26,T11,High,Done,DL1404
+TS1126,Arrange tasting,2026-11-25,T04,High,To do,AC125
+TS1127,Plan event stand,2026-08-05,T07,Medium,Done,AC018
+TS1128,Follow up on proposal,2026-12-20,T11,Medium,To do,AC235
+TS1129,Check stock for hotel order,2026-08-08,T04,Low,Done,AC219
+TS1130,Check stock for hotel order,2026-08-02,T04,Low,Done,DL0526
+TS1131,Update lead notes,2026-08-11,T07,Low,Done,DL1011
+TS1132,Update lead notes,2026-08-07,T03,High,Done,DL0780
+TS1133,Chase overdue invoice,2026-11-15,T11,Medium,Done,AC168
+TS1134,Send price list,2026-12-02,T05,Medium,To do,AC103
+TS1135,Chase overdue invoice,2026-10-08,T11,Low,Done,DL0698
+TS1136,Plan event stand,2026-08-24,T12,Medium,Done,DL1086
+TS1137,Reply to collab request,2026-11-14,T06,Medium,Done,AC182
+TS1138,Chase overdue invoice,2026-10-18,T03,High,Overdue,DL0966
+TS1139,Arrange tasting,2026-08-15,T03,Medium,Done,AC008
+TS1140,Update lead notes,2026-11-21,T11,Medium,Done,DL1534
+TS1141,Chase overdue invoice,2026-09-15,T02,Medium,Overdue,AC148
+TS1142,Update lead notes,2026-10-05,T12,High,Done,DL0711
+TS1143,Check stock for hotel order,2026-09-07,T05,Low,Done,DL0398
+TS1144,Chase overdue invoice,2026-09-02,T07,Medium,Done,AC242
+TS1145,Arrange tasting,2026-08-18,T03,Medium,Done,AC273
+TS1146,Call to confirm order,2026-10-08,T12,Low,Done,DL1265
+TS1147,Update lead notes,2026-11-23,T11,Medium,Overdue,DL0881
+TS1148,Call to confirm order,2026-11-05,T02,Medium,Done,DL1456
+TS1149,Call to confirm order,2026-12-24,T01,Medium,To do,DL0490
+TS1150,Update lead notes,2026-07-27,T04,Low,Done,AC121
+TS1151,Chase overdue invoice,2026-08-27,T12,Medium,Done,DL1437
+TS1152,Reply to collab request,2026-12-15,T06,Low,To do,DL1290
+TS1153,Call to confirm order,2026-10-28,T04,Medium,Done,DL0637
+TS1154,Arrange tasting,2026-11-22,T07,Medium,Overdue,DL0935
+TS1155,Reply to collab request,2026-08-03,T06,Low,Done,AC141
+TS1156,Prepare contract renewal,2026-09-05,T01,Medium,Done,DL0538
+TS1157,Check stock for hotel order,2026-11-02,T05,High,Done,AC150
+TS1158,Plan event stand,2026-08-30,T04,Medium,Overdue,DL0127
+TS1159,Prepare contract renewal,2026-08-30,T02,High,Done,AC222
+TS1160,Plan event stand,2026-10-07,T03,Medium,Done,DL0945
+TS1161,Follow up on proposal,2026-12-24,T02,Medium,In progress,AC086
+TS1162,Call to confirm order,2026-09-26,T11,Low,Done,AC111
+TS1163,Send price list,2026-10-03,T12,High,Done,AC142
+TS1164,Plan event stand,2026-08-30,T12,High,Done,AC215
+TS1165,Chase overdue invoice,2026-08-21,T05,Low,Done,DL1522
+TS1166,Prepare contract renewal,2026-09-13,T11,Medium,Done,AC089
+TS1167,Call to confirm order,2026-09-15,T06,Medium,Done,AC274
+TS1168,Reply to collab request,2026-12-23,T05,Medium,To do,AC273
+TS1169,Arrange tasting,2026-08-08,T07,Medium,Done,AC006
+TS1170,Send price list,2026-09-17,T11,Low,Done,AC148
+TS1171,Prepare contract renewal,2026-11-29,T07,Low,In progress,AC281
+TS1172,Chase overdue invoice,2026-11-04,T06,Low,Done,DL0652
+TS1173,Check stock for hotel order,2026-09-12,T06,High,Done,AC148
+TS1174,Follow up on proposal,2026-09-01,T07,Low,Done,AC082
+TS1175,Update lead notes,2026-08-26,T02,Low,Done,AC234
+TS1176,Prepare contract renewal,2026-12-10,T11,Low,In progress,AC072
+TS1177,Plan event stand,2026-10-13,T05,Medium,Done,AC164
+TS1178,Reply to collab request,2026-12-12,T03,Medium,To do,DL0362
+TS1179,Check stock for hotel order,2026-12-08,T02,Medium,To do,DL1242
+TS1180,Follow up on proposal,2026-08-03,T11,Medium,Done,DL1306
+TS1181,Plan event stand,2026-10-27,T05,High,Done,DL0024
+TS1182,Reply to collab request,2026-12-09,T05,Low,To do,DL0875
+TS1183,Follow up on proposal,2026-10-09,T01,Medium,Done,AC098
+TS1184,Chase overdue invoice,2026-11-04,T02,Medium,Done,AC058
+TS1185,Send price list,2026-08-24,T04,Medium,Done,DL1339
+TS1186,Update lead notes,2026-07-30,T11,Low,Done,DL0594
+TS1187,Call to confirm order,2026-12-24,T03,Low,To do,AC088
+TS1188,Reply to collab request,2026-09-28,T02,Low,Overdue,AC187
+TS1189,Call to confirm order,2026-12-11,T06,High,To do,DL0898
+TS1190,Send price list,2026-10-24,T01,Medium,Done,AC185
+TS1191,Prepare contract renewal,2026-12-19,T05,High,To do,DL1422
+TS1192,Call to confirm order,2026-07-31,T05,Medium,Done,AC243
+TS1193,Reply to collab request,2026-10-15,T03,Medium,Done,AC045
+TS1194,Update lead notes,2026-08-31,T01,Medium,Overdue,AC219
+TS1195,Follow up on proposal,2026-10-23,T02,Medium,Done,AC211
+TS1196,Reply to collab request,2026-11-06,T02,Medium,Done,DL1194
+TS1197,Arrange tasting,2026-09-21,T07,Medium,Done,DL0319
+TS1198,Prepare contract renewal,2026-12-10,T04,High,To do,AC241
+TS1199,Update lead notes,2026-08-16,T01,Medium,In progress,AC111
+TS1200,Check stock for hotel order,2026-11-19,T07,Medium,Done,AC203
+TS1201,Prepare contract renewal,2026-09-18,T02,High,Done,AC170
+TS1202,Check stock for hotel order,2026-10-16,T12,High,Done,AC156
+TS1203,Chase overdue invoice,2026-10-23,T11,High,Overdue,DL0910
+TS1204,Check stock for hotel order,2026-08-20,T07,Medium,Done,AC303
+TS1205,Follow up on proposal,2026-12-06,T02,High,In progress,DL0772
+TS1206,Follow up on proposal,2026-10-29,T11,Low,Done,AC048
+TS1207,Prepare contract renewal,2026-12-23,T03,Medium,To do,AC029
+TS1208,Send price list,2026-09-18,T05,Low,Overdue,AC271
+TS1209,Check stock for hotel order,2026-09-21,T03,Low,Done,AC266
+TS1210,Prepare contract renewal,2026-10-02,T07,Medium,Done,AC163
+TS1211,Send price list,2026-08-26,T07,Medium,Done,AC262
+TS1212,Check stock for hotel order,2026-12-05,T12,Medium,To do,DL0512
+TS1213,Send price list,2026-09-15,T12,Low,Overdue,DL0508
+TS1214,Send price list,2026-08-22,T03,Medium,Overdue,DL1122
+TS1215,Call to confirm order,2026-11-26,T02,Low,To do,AC038
+TS1216,Call to confirm order,2026-09-21,T01,Medium,Done,DL0965
+TS1217,Plan event stand,2026-12-24,T07,High,To do,DL0704
+TS1218,Call to confirm order,2026-09-10,T01,High,Done,AC094
+TS1219,Reply to collab request,2026-09-09,T12,Low,Done,DL1474
+TS1220,Prepare contract renewal,2026-10-20,T02,Medium,Done,DL1499
+TS1221,Call to confirm order,2026-09-15,T01,High,Done,AC144
+TS1222,Arrange tasting,2026-11-07,T06,Medium,Done,AC263
+TS1223,Call to confirm order,2026-10-08,T11,Medium,Done,AC193
+TS1224,Call to confirm order,2026-10-07,T03,High,Done,AC281
+TS1225,Send price list,2026-12-10,T04,Medium,In progress,DL0904
+TS1226,Reply to collab request,2026-11-09,T06,Low,Done,AC003
+TS1227,Follow up on proposal,2026-11-15,T12,Low,Done,DL1262
+TS1228,Chase overdue invoice,2026-08-14,T02,Low,Done,DL1393
+TS1229,Plan event stand,2026-08-28,T06,Medium,Done,DL0014
+TS1230,Update lead notes,2026-12-21,T02,High,To do,AC058
+TS1231,Update lead notes,2026-09-28,T01,Low,Done,AC178
+TS1232,Arrange tasting,2026-09-24,T01,High,Done,AC298
+TS1233,Send price list,2026-11-11,T11,High,Done,AC111
+TS1234,Check stock for hotel order,2026-10-14,T04,Medium,Done,AC149
+TS1235,Chase overdue invoice,2026-08-07,T01,Medium,Done,DL0526
+TS1236,Call to confirm order,2026-11-09,T12,High,Done,DL1230
+TS1237,Arrange tasting,2026-12-05,T03,Medium,To do,DL1370
+TS1238,Call to confirm order,2026-08-02,T01,Low,Done,DL1072
+TS1239,Follow up on proposal,2026-12-22,T03,Low,To do,DL1108
+TS1240,Send price list,2026-08-07,T06,Medium,Overdue,AC159
+TS1241,Check stock for hotel order,2026-10-27,T12,Medium,Done,DL1174
+TS1242,Plan event stand,2026-10-17,T05,Low,Done,AC115
+TS1243,Send price list,2026-09-05,T12,Medium,Overdue,DL0772
+TS1244,Update lead notes,2026-11-27,T07,Medium,To do,AC022
+TS1245,Prepare contract renewal,2026-10-11,T11,Medium,Done,DL1540
+TS1246,Follow up on proposal,2026-08-15,T06,Low,Done,AC266
+TS1247,Follow up on proposal,2026-10-06,T02,Low,Done,DL1372
+TS1248,Reply to collab request,2026-11-12,T04,Low,Done,AC185
+TS1249,Send price list,2026-11-06,T12,Low,Overdue,DL0554
+TS1250,Prepare contract renewal,2026-09-22,T03,Low,Done,DL0476
+TS1251,Chase overdue invoice,2026-11-12,T05,Medium,Done,DL1001
+TS1252,Call to confirm order,2026-11-11,T03,Low,Done,AC282
+TS1253,Reply to collab request,2026-09-09,T03,High,Done,DL1117
+TS1254,Arrange tasting,2026-10-01,T04,Low,Done,AC109
+TS1255,Prepare contract renewal,2026-11-21,T03,Medium,Done,DL0041
+TS1256,Plan event stand,2026-11-13,T03,Medium,Done,AC241
+TS1257,Arrange tasting,2026-08-10,T02,High,Done,DL0162
+TS1258,Update lead notes,2026-08-24,T03,Low,Done,AC259
+TS1259,Chase overdue invoice,2026-10-20,T11,Medium,Done,AC143
+TS1260,Follow up on proposal,2026-12-10,T01,Low,To do,DL0417
+TS1261,Send price list,2026-10-25,T07,Medium,Done,DL1229
+TS1262,Call to confirm order,2026-07-30,T12,Medium,Done,DL0817
+TS1263,Plan event stand,2026-08-11,T01,High,Done,DL0606
+TS1264,Send price list,2026-12-12,T12,Medium,To do,DL0672
+TS1265,Send price list,2026-08-10,T05,Medium,Done,AC085
+TS1266,Plan event stand,2026-08-25,T07,Medium,Done,DL1399
+TS1267,Reply to collab request,2026-11-14,T07,Medium,Done,DL1090
+TS1268,Arrange tasting,2026-12-20,T12,Low,To do,AC046
+TS1269,Prepare contract renewal,2026-12-03,T11,High,In progress,DL0144
+TS1270,Reply to collab request,2026-09-11,T07,High,Done,DL0315
+TS1271,Plan event stand,2026-10-05,T06,Medium,Done,AC163
+TS1272,Call to confirm order,2026-11-14,T07,Medium,Done,AC098
+TS1273,Check stock for hotel order,2026-08-30,T03,Medium,Done,DL1532
+TS1274,Send price list,2026-09-18,T04,Medium,Overdue,DL0521
+TS1275,Call to confirm order,2026-11-20,T05,Medium,Done,AC078
+TS1276,Follow up on proposal,2026-09-25,T06,Medium,Overdue,DL1176
+TS1277,Check stock for hotel order,2026-08-29,T05,Low,Done,AC150
+TS1278,Prepare contract renewal,2026-10-14,T11,Low,Done,DL1247
+TS1279,Update lead notes,2026-08-16,T04,Low,Done,DL0942
+TS1280,Send price list,2026-10-13,T07,Medium,Done,DL1165
+TS1281,Check stock for hotel order,2026-10-06,T04,Medium,Done,AC088
+TS1282,Check stock for hotel order,2026-08-15,T01,Low,Done,DL1114
+TS1283,Arrange tasting,2026-08-18,T05,Low,Done,DL1295
+TS1284,Arrange tasting,2026-09-05,T01,Low,Done,DL1209
+TS1285,Send price list,2026-08-17,T04,High,Done,DL0837
+TS1286,Follow up on proposal,2026-10-23,T04,Medium,Done,AC265
+TS1287,Prepare contract renewal,2026-11-25,T03,Medium,To do,AC077
+TS1288,Follow up on proposal,2026-10-14,T04,Low,Done,DL0686
+TS1289,Call to confirm order,2026-10-26,T06,Medium,Overdue,DL1241
+TS1290,Call to confirm order,2026-10-29,T02,Medium,Done,AC039
+TS1291,Plan event stand,2026-08-20,T11,Medium,Done,AC185
+TS1292,Send price list,2026-08-09,T03,Medium,Done,AC007
+TS1293,Follow up on proposal,2026-08-05,T06,Low,Overdue,AC011
+TS1294,Call to confirm order,2026-09-17,T04,High,Done,AC053
+TS1295,Send price list,2026-09-27,T06,Medium,Done,AC125
+TS1296,Reply to collab request,2026-08-17,T01,Medium,Done,DL1327
+TS1297,Prepare contract renewal,2026-08-02,T12,Medium,Overdue,AC181
+TS1298,Update lead notes,2026-12-10,T07,Low,To do,DL0023
+TS1299,Follow up on proposal,2026-12-17,T06,Low,To do,DL1392
+TS1300,Arrange tasting,2026-10-25,T01,Low,Done,AC202
+TS1301,Call to confirm order,2026-12-17,T11,Medium,In progress,AC201
+TS1302,Update lead notes,2026-08-05,T01,High,Done,DL0247
+TS1303,Arrange tasting,2026-08-01,T12,High,Done,DL0543
+TS1304,Arrange tasting,2026-08-03,T02,Medium,Done,AC015
+TS1305,Check stock for hotel order,2026-10-31,T03,Low,Done,AC086
+TS1306,Check stock for hotel order,2026-11-17,T07,Low,Done,DL0606
+TS1307,Prepare contract renewal,2026-09-19,T11,Low,Overdue,AC279
+TS1308,Update lead notes,2026-08-23,T03,Low,In progress,DL1436
+TS1309,Send price list,2026-10-11,T05,Medium,Done,AC051
+TS1310,Call to confirm order,2026-11-05,T07,Medium,Done,DL0793
+TS1311,Check stock for hotel order,2026-10-05,T05,Medium,Overdue,AC280
+TS1312,Chase overdue invoice,2026-11-06,T02,Medium,Done,AC050
+TS1313,Prepare contract renewal,2026-08-03,T03,High,Overdue,AC095
+TS1314,Chase overdue invoice,2026-12-18,T11,Medium,To do,AC003
+TS1315,Follow up on proposal,2026-08-26,T02,High,Done,AC216
+TS1316,Call to confirm order,2026-08-22,T01,Low,Done,AC276
+TS1317,Call to confirm order,2026-12-02,T07,High,To do,DL0716
+TS1318,Check stock for hotel order,2026-11-16,T12,Low,Done,AC274
+TS1319,Reply to collab request,2026-11-22,T01,Medium,Overdue,DL1021
+TS1320,Reply to collab request,2026-08-14,T12,High,Done,DL0774
+TS1321,Call to confirm order,2026-08-16,T04,Medium,Done,DL0827
+TS1322,Update lead notes,2026-12-12,T04,Medium,To do,AC078
+TS1323,Update lead notes,2026-10-25,T11,Low,Overdue,AC118
+TS1324,Check stock for hotel order,2026-10-16,T02,High,Done,DL0132
+TS1325,Check stock for hotel order,2026-11-23,T04,Medium,In progress,AC115
+TS1326,Chase overdue invoice,2026-09-06,T02,Medium,Done,DL1258
+TS1327,Send price list,2026-10-23,T03,Medium,Done,AC249
+TS1328,Check stock for hotel order,2026-12-23,T01,High,To do,DL0520
+TS1329,Plan event stand,2026-10-05,T05,Medium,Done,AC236
+TS1330,Reply to collab request,2026-09-20,T07,Medium,Done,AC232
+TS1331,Send price list,2026-11-30,T04,Medium,To do,AC213
+TS1332,Reply to collab request,2026-09-06,T06,Low,Done,AC124
+TS1333,Chase overdue invoice,2026-10-07,T04,High,Overdue,DL0672
+TS1334,Check stock for hotel order,2026-07-30,T07,Medium,Done,DL0877
+TS1335,Plan event stand,2026-10-22,T01,High,Done,DL0220
+TS1336,Reply to collab request,2026-10-11,T04,Low,Done,DL0497
+TS1337,Send price list,2026-09-20,T12,Medium,Done,DL0493
+TS1338,Check stock for hotel order,2026-09-28,T12,Medium,Done,DL0578
+TS1339,Send price list,2026-09-27,T05,Low,Done,DL0096
+TS1340,Call to confirm order,2026-08-05,T11,Low,Done,AC252
+TS1341,Update lead notes,2026-11-01,T05,Low,Overdue,AC192
+TS1342,Reply to collab request,2026-09-12,T11,Medium,Done,AC133
+TS1343,Chase overdue invoice,2026-09-28,T02,Medium,Overdue,AC102
+TS1344,Reply to collab request,2026-11-02,T12,High,Done,AC090
+TS1345,Call to confirm order,2026-09-20,T05,Medium,Done,AC016
+TS1346,Check stock for hotel order,2026-08-17,T03,Medium,Done,AC255
+TS1347,Follow up on proposal,2026-11-25,T02,Low,To do,DL1098
+TS1348,Chase overdue invoice,2026-09-25,T02,Medium,Done,AC259
+TS1349,Plan event stand,2026-08-24,T02,Low,Done,DL0040
+TS1350,Update lead notes,2026-08-11,T07,Medium,Done,DL1178
+TS1351,Follow up on proposal,2026-08-18,T11,Low,Done,DL0738
+TS1352,Check stock for hotel order,2026-10-26,T04,Medium,Done,AC039
+TS1353,Call to confirm order,2026-09-04,T11,Medium,Done,DL0915
+TS1354,Arrange tasting,2026-09-25,T03,Medium,Done,AC132
+TS1355,Follow up on proposal,2026-07-30,T06,Medium,Done,AC291
+TS1356,Plan event stand,2026-09-09,T05,Low,Done,DL0977
+TS1357,Arrange tasting,2026-07-28,T06,High,Done,DL1507
+TS1358,Prepare contract renewal,2026-09-27,T12,Medium,Done,DL0464
+TS1359,Chase overdue invoice,2026-12-10,T12,Low,To do,AC039
+TS1360,Plan event stand,2026-10-11,T11,Medium,Done,AC122
+TS1361,Send price list,2026-09-25,T05,Medium,Done,AC252
+TS1362,Arrange tasting,2026-12-12,T02,Medium,To do,DL1195
+TS1363,Call to confirm order,2026-10-13,T01,Medium,Done,AC158
+TS1364,Follow up on proposal,2026-11-28,T04,Medium,To do,AC310
+TS1365,Arrange tasting,2026-08-22,T03,Medium,Done,AC129
+TS1366,Send price list,2026-11-20,T03,Medium,Overdue,DL1174
+TS1367,Follow up on proposal,2026-12-17,T02,Low,To do,AC091
+TS1368,Check stock for hotel order,2026-07-30,T11,Low,Done,AC301
+TS1369,Arrange tasting,2026-08-25,T04,Medium,Done,DL1023
+TS1370,Chase overdue invoice,2026-12-15,T05,Low,To do,AC280
+TS1371,Prepare contract renewal,2026-11-02,T07,Medium,Done,AC290
+TS1372,Plan event stand,2026-11-25,T01,High,To do,AC212
+TS1373,Arrange tasting,2026-08-07,T12,Low,Done,DL1423
+TS1374,Check stock for hotel order,2026-09-16,T12,Medium,Done,DL1478
+TS1375,Chase overdue invoice,2026-07-28,T11,Low,In progress,DL0948
+TS1376,Prepare contract renewal,2026-10-11,T11,High,Overdue,AC212
+TS1377,Reply to collab request,2026-12-12,T06,Medium,To do,AC305
+TS1378,Arrange tasting,2026-12-09,T01,Low,To do,DL1151
+TS1379,Arrange tasting,2026-08-27,T12,Medium,Done,DL1283
+TS1380,Follow up on proposal,2026-10-25,T12,Medium,Done,DL0327
+TS1381,Check stock for hotel order,2026-08-22,T11,Medium,Done,AC263
+TS1382,Reply to collab request,2026-10-13,T02,Medium,Done,AC135
+TS1383,Send price list,2026-09-27,T02,Medium,Done,DL0905
+TS1384,Check stock for hotel order,2026-11-14,T04,Low,Done,AC091
+TS1385,Reply to collab request,2026-11-20,T04,Low,Done,DL0701
+TS1386,Check stock for hotel order,2026-09-13,T06,Medium,Done,DL0045
+TS1387,Update lead notes,2026-09-25,T02,High,Done,AC025
+TS1388,Send price list,2026-09-24,T12,Low,Done,AC298
+TS1389,Check stock for hotel order,2026-07-29,T02,Medium,Done,AC079
+TS1390,Update lead notes,2026-09-25,T06,Low,Overdue,DL0735
+TS1391,Chase overdue invoice,2026-07-28,T05,High,Done,DL1057
+TS1392,Follow up on proposal,2026-09-28,T12,Medium,Done,DL0179
+TS1393,Send price list,2026-10-02,T06,Medium,Done,DL0670
+TS1394,Send price list,2026-10-28,T04,Low,Overdue,AC038
+TS1395,Check stock for hotel order,2026-08-25,T01,High,Done,DL1271
+TS1396,Plan event stand,2026-12-11,T06,Low,To do,AC177
+TS1397,Prepare contract renewal,2026-11-06,T02,Medium,Done,AC154
+TS1398,Reply to collab request,2026-08-09,T01,Low,Done,DL0918
+TS1399,Update lead notes,2026-08-24,T12,Low,Overdue,DL0349
+TS1400,Chase overdue invoice,2026-12-05,T02,Medium,To do,AC175
+TS1401,Send price list,2026-09-14,T12,Low,Done,AC186
+TS1402,Plan event stand,2026-08-23,T05,Medium,Done,DL1356
+TS1403,Call to confirm order,2026-08-01,T01,Low,Done,DL1512
+TS1404,Chase overdue invoice,2026-09-25,T05,Low,Done,AC290
+TS1405,Reply to collab request,2026-12-02,T03,High,To do,AC053
+TS1406,Reply to collab request,2026-08-04,T06,Medium,Done,DL1302
+TS1407,Send price list,2026-12-04,T12,Low,To do,AC043
+TS1408,Prepare contract renewal,2026-08-26,T04,Low,Overdue,AC299
+TS1409,Arrange tasting,2026-09-27,T01,Medium,Done,DL0032
+TS1410,Check stock for hotel order,2026-12-17,T01,Medium,To do,AC149
+TS1411,Call to confirm order,2026-08-25,T01,Medium,Done,AC296
+TS1412,Chase overdue invoice,2026-12-12,T11,Medium,To do,AC178
+TS1413,Chase overdue invoice,2026-08-13,T07,Low,Done,DL0472
+TS1414,Update lead notes,2026-08-20,T12,High,Done,DL0810
+TS1415,Reply to collab request,2026-12-02,T05,Low,To do,DL0527
+TS1416,Follow up on proposal,2026-10-12,T02,Medium,Overdue,DL0393
+TS1417,Check stock for hotel order,2026-08-07,T07,Low,Done,AC216
+TS1418,Update lead notes,2026-11-14,T02,Low,Done,AC239
+TS1419,Arrange tasting,2026-09-01,T02,Medium,Done,AC096
+TS1420,Send price list,2026-10-21,T04,Low,Done,AC059
+TS1421,Prepare contract renewal,2026-11-05,T03,Medium,Done,AC278
+TS1422,Update lead notes,2026-12-14,T11,Low,To do,DL1470
+TS1423,Reply to collab request,2026-09-28,T11,Low,Done,DL0678
+TS1424,Check stock for hotel order,2026-10-04,T12,Low,In progress,AC058
+TS1425,Check stock for hotel order,2026-09-05,T07,Low,Done,DL0921
+TS1426,Send price list,2026-11-04,T02,Medium,Overdue,DL0734
+TS1427,Prepare contract renewal,2026-11-27,T07,Low,To do,AC275
+TS1428,Update lead notes,2026-12-08,T07,Low,To do,AC100
+TS1429,Arrange tasting,2026-08-26,T02,Low,Done,DL1135
+TS1430,Plan event stand,2026-09-27,T06,Medium,Done,DL0509
+TS1431,Call to confirm order,2026-08-30,T03,Low,Done,DL0965
+TS1432,Call to confirm order,2026-08-27,T02,High,Done,DL0478
+TS1433,Reply to collab request,2026-10-08,T12,Medium,Overdue,DL1296
+TS1434,Send price list,2026-10-28,T03,Low,Done,AC060
+TS1435,Prepare contract renewal,2026-11-08,T01,Medium,Done,DL0986
+TS1436,Update lead notes,2026-10-18,T02,Low,Done,AC139
+TS1437,Prepare contract renewal,2026-09-26,T01,Low,Done,DL0480
+TS1438,Chase overdue invoice,2026-10-18,T01,Low,Done,DL0245
+TS1439,Check stock for hotel order,2026-12-04,T12,Low,To do,DL0866
+TS1440,Plan event stand,2026-07-30,T03,Low,Done,AC229
+TS1441,Update lead notes,2026-10-16,T05,Low,Done,AC280
+TS1442,Arrange tasting,2026-09-22,T06,Low,Done,AC059
+TS1443,Arrange tasting,2026-11-19,T01,High,Done,AC251
+TS1444,Call to confirm order,2026-11-08,T11,Medium,Done,DL0732
+TS1445,Prepare contract renewal,2026-12-18,T04,Low,To do,AC154
+TS1446,Prepare contract renewal,2026-07-30,T03,Medium,Done,DL1233
+TS1447,Check stock for hotel order,2026-12-23,T07,High,To do,DL0048
+TS1448,Chase overdue invoice,2026-11-20,T01,High,Done,AC016
+TS1449,Plan event stand,2026-11-02,T03,Medium,Done,DL0098
+TS1450,Chase overdue invoice,2026-10-12,T11,Medium,Overdue,AC200
+TS1451,Chase overdue invoice,2026-08-05,T06,Medium,Done,DL0624
+TS1452,Chase overdue invoice,2026-10-24,T11,High,Done,AC118
+TS1453,Chase overdue invoice,2026-11-19,T02,Low,Done,AC203
+TS1454,Reply to collab request,2026-08-10,T04,Medium,Done,AC098
+TS1455,Chase overdue invoice,2026-11-24,T06,High,To do,AC267
+TS1456,Follow up on proposal,2026-12-16,T07,Medium,To do,AC115
+TS1457,Arrange tasting,2026-10-15,T07,Low,Done,AC053
+TS1458,Reply to collab request,2026-10-04,T04,Medium,Done,DL0492
+TS1459,Update lead notes,2026-10-02,T11,Medium,Done,AC080
+TS1460,Send price list,2026-11-30,T04,Low,To do,DL1454
+TS1461,Update lead notes,2026-10-05,T02,High,Done,DL0796
+TS1462,Send price list,2026-07-28,T02,Medium,Done,AC145
+TS1463,Chase overdue invoice,2026-11-18,T12,Medium,Done,AC164
+TS1464,Arrange tasting,2026-08-15,T01,Medium,Done,AC258
+TS1465,Reply to collab request,2026-08-16,T03,High,Done,AC194
+TS1466,Arrange tasting,2026-10-29,T06,High,Done,DL0657
+TS1467,Send price list,2026-10-11,T04,Medium,Done,DL0324
+TS1468,Call to confirm order,2026-12-21,T12,Medium,To do,DL0464
+TS1469,Follow up on proposal,2026-11-07,T07,High,Done,DL1464
+TS1470,Follow up on proposal,2026-08-24,T06,Medium,Done,DL1007
+TS1471,Plan event stand,2026-11-13,T01,Low,In progress,DL0027
+TS1472,Arrange tasting,2026-10-27,T11,High,Done,AC307
+TS1473,Plan event stand,2026-09-05,T06,Medium,Done,DL0888
+TS1474,Arrange tasting,2026-12-19,T12,Low,To do,AC225
+TS1475,Update lead notes,2026-09-27,T06,High,Overdue,DL0190
+TS1476,Chase overdue invoice,2026-09-17,T02,High,Done,AC009
+TS1477,Call to confirm order,2026-09-02,T07,Medium,Done,DL0362
+TS1478,Check stock for hotel order,2026-11-16,T03,Low,Done,DL0173
+TS1479,Update lead notes,2026-09-22,T02,Low,Done,AC085
+TS1480,Reply to collab request,2026-12-22,T06,Medium,In progress,DL0184
+TS1481,Send price list,2026-11-12,T12,Medium,Done,AC127
+TS1482,Chase overdue invoice,2026-09-02,T06,Medium,Done,AC080
+TS1483,Arrange tasting,2026-08-15,T06,Low,Overdue,DL0747
+TS1484,Update lead notes,2026-11-16,T06,High,Done,AC204
+TS1485,Call to confirm order,2026-10-28,T11,Low,Done,AC302
+TS1486,Check stock for hotel order,2026-12-24,T07,Medium,To do,AC038
+TS1487,Prepare contract renewal,2026-10-22,T01,Low,Done,DL0603
+TS1488,Arrange tasting,2026-07-31,T04,Medium,Overdue,AC060
+TS1489,Check stock for hotel order,2026-11-09,T06,Medium,Overdue,DL0468
+TS1490,Send price list,2026-12-15,T11,Medium,In progress,DL0738
+TS1491,Check stock for hotel order,2026-11-09,T12,Low,Done,AC247
+TS1492,Follow up on proposal,2026-10-15,T11,Medium,Done,DL0001
+TS1493,Plan event stand,2026-08-13,T05,Low,Done,DL0316
+TS1494,Follow up on proposal,2026-10-11,T06,Medium,Done,AC116
+TS1495,Arrange tasting,2026-09-11,T03,High,Done,AC306
+TS1496,Arrange tasting,2026-12-16,T06,Medium,To do,DL1476
+TS1497,Send price list,2026-08-30,T01,Medium,Done,DL0878
+TS1498,Update lead notes,2026-08-13,T11,High,Done,AC162
+TS1499,Send price list,2026-09-21,T02,Medium,Done,AC270
+TS1500,Chase overdue invoice,2026-09-18,T05,Medium,Done,AC084

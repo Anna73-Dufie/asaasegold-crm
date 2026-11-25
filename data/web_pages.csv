@@ -1,0 +1,11 @@
+page,views,avg_time_sec,exit_rate
+/ (home),418224,48,0.28
+/shop,276567,95,0.22
+/product/70-dark-chocolate-bar,128165,110,0.31
+/gifting,107928,132,0.29
+/our-farmers,80946,205,0.35
+/product/kente-gift-box,74201,118,0.27
+/blog/why-ghana-cocoa,53964,190,0.52
+/wholesale,40473,150,0.33
+/cart,80946,60,0.41
+/checkout,47218,140,0.36

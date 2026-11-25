@@ -1,0 +1,311 @@
+id,name,type,city,owner,source,created,status,tier,lifetime_value
+AC001,Freshmart Stores,Supermarket,Takoradi,T04,Cold outreach,2025-09-15,Active,Silver,55101
+AC002,Kwaku Bakery,Café & bakery,Cape Coast,T02,Event,2025-04-10,Prospect,—,0
+AC003,Ridge Hotel East Legon,Hotel,Accra,T04,Referral,2025-04-24,Lost,—,0
+AC004,Labadi Bay Resort Cantonments,Hotel,Accra,T07,Instagram,2025-01-08,Active,Silver,99461
+AC005,Ridge Hotel & Suites Harbour,Hotel,Tema,T04,Cold outreach,2025-04-25,Lost,—,0
+AC006,Diaspora Pantry GmbH,Export distributor,Hamburg,T03,Event,2025-08-28,Lost,—,0
+AC007,Diaspora Pantry (UK) Ltd,Export distributor,London,T06,Email,2025-08-07,Lost,—,0
+AC008,Unity Mart,Supermarket,Tema,T07,Event,2025-01-21,Lost,—,0
+AC009,Palace Stores,Supermarket,Kumasi,T04,Google Ads,2025-04-11,Active,Bronze,30568
+AC010,Royal Stores,Supermarket,Tema,T01,Referral,2025-07-10,Active,Silver,103290
+AC011,Heritage Gifts,Corporate gifting,Accra,T07,Instagram,2025-01-16,Lost,—,0
+AC012,SkyGold Duty Free,Airline & airport,Sunyani,T06,Referral,2025-09-22,Active,Bronze,32648
+AC013,SkyGold Lounges,Airline & airport,Kasoa,T01,Instagram,2025-10-10,Lost,—,0
+AC014,Golden Sands Hotel,Hotel,Kumasi,T01,LinkedIn,2025-10-31,Lost,—,0
+AC015,Bean & Bake Bakery,Café & bakery,Accra,T04,Event,2025-09-27,Active,Silver,82806
+AC016,Adinkra Gifts,Corporate gifting,Accra,T06,Event,2025-09-16,Churned,Silver,80341
+AC017,Akan Foods (Canada),Export distributor,Toronto,T03,Referral,2025-10-31,Active,Bronze,21632
+AC018,Motherland Pantry (Canada),Export distributor,Toronto,T07,Referral,2025-03-07,Active,Silver,82806
+AC019,Sahel & Coast BV (Netherlands),Export distributor,Amsterdam,T05,Email,2025-04-11,Active,Silver,70500
+AC020,Labadi Bay Hotel & Suites,Hotel,Kumasi,T03,Cold outreach,2025-09-20,Active,Silver,44355
+AC021,Brew Bakery,Café & bakery,Koforidua,T01,LinkedIn,2025-03-26,Active,Silver,69243
+AC022,Bold Gifts,Corporate gifting,Tema,T07,LinkedIn,2025-04-08,Churned,Silver,44489
+AC023,Bold Hampers,Corporate gifting,Kumasi,T05,Cold outreach,2025-05-04,Churned,Silver,49613
+AC024,Accra Link (UK) Ltd,Export distributor,London,T07,Cold outreach,2025-06-13,Lost,—,0
+AC025,Palace Mart,Supermarket,Kumasi,T06,Website,2025-04-14,Prospect,—,0
+AC026,Bold Gifts South,Corporate gifting,Accra,T04,Instagram,2025-06-15,Active,Bronze,35845
+AC027,Ridge Hotel,Hotel,Kasoa,T03,Referral,2025-03-11,Lost,—,0
+AC028,Heritage Gifts Dzorwulu,Corporate gifting,Accra,T06,Cold outreach,2025-05-02,Lost,—,0
+AC029,Brew Coffee House,Café & bakery,Cape Coast,T01,Referral,2025-01-25,Lost,—,0
+AC030,Palace Supermarket Spintex,Supermarket,Accra,T07,Referral,2025-04-16,Active,Silver,91037
+AC031,Golden Sands Hotel & Suites Osu,Hotel,Accra,T01,Instagram,2025-05-10,Lost,—,0
+AC032,Labadi Bay Hotel,Hotel,Accra,T01,Referral,2025-02-20,Churned,Silver,107838
+AC033,SkyGold Duty Free East,Airline & airport,Accra,T04,Email,2025-02-05,Lost,—,0
+AC034,Akwaaba Coffee House Community 25,Café & bakery,Tema,T06,Referral,2025-10-09,Lost,—,0
+AC035,Family Stores,Supermarket,Accra,T03,LinkedIn,2025-04-29,Lost,—,0
+AC036,Adinkra Trading (Canada),Export distributor,Toronto,T03,Event,2025-01-15,Active,Gold,203289
+AC037,Lagoon Hotel & Suites,Hotel,Kumasi,T06,LinkedIn,2025-02-18,Lost,—,0
+AC038,Freshmart Stores South,Supermarket,Kasoa,T05,Referral,2025-10-15,Churned,Bronze,33303
+AC039,Palace Mart Spintex,Supermarket,Accra,T06,LinkedIn,2025-08-06,Active,Silver,73543
+AC040,Royal Mart Spintex,Supermarket,Accra,T04,Instagram,2025-03-28,Churned,Silver,43317
+AC041,Coastline Hotel Osu,Hotel,Accra,T07,LinkedIn,2025-03-05,Active,Silver,108004
+AC042,Diaspora Pantry (UK) Ltd North,Export distributor,London,T01,LinkedIn,2025-10-06,Lost,—,0
+AC043,Akwaaba Bakery,Café & bakery,Accra,T07,Referral,2025-01-20,Active,Silver,85641
+AC044,Accra Link (Canada),Export distributor,Toronto,T02,Referral,2025-01-05,Active,Gold,122349
+AC045,Bold Gifts Central,Corporate gifting,Koforidua,T04,Referral,2025-10-30,Active,Bronze,34479
+AC046,Bean & Bake Café,Café & bakery,Accra,T05,Instagram,2025-05-18,Lost,—,0
+AC047,Sankofa Gifts Labone,Corporate gifting,Accra,T07,Referral,2025-10-01,Lost,—,0
+AC048,Value Supermarket,Supermarket,Accra,T03,Email,2025-01-08,Prospect,—,0
+AC049,Akwaaba Bakery Spintex,Café & bakery,Accra,T03,LinkedIn,2025-10-25,Active,Silver,65505
+AC050,Adinkra Gifts North,Corporate gifting,Kumasi,T01,Referral,2025-07-15,Lost,—,0
+AC051,Family Mart,Supermarket,Accra,T06,Website,2025-05-19,Active,Bronze,36484
+AC052,CityShop Stores,Supermarket,Kumasi,T07,Event,2025-08-27,Lost,—,0
+AC053,Bean & Bake Bakery East,Café & bakery,Accra,T07,Instagram,2025-02-12,Prospect,—,0
+AC054,Adinkra Trading (USA) Inc.,Export distributor,New York,T04,Event,2025-01-28,Lost,—,0
+AC055,Value Stores,Supermarket,Accra,T06,LinkedIn,2025-02-17,Prospect,—,0
+AC056,Coastal Wings Duty Free,Airline & airport,Accra,T02,LinkedIn,2025-07-17,Lost,—,0
+AC057,Bean & Bake Coffee House,Café & bakery,Takoradi,T06,Website,2025-10-21,Churned,Bronze,35133
+AC058,Sankofa Gifts East Legon,Corporate gifting,Accra,T01,Referral,2025-09-19,Lost,—,0
+AC059,Lagoon Resort,Hotel,Accra,T06,Event,2025-01-22,Prospect,—,0
+AC060,Value Supermarket Osu,Supermarket,Accra,T06,Event,2025-01-19,Prospect,—,0
+AC061,Adinkra Hampers,Corporate gifting,Kumasi,T01,Event,2025-04-10,Lost,—,0
+AC062,Morning Glory Café,Café & bakery,Ho,T02,Referral,2025-08-04,Active,Silver,53607
+AC063,Kwaku Bakery Central,Café & bakery,Tema,T05,Instagram,2025-07-06,Lost,—,0
+AC064,Volta Air Airways,Airline & airport,Kumasi,T04,Event,2025-08-09,Lost,—,0
+AC065,SkyGold Lounges West,Airline & airport,Kumasi,T06,Email,2025-10-18,Active,Silver,51161
+AC066,Sweet Crumb Café Osu,Café & bakery,Accra,T04,Cold outreach,2025-07-25,Active,Silver,87616
+AC067,Black Star Imports BV (Netherlands),Export distributor,Amsterdam,T07,LinkedIn,2025-07-11,Active,Silver,80774
+AC068,Kotoka Duty Free,Airline & airport,Tema,T07,Referral,2025-04-14,Lost,—,0
+AC069,Sankofa Gifting Co.,Corporate gifting,Accra,T03,Website,2025-01-30,Active,Silver,79105
+AC070,Family Mart West,Supermarket,Accra,T02,Instagram,2025-08-28,Lost,—,0
+AC071,Akwaaba Bakery South,Café & bakery,Kumasi,T06,Website,2025-08-29,Lost,—,0
+AC072,Unity Supermarket,Supermarket,Kasoa,T02,Instagram,2025-03-03,Lost,—,0
+AC073,Oven Fresh Café,Café & bakery,Accra,T04,Email,2025-09-01,Lost,—,0
+AC074,Royal Stores Central,Supermarket,Kasoa,T06,Email,2025-02-02,Active,Silver,74357
+AC075,Coastline Resort,Hotel,Takoradi,T01,LinkedIn,2025-03-30,Lost,—,0
+AC076,Unity Stores,Supermarket,Accra,T02,Email,2025-04-23,Active,Silver,83048
+AC077,Brew Bakery North,Café & bakery,Koforidua,T05,LinkedIn,2025-05-06,Lost,—,0
+AC078,Prestige Gifting Co.,Corporate gifting,Accra,T07,Instagram,2025-05-04,Lost,—,0
+AC079,Lagoon Hotel & Suites East,Hotel,Takoradi,T02,Event,2025-06-19,Lost,—,0
+AC080,Ridge Hotel Central,Hotel,Kumasi,T01,Event,2025-08-11,Churned,Silver,47899
+AC081,Motherland Pantry (Canada) East,Export distributor,Toronto,T03,Referral,2025-10-08,Lost,—,0
+AC082,Unity Mart North,Supermarket,Ho,T06,Website,2025-09-23,Lost,—,0
+AC083,Morning Glory Bakery,Café & bakery,Accra,T01,LinkedIn,2025-08-22,Churned,Silver,81651
+AC084,Kotoka Airways,Airline & airport,Koforidua,T07,LinkedIn,2025-03-21,Active,Silver,105995
+AC085,Unity Supermarket Harbour,Supermarket,Tema,T02,LinkedIn,2025-04-30,Lost,—,0
+AC086,Palace Mart Airport City,Supermarket,Accra,T05,Instagram,2025-04-28,Lost,—,0
+AC087,Black Star Imports GmbH,Export distributor,Hamburg,T02,Website,2025-10-05,Lost,—,0
+AC088,Unity Supermarket North,Supermarket,Kumasi,T07,Event,2025-02-10,Active,Silver,119100
+AC089,Lagoon Hotel Osu,Hotel,Accra,T03,Email,2025-02-02,Lost,—,0
+AC090,Goodway Mart Ahodwo,Supermarket,Kumasi,T06,Instagram,2025-02-17,Prospect,—,0
+AC091,Afro Foods GmbH,Export distributor,Hamburg,T07,Referral,2025-04-15,Active,Silver,76698
+AC092,Labadi Bay Hotel & Suites Community 25,Hotel,Tema,T02,Event,2025-02-27,Active,Gold,128303
+AC093,Sahel & Coast (Canada),Export distributor,Toronto,T05,LinkedIn,2025-10-31,Active,Silver,56460
+AC094,Family Mart East,Supermarket,Kumasi,T01,Cold outreach,2025-08-23,Lost,—,0
+AC095,CityShop Supermarket,Supermarket,Accra,T03,Instagram,2025-10-13,Churned,Bronze,30768
+AC096,Palace Mart Osu,Supermarket,Accra,T05,Instagram,2025-01-19,Lost,—,0
+AC097,Golden Sands Resort,Hotel,Accra,T07,Event,2025-10-21,Active,Silver,78590
+AC098,Accra Link BV (Netherlands),Export distributor,Amsterdam,T01,Referral,2025-05-16,Active,Bronze,32518
+AC099,Adinkra Gifts South,Corporate gifting,Accra,T03,Instagram,2025-09-29,Lost,—,0
+AC100,Akwaaba Coffee House Harbour,Café & bakery,Tema,T01,Website,2025-07-12,Active,Bronze,35635
+AC101,Brew Coffee House North,Café & bakery,Cape Coast,T04,Website,2025-06-21,Lost,—,0
+AC102,Motherland Pantry GmbH,Export distributor,Hamburg,T02,Referral,2025-02-21,Active,Silver,77034
+AC103,Prestige Hampers,Corporate gifting,Kumasi,T03,LinkedIn,2025-08-02,Active,Silver,59677
+AC104,Value Mart Harbour,Supermarket,Tema,T07,Instagram,2025-09-27,Lost,—,0
+AC105,Accra Link (Canada) North,Export distributor,Toronto,T05,LinkedIn,2025-06-15,Lost,—,0
+AC106,Palace Stores Central,Supermarket,Tamale,T07,Google Ads,2025-10-01,Lost,—,0
+AC107,Ridge Resort Adum,Hotel,Kumasi,T06,Google Ads,2025-02-14,Prospect,—,0
+AC108,Oven Fresh Bakery,Café & bakery,Accra,T02,Referral,2025-02-21,Active,Silver,41549
+AC109,Bean & Bake Coffee House Plus,Café & bakery,Takoradi,T02,LinkedIn,2025-03-24,Lost,—,0
+AC110,Family Stores West,Supermarket,Takoradi,T04,Instagram,2025-03-19,Lost,—,0
+AC111,Kwaku Café,Café & bakery,Kasoa,T01,Event,2025-09-24,Active,Silver,99125
+AC112,Unity Mart South,Supermarket,Koforidua,T05,Event,2025-04-27,Lost,—,0
+AC113,CityShop Stores Central,Supermarket,Takoradi,T07,Referral,2025-02-08,Lost,—,0
+AC114,Sahel & Coast (UK) Ltd,Export distributor,London,T07,Website,2025-05-16,Lost,—,0
+AC115,Volta Air Airways Plus,Airline & airport,Accra,T06,Website,2025-04-07,Lost,—,0
+AC116,Kwaku Café South,Café & bakery,Tema,T03,Instagram,2025-08-08,Active,Silver,43179
+AC117,Unity Stores East,Supermarket,Koforidua,T03,Referral,2025-06-23,Churned,Silver,48680
+AC118,Coastline Hotel,Hotel,Sunyani,T03,Google Ads,2025-06-16,Lost,—,0
+AC119,Family Supermarket Dzorwulu,Supermarket,Accra,T02,LinkedIn,2025-09-01,Active,Silver,75736
+AC120,Kwaku Café North,Café & bakery,Kumasi,T06,Cold outreach,2025-02-12,Active,Silver,87607
+AC121,Bean & Bake Bakery Labone,Café & bakery,Accra,T04,LinkedIn,2025-10-30,Lost,—,0
+AC122,Bold Hampers Central,Corporate gifting,Accra,T02,Referral,2025-02-26,Active,Silver,74617
+AC123,Freshmart Supermarket Spintex,Supermarket,Accra,T07,Google Ads,2025-10-21,Active,Bronze,13827
+AC124,Volta Air Duty Free,Airline & airport,Accra,T03,Email,2025-04-15,Active,Silver,42855
+AC125,Volta View Hotel & Suites Osu,Hotel,Accra,T03,Instagram,2025-08-17,Lost,—,0
+AC126,CityShop Stores West,Supermarket,Sunyani,T07,Email,2025-09-11,Active,Silver,69951
+AC127,Gye Nyame Gifts,Corporate gifting,Cape Coast,T07,Event,2025-04-13,Lost,—,0
+AC128,Ridge Hotel North,Hotel,Accra,T03,Website,2025-04-08,Prospect,—,0
+AC129,Sankofa Gifts Labone Central,Corporate gifting,Accra,T03,LinkedIn,2025-03-31,Prospect,—,0
+AC130,Royal Supermarket,Supermarket,Accra,T07,Referral,2025-08-20,Lost,—,0
+AC131,Freshmart Stores West,Supermarket,Accra,T04,Website,2025-08-07,Lost,—,0
+AC132,Sankofa Gifting Co. South,Corporate gifting,Takoradi,T07,Email,2025-10-02,Churned,Bronze,34848
+AC133,Sweet Crumb Bakery Airport City,Café & bakery,Accra,T01,Event,2025-06-24,Churned,Silver,73656
+AC134,Akwaaba Bakery Plus,Café & bakery,Koforidua,T04,Website,2025-06-29,Lost,—,0
+AC135,Brew Coffee House East,Café & bakery,Accra,T05,Referral,2025-07-28,Churned,Silver,65015
+AC136,Sankofa Hampers,Corporate gifting,Accra,T03,Email,2025-08-24,Churned,Silver,53807
+AC137,Bean & Bake Coffee House West,Café & bakery,Kumasi,T05,LinkedIn,2025-02-12,Active,Silver,84382
+AC138,Coastal Wings Duty Free North,Airline & airport,Tema,T01,Google Ads,2025-03-30,Active,Silver,64017
+AC139,Afro Foods (UK) Ltd,Export distributor,London,T05,Google Ads,2025-08-06,Lost,—,0
+AC140,Freshmart Mart,Supermarket,Takoradi,T04,Event,2025-07-12,Active,Silver,114511
+AC141,Black Star Imports (UK) Ltd,Export distributor,London,T05,Email,2025-02-12,Prospect,—,0
+AC142,Oven Fresh Coffee House,Café & bakery,Accra,T07,Event,2025-01-22,Prospect,—,0
+AC143,Oven Fresh Café Plus,Café & bakery,Accra,T01,Referral,2025-02-11,Active,Silver,68973
+AC144,Coastal Wings Airways,Airline & airport,Accra,T02,Event,2025-09-30,Active,Silver,95343
+AC145,Family Stores Plus,Supermarket,Tema,T04,Referral,2025-01-05,Prospect,—,0
+AC146,Family Stores Central,Supermarket,Takoradi,T03,Cold outreach,2025-10-23,Active,Bronze,39820
+AC147,Heritage Gifting Co.,Corporate gifting,Accra,T06,Event,2025-07-12,Lost,—,0
+AC148,Gye Nyame Gifting Co.,Corporate gifting,Takoradi,T04,Email,2025-03-17,Lost,—,0
+AC149,Sankofa Gifts,Corporate gifting,Accra,T03,Event,2025-03-14,Churned,Gold,147284
+AC150,Royal Supermarket West,Supermarket,Kasoa,T05,Cold outreach,2025-02-26,Active,Bronze,34292
+AC151,Golden Sands Hotel & Suites Labone,Hotel,Accra,T03,LinkedIn,2025-10-29,Lost,—,0
+AC152,Value Mart Labone,Supermarket,Accra,T05,Email,2025-09-19,Lost,—,0
+AC153,Sahel & Coast BV (Netherlands) Central,Export distributor,Amsterdam,T02,Cold outreach,2025-04-14,Prospect,—,0
+AC154,Family Stores North,Supermarket,Tamale,T04,Referral,2025-08-13,Active,Silver,53071
+AC155,Brew Café Dzorwulu,Café & bakery,Accra,T01,Google Ads,2025-06-30,Lost,—,0
+AC156,Labadi Bay Hotel & Suites North,Hotel,Sunyani,T02,LinkedIn,2025-08-31,Lost,—,0
+AC157,Freshmart Supermarket Osu,Supermarket,Accra,T03,Event,2025-09-05,Active,Silver,100254
+AC158,Adinkra Trading GmbH,Export distributor,Hamburg,T07,Event,2025-02-27,Active,Gold,130569
+AC159,Bold Hampers West,Corporate gifting,Tema,T04,Email,2025-05-27,Lost,—,0
+AC160,Morning Glory Coffee House,Café & bakery,Tamale,T02,LinkedIn,2025-04-14,Prospect,—,0
+AC161,Royal Mart,Supermarket,Accra,T05,Referral,2025-02-05,Lost,—,0
+AC162,Golden Sands Hotel & Suites,Hotel,Accra,T06,Website,2025-02-22,Active,Silver,52444
+AC163,CityShop Mart,Supermarket,Accra,T04,Cold outreach,2025-10-22,Active,Bronze,26229
+AC164,Coastline Hotel East,Hotel,Accra,T04,Instagram,2025-02-24,Churned,Silver,48207
+AC165,Unity Stores Asokwa,Supermarket,Kumasi,T04,LinkedIn,2025-07-25,Lost,—,0
+AC166,Morning Glory Bakery West,Café & bakery,Kasoa,T04,Google Ads,2025-09-15,Lost,—,0
+AC167,Motherland Pantry GmbH South,Export distributor,Hamburg,T03,Cold outreach,2025-09-14,Churned,Silver,50759
+AC168,Volta Air Duty Free North,Airline & airport,Takoradi,T01,Event,2025-02-02,Active,Silver,84925
+AC169,Sankofa Gifting Co. East,Corporate gifting,Kumasi,T05,Referral,2025-02-06,Active,Silver,97029
+AC170,Motherland Pantry GmbH North,Export distributor,Hamburg,T02,Website,2025-06-26,Lost,—,0
+AC171,Oven Fresh Coffee House South,Café & bakery,Takoradi,T04,Event,2025-10-29,Active,Silver,50392
+AC172,SkyGold Duty Free North,Airline & airport,Sunyani,T06,Cold outreach,2025-05-12,Churned,Silver,99718
+AC173,Palace Supermarket,Supermarket,Tamale,T03,Event,2025-03-19,Churned,Silver,91377
+AC174,Golden Sands Hotel & Suites Labone East,Hotel,Accra,T01,Event,2025-05-02,Lost,—,0
+AC175,Prestige Gifts,Corporate gifting,Accra,T06,Event,2025-09-24,Lost,—,0
+AC176,Bold Gifts East Legon,Corporate gifting,Accra,T04,Google Ads,2025-04-20,Lost,—,0
+AC177,CityShop Supermarket West,Supermarket,Accra,T07,Instagram,2025-11-02,Lost,—,0
+AC178,Lagoon Hotel,Hotel,Accra,T04,Website,2025-03-07,Prospect,—,0
+AC179,Family Supermarket,Supermarket,Kumasi,T07,Cold outreach,2025-02-28,Lost,—,0
+AC180,Value Supermarket Central,Supermarket,Kasoa,T04,Cold outreach,2025-03-26,Lost,—,0
+AC181,West Africa Trade BV (Netherlands),Export distributor,Amsterdam,T04,LinkedIn,2025-04-06,Lost,—,0
+AC182,Unity Stores West,Supermarket,Accra,T01,LinkedIn,2025-10-22,Lost,—,0
+AC183,Palace Stores East,Supermarket,Kumasi,T05,LinkedIn,2025-04-27,Lost,—,0
+AC184,Bold Gifts Ahodwo,Corporate gifting,Kumasi,T07,LinkedIn,2025-02-04,Churned,Bronze,37124
+AC185,Sankofa Gifts East,Corporate gifting,Kumasi,T07,Referral,2025-05-16,Churned,Silver,64014
+AC186,Lagoon Hotel Central,Hotel,Tema,T02,Event,2025-08-25,Lost,—,0
+AC187,Coastal Wings Airways West,Airline & airport,Takoradi,T01,Referral,2025-04-12,Lost,—,0
+AC188,Palm Court Hotel & Suites,Hotel,Kumasi,T03,LinkedIn,2025-07-01,Lost,—,0
+AC189,Gye Nyame Hampers Ahodwo,Corporate gifting,Kumasi,T05,Instagram,2025-03-19,Lost,—,0
+AC190,Motherland Pantry (USA) Inc.,Export distributor,New York,T01,LinkedIn,2025-04-22,Prospect,—,0
+AC191,Adinkra Trading (Canada) South,Export distributor,Toronto,T06,Event,2025-02-01,Active,Gold,212963
+AC192,Golden Sands Hotel North,Hotel,Accra,T01,Event,2025-02-12,Prospect,—,0
+AC193,Ebony Foods GmbH,Export distributor,Hamburg,T04,LinkedIn,2025-02-28,Active,Silver,52315
+AC194,Golden Sands Resort Osu,Hotel,Accra,T01,LinkedIn,2025-05-28,Churned,Silver,77112
+AC195,Labadi Bay Resort,Hotel,Accra,T05,Event,2025-09-14,Lost,—,0
+AC196,Brew Café,Café & bakery,Accra,T05,Email,2025-01-13,Lost,—,0
+AC197,Volta View Hotel & Suites,Hotel,Takoradi,T07,Cold outreach,2025-05-17,Lost,—,0
+AC198,Labadi Bay Hotel & Suites Spintex,Hotel,Accra,T02,LinkedIn,2025-06-05,Churned,Bronze,30581
+AC199,Unity Stores South,Supermarket,Tema,T04,Instagram,2025-05-06,Lost,—,0
+AC200,SkyGold Airways Spintex,Airline & airport,Accra,T02,Instagram,2025-02-13,Lost,—,0
+AC201,Palace Mart South,Supermarket,Accra,T07,LinkedIn,2025-05-21,Churned,Silver,41820
+AC202,Adinkra Gifts Central,Corporate gifting,Tamale,T06,LinkedIn,2025-09-07,Lost,—,0
+AC203,Coastline Hotel North,Hotel,Kumasi,T03,Referral,2025-10-26,Lost,—,0
+AC204,SkyGold Duty Free Plus,Airline & airport,Cape Coast,T06,Event,2025-05-24,Churned,Silver,105758
+AC205,Sweet Crumb Bakery,Café & bakery,Cape Coast,T06,Event,2025-01-29,Prospect,—,0
+AC206,Ridge Hotel & Suites East Legon,Hotel,Accra,T04,Cold outreach,2025-08-14,Active,Bronze,39900
+AC207,Oven Fresh Café Airport City,Café & bakery,Accra,T04,Event,2025-06-03,Lost,—,0
+AC208,Kwaku Coffee House Adum,Café & bakery,Kumasi,T07,Website,2025-05-04,Lost,—,0
+AC209,Family Supermarket North,Supermarket,Kumasi,T01,Email,2025-06-25,Active,Silver,59982
+AC210,Palace Supermarket East,Supermarket,Accra,T03,Website,2025-05-14,Lost,—,0
+AC211,Goodway Stores,Supermarket,Sunyani,T03,Event,2025-01-04,Active,Gold,170660
+AC212,CityShop Mart Adum,Supermarket,Kumasi,T05,Referral,2025-05-03,Lost,—,0
+AC213,Bean & Bake Café East Legon,Café & bakery,Accra,T06,Email,2025-05-09,Churned,Silver,73727
+AC214,Royal Stores South,Supermarket,Tamale,T01,LinkedIn,2025-08-10,Churned,Silver,41272
+AC215,SkyGold Lounges North,Airline & airport,Accra,T05,Instagram,2025-08-26,Lost,—,0
+AC216,Bean & Bake Café Airport City,Café & bakery,Accra,T04,Google Ads,2025-04-25,Lost,—,0
+AC217,Freshmart Stores North,Supermarket,Koforidua,T01,Instagram,2025-05-07,Lost,—,0
+AC218,Value Supermarket East,Supermarket,Koforidua,T07,LinkedIn,2025-01-22,Lost,—,0
+AC219,Gold Coast Imports BV (Netherlands),Export distributor,Amsterdam,T01,Website,2025-05-31,Lost,—,0
+AC220,Kwaku Bakery North,Café & bakery,Kumasi,T02,LinkedIn,2025-07-25,Active,Silver,58102
+AC221,Freshmart Mart West,Supermarket,Kumasi,T03,LinkedIn,2025-01-15,Churned,Silver,50202
+AC222,Sankofa Gifting Co. West,Corporate gifting,Kumasi,T03,LinkedIn,2025-05-22,Active,Silver,54855
+AC223,Kwaku Coffee House,Café & bakery,Accra,T05,LinkedIn,2025-09-27,Lost,—,0
+AC224,Palace Mart North,Supermarket,Takoradi,T06,LinkedIn,2025-05-29,Churned,Silver,60124
+AC225,Bold Gifting Co.,Corporate gifting,Tema,T03,LinkedIn,2025-06-10,Lost,—,0
+AC226,Palm Court Resort,Hotel,Kasoa,T05,Referral,2025-03-14,Prospect,—,0
+AC227,West Africa Trade GmbH,Export distributor,Hamburg,T05,LinkedIn,2025-03-25,Active,Silver,110072
+AC228,Prestige Hampers Spintex,Corporate gifting,Accra,T05,Website,2025-08-15,Lost,—,0
+AC229,Lagoon Hotel & Suites Central,Hotel,Accra,T02,Referral,2025-03-13,Churned,Bronze,39824
+AC230,Royal Supermarket North,Supermarket,Takoradi,T02,Cold outreach,2025-02-12,Lost,—,0
+AC231,Heritage Gifts Central,Corporate gifting,Koforidua,T04,Website,2025-01-03,Churned,Silver,48579
+AC232,Sankofa Hampers Adum,Corporate gifting,Kumasi,T02,Cold outreach,2025-05-17,Active,Silver,72329
+AC233,Volta Air Lounges,Airline & airport,Cape Coast,T05,Instagram,2025-01-07,Churned,Silver,48363
+AC234,CityShop Supermarket South,Supermarket,Kumasi,T03,Event,2025-02-02,Active,Silver,109156
+AC235,Sweet Crumb Café,Café & bakery,Accra,T01,Event,2025-06-01,Churned,Silver,56702
+AC236,Unity Mart Labone,Supermarket,Accra,T02,Instagram,2025-05-05,Lost,—,0
+AC237,Akan Foods (USA) Inc.,Export distributor,Atlanta,T07,Event,2025-04-26,Prospect,—,0
+AC238,Golden Sands Resort West,Hotel,Sunyani,T01,Instagram,2025-04-24,Churned,Bronze,32634
+AC239,CityShop Mart East Legon,Supermarket,Accra,T01,Event,2025-08-08,Active,Silver,105467
+AC240,Freshmart Mart Ahodwo,Supermarket,Kumasi,T07,Email,2025-05-19,Churned,Silver,83156
+AC241,Ebony Foods GmbH West,Export distributor,Hamburg,T01,Cold outreach,2025-10-14,Churned,Bronze,33392
+AC242,CityShop Stores Plus,Supermarket,Tema,T02,LinkedIn,2025-02-17,Lost,—,0
+AC243,Gye Nyame Gifts Cantonments,Corporate gifting,Accra,T06,Event,2025-07-10,Lost,—,0
+AC244,Kwaku Coffee House Harbour,Café & bakery,Tema,T07,Email,2025-02-26,Active,Silver,91106
+AC245,Bean & Bake Café Central,Café & bakery,Accra,T07,Email,2025-04-02,Active,Silver,55726
+AC246,Goodway Supermarket,Supermarket,Tema,T07,Instagram,2025-03-02,Lost,—,0
+AC247,Sweet Crumb Coffee House Ahodwo,Café & bakery,Kumasi,T05,Email,2025-02-09,Active,Silver,72629
+AC248,Palace Mart East Legon,Supermarket,Accra,T03,Google Ads,2025-04-12,Lost,—,0
+AC249,Coastal Wings Airways Plus,Airline & airport,Kumasi,T05,Cold outreach,2025-10-10,Churned,Silver,48959
+AC250,Goodway Mart,Supermarket,Koforidua,T05,Referral,2025-07-07,Lost,—,0
+AC251,Heritage Gifting Co. South,Corporate gifting,Accra,T07,LinkedIn,2025-03-31,Active,Silver,72748
+AC252,Golden Sands Hotel West,Hotel,Accra,T06,LinkedIn,2025-09-11,Active,Silver,81504
+AC253,Oven Fresh Café East,Café & bakery,Sunyani,T05,Email,2025-10-14,Active,Bronze,38936
+AC254,Motherland Pantry BV (Netherlands),Export distributor,Amsterdam,T03,Instagram,2025-02-03,Churned,Bronze,11507
+AC255,Ridge Resort,Hotel,Accra,T03,LinkedIn,2025-08-16,Lost,—,0
+AC256,SkyGold Duty Free Central,Airline & airport,Accra,T05,LinkedIn,2025-06-03,Lost,—,0
+AC257,Prestige Gifting Co. Cantonments,Corporate gifting,Accra,T03,Email,2025-05-15,Active,Silver,102213
+AC258,Golden Sands Hotel & Suites North,Hotel,Accra,T04,Instagram,2025-04-08,Active,Bronze,39356
+AC259,Royal Stores Plus,Supermarket,Accra,T06,Email,2025-10-03,Lost,—,0
+AC260,Goodway Mart East,Supermarket,Accra,T01,Instagram,2025-06-05,Lost,—,0
+AC261,Labadi Bay Hotel & Suites East,Hotel,Accra,T04,Event,2025-04-24,Lost,—,0
+AC262,Value Mart,Supermarket,Accra,T07,Event,2025-08-28,Lost,—,0
+AC263,Palm Court Resort Central,Hotel,Takoradi,T06,Event,2025-07-13,Lost,—,0
+AC264,Coastline Hotel & Suites,Hotel,Takoradi,T04,Referral,2025-04-19,Active,Silver,62446
+AC265,Gye Nyame Gifting Co. West,Corporate gifting,Kasoa,T01,Instagram,2025-09-02,Lost,—,0
+AC266,Ridge Hotel & Suites,Hotel,Kasoa,T01,Website,2025-07-27,Lost,—,0
+AC267,Diaspora Pantry (Canada),Export distributor,Toronto,T04,Referral,2025-09-27,Churned,Bronze,24613
+AC268,Palm Court Hotel & Suites West,Hotel,Tema,T01,Event,2025-09-07,Active,Silver,50197
+AC269,Bean & Bake Café East,Café & bakery,Accra,T06,Referral,2025-07-21,Lost,—,0
+AC270,Volta View Resort Adum,Hotel,Kumasi,T02,Referral,2025-07-10,Active,Silver,73708
+AC271,Royal Stores East Legon,Supermarket,Accra,T05,Email,2025-01-13,Active,Silver,93357
+AC272,Royal Supermarket Plus,Supermarket,Kumasi,T06,Referral,2025-03-12,Lost,—,0
+AC273,Kotoka Lounges,Airline & airport,Accra,T04,Event,2025-03-26,Lost,—,0
+AC274,Sankofa Gifting Co. Adum,Corporate gifting,Kumasi,T02,Instagram,2025-04-07,Active,Silver,72089
+AC275,Bean & Bake Café Spintex,Café & bakery,Accra,T02,Event,2025-10-07,Active,Silver,73651
+AC276,Accra Link (UK) Ltd North,Export distributor,London,T06,Referral,2025-08-16,Active,Silver,42323
+AC277,Prestige Hampers Osu,Corporate gifting,Accra,T01,LinkedIn,2025-08-17,Lost,—,0
+AC278,CityShop Stores Cantonments,Supermarket,Accra,T02,Cold outreach,2025-01-01,Churned,Silver,102523
+AC279,Diaspora Pantry (Canada) East,Export distributor,Toronto,T04,Cold outreach,2025-03-26,Active,Silver,75857
+AC280,Akwaaba Café,Café & bakery,Accra,T06,Instagram,2025-09-27,Active,Bronze,36115
+AC281,Palm Court Hotel & Suites East Legon,Hotel,Accra,T03,Referral,2025-06-22,Active,Silver,67592
+AC282,Freshmart Stores Osu,Supermarket,Accra,T04,Event,2025-04-08,Active,Gold,169913
+AC283,Freshmart Mart Harbour,Supermarket,Tema,T01,Instagram,2025-01-28,Lost,—,0
+AC284,Akan Foods (UK) Ltd,Export distributor,London,T01,Event,2025-02-16,Active,Gold,166931
+AC285,Palace Supermarket South,Supermarket,Takoradi,T07,Event,2025-01-07,Active,Silver,96181
+AC286,Palm Court Hotel Community 25,Hotel,Tema,T05,Event,2025-02-08,Prospect,—,0
+AC287,Akwaaba Bakery East,Café & bakery,Accra,T07,Website,2025-01-30,Lost,—,0
+AC288,Adinkra Gifts Airport City,Corporate gifting,Accra,T03,Email,2025-05-23,Lost,—,0
+AC289,Family Stores East,Supermarket,Kumasi,T01,Event,2025-09-09,Churned,Silver,110183
+AC290,Akan Foods (UK) Ltd Central,Export distributor,London,T04,Website,2025-10-31,Lost,—,0
+AC291,Heritage Hampers Labone,Corporate gifting,Accra,T05,LinkedIn,2025-04-06,Prospect,—,0
+AC292,Prestige Gifts North,Corporate gifting,Sunyani,T06,Event,2025-06-01,Active,Silver,81641
+AC293,Sankofa Gifts Plus,Corporate gifting,Accra,T05,Referral,2025-10-02,Active,Bronze,31962
+AC294,Freshmart Mart North,Supermarket,Tema,T03,LinkedIn,2025-04-08,Prospect,—,0
+AC295,Sankofa Gifting Co. Central,Corporate gifting,Kasoa,T06,Referral,2025-10-09,Lost,—,0
+AC296,Adinkra Hampers Central,Corporate gifting,Accra,T07,Referral,2025-10-07,Active,Bronze,39475
+AC297,Afro Foods (Canada),Export distributor,Toronto,T01,Instagram,2025-10-18,Lost,—,0
+AC298,Sahel & Coast BV (Netherlands) West,Export distributor,Amsterdam,T05,Website,2025-04-24,Lost,—,0
+AC299,Ridge Resort East Legon,Hotel,Accra,T02,Event,2025-02-05,Lost,—,0
+AC300,Afro Foods (UK) Ltd Central,Export distributor,London,T03,Website,2025-01-21,Prospect,—,0
+AC301,Adinkra Hampers North,Corporate gifting,Kumasi,T03,Event,2025-01-10,Active,Gold,149057
+AC302,Unity Supermarket West,Supermarket,Cape Coast,T07,Cold outreach,2025-05-24,Active,Bronze,34753
+AC303,Golden Sands Hotel South,Hotel,Accra,T05,Event,2025-08-01,Active,Silver,74944
+AC304,West Africa Trade (UK) Ltd,Export distributor,London,T04,Event,2025-03-31,Active,Silver,71246
+AC305,Family Mart Plus,Supermarket,Tema,T02,LinkedIn,2025-04-30,Lost,—,0
+AC306,Golden Sands Resort Dzorwulu,Hotel,Accra,T06,LinkedIn,2025-10-12,Active,Silver,49607
+AC307,Sahel & Coast (USA) Inc.,Export distributor,Atlanta,T06,Google Ads,2025-04-16,Active,Silver,70222
+AC308,SkyGold Airways,Airline & airport,Takoradi,T04,Event,2025-01-03,Lost,—,0
+AC309,Morning Glory Coffee House Spintex,Café & bakery,Accra,T04,Google Ads,2025-08-23,Lost,—,0
+AC310,Value Mart Central,Supermarket,Kumasi,T05,LinkedIn,2025-03-23,Lost,—,0

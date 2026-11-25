@@ -1,0 +1,635 @@
+id,date,category,vendor,description,amount
+EX00001,2025-01-14,Advertising,TikTok Ads,National Chocolate Day · traffic,2530
+EX00002,2025-01-07,Advertising,Google Ads,Cocoa butter care · awareness,1680
+EX00003,2025-01-12,Advertising,TikTok Ads,Diaspora gifting · awareness,1409
+EX00004,2025-01-11,Advertising,Google Ads,Hotel & airline partners · sales,1632
+EX00005,2025-01-11,Advertising,Google Ads,Cocoa butter care · awareness,2883
+EX00006,2025-01-03,Advertising,Meta (Instagram/Facebook),Corporate gifting · awareness,2715
+EX00007,2025-02-06,Advertising,Meta (Instagram/Facebook),Farm-to-bar story · awareness,3786
+EX00008,2025-02-06,Advertising,Google Ads,Valentine box · leads,2149
+EX00009,2025-02-01,Advertising,Meta (Instagram/Facebook),New flavour · leads,3792
+EX00010,2025-02-04,Advertising,TikTok Ads,Hotel & airline partners · awareness,1932
+EX00011,2025-02-19,Advertising,X Ads,Back to school snacks · sales,632
+EX00012,2025-03-08,Advertising,TikTok Ads,Christmas hampers · traffic,2444
+EX00013,2025-03-02,Advertising,Meta (Instagram/Facebook),Easter treats · sales,2047
+EX00014,2025-03-17,Advertising,X Ads,Eat Ghana chocolate · leads,1776
+EX00015,2025-03-17,Advertising,YouTube Ads,Corporate gifting · awareness,1628
+EX00016,2025-03-09,Advertising,Meta (Instagram/Facebook),Cocoa butter care · traffic,3880
+EX00017,2025-03-04,Advertising,LinkedIn Ads,New flavour · leads,2336
+EX00018,2025-04-07,Advertising,Google Ads,Eat Ghana chocolate · awareness,2434
+EX00019,2025-04-18,Advertising,Meta (Instagram/Facebook),Eat Ghana chocolate · awareness,1991
+EX00020,2025-04-09,Advertising,Meta (Instagram/Facebook),Cocoa butter care · awareness,2398
+EX00021,2025-04-18,Advertising,Meta (Instagram/Facebook),Christmas hampers · traffic,4077
+EX00022,2025-05-04,Advertising,YouTube Ads,National Chocolate Day · sales,1643
+EX00023,2025-05-08,Advertising,Meta (Instagram/Facebook),National Chocolate Day · leads,2553
+EX00024,2025-05-06,Advertising,YouTube Ads,Diaspora gifting · leads,2335
+EX00025,2025-05-06,Advertising,Google Ads,Cocoa butter care · sales,3063
+EX00026,2025-06-13,Advertising,Meta (Instagram/Facebook),Farm-to-bar story · sales,3982
+EX00027,2025-06-16,Advertising,TikTok Ads,Easter treats · leads,1566
+EX00028,2025-06-09,Advertising,TikTok Ads,Hotel & airline partners · traffic,3290
+EX00029,2025-06-01,Advertising,LinkedIn Ads,Back to school snacks · leads,2407
+EX00030,2025-06-10,Advertising,X Ads,Easter treats · awareness,1000
+EX00031,2025-06-04,Advertising,YouTube Ads,Corporate gifting · awareness,1338
+EX00032,2025-07-16,Advertising,TikTok Ads,Corporate gifting · leads,2252
+EX00033,2025-07-11,Advertising,Google Ads,Corporate gifting · sales,3091
+EX00034,2025-07-13,Advertising,Meta (Instagram/Facebook),Easter treats · leads,3362
+EX00035,2025-07-11,Advertising,Meta (Instagram/Facebook),Easter treats · traffic,3602
+EX00036,2025-07-18,Advertising,YouTube Ads,Diaspora gifting · awareness,1464
+EX00037,2025-08-14,Advertising,TikTok Ads,Diaspora gifting · awareness,5074
+EX00038,2025-08-05,Advertising,Meta (Instagram/Facebook),Farm-to-bar story · traffic,4280
+EX00039,2025-08-09,Advertising,Meta (Instagram/Facebook),Christmas hampers · traffic,4125
+EX00040,2025-08-08,Advertising,Meta (Instagram/Facebook),National Chocolate Day · traffic,3324
+EX00041,2025-09-06,Advertising,TikTok Ads,National Chocolate Day · traffic,4527
+EX00042,2025-09-19,Advertising,LinkedIn Ads,Cocoa butter care · sales,1913
+EX00043,2025-09-06,Advertising,TikTok Ads,National Chocolate Day · sales,4197
+EX00044,2025-09-15,Advertising,Meta (Instagram/Facebook),Farm-to-bar story · traffic,5821
+EX00045,2025-09-07,Advertising,TikTok Ads,Hotel & airline partners · traffic,4573
+EX00046,2025-10-10,Advertising,Meta (Instagram/Facebook),National Chocolate Day · awareness,2924
+EX00047,2025-10-16,Advertising,Meta (Instagram/Facebook),National Chocolate Day · sales,2252
+EX00048,2025-10-13,Advertising,Meta (Instagram/Facebook),Back to school snacks · awareness,2915
+EX00049,2025-10-15,Advertising,YouTube Ads,Back to school snacks · sales,3385
+EX00050,2025-10-16,Advertising,YouTube Ads,Corporate gifting · sales,3026
+EX00051,2025-10-04,Advertising,Meta (Instagram/Facebook),Hotel & airline partners · leads,4080
+EX00052,2025-10-16,Advertising,Google Ads,Hotel & airline partners · awareness,3247
+EX00053,2025-11-12,Advertising,Google Ads,Easter treats · traffic,1923
+EX00054,2025-11-16,Advertising,Meta (Instagram/Facebook),New flavour · traffic,5556
+EX00055,2025-11-02,Advertising,Google Ads,Hotel & airline partners · leads,4339
+EX00056,2025-11-03,Advertising,Google Ads,Hotel & airline partners · sales,2319
+EX00057,2025-12-07,Advertising,YouTube Ads,Valentine box · leads,2249
+EX00058,2025-12-07,Advertising,TikTok Ads,Christmas hampers · awareness,2958
+EX00059,2025-12-17,Advertising,X Ads,Easter treats · awareness,1074
+EX00060,2025-12-08,Advertising,TikTok Ads,New flavour · traffic,5348
+EX00061,2025-12-18,Advertising,YouTube Ads,Farm-to-bar story · leads,3792
+EX00062,2026-01-10,Advertising,Meta (Instagram/Facebook),Back to school snacks · awareness,6110
+EX00063,2026-01-06,Advertising,Google Ads,National Chocolate Day · sales,2117
+EX00064,2026-01-18,Advertising,Google Ads,Back to school snacks · sales,4425
+EX00065,2026-01-09,Advertising,TikTok Ads,Back to school snacks · sales,1979
+EX00066,2026-01-07,Advertising,Google Ads,New flavour · sales,4996
+EX00067,2026-01-16,Advertising,Google Ads,Easter treats · traffic,5057
+EX00068,2026-02-10,Advertising,Meta (Instagram/Facebook),Easter treats · leads,2997
+EX00069,2026-02-16,Advertising,TikTok Ads,Easter treats · leads,6336
+EX00070,2026-02-09,Advertising,Google Ads,Farm-to-bar story · traffic,1983
+EX00071,2026-02-06,Advertising,LinkedIn Ads,Farm-to-bar story · traffic,4345
+EX00072,2026-03-16,Advertising,TikTok Ads,Easter treats · leads,5656
+EX00073,2026-03-08,Advertising,LinkedIn Ads,Diaspora gifting · sales,4012
+EX00074,2026-03-14,Advertising,Google Ads,Back to school snacks · awareness,5410
+EX00075,2026-03-18,Advertising,LinkedIn Ads,National Chocolate Day · awareness,3312
+EX00076,2026-03-17,Advertising,Google Ads,Eat Ghana chocolate · sales,5976
+EX00077,2026-03-17,Advertising,Meta (Instagram/Facebook),Eat Ghana chocolate · sales,3070
+EX00078,2026-03-05,Advertising,Google Ads,Farm-to-bar story · awareness,2691
+EX00079,2026-04-02,Advertising,Google Ads,Diaspora gifting · leads,2599
+EX00080,2026-04-14,Advertising,Meta (Instagram/Facebook),Eat Ghana chocolate · sales,6300
+EX00081,2026-04-09,Advertising,Google Ads,Corporate gifting · awareness,3691
+EX00082,2026-04-08,Advertising,Meta (Instagram/Facebook),National Chocolate Day · awareness,3799
+EX00083,2026-04-05,Advertising,Google Ads,Diaspora gifting · awareness,2179
+EX00084,2026-04-16,Advertising,YouTube Ads,Cocoa butter care · traffic,5349
+EX00085,2026-05-19,Advertising,Meta (Instagram/Facebook),Diaspora gifting · leads,3190
+EX00086,2026-05-16,Advertising,Meta (Instagram/Facebook),Diaspora gifting · traffic,6129
+EX00087,2026-05-12,Advertising,X Ads,Corporate gifting · leads,2069
+EX00088,2026-05-11,Advertising,Meta (Instagram/Facebook),Corporate gifting · sales,7691
+EX00089,2026-05-15,Advertising,Meta (Instagram/Facebook),National Chocolate Day · awareness,6775
+EX00090,2026-05-18,Advertising,TikTok Ads,Christmas hampers · leads,4216
+EX00091,2026-06-15,Advertising,TikTok Ads,Diaspora gifting · sales,3430
+EX00092,2026-06-10,Advertising,TikTok Ads,Farm-to-bar story · traffic,6980
+EX00093,2026-06-13,Advertising,Google Ads,Back to school snacks · leads,2591
+EX00094,2026-06-11,Advertising,Meta (Instagram/Facebook),Farm-to-bar story · sales,3051
+EX00095,2026-06-02,Advertising,Meta (Instagram/Facebook),Valentine box · traffic,5368
+EX00096,2026-06-11,Advertising,TikTok Ads,Corporate gifting · sales,6360
+EX00097,2026-07-16,Advertising,Google Ads,Christmas hampers · awareness,4949
+EX00098,2026-07-20,Advertising,Google Ads,Easter treats · awareness,2440
+EX00099,2026-07-09,Advertising,Meta (Instagram/Facebook),Diaspora gifting · awareness,6394
+EX00100,2026-07-06,Advertising,TikTok Ads,Farm-to-bar story · traffic,5705
+EX00101,2026-07-17,Advertising,TikTok Ads,Cocoa butter care · sales,6916
+EX00102,2026-08-02,Advertising,TikTok Ads,Eat Ghana chocolate · awareness,3161
+EX00103,2026-08-11,Advertising,Google Ads,Farm-to-bar story · leads,4914
+EX00104,2026-08-09,Advertising,TikTok Ads,Back to school snacks · traffic,6421
+EX00105,2026-08-13,Advertising,YouTube Ads,Eat Ghana chocolate · sales,4142
+EX00106,2026-09-11,Advertising,Meta (Instagram/Facebook),New flavour · traffic,3061
+EX00107,2026-09-14,Advertising,Meta (Instagram/Facebook),Farm-to-bar story · leads,3791
+EX00108,2026-09-13,Advertising,TikTok Ads,Christmas hampers · sales,6777
+EX00109,2026-09-20,Advertising,Google Ads,New flavour · awareness,4714
+EX00110,2026-09-01,Advertising,Meta (Instagram/Facebook),Valentine box · leads,3344
+EX00111,2026-09-18,Advertising,Meta (Instagram/Facebook),New flavour · sales,5302
+EX00112,2026-09-02,Advertising,Meta (Instagram/Facebook),Hotel & airline partners · leads,3619
+EX00113,2026-10-14,Advertising,LinkedIn Ads,New flavour · awareness,5630
+EX00114,2026-10-04,Advertising,TikTok Ads,Back to school snacks · sales,2760
+EX00115,2026-10-17,Advertising,Meta (Instagram/Facebook),New flavour · awareness,9335
+EX00116,2026-10-15,Advertising,TikTok Ads,Back to school snacks · awareness,5298
+EX00117,2026-10-18,Advertising,YouTube Ads,Hotel & airline partners · leads,2875
+EX00118,2026-10-11,Advertising,TikTok Ads,New flavour · traffic,8189
+EX00119,2026-10-09,Advertising,Google Ads,National Chocolate Day · sales,6625
+EX00120,2026-11-07,Advertising,Google Ads,Corporate gifting · awareness,4438
+EX00121,2026-11-14,Advertising,TikTok Ads,Easter treats · sales,6544
+EX00122,2026-11-08,Advertising,Google Ads,National Chocolate Day · sales,2856
+EX00123,2026-11-16,Advertising,TikTok Ads,Eat Ghana chocolate · leads,3645
+EX00124,2026-11-12,Advertising,Meta (Instagram/Facebook),Diaspora gifting · traffic,6864
+EX00125,2026-11-07,Advertising,YouTube Ads,Farm-to-bar story · awareness,4831
+EX00126,2026-11-02,Advertising,TikTok Ads,Eat Ghana chocolate · awareness,6025
+EX00127,2025-02-20,Events,Venue & logistics,National Chocolate Day Market · Accra Mall 2025,6220
+EX00128,2025-03-18,Events,Venue & logistics,Chocolate Tasting Masterclass 2025,4716
+EX00129,2025-04-11,Events,Venue & logistics,Hospitality Buyers Breakfast 2025,5732
+EX00130,2025-05-18,Events,Venue & logistics,New Flavour Launch Night 2025,10526
+EX00131,2025-05-18,Events,Venue & logistics,Kumasi Chocolate Pop-up 2025,5772
+EX00132,2025-06-05,Events,Venue & logistics,Made-in-Ghana Expo 2025,13082
+EX00133,2025-07-21,Events,Venue & logistics,Export Buyers Webinar 2025,715
+EX00134,2025-08-09,Events,Venue & logistics,Farm-to-Bar Tour · Suhum 2025,4624
+EX00135,2025-09-25,Events,Venue & logistics,Chocolate & Wine Pairing Evening 2025,4111
+EX00136,2025-10-12,Events,Venue & logistics,Cocoa Origins Webinar 2025,534
+EX00137,2025-10-07,Events,Venue & logistics,Corporate Gifting Showcase 2025,4729
+EX00138,2025-12-17,Events,Venue & logistics,December in GH Gift Market 2025,6925
+EX00139,2025-11-12,Events,Venue & logistics,Kente Gift Box Launch 2025,11933
+EX00140,2026-02-06,Events,Venue & logistics,National Chocolate Day Market · Accra Mall 2026,7215
+EX00141,2026-03-17,Events,Venue & logistics,Chocolate Tasting Masterclass 2026,4209
+EX00142,2026-04-04,Events,Venue & logistics,Hospitality Buyers Breakfast 2026,5681
+EX00143,2026-05-25,Events,Venue & logistics,New Flavour Launch Night 2026,13396
+EX00144,2026-05-24,Events,Venue & logistics,Kumasi Chocolate Pop-up 2026,6578
+EX00145,2026-06-18,Events,Venue & logistics,Made-in-Ghana Expo 2026,17608
+EX00146,2026-07-04,Events,Venue & logistics,Export Buyers Webinar 2026,623
+EX00147,2026-08-21,Events,Venue & logistics,Farm-to-Bar Tour · Suhum 2026,3768
+EX00148,2026-09-20,Events,Venue & logistics,Chocolate & Wine Pairing Evening 2026,4727
+EX00149,2026-10-26,Events,Venue & logistics,Cocoa Origins Webinar 2026,583
+EX00150,2026-10-07,Events,Venue & logistics,Corporate Gifting Showcase 2026,5746
+EX00151,2026-11-13,Events,Venue & logistics,Kente Gift Box Launch 2026,11650
+EX00152,2025-01-01,Salaries,Payroll,Salaries · Jan 2025,56417
+EX00153,2025-01-01,Rent & utilities,Landlord / ECG,Rent & utilities · Jan 2025,15317
+EX00154,2025-01-01,Software,"Shopify, Google Workspace, Canva",Software · Jan 2025,2718
+EX00155,2025-01-01,Factory & energy,"Processing plant, ECG, generator fuel",Factory & energy · Jan 2025,21862
+EX00156,2025-01-01,Website & SEO,Web agency retainer,Website & SEO · Jan 2025,2653
+EX00157,2025-01-01,Influencers,Creators,Influencers · Jan 2025,5099
+EX00158,2025-01-01,Email platform,Email service,Email platform · Jan 2025,660
+EX00159,2025-01-03,Ingredients & packaging,Packaging supplier,Ingredients and packaging,11857
+EX00160,2025-01-03,Cold-chain logistics,Export freight,Deliveries,5606
+EX00161,2025-01-10,Ingredients & packaging,Foil & wrappers,Ingredients and packaging,13381
+EX00162,2025-01-10,Cold-chain logistics,Export freight,Deliveries,4654
+EX00163,2025-01-17,Ingredients & packaging,Sugar & milk supplier,Ingredients and packaging,12083
+EX00164,2025-01-17,Cold-chain logistics,Refrigerated courier,Deliveries,5222
+EX00165,2025-01-24,Ingredients & packaging,Sugar & milk supplier,Ingredients and packaging,14909
+EX00166,2025-01-24,Cold-chain logistics,Dispatch riders,Deliveries,5867
+EX00167,2025-02-01,Salaries,Payroll,Salaries · Feb 2025,59018
+EX00168,2025-02-01,Rent & utilities,Landlord / ECG,Rent & utilities · Feb 2025,14829
+EX00169,2025-02-01,Software,"Shopify, Google Workspace, Canva",Software · Feb 2025,2652
+EX00170,2025-02-01,Factory & energy,"Processing plant, ECG, generator fuel",Factory & energy · Feb 2025,22957
+EX00171,2025-02-01,Website & SEO,Web agency retainer,Website & SEO · Feb 2025,2955
+EX00172,2025-02-01,Influencers,Creators,Influencers · Feb 2025,5646
+EX00173,2025-02-01,Email platform,Email service,Email platform · Feb 2025,656
+EX00174,2025-02-03,Ingredients & packaging,Packaging supplier,Ingredients and packaging,14406
+EX00175,2025-02-03,Cold-chain logistics,Refrigerated courier,Deliveries,5775
+EX00176,2025-02-10,Ingredients & packaging,Packaging supplier,Ingredients and packaging,15490
+EX00177,2025-02-10,Cold-chain logistics,Dispatch riders,Deliveries,6244
+EX00178,2025-02-17,Ingredients & packaging,Sugar & milk supplier,Ingredients and packaging,13053
+EX00179,2025-02-17,Cold-chain logistics,Dispatch riders,Deliveries,5194
+EX00180,2025-02-24,Ingredients & packaging,Packaging supplier,Ingredients and packaging,16706
+EX00181,2025-02-24,Cold-chain logistics,Refrigerated courier,Deliveries,4303
+EX00182,2025-03-01,Salaries,Payroll,Salaries · Mar 2025,57237
+EX00183,2025-03-01,Rent & utilities,Landlord / ECG,Rent & utilities · Mar 2025,13980
+EX00184,2025-03-01,Software,"Shopify, Google Workspace, Canva",Software · Mar 2025,2568
+EX00185,2025-03-01,Factory & energy,"Processing plant, ECG, generator fuel",Factory & energy · Mar 2025,22362
+EX00186,2025-03-01,Website & SEO,Web agency retainer,Website & SEO · Mar 2025,2977
+EX00187,2025-03-01,Influencers,Creators,Influencers · Mar 2025,5896
+EX00188,2025-03-01,Email platform,Email service,Email platform · Mar 2025,677
+EX00189,2025-03-03,Ingredients & packaging,Foil & wrappers,Ingredients and packaging,11990
+EX00190,2025-03-03,Cold-chain logistics,Export freight,Deliveries,4598
+EX00191,2025-03-10,Ingredients & packaging,Sugar & milk supplier,Ingredients and packaging,14389
+EX00192,2025-03-10,Cold-chain logistics,Export freight,Deliveries,6046
+EX00193,2025-03-17,Ingredients & packaging,Packaging supplier,Ingredients and packaging,20110
+EX00194,2025-03-17,Cold-chain logistics,Dispatch riders,Deliveries,5458
+EX00195,2025-03-24,Ingredients & packaging,Packaging supplier,Ingredients and packaging,14471
+EX00196,2025-03-24,Cold-chain logistics,Export freight,Deliveries,6530
+EX00197,2025-04-01,Salaries,Payroll,Salaries · Apr 2025,66196
+EX00198,2025-04-01,Rent & utilities,Landlord / ECG,Rent & utilities · Apr 2025,14869
+EX00199,2025-04-01,Software,"Shopify, Google Workspace, Canva",Software · Apr 2025,2671
+EX00200,2025-04-01,Factory & energy,"Processing plant, ECG, generator fuel",Factory & energy · Apr 2025,21736
+EX00201,2025-04-01,Website & SEO,Web agency retainer,Website & SEO · Apr 2025,3450
+EX00202,2025-04-01,Influencers,Creators,Influencers · Apr 2025,6314
+EX00203,2025-04-01,Email platform,Email service,Email platform · Apr 2025,636
+EX00204,2025-04-03,Ingredients & packaging,Packaging supplier,Ingredients and packaging,14745
+EX00205,2025-04-03,Cold-chain logistics,Dispatch riders,Deliveries,6857
+EX00206,2025-04-10,Ingredients & packaging,Foil & wrappers,Ingredients and packaging,13060
+EX00207,2025-04-10,Cold-chain logistics,Refrigerated courier,Deliveries,5829
+EX00208,2025-04-17,Ingredients & packaging,Sugar & milk supplier,Ingredients and packaging,20661
+EX00209,2025-04-17,Cold-chain logistics,Refrigerated courier,Deliveries,5606
+EX00210,2025-04-24,Ingredients & packaging,Packaging supplier,Ingredients and packaging,19563
+EX00211,2025-04-24,Cold-chain logistics,Dispatch riders,Deliveries,6953
+EX00212,2025-05-01,Salaries,Payroll,Salaries · May 2025,71886
+EX00213,2025-05-01,Rent & utilities,Landlord / ECG,Rent & utilities · May 2025,13932
+EX00214,2025-05-01,Software,"Shopify, Google Workspace, Canva",Software · May 2025,2478
+EX00215,2025-05-01,Factory & energy,"Processing plant, ECG, generator fuel",Factory & energy · May 2025,23193
+EX00216,2025-05-01,Website & SEO,Web agency retainer,Website & SEO · May 2025,3346
+EX00217,2025-05-01,Influencers,Creators,Influencers · May 2025,6409
+EX00218,2025-05-01,Email platform,Email service,Email platform · May 2025,639
+EX00219,2025-05-03,Ingredients & packaging,Packaging supplier,Ingredients and packaging,17879
+EX00220,2025-05-03,Cold-chain logistics,Export freight,Deliveries,6937
+EX00221,2025-05-10,Ingredients & packaging,Sugar & milk supplier,Ingredients and packaging,21547
+EX00222,2025-05-10,Cold-chain logistics,Export freight,Deliveries,6259
+EX00223,2025-05-17,Ingredients & packaging,Packaging supplier,Ingredients and packaging,17049
+EX00224,2025-05-17,Cold-chain logistics,Dispatch riders,Deliveries,5831
+EX00225,2025-05-24,Ingredients & packaging,Packaging supplier,Ingredients and packaging,18930
+EX00226,2025-05-24,Cold-chain logistics,Refrigerated courier,Deliveries,5309
+EX00227,2025-06-01,Salaries,Payroll,Salaries · Jun 2025,73034
+EX00228,2025-06-01,Rent & utilities,Landlord / ECG,Rent & utilities · Jun 2025,13899
+EX00229,2025-06-01,Software,"Shopify, Google Workspace, Canva",Software · Jun 2025,2711
+EX00230,2025-06-01,Factory & energy,"Processing plant, ECG, generator fuel",Factory & energy · Jun 2025,22161
+EX00231,2025-06-01,Website & SEO,Web agency retainer,Website & SEO · Jun 2025,3668
+EX00232,2025-06-01,Influencers,Creators,Influencers · Jun 2025,6657
+EX00233,2025-06-01,Email platform,Email service,Email platform · Jun 2025,689
+EX00234,2025-06-03,Ingredients & packaging,Sugar & milk supplier,Ingredients and packaging,16738
+EX00235,2025-06-03,Cold-chain logistics,Dispatch riders,Deliveries,5969
+EX00236,2025-06-10,Ingredients & packaging,Packaging supplier,Ingredients and packaging,15115
+EX00237,2025-06-10,Cold-chain logistics,Refrigerated courier,Deliveries,7608
+EX00238,2025-06-17,Ingredients & packaging,Foil & wrappers,Ingredients and packaging,16709
+EX00239,2025-06-17,Cold-chain logistics,Export freight,Deliveries,6932
+EX00240,2025-06-24,Ingredients & packaging,Foil & wrappers,Ingredients and packaging,15145
+EX00241,2025-06-24,Cold-chain logistics,Refrigerated courier,Deliveries,7773
+EX00242,2025-07-01,Salaries,Payroll,Salaries · Jul 2025,74563
+EX00243,2025-07-01,Rent & utilities,Landlord / ECG,Rent & utilities · Jul 2025,15436
+EX00244,2025-07-01,Software,"Shopify, Google Workspace, Canva",Software · Jul 2025,2777
+EX00245,2025-07-01,Factory & energy,"Processing plant, ECG, generator fuel",Factory & energy · Jul 2025,23148
+EX00246,2025-07-01,Website & SEO,Web agency retainer,Website & SEO · Jul 2025,4067
+EX00247,2025-07-01,Influencers,Creators,Influencers · Jul 2025,7504
+EX00248,2025-07-01,Email platform,Email service,Email platform · Jul 2025,652
+EX00249,2025-07-03,Ingredients & packaging,Packaging supplier,Ingredients and packaging,24400
+EX00250,2025-07-03,Cold-chain logistics,Refrigerated courier,Deliveries,6025
+EX00251,2025-07-10,Ingredients & packaging,Sugar & milk supplier,Ingredients and packaging,17942
+EX00252,2025-07-10,Cold-chain logistics,Dispatch riders,Deliveries,7658
+EX00253,2025-07-17,Ingredients & packaging,Packaging supplier,Ingredients and packaging,19428
+EX00254,2025-07-17,Cold-chain logistics,Export freight,Deliveries,8080
+EX00255,2025-07-24,Ingredients & packaging,Packaging supplier,Ingredients and packaging,19619
+EX00256,2025-07-24,Cold-chain logistics,Export freight,Deliveries,8292
+EX00257,2025-08-01,Salaries,Payroll,Salaries · Aug 2025,75587
+EX00258,2025-08-01,Rent & utilities,Landlord / ECG,Rent & utilities · Aug 2025,14222
+EX00259,2025-08-01,Software,"Shopify, Google Workspace, Canva",Software · Aug 2025,2753
+EX00260,2025-08-01,Factory & energy,"Processing plant, ECG, generator fuel",Factory & energy · Aug 2025,23570
+EX00261,2025-08-01,Website & SEO,Web agency retainer,Website & SEO · Aug 2025,4157
+EX00262,2025-08-01,Influencers,Creators,Influencers · Aug 2025,7439
+EX00263,2025-08-01,Email platform,Email service,Email platform · Aug 2025,649
+EX00264,2025-08-03,Ingredients & packaging,Foil & wrappers,Ingredients and packaging,22992
+EX00265,2025-08-03,Cold-chain logistics,Dispatch riders,Deliveries,7463
+EX00266,2025-08-10,Ingredients & packaging,Foil & wrappers,Ingredients and packaging,21382
+EX00267,2025-08-10,Cold-chain logistics,Refrigerated courier,Deliveries,7152
+EX00268,2025-08-17,Ingredients & packaging,Packaging supplier,Ingredients and packaging,17561
+EX00269,2025-08-17,Cold-chain logistics,Export freight,Deliveries,8273
+EX00270,2025-08-24,Ingredients & packaging,Foil & wrappers,Ingredients and packaging,16393
+EX00271,2025-08-24,Cold-chain logistics,Export freight,Deliveries,7509
+EX00272,2025-09-01,Salaries,Payroll,Salaries · Sep 2025,88589
+EX00273,2025-09-01,Rent & utilities,Landlord / ECG,Rent & utilities · Sep 2025,13802
+EX00274,2025-09-01,Software,"Shopify, Google Workspace, Canva",Software · Sep 2025,2719
+EX00275,2025-09-01,Factory & energy,"Processing plant, ECG, generator fuel",Factory & energy · Sep 2025,23052
+EX00276,2025-09-01,Website & SEO,Web agency retainer,Website & SEO · Sep 2025,4133
+EX00277,2025-09-01,Influencers,Creators,Influencers · Sep 2025,8020
+EX00278,2025-09-01,Email platform,Email service,Email platform · Sep 2025,642
+EX00279,2025-09-03,Ingredients & packaging,Foil & wrappers,Ingredients and packaging,20380
+EX00280,2025-09-03,Cold-chain logistics,Dispatch riders,Deliveries,8006
+EX00281,2025-09-10,Ingredients & packaging,Sugar & milk supplier,Ingredients and packaging,24911
+EX00282,2025-09-10,Cold-chain logistics,Dispatch riders,Deliveries,8107
+EX00283,2025-09-17,Ingredients & packaging,Sugar & milk supplier,Ingredients and packaging,21665
+EX00284,2025-09-17,Cold-chain logistics,Refrigerated courier,Deliveries,8895
+EX00285,2025-09-24,Ingredients & packaging,Packaging supplier,Ingredients and packaging,27793
+EX00286,2025-09-24,Cold-chain logistics,Dispatch riders,Deliveries,9046
+EX00287,2025-10-01,Salaries,Payroll,Salaries · Oct 2025,86889
+EX00288,2025-10-01,Rent & utilities,Landlord / ECG,Rent & utilities · Oct 2025,14399
+EX00289,2025-10-01,Software,"Shopify, Google Workspace, Canva",Software · Oct 2025,2568
+EX00290,2025-10-01,Factory & energy,"Processing plant, ECG, generator fuel",Factory & energy · Oct 2025,22392
+EX00291,2025-10-01,Website & SEO,Web agency retainer,Website & SEO · Oct 2025,4264
+EX00292,2025-10-01,Influencers,Creators,Influencers · Oct 2025,8539
+EX00293,2025-10-01,Email platform,Email service,Email platform · Oct 2025,639
+EX00294,2025-10-03,Ingredients & packaging,Foil & wrappers,Ingredients and packaging,17731
+EX00295,2025-10-03,Cold-chain logistics,Refrigerated courier,Deliveries,9561
+EX00296,2025-10-10,Ingredients & packaging,Sugar & milk supplier,Ingredients and packaging,27146
+EX00297,2025-10-10,Cold-chain logistics,Dispatch riders,Deliveries,8481
+EX00298,2025-10-17,Ingredients & packaging,Foil & wrappers,Ingredients and packaging,23748
+EX00299,2025-10-17,Cold-chain logistics,Export freight,Deliveries,8428
+EX00300,2025-10-24,Ingredients & packaging,Foil & wrappers,Ingredients and packaging,23857
+EX00301,2025-10-24,Cold-chain logistics,Dispatch riders,Deliveries,7095
+EX00302,2025-11-01,Salaries,Payroll,Salaries · Nov 2025,87343
+EX00303,2025-11-01,Rent & utilities,Landlord / ECG,Rent & utilities · Nov 2025,14093
+EX00304,2025-11-01,Software,"Shopify, Google Workspace, Canva",Software · Nov 2025,2746
+EX00305,2025-11-01,Factory & energy,"Processing plant, ECG, generator fuel",Factory & energy · Nov 2025,22447
+EX00306,2025-11-01,Website & SEO,Web agency retainer,Website & SEO · Nov 2025,4581
+EX00307,2025-11-01,Influencers,Creators,Influencers · Nov 2025,8165
+EX00308,2025-11-01,Email platform,Email service,Email platform · Nov 2025,684
+EX00309,2025-11-03,Ingredients & packaging,Sugar & milk supplier,Ingredients and packaging,18721
+EX00310,2025-11-03,Cold-chain logistics,Refrigerated courier,Deliveries,6900
+EX00311,2025-11-10,Ingredients & packaging,Packaging supplier,Ingredients and packaging,20117
+EX00312,2025-11-10,Cold-chain logistics,Refrigerated courier,Deliveries,8680
+EX00313,2025-11-17,Ingredients & packaging,Foil & wrappers,Ingredients and packaging,27267
+EX00314,2025-11-17,Cold-chain logistics,Export freight,Deliveries,8207
+EX00315,2025-11-24,Ingredients & packaging,Sugar & milk supplier,Ingredients and packaging,18447
+EX00316,2025-11-24,Cold-chain logistics,Export freight,Deliveries,8269
+EX00317,2025-12-01,Salaries,Payroll,Salaries · Dec 2025,99738
+EX00318,2025-12-01,Rent & utilities,Landlord / ECG,Rent & utilities · Dec 2025,15159
+EX00319,2025-12-01,Software,"Shopify, Google Workspace, Canva",Software · Dec 2025,2781
+EX00320,2025-12-01,Factory & energy,"Processing plant, ECG, generator fuel",Factory & energy · Dec 2025,21112
+EX00321,2025-12-01,Website & SEO,Web agency retainer,Website & SEO · Dec 2025,4547
+EX00322,2025-12-01,Influencers,Creators,Influencers · Dec 2025,8969
+EX00323,2025-12-01,Email platform,Email service,Email platform · Dec 2025,626
+EX00324,2025-12-03,Ingredients & packaging,Foil & wrappers,Ingredients and packaging,29338
+EX00325,2025-12-03,Cold-chain logistics,Dispatch riders,Deliveries,10618
+EX00326,2025-12-10,Ingredients & packaging,Sugar & milk supplier,Ingredients and packaging,24625
+EX00327,2025-12-10,Cold-chain logistics,Export freight,Deliveries,8579
+EX00328,2025-12-17,Ingredients & packaging,Packaging supplier,Ingredients and packaging,24967
+EX00329,2025-12-17,Cold-chain logistics,Dispatch riders,Deliveries,7462
+EX00330,2025-12-24,Ingredients & packaging,Sugar & milk supplier,Ingredients and packaging,25739
+EX00331,2025-12-24,Cold-chain logistics,Export freight,Deliveries,7835
+EX00332,2026-01-01,Salaries,Payroll,Salaries · Jan 2026,94371
+EX00333,2026-01-01,Rent & utilities,Landlord / ECG,Rent & utilities · Jan 2026,14291
+EX00334,2026-01-01,Software,"Shopify, Google Workspace, Canva",Software · Jan 2026,2572
+EX00335,2026-01-01,Factory & energy,"Processing plant, ECG, generator fuel",Factory & energy · Jan 2026,22791
+EX00336,2026-01-01,Website & SEO,Web agency retainer,Website & SEO · Jan 2026,4771
+EX00337,2026-01-01,Influencers,Creators,Influencers · Jan 2026,8989
+EX00338,2026-01-01,Email platform,Email service,Email platform · Jan 2026,693
+EX00339,2026-01-03,Ingredients & packaging,Packaging supplier,Ingredients and packaging,24159
+EX00340,2026-01-03,Cold-chain logistics,Refrigerated courier,Deliveries,10168
+EX00341,2026-01-10,Ingredients & packaging,Packaging supplier,Ingredients and packaging,32579
+EX00342,2026-01-10,Cold-chain logistics,Dispatch riders,Deliveries,9637
+EX00343,2026-01-17,Ingredients & packaging,Sugar & milk supplier,Ingredients and packaging,32551
+EX00344,2026-01-17,Cold-chain logistics,Dispatch riders,Deliveries,10479
+EX00345,2026-01-24,Ingredients & packaging,Sugar & milk supplier,Ingredients and packaging,32258
+EX00346,2026-01-24,Cold-chain logistics,Refrigerated courier,Deliveries,10483
+EX00347,2026-02-01,Salaries,Payroll,Salaries · Feb 2026,102134
+EX00348,2026-02-01,Rent & utilities,Landlord / ECG,Rent & utilities · Feb 2026,14231
+EX00349,2026-02-01,Software,"Shopify, Google Workspace, Canva",Software · Feb 2026,2769
+EX00350,2026-02-01,Factory & energy,"Processing plant, ECG, generator fuel",Factory & energy · Feb 2026,22494
+EX00351,2026-02-01,Website & SEO,Web agency retainer,Website & SEO · Feb 2026,5326
+EX00352,2026-02-01,Influencers,Creators,Influencers · Feb 2026,9368
+EX00353,2026-02-01,Email platform,Email service,Email platform · Feb 2026,620
+EX00354,2026-02-03,Ingredients & packaging,Sugar & milk supplier,Ingredients and packaging,30742
+EX00355,2026-02-03,Cold-chain logistics,Refrigerated courier,Deliveries,9611
+EX00356,2026-02-10,Ingredients & packaging,Packaging supplier,Ingredients and packaging,23167
+EX00357,2026-02-10,Cold-chain logistics,Refrigerated courier,Deliveries,9244
+EX00358,2026-02-17,Ingredients & packaging,Packaging supplier,Ingredients and packaging,23488
+EX00359,2026-02-17,Cold-chain logistics,Dispatch riders,Deliveries,7912
+EX00360,2026-02-24,Ingredients & packaging,Packaging supplier,Ingredients and packaging,33607
+EX00361,2026-02-24,Cold-chain logistics,Dispatch riders,Deliveries,8190
+EX00362,2026-03-01,Salaries,Payroll,Salaries · Mar 2026,105328
+EX00363,2026-03-01,Rent & utilities,Landlord / ECG,Rent & utilities · Mar 2026,15593
+EX00364,2026-03-01,Software,"Shopify, Google Workspace, Canva",Software · Mar 2026,2581
+EX00365,2026-03-01,Factory & energy,"Processing plant, ECG, generator fuel",Factory & energy · Mar 2026,21581
+EX00366,2026-03-01,Website & SEO,Web agency retainer,Website & SEO · Mar 2026,5113
+EX00367,2026-03-01,Influencers,Creators,Influencers · Mar 2026,9504
+EX00368,2026-03-01,Email platform,Email service,Email platform · Mar 2026,700
+EX00369,2026-03-03,Ingredients & packaging,Sugar & milk supplier,Ingredients and packaging,32512
+EX00370,2026-03-03,Cold-chain logistics,Dispatch riders,Deliveries,8803
+EX00371,2026-03-10,Ingredients & packaging,Sugar & milk supplier,Ingredients and packaging,35478
+EX00372,2026-03-10,Cold-chain logistics,Export freight,Deliveries,11518
+EX00373,2026-03-17,Ingredients & packaging,Packaging supplier,Ingredients and packaging,20559
+EX00374,2026-03-17,Cold-chain logistics,Dispatch riders,Deliveries,11223
+EX00375,2026-03-24,Ingredients & packaging,Sugar & milk supplier,Ingredients and packaging,22663
+EX00376,2026-03-24,Cold-chain logistics,Refrigerated courier,Deliveries,9385
+EX00377,2026-04-01,Salaries,Payroll,Salaries · Apr 2026,104644
+EX00378,2026-04-01,Rent & utilities,Landlord / ECG,Rent & utilities · Apr 2026,14898
+EX00379,2026-04-01,Software,"Shopify, Google Workspace, Canva",Software · Apr 2026,2783
+EX00380,2026-04-01,Factory & energy,"Processing plant, ECG, generator fuel",Factory & energy · Apr 2026,23418
+EX00381,2026-04-01,Website & SEO,Web agency retainer,Website & SEO · Apr 2026,5203
+EX00382,2026-04-01,Influencers,Creators,Influencers · Apr 2026,10823
+EX00383,2026-04-01,Email platform,Email service,Email platform · Apr 2026,625
+EX00384,2026-04-03,Ingredients & packaging,Sugar & milk supplier,Ingredients and packaging,26210
+EX00385,2026-04-03,Cold-chain logistics,Export freight,Deliveries,9596
+EX00386,2026-04-10,Ingredients & packaging,Sugar & milk supplier,Ingredients and packaging,26911
+EX00387,2026-04-10,Cold-chain logistics,Export freight,Deliveries,8310
+EX00388,2026-04-17,Ingredients & packaging,Packaging supplier,Ingredients and packaging,25353
+EX00389,2026-04-17,Cold-chain logistics,Export freight,Deliveries,8689
+EX00390,2026-04-24,Ingredients & packaging,Sugar & milk supplier,Ingredients and packaging,24016
+EX00391,2026-04-24,Cold-chain logistics,Export freight,Deliveries,8643
+EX00392,2026-05-01,Salaries,Payroll,Salaries · May 2026,112637
+EX00393,2026-05-01,Rent & utilities,Landlord / ECG,Rent & utilities · May 2026,14161
+EX00394,2026-05-01,Software,"Shopify, Google Workspace, Canva",Software · May 2026,2601
+EX00395,2026-05-01,Factory & energy,"Processing plant, ECG, generator fuel",Factory & energy · May 2026,23488
+EX00396,2026-05-01,Website & SEO,Web agency retainer,Website & SEO · May 2026,5626
+EX00397,2026-05-01,Influencers,Creators,Influencers · May 2026,11434
+EX00398,2026-05-01,Email platform,Email service,Email platform · May 2026,656
+EX00399,2026-05-03,Ingredients & packaging,Packaging supplier,Ingredients and packaging,37585
+EX00400,2026-05-03,Cold-chain logistics,Refrigerated courier,Deliveries,9090
+EX00401,2026-05-10,Ingredients & packaging,Packaging supplier,Ingredients and packaging,32428
+EX00402,2026-05-10,Cold-chain logistics,Export freight,Deliveries,11236
+EX00403,2026-05-17,Ingredients & packaging,Sugar & milk supplier,Ingredients and packaging,35644
+EX00404,2026-05-17,Cold-chain logistics,Refrigerated courier,Deliveries,9121
+EX00405,2026-05-24,Ingredients & packaging,Foil & wrappers,Ingredients and packaging,24728
+EX00406,2026-05-24,Cold-chain logistics,Refrigerated courier,Deliveries,11390
+EX00407,2026-06-01,Salaries,Payroll,Salaries · Jun 2026,121366
+EX00408,2026-06-01,Rent & utilities,Landlord / ECG,Rent & utilities · Jun 2026,13971
+EX00409,2026-06-01,Software,"Shopify, Google Workspace, Canva",Software · Jun 2026,2765
+EX00410,2026-06-01,Factory & energy,"Processing plant, ECG, generator fuel",Factory & energy · Jun 2026,21223
+EX00411,2026-06-01,Website & SEO,Web agency retainer,Website & SEO · Jun 2026,6243
+EX00412,2026-06-01,Influencers,Creators,Influencers · Jun 2026,11729
+EX00413,2026-06-01,Email platform,Email service,Email platform · Jun 2026,620
+EX00414,2026-06-03,Ingredients & packaging,Packaging supplier,Ingredients and packaging,35366
+EX00415,2026-06-03,Cold-chain logistics,Dispatch riders,Deliveries,12269
+EX00416,2026-06-10,Ingredients & packaging,Packaging supplier,Ingredients and packaging,31861
+EX00417,2026-06-10,Cold-chain logistics,Refrigerated courier,Deliveries,9684
+EX00418,2026-06-17,Ingredients & packaging,Foil & wrappers,Ingredients and packaging,32346
+EX00419,2026-06-17,Cold-chain logistics,Export freight,Deliveries,10758
+EX00420,2026-06-24,Ingredients & packaging,Foil & wrappers,Ingredients and packaging,33522
+EX00421,2026-06-24,Cold-chain logistics,Dispatch riders,Deliveries,9751
+EX00422,2026-07-01,Salaries,Payroll,Salaries · Jul 2026,128624
+EX00423,2026-07-01,Rent & utilities,Landlord / ECG,Rent & utilities · Jul 2026,14682
+EX00424,2026-07-01,Software,"Shopify, Google Workspace, Canva",Software · Jul 2026,2550
+EX00425,2026-07-01,Factory & energy,"Processing plant, ECG, generator fuel",Factory & energy · Jul 2026,21201
+EX00426,2026-07-01,Website & SEO,Web agency retainer,Website & SEO · Jul 2026,6201
+EX00427,2026-07-01,Influencers,Creators,Influencers · Jul 2026,11517
+EX00428,2026-07-01,Email platform,Email service,Email platform · Jul 2026,633
+EX00429,2026-07-03,Ingredients & packaging,Packaging supplier,Ingredients and packaging,39545
+EX00430,2026-07-03,Cold-chain logistics,Export freight,Deliveries,12473
+EX00431,2026-07-10,Ingredients & packaging,Sugar & milk supplier,Ingredients and packaging,39829
+EX00432,2026-07-10,Cold-chain logistics,Export freight,Deliveries,12180
+EX00433,2026-07-17,Ingredients & packaging,Foil & wrappers,Ingredients and packaging,28168
+EX00434,2026-07-17,Cold-chain logistics,Refrigerated courier,Deliveries,11698
+EX00435,2026-07-24,Ingredients & packaging,Foil & wrappers,Ingredients and packaging,25538
+EX00436,2026-07-24,Cold-chain logistics,Refrigerated courier,Deliveries,10425
+EX00437,2026-08-01,Salaries,Payroll,Salaries · Aug 2026,128426
+EX00438,2026-08-01,Rent & utilities,Landlord / ECG,Rent & utilities · Aug 2026,13876
+EX00439,2026-08-01,Software,"Shopify, Google Workspace, Canva",Software · Aug 2026,2655
+EX00440,2026-08-01,Factory & energy,"Processing plant, ECG, generator fuel",Factory & energy · Aug 2026,21044
+EX00441,2026-08-01,Website & SEO,Web agency retainer,Website & SEO · Aug 2026,6473
+EX00442,2026-08-01,Influencers,Creators,Influencers · Aug 2026,11660
+EX00443,2026-08-01,Email platform,Email service,Email platform · Aug 2026,687
+EX00444,2026-08-03,Ingredients & packaging,Foil & wrappers,Ingredients and packaging,37318
+EX00445,2026-08-03,Cold-chain logistics,Export freight,Deliveries,13193
+EX00446,2026-08-10,Ingredients & packaging,Foil & wrappers,Ingredients and packaging,39737
+EX00447,2026-08-10,Cold-chain logistics,Export freight,Deliveries,11163
+EX00448,2026-08-17,Ingredients & packaging,Sugar & milk supplier,Ingredients and packaging,26283
+EX00449,2026-08-17,Cold-chain logistics,Export freight,Deliveries,10236
+EX00450,2026-08-24,Ingredients & packaging,Foil & wrappers,Ingredients and packaging,34417
+EX00451,2026-08-24,Cold-chain logistics,Export freight,Deliveries,12323
+EX00452,2026-09-01,Salaries,Payroll,Salaries · Sep 2026,125125
+EX00453,2026-09-01,Rent & utilities,Landlord / ECG,Rent & utilities · Sep 2026,15045
+EX00454,2026-09-01,Software,"Shopify, Google Workspace, Canva",Software · Sep 2026,2663
+EX00455,2026-09-01,Factory & energy,"Processing plant, ECG, generator fuel",Factory & energy · Sep 2026,22262
+EX00456,2026-09-01,Website & SEO,Web agency retainer,Website & SEO · Sep 2026,6585
+EX00457,2026-09-01,Influencers,Creators,Influencers · Sep 2026,12605
+EX00458,2026-09-01,Email platform,Email service,Email platform · Sep 2026,632
+EX00459,2026-09-03,Ingredients & packaging,Sugar & milk supplier,Ingredients and packaging,26317
+EX00460,2026-09-03,Cold-chain logistics,Refrigerated courier,Deliveries,10394
+EX00461,2026-09-10,Ingredients & packaging,Foil & wrappers,Ingredients and packaging,40692
+EX00462,2026-09-10,Cold-chain logistics,Export freight,Deliveries,9712
+EX00463,2026-09-17,Ingredients & packaging,Packaging supplier,Ingredients and packaging,36996
+EX00464,2026-09-17,Cold-chain logistics,Refrigerated courier,Deliveries,10558
+EX00465,2026-09-24,Ingredients & packaging,Packaging supplier,Ingredients and packaging,41337
+EX00466,2026-09-24,Cold-chain logistics,Export freight,Deliveries,14414
+EX00467,2026-10-01,Salaries,Payroll,Salaries · Oct 2026,133341
+EX00468,2026-10-01,Rent & utilities,Landlord / ECG,Rent & utilities · Oct 2026,14718
+EX00469,2026-10-01,Software,"Shopify, Google Workspace, Canva",Software · Oct 2026,2607
+EX00470,2026-10-01,Factory & energy,"Processing plant, ECG, generator fuel",Factory & energy · Oct 2026,23719
+EX00471,2026-10-01,Website & SEO,Web agency retainer,Website & SEO · Oct 2026,6399
+EX00472,2026-10-01,Influencers,Creators,Influencers · Oct 2026,12061
+EX00473,2026-10-01,Email platform,Email service,Email platform · Oct 2026,662
+EX00474,2026-10-03,Ingredients & packaging,Sugar & milk supplier,Ingredients and packaging,24253
+EX00475,2026-10-03,Cold-chain logistics,Export freight,Deliveries,13514
+EX00476,2026-10-10,Ingredients & packaging,Foil & wrappers,Ingredients and packaging,26220
+EX00477,2026-10-10,Cold-chain logistics,Dispatch riders,Deliveries,12768
+EX00478,2026-10-17,Ingredients & packaging,Sugar & milk supplier,Ingredients and packaging,40414
+EX00479,2026-10-17,Cold-chain logistics,Export freight,Deliveries,11609
+EX00480,2026-10-24,Ingredients & packaging,Foil & wrappers,Ingredients and packaging,30703
+EX00481,2026-10-24,Cold-chain logistics,Refrigerated courier,Deliveries,10799
+EX00482,2026-11-01,Salaries,Payroll,Salaries · Nov 2026,135973
+EX00483,2026-11-01,Rent & utilities,Landlord / ECG,Rent & utilities · Nov 2026,15199
+EX00484,2026-11-01,Software,"Shopify, Google Workspace, Canva",Software · Nov 2026,2792
+EX00485,2026-11-01,Factory & energy,"Processing plant, ECG, generator fuel",Factory & energy · Nov 2026,23195
+EX00486,2026-11-01,Website & SEO,Web agency retainer,Website & SEO · Nov 2026,7153
+EX00487,2026-11-01,Influencers,Creators,Influencers · Nov 2026,12152
+EX00488,2026-11-01,Email platform,Email service,Email platform · Nov 2026,631
+EX00489,2026-11-03,Ingredients & packaging,Foil & wrappers,Ingredients and packaging,26329
+EX00490,2026-11-03,Cold-chain logistics,Refrigerated courier,Deliveries,13262
+EX00491,2026-11-10,Ingredients & packaging,Sugar & milk supplier,Ingredients and packaging,38419
+EX00492,2026-11-10,Cold-chain logistics,Export freight,Deliveries,14586
+EX00493,2026-11-17,Ingredients & packaging,Sugar & milk supplier,Ingredients and packaging,37238
+EX00494,2026-11-17,Cold-chain logistics,Export freight,Deliveries,13792
+EX00495,2026-11-24,Ingredients & packaging,Sugar & milk supplier,Ingredients and packaging,39056
+EX00496,2026-11-24,Cold-chain logistics,Export freight,Deliveries,15262
+EX00497,2025-01-05,Cocoa beans (farmers),Kuapa Union Group A,Cocoa beans · Ashanti,15918
+EX00498,2025-01-05,Cocoa beans (farmers),Sefwi Farmers Co-op,Cocoa beans · Western North,21970
+EX00499,2025-01-05,Cocoa beans (farmers),Suhum Cocoa Growers,Cocoa beans · Eastern,24942
+EX00500,2025-01-05,Cocoa beans (farmers),Assin Fosu Farmers Assoc.,Cocoa beans · Central,20925
+EX00501,2025-01-05,Cocoa beans (farmers),Goaso Growers Union,Cocoa beans · Ahafo,16092
+EX00502,2025-01-05,Cocoa beans (farmers),Hohoe Cocoa Co-op,Cocoa beans · Volta,22815
+EX00503,2025-02-05,Cocoa beans (farmers),Kuapa Union Group A,Cocoa beans · Ashanti,20586
+EX00504,2025-02-05,Cocoa beans (farmers),Sefwi Farmers Co-op,Cocoa beans · Western North,25869
+EX00505,2025-02-05,Cocoa beans (farmers),Suhum Cocoa Growers,Cocoa beans · Eastern,25288
+EX00506,2025-02-05,Cocoa beans (farmers),Assin Fosu Farmers Assoc.,Cocoa beans · Central,27821
+EX00507,2025-02-05,Cocoa beans (farmers),Goaso Growers Union,Cocoa beans · Ahafo,25835
+EX00508,2025-02-05,Cocoa beans (farmers),Hohoe Cocoa Co-op,Cocoa beans · Volta,23851
+EX00509,2025-03-05,Cocoa beans (farmers),Kuapa Union Group A,Cocoa beans · Ashanti,12725
+EX00510,2025-03-05,Cocoa beans (farmers),Sefwi Farmers Co-op,Cocoa beans · Western North,21048
+EX00511,2025-03-05,Cocoa beans (farmers),Suhum Cocoa Growers,Cocoa beans · Eastern,19754
+EX00512,2025-03-05,Cocoa beans (farmers),Assin Fosu Farmers Assoc.,Cocoa beans · Central,13055
+EX00513,2025-03-05,Cocoa beans (farmers),Goaso Growers Union,Cocoa beans · Ahafo,21056
+EX00514,2025-03-05,Cocoa beans (farmers),Hohoe Cocoa Co-op,Cocoa beans · Volta,20792
+EX00515,2025-04-05,Cocoa beans (farmers),Kuapa Union Group A,Cocoa beans · Ashanti,22627
+EX00516,2025-04-05,Cocoa beans (farmers),Sefwi Farmers Co-op,Cocoa beans · Western North,18631
+EX00517,2025-04-05,Cocoa beans (farmers),Suhum Cocoa Growers,Cocoa beans · Eastern,13905
+EX00518,2025-04-05,Cocoa beans (farmers),Assin Fosu Farmers Assoc.,Cocoa beans · Central,24341
+EX00519,2025-04-05,Cocoa beans (farmers),Goaso Growers Union,Cocoa beans · Ahafo,16222
+EX00520,2025-04-05,Cocoa beans (farmers),Hohoe Cocoa Co-op,Cocoa beans · Volta,18104
+EX00521,2025-05-05,Cocoa beans (farmers),Kuapa Union Group A,Cocoa beans · Ashanti,24096
+EX00522,2025-05-05,Cocoa beans (farmers),Sefwi Farmers Co-op,Cocoa beans · Western North,19896
+EX00523,2025-05-05,Cocoa beans (farmers),Suhum Cocoa Growers,Cocoa beans · Eastern,15760
+EX00524,2025-05-05,Cocoa beans (farmers),Assin Fosu Farmers Assoc.,Cocoa beans · Central,17551
+EX00525,2025-05-05,Cocoa beans (farmers),Goaso Growers Union,Cocoa beans · Ahafo,18356
+EX00526,2025-05-05,Cocoa beans (farmers),Hohoe Cocoa Co-op,Cocoa beans · Volta,14063
+EX00527,2025-06-05,Cocoa beans (farmers),Kuapa Union Group A,Cocoa beans · Ashanti,17832
+EX00528,2025-06-05,Cocoa beans (farmers),Sefwi Farmers Co-op,Cocoa beans · Western North,15649
+EX00529,2025-06-05,Cocoa beans (farmers),Suhum Cocoa Growers,Cocoa beans · Eastern,20707
+EX00530,2025-06-05,Cocoa beans (farmers),Assin Fosu Farmers Assoc.,Cocoa beans · Central,18200
+EX00531,2025-06-05,Cocoa beans (farmers),Goaso Growers Union,Cocoa beans · Ahafo,21705
+EX00532,2025-06-05,Cocoa beans (farmers),Hohoe Cocoa Co-op,Cocoa beans · Volta,15908
+EX00533,2025-07-05,Cocoa beans (farmers),Kuapa Union Group A,Cocoa beans · Ashanti,15773
+EX00534,2025-07-05,Cocoa beans (farmers),Sefwi Farmers Co-op,Cocoa beans · Western North,24356
+EX00535,2025-07-05,Cocoa beans (farmers),Suhum Cocoa Growers,Cocoa beans · Eastern,22097
+EX00536,2025-07-05,Cocoa beans (farmers),Assin Fosu Farmers Assoc.,Cocoa beans · Central,27974
+EX00537,2025-07-05,Cocoa beans (farmers),Goaso Growers Union,Cocoa beans · Ahafo,20709
+EX00538,2025-07-05,Cocoa beans (farmers),Hohoe Cocoa Co-op,Cocoa beans · Volta,16203
+EX00539,2025-08-05,Cocoa beans (farmers),Kuapa Union Group A,Cocoa beans · Ashanti,25317
+EX00540,2025-08-05,Cocoa beans (farmers),Sefwi Farmers Co-op,Cocoa beans · Western North,20331
+EX00541,2025-08-05,Cocoa beans (farmers),Suhum Cocoa Growers,Cocoa beans · Eastern,29309
+EX00542,2025-08-05,Cocoa beans (farmers),Assin Fosu Farmers Assoc.,Cocoa beans · Central,25515
+EX00543,2025-08-05,Cocoa beans (farmers),Goaso Growers Union,Cocoa beans · Ahafo,28728
+EX00544,2025-08-05,Cocoa beans (farmers),Hohoe Cocoa Co-op,Cocoa beans · Volta,16242
+EX00545,2025-09-05,Cocoa beans (farmers),Kuapa Union Group A,Cocoa beans · Ashanti,31731
+EX00546,2025-09-05,Cocoa beans (farmers),Sefwi Farmers Co-op,Cocoa beans · Western North,30842
+EX00547,2025-09-05,Cocoa beans (farmers),Suhum Cocoa Growers,Cocoa beans · Eastern,30086
+EX00548,2025-09-05,Cocoa beans (farmers),Assin Fosu Farmers Assoc.,Cocoa beans · Central,27610
+EX00549,2025-09-05,Cocoa beans (farmers),Goaso Growers Union,Cocoa beans · Ahafo,24934
+EX00550,2025-09-05,Cocoa beans (farmers),Hohoe Cocoa Co-op,Cocoa beans · Volta,17292
+EX00551,2025-10-05,Cocoa beans (farmers),Kuapa Union Group A,Cocoa beans · Ashanti,23475
+EX00552,2025-10-05,Cocoa beans (farmers),Sefwi Farmers Co-op,Cocoa beans · Western North,25956
+EX00553,2025-10-05,Cocoa beans (farmers),Suhum Cocoa Growers,Cocoa beans · Eastern,25043
+EX00554,2025-10-05,Cocoa beans (farmers),Assin Fosu Farmers Assoc.,Cocoa beans · Central,38944
+EX00555,2025-10-05,Cocoa beans (farmers),Goaso Growers Union,Cocoa beans · Ahafo,25252
+EX00556,2025-10-05,Cocoa beans (farmers),Hohoe Cocoa Co-op,Cocoa beans · Volta,30005
+EX00557,2025-11-05,Cocoa beans (farmers),Kuapa Union Group A,Cocoa beans · Ashanti,25238
+EX00558,2025-11-05,Cocoa beans (farmers),Sefwi Farmers Co-op,Cocoa beans · Western North,39227
+EX00559,2025-11-05,Cocoa beans (farmers),Suhum Cocoa Growers,Cocoa beans · Eastern,24667
+EX00560,2025-11-05,Cocoa beans (farmers),Assin Fosu Farmers Assoc.,Cocoa beans · Central,28015
+EX00561,2025-11-05,Cocoa beans (farmers),Goaso Growers Union,Cocoa beans · Ahafo,28461
+EX00562,2025-11-05,Cocoa beans (farmers),Hohoe Cocoa Co-op,Cocoa beans · Volta,42657
+EX00563,2025-12-05,Cocoa beans (farmers),Kuapa Union Group A,Cocoa beans · Ashanti,36322
+EX00564,2025-12-05,Cocoa beans (farmers),Sefwi Farmers Co-op,Cocoa beans · Western North,31457
+EX00565,2025-12-05,Cocoa beans (farmers),Suhum Cocoa Growers,Cocoa beans · Eastern,25524
+EX00566,2025-12-05,Cocoa beans (farmers),Assin Fosu Farmers Assoc.,Cocoa beans · Central,28319
+EX00567,2025-12-05,Cocoa beans (farmers),Goaso Growers Union,Cocoa beans · Ahafo,42340
+EX00568,2025-12-05,Cocoa beans (farmers),Hohoe Cocoa Co-op,Cocoa beans · Volta,41414
+EX00569,2026-01-05,Cocoa beans (farmers),Kuapa Union Group A,Cocoa beans · Ashanti,31295
+EX00570,2026-01-05,Cocoa beans (farmers),Sefwi Farmers Co-op,Cocoa beans · Western North,44197
+EX00571,2026-01-05,Cocoa beans (farmers),Suhum Cocoa Growers,Cocoa beans · Eastern,40883
+EX00572,2026-01-05,Cocoa beans (farmers),Assin Fosu Farmers Assoc.,Cocoa beans · Central,52681
+EX00573,2026-01-05,Cocoa beans (farmers),Goaso Growers Union,Cocoa beans · Ahafo,28849
+EX00574,2026-01-05,Cocoa beans (farmers),Hohoe Cocoa Co-op,Cocoa beans · Volta,37936
+EX00575,2026-02-05,Cocoa beans (farmers),Kuapa Union Group A,Cocoa beans · Ashanti,52531
+EX00576,2026-02-05,Cocoa beans (farmers),Sefwi Farmers Co-op,Cocoa beans · Western North,34251
+EX00577,2026-02-05,Cocoa beans (farmers),Suhum Cocoa Growers,Cocoa beans · Eastern,43106
+EX00578,2026-02-05,Cocoa beans (farmers),Assin Fosu Farmers Assoc.,Cocoa beans · Central,39309
+EX00579,2026-02-05,Cocoa beans (farmers),Goaso Growers Union,Cocoa beans · Ahafo,44007
+EX00580,2026-02-05,Cocoa beans (farmers),Hohoe Cocoa Co-op,Cocoa beans · Volta,49022
+EX00581,2026-03-05,Cocoa beans (farmers),Kuapa Union Group A,Cocoa beans · Ashanti,40532
+EX00582,2026-03-05,Cocoa beans (farmers),Sefwi Farmers Co-op,Cocoa beans · Western North,24965
+EX00583,2026-03-05,Cocoa beans (farmers),Suhum Cocoa Growers,Cocoa beans · Eastern,28397
+EX00584,2026-03-05,Cocoa beans (farmers),Assin Fosu Farmers Assoc.,Cocoa beans · Central,26331
+EX00585,2026-03-05,Cocoa beans (farmers),Goaso Growers Union,Cocoa beans · Ahafo,40116
+EX00586,2026-03-05,Cocoa beans (farmers),Hohoe Cocoa Co-op,Cocoa beans · Volta,28981
+EX00587,2026-04-05,Cocoa beans (farmers),Kuapa Union Group A,Cocoa beans · Ashanti,31418
+EX00588,2026-04-05,Cocoa beans (farmers),Sefwi Farmers Co-op,Cocoa beans · Western North,39858
+EX00589,2026-04-05,Cocoa beans (farmers),Suhum Cocoa Growers,Cocoa beans · Eastern,41698
+EX00590,2026-04-05,Cocoa beans (farmers),Assin Fosu Farmers Assoc.,Cocoa beans · Central,25184
+EX00591,2026-04-05,Cocoa beans (farmers),Goaso Growers Union,Cocoa beans · Ahafo,40582
+EX00592,2026-04-05,Cocoa beans (farmers),Hohoe Cocoa Co-op,Cocoa beans · Volta,25049
+EX00593,2026-05-05,Cocoa beans (farmers),Kuapa Union Group A,Cocoa beans · Ashanti,42953
+EX00594,2026-05-05,Cocoa beans (farmers),Sefwi Farmers Co-op,Cocoa beans · Western North,40673
+EX00595,2026-05-05,Cocoa beans (farmers),Suhum Cocoa Growers,Cocoa beans · Eastern,29033
+EX00596,2026-05-05,Cocoa beans (farmers),Assin Fosu Farmers Assoc.,Cocoa beans · Central,43195
+EX00597,2026-05-05,Cocoa beans (farmers),Goaso Growers Union,Cocoa beans · Ahafo,42926
+EX00598,2026-05-05,Cocoa beans (farmers),Hohoe Cocoa Co-op,Cocoa beans · Volta,26626
+EX00599,2026-06-05,Cocoa beans (farmers),Kuapa Union Group A,Cocoa beans · Ashanti,29733
+EX00600,2026-06-05,Cocoa beans (farmers),Sefwi Farmers Co-op,Cocoa beans · Western North,44305
+EX00601,2026-06-05,Cocoa beans (farmers),Suhum Cocoa Growers,Cocoa beans · Eastern,40868
+EX00602,2026-06-05,Cocoa beans (farmers),Assin Fosu Farmers Assoc.,Cocoa beans · Central,42914
+EX00603,2026-06-05,Cocoa beans (farmers),Goaso Growers Union,Cocoa beans · Ahafo,33617
+EX00604,2026-06-05,Cocoa beans (farmers),Hohoe Cocoa Co-op,Cocoa beans · Volta,27047
+EX00605,2026-07-05,Cocoa beans (farmers),Kuapa Union Group A,Cocoa beans · Ashanti,47040
+EX00606,2026-07-05,Cocoa beans (farmers),Sefwi Farmers Co-op,Cocoa beans · Western North,49923
+EX00607,2026-07-05,Cocoa beans (farmers),Suhum Cocoa Growers,Cocoa beans · Eastern,37896
+EX00608,2026-07-05,Cocoa beans (farmers),Assin Fosu Farmers Assoc.,Cocoa beans · Central,39560
+EX00609,2026-07-05,Cocoa beans (farmers),Goaso Growers Union,Cocoa beans · Ahafo,38612
+EX00610,2026-07-05,Cocoa beans (farmers),Hohoe Cocoa Co-op,Cocoa beans · Volta,46660
+EX00611,2026-08-05,Cocoa beans (farmers),Kuapa Union Group A,Cocoa beans · Ashanti,46796
+EX00612,2026-08-05,Cocoa beans (farmers),Sefwi Farmers Co-op,Cocoa beans · Western North,34977
+EX00613,2026-08-05,Cocoa beans (farmers),Suhum Cocoa Growers,Cocoa beans · Eastern,38700
+EX00614,2026-08-05,Cocoa beans (farmers),Assin Fosu Farmers Assoc.,Cocoa beans · Central,45500
+EX00615,2026-08-05,Cocoa beans (farmers),Goaso Growers Union,Cocoa beans · Ahafo,44469
+EX00616,2026-08-05,Cocoa beans (farmers),Hohoe Cocoa Co-op,Cocoa beans · Volta,32801
+EX00617,2026-09-05,Cocoa beans (farmers),Kuapa Union Group A,Cocoa beans · Ashanti,40720
+EX00618,2026-09-05,Cocoa beans (farmers),Sefwi Farmers Co-op,Cocoa beans · Western North,47381
+EX00619,2026-09-05,Cocoa beans (farmers),Suhum Cocoa Growers,Cocoa beans · Eastern,43082
+EX00620,2026-09-05,Cocoa beans (farmers),Assin Fosu Farmers Assoc.,Cocoa beans · Central,50993
+EX00621,2026-09-05,Cocoa beans (farmers),Goaso Growers Union,Cocoa beans · Ahafo,34856
+EX00622,2026-09-05,Cocoa beans (farmers),Hohoe Cocoa Co-op,Cocoa beans · Volta,53878
+EX00623,2026-10-05,Cocoa beans (farmers),Kuapa Union Group A,Cocoa beans · Ashanti,44426
+EX00624,2026-10-05,Cocoa beans (farmers),Sefwi Farmers Co-op,Cocoa beans · Western North,69804
+EX00625,2026-10-05,Cocoa beans (farmers),Suhum Cocoa Growers,Cocoa beans · Eastern,49994
+EX00626,2026-10-05,Cocoa beans (farmers),Assin Fosu Farmers Assoc.,Cocoa beans · Central,64848
+EX00627,2026-10-05,Cocoa beans (farmers),Goaso Growers Union,Cocoa beans · Ahafo,53597
+EX00628,2026-10-05,Cocoa beans (farmers),Hohoe Cocoa Co-op,Cocoa beans · Volta,68980
+EX00629,2026-11-05,Cocoa beans (farmers),Kuapa Union Group A,Cocoa beans · Ashanti,73468
+EX00630,2026-11-05,Cocoa beans (farmers),Sefwi Farmers Co-op,Cocoa beans · Western North,69526
+EX00631,2026-11-05,Cocoa beans (farmers),Suhum Cocoa Growers,Cocoa beans · Eastern,44448
+EX00632,2026-11-05,Cocoa beans (farmers),Assin Fosu Farmers Assoc.,Cocoa beans · Central,61274
+EX00633,2026-11-05,Cocoa beans (farmers),Goaso Growers Union,Cocoa beans · Ahafo,42951
+EX00634,2026-11-05,Cocoa beans (farmers),Hohoe Cocoa Co-op,Cocoa beans · Volta,38095

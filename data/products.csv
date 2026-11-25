@@ -1,0 +1,25 @@
+id,name,category,retail_price,wholesale_price,unit_cost
+P01,70% Dark Chocolate Bar,Chocolate bars,45,30,14
+P02,85% Extra Dark Bar,Chocolate bars,48,32,15
+P03,Creamy Milk Chocolate Bar,Chocolate bars,40,27,12
+P04,Dark Chocolate with Coconut,Chocolate bars,48,32,15
+P05,Milk Chocolate with Groundnut,Chocolate bars,45,30,14
+P06,Dark Chocolate with Ginger & Pepper,Chocolate bars,50,33,15
+P07,Mini Bars Pack (10),Chocolate bars,85,56,26
+P08,Natural Cocoa Powder 500g,Cocoa powder & drinks,65,44,22
+P09,Drinking Chocolate 400g,Cocoa powder & drinks,70,47,23
+P10,Cocoa Tea (shell infusion),Cocoa powder & drinks,55,36,14
+P11,Roasted Cocoa Nibs 250g,Baking,60,40,19
+P12,Chocolate Spread 350g,Spreads,75,50,24
+P13,Baking Chocolate Chips 1kg,Baking,140,95,52
+P14,Pure Cocoa Butter 250g,Cocoa butter care,90,60,28
+P15,Cocoa Butter Body Lotion,Cocoa butter care,85,57,25
+P16,Truffle Box (9),Gifts,180,120,62
+P17,Kente Gift Box,Gifts,320,215,110
+P18,Christmas Hamper,Gifts,650,440,240
+P19,Valentine Heart Box,Gifts,220,148,72
+P20,Farm-to-Bar Tasting Set,Gifts,260,175,85
+P21,Corporate Gift Pack (12),Gifts,540,380,190
+P22,Hotel Turndown Chocolates (100),Hospitality,0,420,180
+P23,In-flight Mini Bars (200),Hospitality,0,760,330
+P24,Couverture 70% (5kg),Bulk & export,0,980,520

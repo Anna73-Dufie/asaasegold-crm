@@ -1,0 +1,1184 @@
+id,date,platform,type,topic,reach,likes,comments,shares,saves,link_clicks
+SP00001,2025-01-01,Instagram,Photo,Meet the farmers,9549,393,30,33,50,125
+SP00002,2025-01-01,Facebook,Video,Tasting notes,3455,54,2,5,4,31
+SP00003,2025-01-03,Instagram,Reel,Gift ideas,3711,153,12,13,21,49
+SP00004,2025-01-04,LinkedIn,Text,Tasting notes,1192,30,2,3,1,18
+SP00005,2025-01-06,Instagram,Story,New flavour,2694,111,4,11,4,31
+SP00006,2025-01-07,Instagram,Photo,New flavour,8600,354,14,7,36,64
+SP00007,2025-01-07,X,Photo,Meet the farmers,185,1,0,0,0,0
+SP00008,2025-01-08,Instagram,Photo,Giveaway,17587,725,24,70,39,129
+SP00009,2025-01-08,Facebook,Video,National Chocolate Day,2909,45,3,1,2,12
+SP00010,2025-01-08,YouTube,Short,Meet the farmers,3674,124,4,9,9,29
+SP00011,2025-01-09,TikTok,Video,National Chocolate Day,7455,402,35,28,45,52
+SP00012,2025-01-09,Facebook,Link,Recipe in 60 seconds,861,13,1,0,1,10
+SP00013,2025-01-10,Instagram,Photo,Tasting notes,9698,400,19,35,14,131
+SP00014,2025-01-10,X,Text,Cocoa butter tips,281,2,0,0,0,1
+SP00015,2025-01-11,X,Photo,Meet the farmers,339,3,0,0,0,1
+SP00016,2025-01-11,X,Text,Behind the scenes,276,2,0,0,0,0
+SP00017,2025-01-12,X,Thread,Giveaway,319,2,0,0,0,1
+SP00018,2025-01-13,TikTok,Video,New flavour,7265,392,32,41,40,51
+SP00019,2025-01-14,Facebook,Link,Tasting notes,5544,87,4,7,11,45
+SP00020,2025-01-15,TikTok,Live,Cocoa butter tips,23532,1270,38,33,114,114
+SP00021,2025-01-15,X,Text,Cocoa butter tips,434,3,0,0,0,1
+SP00022,2025-01-16,TikTok,Video,Giveaway,3126,168,10,16,9,15
+SP00023,2025-01-16,Facebook,Link,New flavour,3108,48,3,3,1,20
+SP00024,2025-01-16,X,Text,Tasting notes,234,2,0,0,0,1
+SP00025,2025-01-18,Instagram,Photo,Recipe in 60 seconds,12894,531,22,39,53,146
+SP00026,2025-01-18,TikTok,Video,Behind the scenes,2823,152,6,4,15,15
+SP00027,2025-01-18,X,Text,Why Ghana cocoa,700,6,0,0,0,2
+SP00028,2025-01-19,TikTok,Live,New flavour,11152,602,53,62,72,49
+SP00029,2025-01-19,TikTok,Video,Meet the farmers,940,50,4,1,2,3
+SP00030,2025-01-20,TikTok,Video,Behind the scenes,1821,98,6,8,10,12
+SP00031,2025-01-20,X,Text,Recipe in 60 seconds,252,2,0,0,0,1
+SP00032,2025-01-21,TikTok,Live,Behind the scenes,4169,225,18,16,29,20
+SP00033,2025-01-22,Instagram,Carousel,National Chocolate Day,3648,150,7,4,18,50
+SP00034,2025-01-22,TikTok,Video,Gift ideas,9731,525,21,47,24,47
+SP00035,2025-01-22,X,Photo,Unboxing,521,4,0,0,0,1
+SP00036,2025-01-22,LinkedIn,Photo,New flavour,1948,49,3,5,6,24
+SP00037,2025-01-23,TikTok,Video,Why Ghana cocoa,6416,346,29,34,34,24
+SP00038,2025-01-23,Facebook,Photo,Tasting notes,4210,66,3,3,6,49
+SP00039,2025-01-23,X,Text,New flavour,419,3,0,0,0,1
+SP00040,2025-01-25,TikTok,Video,Farm to bar,12495,674,49,75,79,35
+SP00041,2025-01-26,Instagram,Story,Behind the scenes,6943,286,14,15,20,63
+SP00042,2025-01-26,X,Text,Giveaway,106,0,0,0,0,0
+SP00043,2025-01-27,Instagram,Story,Farm to bar,1359,56,3,1,6,10
+SP00044,2025-01-27,Instagram,Reel,Giveaway,4147,171,15,10,19,19
+SP00045,2025-01-27,X,Text,National Chocolate Day,245,2,0,0,0,0
+SP00046,2025-01-28,Facebook,Photo,Cocoa butter tips,2941,46,3,1,6,33
+SP00047,2025-01-29,Facebook,Video,Gift ideas,1671,26,2,1,2,7
+SP00048,2025-01-29,Facebook,Video,Unboxing,2547,40,2,2,5,13
+SP00049,2025-01-30,TikTok,Live,Tasting notes,5059,273,21,13,27,20
+SP00050,2025-01-31,TikTok,Live,Behind the scenes,11951,645,49,18,86,92
+SP00051,2025-02-01,Instagram,Reel,New flavour,8361,344,18,22,21,84
+SP00052,2025-02-01,Facebook,Video,Recipe in 60 seconds,6811,107,7,5,8,56
+SP00053,2025-02-01,X,Photo,Why Ghana cocoa,215,1,0,0,0,1
+SP00054,2025-02-02,Instagram,Story,Behind the scenes,5912,243,13,25,30,62
+SP00055,2025-02-03,Instagram,Carousel,Behind the scenes,16267,671,20,47,39,224
+SP00056,2025-02-03,X,Photo,National Chocolate Day,613,5,0,0,0,3
+SP00057,2025-02-03,LinkedIn,Article,Meet the farmers,297,7,0,0,0,5
+SP00058,2025-02-04,TikTok,Video,National Chocolate Day,5430,293,19,22,13,27
+SP00059,2025-02-04,X,Photo,Meet the farmers,166,1,0,0,0,0
+SP00060,2025-02-06,X,Text,Gift ideas,146,1,0,0,0,0
+SP00061,2025-02-07,LinkedIn,Text,National Chocolate Day,851,21,1,1,2,5
+SP00062,2025-02-08,Instagram,Story,Behind the scenes,18751,773,57,35,25,135
+SP00063,2025-02-08,Instagram,Reel,National Chocolate Day,6849,282,20,19,12,89
+SP00064,2025-02-08,LinkedIn,Article,Farm to bar,1461,37,3,2,3,15
+SP00065,2025-02-09,Instagram,Story,New flavour,1118,46,3,3,3,11
+SP00066,2025-02-09,Facebook,Video,Giveaway,12176,191,8,19,11,106
+SP00067,2025-02-10,Facebook,Photo,Tasting notes,3130,49,3,1,4,36
+SP00068,2025-02-12,TikTok,Video,Behind the scenes,4976,268,13,15,28,24
+SP00069,2025-02-13,TikTok,Video,National Chocolate Day,4845,261,18,24,26,23
+SP00070,2025-02-13,Facebook,Photo,New flavour,2293,36,2,2,3,16
+SP00071,2025-02-13,YouTube,Short,New flavour,3783,127,7,6,11,16
+SP00072,2025-02-14,LinkedIn,Article,Unboxing,805,20,0,2,1,14
+SP00073,2025-02-15,TikTok,Live,National Chocolate Day,9840,531,36,18,79,34
+SP00074,2025-02-15,TikTok,Video,Why Ghana cocoa,5692,307,19,16,18,31
+SP00075,2025-02-16,Instagram,Carousel,Recipe in 60 seconds,2592,106,8,4,6,22
+SP00076,2025-02-16,Instagram,Reel,Meet the farmers,10649,439,33,28,45,73
+SP00077,2025-02-16,LinkedIn,Article,Farm to bar,675,17,1,0,1,7
+SP00078,2025-02-18,Facebook,Photo,Tasting notes,1999,31,2,1,3,20
+SP00079,2025-02-18,X,Text,Why Ghana cocoa,502,4,0,0,0,2
+SP00080,2025-02-19,TikTok,Video,Tasting notes,12070,651,32,58,94,68
+SP00081,2025-02-20,Instagram,Story,Tasting notes,17003,701,42,40,30,163
+SP00082,2025-02-22,Instagram,Story,New flavour,11009,454,28,40,39,141
+SP00083,2025-02-22,X,Photo,Unboxing,532,4,0,0,0,1
+SP00084,2025-02-23,TikTok,Live,Gift ideas,5892,318,25,28,15,35
+SP00085,2025-02-23,X,Text,Cocoa butter tips,537,4,0,0,0,2
+SP00086,2025-02-24,X,Text,Tasting notes,1010,9,0,0,1,6
+SP00087,2025-02-25,TikTok,Video,Giveaway,5879,317,27,12,38,43
+SP00088,2025-02-25,TikTok,Live,Cocoa butter tips,23203,1252,85,72,111,167
+SP00089,2025-02-26,TikTok,Video,Recipe in 60 seconds,21071,1137,39,100,147,128
+SP00090,2025-02-27,Instagram,Reel,Why Ghana cocoa,10443,430,29,34,15,69
+SP00091,2025-02-27,Facebook,Link,New flavour,3393,53,2,3,4,42
+SP00092,2025-02-28,Instagram,Photo,Meet the farmers,21881,902,32,101,117,98
+SP00093,2025-02-28,Instagram,Photo,National Chocolate Day,16255,670,43,45,71,191
+SP00094,2025-02-28,X,Photo,Behind the scenes,1304,11,0,0,1,7
+SP00095,2025-03-01,Instagram,Carousel,National Chocolate Day,3782,156,9,5,6,49
+SP00096,2025-03-01,TikTok,Live,Gift ideas,3070,165,9,18,23,11
+SP00097,2025-03-01,Facebook,Photo,Gift ideas,4980,78,2,2,2,49
+SP00098,2025-03-01,X,Thread,Recipe in 60 seconds,447,4,0,0,0,1
+SP00099,2025-03-01,LinkedIn,Article,Tasting notes,5780,147,4,4,14,95
+SP00100,2025-03-03,Instagram,Reel,Meet the farmers,6248,257,13,15,13,48
+SP00101,2025-03-03,X,Photo,New flavour,650,5,0,0,0,1
+SP00102,2025-03-04,X,Photo,New flavour,202,1,0,0,0,0
+SP00103,2025-03-05,X,Photo,Why Ghana cocoa,219,1,0,0,0,0
+SP00104,2025-03-06,X,Photo,Farm to bar,590,5,0,0,0,3
+SP00105,2025-03-07,Instagram,Photo,Cocoa butter tips,3801,156,6,16,11,23
+SP00106,2025-03-07,TikTok,Video,National Chocolate Day,7958,429,29,31,40,44
+SP00107,2025-03-07,TikTok,Live,Farm to bar,12983,701,56,23,36,89
+SP00108,2025-03-07,X,Text,New flavour,357,3,0,0,0,1
+SP00109,2025-03-07,X,Text,Meet the farmers,533,4,0,0,0,2
+SP00110,2025-03-08,TikTok,Video,Tasting notes,15244,823,43,78,79,62
+SP00111,2025-03-08,TikTok,Live,Unboxing,16407,885,32,99,70,100
+SP00112,2025-03-10,TikTok,Video,Giveaway,8198,442,13,25,38,23
+SP00113,2025-03-10,TikTok,Live,National Chocolate Day,10789,582,20,15,38,62
+SP00114,2025-03-10,Facebook,Video,Gift ideas,5484,86,2,7,5,62
+SP00115,2025-03-10,X,Photo,New flavour,358,3,0,0,0,1
+SP00116,2025-03-13,Instagram,Story,National Chocolate Day,2237,92,6,4,7,12
+SP00117,2025-03-13,TikTok,Video,Farm to bar,46610,2516,220,162,375,291
+SP00118,2025-03-13,Facebook,Photo,Giveaway,8448,133,6,3,11,35
+SP00119,2025-03-14,TikTok,Video,New flavour,11941,644,43,46,30,94
+SP00120,2025-03-14,X,Photo,Tasting notes,482,4,0,0,0,1
+SP00121,2025-03-16,Instagram,Carousel,Behind the scenes,2270,93,3,1,11,23
+SP00122,2025-03-16,Instagram,Carousel,Meet the farmers,10651,439,20,14,50,83
+SP00123,2025-03-16,X,Photo,New flavour,1255,11,0,0,1,3
+SP00124,2025-03-17,TikTok,Video,Gift ideas,21872,1181,44,105,54,101
+SP00125,2025-03-17,TikTok,Video,Unboxing,4499,242,16,23,18,19
+SP00126,2025-03-18,TikTok,Video,National Chocolate Day,12736,687,49,61,96,94
+SP00127,2025-03-20,Instagram,Story,Behind the scenes,8321,343,30,14,41,40
+SP00128,2025-03-20,X,Text,Farm to bar,367,3,0,0,0,0
+SP00129,2025-03-21,TikTok,Live,Unboxing,4240,228,12,14,13,14
+SP00130,2025-03-21,X,Photo,Why Ghana cocoa,291,2,0,0,0,0
+SP00131,2025-03-21,X,Thread,Farm to bar,606,5,0,0,0,3
+SP00132,2025-03-22,Instagram,Reel,Behind the scenes,11697,482,20,30,27,123
+SP00133,2025-03-23,TikTok,Live,Behind the scenes,16572,894,54,53,29,50
+SP00134,2025-03-24,TikTok,Video,Farm to bar,11932,644,48,52,46,39
+SP00135,2025-03-25,Instagram,Story,Cocoa butter tips,10298,424,18,12,30,101
+SP00136,2025-03-25,Instagram,Story,National Chocolate Day,3175,130,5,10,7,37
+SP00137,2025-03-25,TikTok,Live,Tasting notes,7486,404,25,27,23,47
+SP00138,2025-03-25,Facebook,Video,Behind the scenes,3448,54,2,6,3,13
+SP00139,2025-03-25,X,Thread,Why Ghana cocoa,1267,11,0,0,1,4
+SP00140,2025-03-25,X,Text,Behind the scenes,570,5,0,0,0,2
+SP00141,2025-03-26,X,Thread,Meet the farmers,894,8,0,0,0,4
+SP00142,2025-03-27,Facebook,Video,Farm to bar,11659,183,16,3,12,105
+SP00143,2025-03-28,Instagram,Carousel,Recipe in 60 seconds,9843,406,36,45,42,128
+SP00144,2025-03-28,TikTok,Video,New flavour,8521,460,29,30,55,64
+SP00145,2025-03-28,TikTok,Video,Farm to bar,9429,509,23,60,48,61
+SP00146,2025-03-28,X,Photo,New flavour,218,1,0,0,0,0
+SP00147,2025-03-29,Instagram,Reel,Meet the farmers,4540,187,12,8,17,44
+SP00148,2025-03-29,Facebook,Link,Farm to bar,2437,38,2,3,4,22
+SP00149,2025-03-30,X,Text,Tasting notes,332,2,0,0,0,1
+SP00150,2025-03-30,X,Thread,Unboxing,101,0,0,0,0,0
+SP00151,2025-03-31,TikTok,Video,Gift ideas,3092,166,9,14,11,8
+SP00152,2025-03-31,TikTok,Video,New flavour,13790,744,22,62,102,38
+SP00153,2025-03-31,X,Photo,Behind the scenes,352,3,0,0,0,1
+SP00154,2025-04-01,Instagram,Photo,Unboxing,6931,285,11,32,15,77
+SP00155,2025-04-02,Instagram,Story,Farm to bar,15224,628,37,59,73,75
+SP00156,2025-04-02,TikTok,Video,Behind the scenes,9649,521,32,13,44,48
+SP00157,2025-04-02,Facebook,Photo,Meet the farmers,7575,119,9,5,11,93
+SP00158,2025-04-03,Instagram,Photo,Farm to bar,14612,602,21,17,89,113
+SP00159,2025-04-03,X,Text,Giveaway,399,3,0,0,0,1
+SP00160,2025-04-04,Instagram,Carousel,Gift ideas,9693,399,12,12,52,43
+SP00161,2025-04-04,Facebook,Link,Tasting notes,2102,33,2,1,0,15
+SP00162,2025-04-04,X,Thread,Gift ideas,448,4,0,0,0,2
+SP00163,2025-04-05,X,Photo,Unboxing,527,4,0,0,0,2
+SP00164,2025-04-05,X,Photo,National Chocolate Day,125,1,0,0,0,0
+SP00165,2025-04-06,Instagram,Carousel,Giveaway,4643,191,14,22,26,32
+SP00166,2025-04-06,TikTok,Video,National Chocolate Day,6975,376,24,30,20,18
+SP00167,2025-04-06,X,Photo,Meet the farmers,139,1,0,0,0,0
+SP00168,2025-04-07,Instagram,Story,National Chocolate Day,13832,570,26,33,46,154
+SP00169,2025-04-08,TikTok,Video,Giveaway,6442,347,30,40,15,39
+SP00170,2025-04-08,Facebook,Link,Unboxing,4002,63,3,3,6,17
+SP00171,2025-04-08,Facebook,Link,Meet the farmers,841,13,0,0,1,9
+SP00172,2025-04-09,TikTok,Live,Cocoa butter tips,10464,565,33,58,46,50
+SP00173,2025-04-09,TikTok,Live,Farm to bar,13951,753,42,59,103,52
+SP00174,2025-04-09,TikTok,Video,Meet the farmers,8147,439,32,50,65,38
+SP00175,2025-04-09,Facebook,Photo,Recipe in 60 seconds,2866,45,3,3,1,32
+SP00176,2025-04-10,TikTok,Live,National Chocolate Day,19700,1063,49,84,52,103
+SP00177,2025-04-10,LinkedIn,Article,Gift ideas,366,9,0,0,1,4
+SP00178,2025-04-11,X,Photo,Gift ideas,320,2,0,0,0,1
+SP00179,2025-04-12,Instagram,Reel,Cocoa butter tips,13536,558,22,23,76,160
+SP00180,2025-04-13,TikTok,Video,Cocoa butter tips,11840,639,40,68,28,76
+SP00181,2025-04-13,X,Text,Farm to bar,676,6,0,0,0,3
+SP00182,2025-04-13,X,Thread,Behind the scenes,313,2,0,0,0,1
+SP00183,2025-04-14,TikTok,Live,Tasting notes,5859,316,21,10,26,18
+SP00184,2025-04-14,Facebook,Photo,Meet the farmers,4220,66,2,3,6,29
+SP00185,2025-04-14,X,Photo,Gift ideas,348,3,0,0,0,2
+SP00186,2025-04-15,X,Thread,Tasting notes,276,2,0,0,0,1
+SP00187,2025-04-17,TikTok,Video,Farm to bar,20561,1110,67,83,36,101
+SP00188,2025-04-17,TikTok,Live,Cocoa butter tips,20472,1105,35,99,59,64
+SP00189,2025-04-19,Instagram,Reel,Behind the scenes,5401,222,13,11,31,46
+SP00190,2025-04-19,Instagram,Photo,Gift ideas,12662,522,34,22,66,139
+SP00191,2025-04-20,TikTok,Live,Tasting notes,40491,2186,147,64,187,168
+SP00192,2025-04-20,Facebook,Link,Gift ideas,2937,46,2,3,6,11
+SP00193,2025-04-21,Facebook,Photo,Recipe in 60 seconds,5181,81,5,6,10,29
+SP00194,2025-04-22,X,Text,Recipe in 60 seconds,263,2,0,0,0,0
+SP00195,2025-04-22,X,Thread,Cocoa butter tips,356,3,0,0,0,0
+SP00196,2025-04-23,Instagram,Photo,Farm to bar,25650,1058,87,99,93,271
+SP00197,2025-04-23,Instagram,Photo,Meet the farmers,13808,569,35,61,56,65
+SP00198,2025-04-23,TikTok,Live,New flavour,5421,292,26,6,16,32
+SP00199,2025-04-23,LinkedIn,Photo,Gift ideas,634,16,1,1,1,4
+SP00200,2025-04-24,LinkedIn,Text,Giveaway,1611,41,2,2,2,30
+SP00201,2025-04-25,TikTok,Live,Farm to bar,8643,466,28,17,25,62
+SP00202,2025-04-26,LinkedIn,Photo,Gift ideas,787,20,1,2,1,7
+SP00203,2025-04-28,X,Thread,Cocoa butter tips,905,8,0,0,1,4
+SP00204,2025-04-28,X,Text,Why Ghana cocoa,301,2,0,0,0,1
+SP00205,2025-04-29,X,Photo,Cocoa butter tips,263,2,0,0,0,1
+SP00206,2025-04-29,X,Text,Cocoa butter tips,260,2,0,0,0,0
+SP00207,2025-04-30,Instagram,Reel,Why Ghana cocoa,8750,360,23,42,38,84
+SP00208,2025-04-30,Facebook,Photo,Meet the farmers,2637,41,2,1,2,21
+SP00209,2025-04-30,X,Thread,Tasting notes,327,2,0,0,0,0
+SP00210,2025-05-02,TikTok,Video,Gift ideas,5534,298,19,23,25,40
+SP00211,2025-05-03,Facebook,Link,Gift ideas,1931,30,2,2,3,12
+SP00212,2025-05-03,X,Photo,Giveaway,302,2,0,0,0,1
+SP00213,2025-05-04,TikTok,Live,National Chocolate Day,3701,199,15,11,9,13
+SP00214,2025-05-05,Instagram,Story,Giveaway,8979,370,31,38,27,50
+SP00215,2025-05-05,X,Thread,Giveaway,296,2,0,0,0,1
+SP00216,2025-05-06,Instagram,Story,New flavour,8506,350,15,19,45,78
+SP00217,2025-05-06,TikTok,Video,Why Ghana cocoa,22429,1211,106,109,158,121
+SP00218,2025-05-06,Facebook,Video,Behind the scenes,2635,41,3,4,2,24
+SP00219,2025-05-07,LinkedIn,Text,Recipe in 60 seconds,1055,26,1,1,1,7
+SP00220,2025-05-08,Instagram,Reel,Tasting notes,5201,214,17,5,9,69
+SP00221,2025-05-09,Instagram,Story,Cocoa butter tips,13303,548,33,16,63,88
+SP00222,2025-05-09,TikTok,Video,New flavour,6205,335,20,38,40,38
+SP00223,2025-05-09,TikTok,Live,Why Ghana cocoa,4919,265,19,23,25,27
+SP00224,2025-05-09,Facebook,Photo,Tasting notes,3927,61,3,4,3,29
+SP00225,2025-05-09,X,Text,Meet the farmers,713,6,0,0,0,3
+SP00226,2025-05-10,Instagram,Story,Why Ghana cocoa,6484,267,13,16,11,36
+SP00227,2025-05-12,Instagram,Carousel,Behind the scenes,9244,381,33,9,15,46
+SP00228,2025-05-12,Facebook,Link,Behind the scenes,2981,46,3,4,5,33
+SP00229,2025-05-12,LinkedIn,Text,Cocoa butter tips,4191,106,3,9,10,60
+SP00230,2025-05-15,Instagram,Carousel,Cocoa butter tips,15257,629,32,44,73,177
+SP00231,2025-05-15,X,Photo,Tasting notes,264,2,0,0,0,1
+SP00232,2025-05-16,Instagram,Reel,Farm to bar,30454,1256,111,111,175,162
+SP00233,2025-05-16,Instagram,Carousel,Why Ghana cocoa,8610,355,27,16,23,71
+SP00234,2025-05-16,TikTok,Live,New flavour,22240,1201,99,111,168,66
+SP00235,2025-05-16,X,Thread,Giveaway,636,5,0,0,0,1
+SP00236,2025-05-17,Instagram,Story,Meet the farmers,2872,118,9,12,7,24
+SP00237,2025-05-17,Instagram,Photo,National Chocolate Day,6073,250,14,21,27,54
+SP00238,2025-05-17,Facebook,Link,Tasting notes,1941,30,1,3,1,21
+SP00239,2025-05-18,TikTok,Video,Why Ghana cocoa,7970,430,30,36,37,48
+SP00240,2025-05-22,TikTok,Live,National Chocolate Day,14456,780,35,24,57,114
+SP00241,2025-05-22,Facebook,Link,Why Ghana cocoa,1748,27,1,1,2,7
+SP00242,2025-05-23,TikTok,Video,Why Ghana cocoa,10681,576,22,21,71,73
+SP00243,2025-05-23,X,Photo,Tasting notes,486,4,0,0,0,1
+SP00244,2025-05-24,Facebook,Photo,Tasting notes,1408,22,1,2,1,12
+SP00245,2025-05-24,X,Text,National Chocolate Day,191,1,0,0,0,1
+SP00246,2025-05-25,Instagram,Carousel,Cocoa butter tips,4292,177,7,12,9,31
+SP00247,2025-05-26,Facebook,Video,Tasting notes,1599,25,1,1,2,17
+SP00248,2025-05-26,YouTube,Short,Farm to bar,5756,194,8,6,20,25
+SP00249,2025-05-27,TikTok,Live,Why Ghana cocoa,8139,439,16,49,45,21
+SP00250,2025-05-27,TikTok,Video,Recipe in 60 seconds,15443,833,47,93,51,46
+SP00251,2025-05-28,Facebook,Video,Farm to bar,2438,38,3,1,1,12
+SP00252,2025-05-28,Facebook,Link,Tasting notes,1658,26,1,2,2,18
+SP00253,2025-05-30,Instagram,Carousel,Behind the scenes,8239,339,19,37,28,38
+SP00254,2025-05-31,X,Thread,Why Ghana cocoa,452,4,0,0,0,1
+SP00255,2025-06-01,Instagram,Reel,Gift ideas,6029,248,15,17,23,59
+SP00256,2025-06-01,TikTok,Video,Recipe in 60 seconds,22511,1215,45,130,103,105
+SP00257,2025-06-02,TikTok,Live,Recipe in 60 seconds,7432,401,13,29,14,41
+SP00258,2025-06-02,TikTok,Video,Why Ghana cocoa,6252,337,27,32,23,16
+SP00259,2025-06-02,X,Photo,Farm to bar,298,2,0,0,0,1
+SP00260,2025-06-02,X,Text,Unboxing,84,0,0,0,0,0
+SP00261,2025-06-03,X,Thread,Gift ideas,397,3,0,0,0,1
+SP00262,2025-06-04,Instagram,Carousel,Cocoa butter tips,6866,283,22,32,26,64
+SP00263,2025-06-04,LinkedIn,Article,Gift ideas,2098,53,4,5,7,30
+SP00264,2025-06-05,Instagram,Reel,National Chocolate Day,9483,391,13,14,14,121
+SP00265,2025-06-06,Facebook,Video,Tasting notes,1679,26,1,1,2,12
+SP00266,2025-06-06,Facebook,Photo,Farm to bar,4254,67,4,4,9,26
+SP00267,2025-06-07,TikTok,Video,Meet the farmers,2672,144,7,8,13,16
+SP00268,2025-06-07,Facebook,Link,Giveaway,2880,45,3,4,3,34
+SP00269,2025-06-08,Instagram,Reel,Giveaway,10473,432,25,16,28,85
+SP00270,2025-06-08,TikTok,Video,New flavour,26003,1404,80,132,177,202
+SP00271,2025-06-09,Instagram,Carousel,Gift ideas,4769,196,11,10,28,35
+SP00272,2025-06-09,Instagram,Photo,National Chocolate Day,9929,409,22,44,28,83
+SP00273,2025-06-09,TikTok,Live,Recipe in 60 seconds,29217,1577,77,62,207,189
+SP00274,2025-06-09,Facebook,Video,Giveaway,3349,52,4,4,2,20
+SP00275,2025-06-09,LinkedIn,Photo,Cocoa butter tips,1354,34,2,1,1,10
+SP00276,2025-06-11,Facebook,Photo,Giveaway,1856,29,1,0,3,20
+SP00277,2025-06-11,X,Photo,Behind the scenes,189,1,0,0,0,0
+SP00278,2025-06-12,X,Photo,Why Ghana cocoa,632,5,0,0,0,3
+SP00279,2025-06-14,Instagram,Photo,Unboxing,12908,532,19,29,72,183
+SP00280,2025-06-14,Facebook,Link,National Chocolate Day,2592,40,2,2,1,26
+SP00281,2025-06-14,LinkedIn,Article,Behind the scenes,699,17,0,1,2,13
+SP00282,2025-06-15,Instagram,Story,Meet the farmers,11226,463,32,24,26,120
+SP00283,2025-06-15,TikTok,Video,Giveaway,6506,351,21,35,52,23
+SP00284,2025-06-16,Instagram,Reel,Farm to bar,11211,462,21,48,25,59
+SP00285,2025-06-16,X,Thread,Unboxing,564,5,0,0,0,2
+SP00286,2025-06-18,TikTok,Live,National Chocolate Day,8931,482,21,54,33,25
+SP00287,2025-06-19,TikTok,Live,Giveaway,6708,362,22,9,36,44
+SP00288,2025-06-19,YouTube,Video,Tasting notes,4557,153,7,11,12,33
+SP00289,2025-06-20,Instagram,Story,National Chocolate Day,15290,630,54,57,92,109
+SP00290,2025-06-21,X,Thread,Gift ideas,359,3,0,0,0,1
+SP00291,2025-06-22,Instagram,Reel,Recipe in 60 seconds,35175,1450,73,98,180,424
+SP00292,2025-06-22,TikTok,Video,Farm to bar,58012,3132,231,162,406,451
+SP00293,2025-06-24,Instagram,Story,Behind the scenes,12660,522,21,62,68,172
+SP00294,2025-06-24,TikTok,Live,Cocoa butter tips,6008,324,29,14,13,34
+SP00295,2025-06-25,Instagram,Carousel,New flavour,13472,555,17,20,61,144
+SP00296,2025-06-25,TikTok,Video,Farm to bar,7753,418,24,36,27,56
+SP00297,2025-06-25,Facebook,Photo,New flavour,1014,15,0,0,0,9
+SP00298,2025-06-25,LinkedIn,Text,National Chocolate Day,3736,95,3,4,9,41
+SP00299,2025-06-26,Instagram,Carousel,Gift ideas,13755,567,30,16,58,142
+SP00300,2025-06-26,X,Text,New flavour,447,4,0,0,0,1
+SP00301,2025-06-26,YouTube,Short,Giveaway,2040,68,3,8,4,17
+SP00302,2025-06-27,X,Thread,Tasting notes,401,3,0,0,0,2
+SP00303,2025-06-28,TikTok,Live,Why Ghana cocoa,1763,95,8,10,6,7
+SP00304,2025-06-29,X,Photo,National Chocolate Day,316,2,0,0,0,1
+SP00305,2025-06-30,Instagram,Photo,Behind the scenes,14030,578,44,22,62,105
+SP00306,2025-07-01,TikTok,Video,Why Ghana cocoa,12482,674,56,15,42,45
+SP00307,2025-07-02,Instagram,Carousel,Meet the farmers,6840,282,20,18,22,53
+SP00308,2025-07-02,X,Text,Tasting notes,413,3,0,0,0,2
+SP00309,2025-07-02,X,Text,Recipe in 60 seconds,348,3,0,0,0,1
+SP00310,2025-07-03,TikTok,Live,Cocoa butter tips,12554,677,58,33,42,50
+SP00311,2025-07-04,X,Text,Meet the farmers,1080,9,0,0,0,3
+SP00312,2025-07-05,X,Text,Why Ghana cocoa,398,3,0,0,0,1
+SP00313,2025-07-06,Instagram,Story,Tasting notes,7510,309,16,7,35,41
+SP00314,2025-07-06,Instagram,Carousel,Meet the farmers,2388,98,3,6,13,21
+SP00315,2025-07-06,TikTok,Video,Farm to bar,48892,2640,138,204,85,285
+SP00316,2025-07-07,Instagram,Photo,Cocoa butter tips,2537,104,3,6,8,19
+SP00317,2025-07-08,TikTok,Video,Farm to bar,80205,4331,171,344,255,390
+SP00318,2025-07-08,Facebook,Photo,National Chocolate Day,3660,57,2,6,2,45
+SP00319,2025-07-09,TikTok,Live,Gift ideas,11291,609,38,68,59,34
+SP00320,2025-07-09,TikTok,Live,Recipe in 60 seconds,2597,140,10,4,20,13
+SP00321,2025-07-09,X,Thread,New flavour,72,0,0,0,0,0
+SP00322,2025-07-10,X,Photo,Why Ghana cocoa,217,1,0,0,0,1
+SP00323,2025-07-10,X,Thread,National Chocolate Day,417,3,0,0,0,1
+SP00324,2025-07-11,TikTok,Video,Tasting notes,4306,232,10,11,18,12
+SP00325,2025-07-11,TikTok,Live,Tasting notes,5402,291,8,5,11,35
+SP00326,2025-07-13,Instagram,Reel,Why Ghana cocoa,6677,275,20,25,34,71
+SP00327,2025-07-13,Facebook,Photo,Gift ideas,6557,103,7,2,10,57
+SP00328,2025-07-14,TikTok,Video,New flavour,7164,386,29,38,39,35
+SP00329,2025-07-14,X,Thread,Recipe in 60 seconds,271,2,0,0,0,1
+SP00330,2025-07-14,X,Thread,National Chocolate Day,267,2,0,0,0,1
+SP00331,2025-07-15,X,Text,Behind the scenes,270,2,0,0,0,1
+SP00332,2025-07-16,Instagram,Reel,Unboxing,6113,252,12,11,16,58
+SP00333,2025-07-16,TikTok,Live,Why Ghana cocoa,19870,1072,53,23,129,135
+SP00334,2025-07-17,Instagram,Reel,Recipe in 60 seconds,14176,584,41,55,25,156
+SP00335,2025-07-17,TikTok,Video,Gift ideas,2583,139,7,5,14,13
+SP00336,2025-07-17,Facebook,Video,Recipe in 60 seconds,6778,106,7,7,14,60
+SP00337,2025-07-17,X,Photo,National Chocolate Day,1255,11,0,0,1,2
+SP00338,2025-07-19,Instagram,Story,Tasting notes,15897,655,38,57,44,196
+SP00339,2025-07-19,TikTok,Video,Gift ideas,7177,387,29,37,50,54
+SP00340,2025-07-19,X,Photo,Behind the scenes,741,6,0,0,0,3
+SP00341,2025-07-20,Instagram,Story,Gift ideas,3958,163,9,10,18,53
+SP00342,2025-07-20,X,Text,Tasting notes,686,6,0,0,0,3
+SP00343,2025-07-21,TikTok,Video,Tasting notes,15867,856,50,57,50,47
+SP00344,2025-07-22,Instagram,Reel,National Chocolate Day,6385,263,20,23,29,66
+SP00345,2025-07-22,TikTok,Live,Giveaway,7032,379,25,35,45,39
+SP00346,2025-07-22,Facebook,Video,National Chocolate Day,14776,232,18,25,19,74
+SP00347,2025-07-24,TikTok,Live,National Chocolate Day,21784,1176,94,95,82,74
+SP00348,2025-07-24,TikTok,Video,National Chocolate Day,7000,378,19,9,38,37
+SP00349,2025-07-24,Facebook,Photo,Gift ideas,2423,38,1,2,1,30
+SP00350,2025-07-24,X,Text,National Chocolate Day,445,4,0,0,0,1
+SP00351,2025-07-25,TikTok,Live,Meet the farmers,22309,1204,104,140,135,109
+SP00352,2025-07-25,LinkedIn,Text,Tasting notes,1027,26,2,1,2,18
+SP00353,2025-07-26,Instagram,Photo,Behind the scenes,5991,247,8,29,24,61
+SP00354,2025-07-26,TikTok,Video,Meet the farmers,8298,448,31,21,14,56
+SP00355,2025-07-26,TikTok,Live,Cocoa butter tips,7734,417,12,12,18,43
+SP00356,2025-07-26,X,Thread,Recipe in 60 seconds,497,4,0,0,0,2
+SP00357,2025-07-27,TikTok,Live,Cocoa butter tips,11380,614,46,56,20,80
+SP00358,2025-07-27,X,Text,Farm to bar,468,4,0,0,0,1
+SP00359,2025-07-28,Instagram,Story,Gift ideas,15806,652,23,69,40,151
+SP00360,2025-07-28,TikTok,Live,New flavour,6009,324,28,36,48,22
+SP00361,2025-07-28,Facebook,Link,Recipe in 60 seconds,11389,179,14,18,17,144
+SP00362,2025-07-28,X,Thread,Unboxing,844,7,0,0,0,5
+SP00363,2025-07-29,Facebook,Video,Giveaway,2795,44,1,4,4,27
+SP00364,2025-07-30,TikTok,Live,Unboxing,13981,754,58,44,63,89
+SP00365,2025-07-30,Facebook,Video,Gift ideas,6154,96,4,7,13,67
+SP00366,2025-07-31,X,Text,Tasting notes,217,1,0,0,0,0
+SP00367,2025-07-31,X,Photo,Giveaway,301,2,0,0,0,1
+SP00368,2025-08-01,Instagram,Story,Meet the farmers,3821,157,5,17,12,25
+SP00369,2025-08-01,Facebook,Photo,Meet the farmers,8010,126,5,13,5,86
+SP00370,2025-08-01,X,Thread,Recipe in 60 seconds,171,1,0,0,0,0
+SP00371,2025-08-02,TikTok,Live,Unboxing,3750,202,14,12,22,15
+SP00372,2025-08-02,LinkedIn,Text,Tasting notes,906,23,1,1,3,16
+SP00373,2025-08-03,TikTok,Video,Recipe in 60 seconds,40802,2203,119,81,234,274
+SP00374,2025-08-03,TikTok,Live,Cocoa butter tips,10144,547,32,49,46,27
+SP00375,2025-08-04,Instagram,Photo,Recipe in 60 seconds,24950,1029,82,123,152,354
+SP00376,2025-08-04,Facebook,Photo,Behind the scenes,5881,92,5,3,5,72
+SP00377,2025-08-04,X,Photo,Behind the scenes,238,2,0,0,0,0
+SP00378,2025-08-04,X,Text,New flavour,94,0,0,0,0,0
+SP00379,2025-08-04,LinkedIn,Article,Meet the farmers,3027,77,2,8,11,45
+SP00380,2025-08-05,TikTok,Live,National Chocolate Day,15501,837,68,45,27,52
+SP00381,2025-08-06,Instagram,Carousel,Cocoa butter tips,5386,222,9,20,10,64
+SP00382,2025-08-07,Instagram,Reel,Behind the scenes,8129,335,16,14,10,59
+SP00383,2025-08-07,TikTok,Live,Farm to bar,13791,744,48,57,92,79
+SP00384,2025-08-07,LinkedIn,Photo,Meet the farmers,6003,153,8,16,16,77
+SP00385,2025-08-10,Instagram,Reel,Cocoa butter tips,3714,153,10,9,14,39
+SP00386,2025-08-10,TikTok,Video,Behind the scenes,4829,260,20,20,9,37
+SP00387,2025-08-11,Instagram,Reel,Unboxing,5814,239,9,7,14,65
+SP00388,2025-08-12,TikTok,Video,New flavour,11579,625,52,43,37,36
+SP00389,2025-08-13,Facebook,Link,Tasting notes,3290,51,1,2,1,36
+SP00390,2025-08-13,X,Photo,Cocoa butter tips,594,5,0,0,0,3
+SP00391,2025-08-15,Instagram,Carousel,Giveaway,13184,543,41,26,46,188
+SP00392,2025-08-15,X,Thread,Recipe in 60 seconds,737,6,0,0,0,3
+SP00393,2025-08-16,Instagram,Carousel,Unboxing,8561,353,21,16,45,117
+SP00394,2025-08-19,Facebook,Video,Recipe in 60 seconds,7423,116,5,3,6,67
+SP00395,2025-08-19,X,Text,Tasting notes,503,4,0,0,0,1
+SP00396,2025-08-20,TikTok,Video,Meet the farmers,16164,872,30,19,59,113
+SP00397,2025-08-21,X,Text,Unboxing,954,8,0,0,0,4
+SP00398,2025-08-22,Facebook,Photo,Recipe in 60 seconds,4070,64,4,3,4,28
+SP00399,2025-08-22,Facebook,Link,Unboxing,3987,62,2,7,3,25
+SP00400,2025-08-23,Instagram,Carousel,Gift ideas,8097,334,16,23,12,61
+SP00401,2025-08-23,TikTok,Video,Unboxing,11948,645,30,30,47,66
+SP00402,2025-08-24,TikTok,Video,Gift ideas,6372,344,24,17,13,32
+SP00403,2025-08-24,TikTok,Live,Behind the scenes,21066,1137,42,63,117,150
+SP00404,2025-08-25,Instagram,Photo,National Chocolate Day,23989,989,84,91,30,236
+SP00405,2025-08-26,Facebook,Video,Farm to bar,2019,31,1,1,4,14
+SP00406,2025-08-26,X,Photo,Tasting notes,357,3,0,0,0,1
+SP00407,2025-08-27,TikTok,Live,New flavour,12128,654,28,65,22,62
+SP00408,2025-08-29,Facebook,Photo,Giveaway,1856,29,1,0,3,22
+SP00409,2025-08-29,X,Thread,Giveaway,575,5,0,0,0,1
+SP00410,2025-08-29,X,Text,Meet the farmers,152,1,0,0,0,0
+SP00411,2025-08-30,Instagram,Reel,Tasting notes,19183,791,63,66,26,139
+SP00412,2025-08-31,X,Photo,Tasting notes,600,5,0,0,0,3
+SP00413,2025-08-31,LinkedIn,Photo,Why Ghana cocoa,1537,39,3,3,5,27
+SP00414,2025-09-01,TikTok,Video,National Chocolate Day,14910,805,57,24,119,112
+SP00415,2025-09-01,LinkedIn,Photo,New flavour,2457,62,5,5,5,32
+SP00416,2025-09-02,TikTok,Live,New flavour,9410,508,26,18,68,49
+SP00417,2025-09-02,TikTok,Video,National Chocolate Day,9336,504,33,14,23,57
+SP00418,2025-09-02,LinkedIn,Photo,New flavour,491,12,0,0,1,5
+SP00419,2025-09-03,Instagram,Reel,Recipe in 60 seconds,6757,278,21,11,32,37
+SP00420,2025-09-03,Instagram,Story,Meet the farmers,7830,323,16,38,45,88
+SP00421,2025-09-03,Facebook,Video,Behind the scenes,1522,23,2,1,1,14
+SP00422,2025-09-03,LinkedIn,Article,National Chocolate Day,3521,89,3,1,7,58
+SP00423,2025-09-04,Instagram,Story,Recipe in 60 seconds,9707,400,35,9,35,99
+SP00424,2025-09-04,TikTok,Live,Farm to bar,14128,762,66,90,50,37
+SP00425,2025-09-04,Facebook,Photo,Giveaway,4029,63,5,3,9,32
+SP00426,2025-09-04,X,Thread,Tasting notes,209,1,0,0,0,1
+SP00427,2025-09-04,LinkedIn,Text,National Chocolate Day,243,6,0,0,0,3
+SP00428,2025-09-05,TikTok,Video,Giveaway,25389,1371,80,83,50,117
+SP00429,2025-09-05,Facebook,Video,New flavour,3079,48,4,4,2,35
+SP00430,2025-09-05,Facebook,Video,Giveaway,2525,39,1,2,2,31
+SP00431,2025-09-06,TikTok,Video,Gift ideas,20485,1106,35,73,88,161
+SP00432,2025-09-06,LinkedIn,Article,New flavour,2271,57,3,6,3,30
+SP00433,2025-09-07,Instagram,Story,Tasting notes,4158,171,11,9,21,51
+SP00434,2025-09-07,Instagram,Carousel,Meet the farmers,7117,293,19,15,37,73
+SP00435,2025-09-08,Instagram,Photo,Unboxing,5252,216,11,21,11,38
+SP00436,2025-09-09,X,Thread,Recipe in 60 seconds,461,4,0,0,0,1
+SP00437,2025-09-10,TikTok,Video,Farm to bar,9729,525,24,20,53,77
+SP00438,2025-09-10,Facebook,Photo,Recipe in 60 seconds,2719,42,2,2,2,14
+SP00439,2025-09-10,X,Photo,New flavour,311,2,0,0,0,0
+SP00440,2025-09-12,Instagram,Photo,Why Ghana cocoa,7196,296,17,19,19,69
+SP00441,2025-09-12,TikTok,Video,National Chocolate Day,9121,492,36,40,36,30
+SP00442,2025-09-12,X,Text,Giveaway,1551,13,0,1,1,6
+SP00443,2025-09-14,Instagram,Reel,Recipe in 60 seconds,20532,846,27,51,94,255
+SP00444,2025-09-14,TikTok,Video,Giveaway,7354,397,25,31,43,37
+SP00445,2025-09-15,Instagram,Reel,Giveaway,13316,549,28,26,71,106
+SP00446,2025-09-15,TikTok,Live,Recipe in 60 seconds,11254,607,42,42,71,30
+SP00447,2025-09-17,TikTok,Live,Meet the farmers,15870,856,43,92,82,43
+SP00448,2025-09-18,Instagram,Story,Gift ideas,5455,225,17,14,9,34
+SP00449,2025-09-18,Instagram,Carousel,Cocoa butter tips,9340,385,29,35,19,59
+SP00450,2025-09-20,Facebook,Link,National Chocolate Day,2518,39,2,2,3,27
+SP00451,2025-09-20,YouTube,Video,Tasting notes,4783,161,13,14,11,15
+SP00452,2025-09-21,X,Text,National Chocolate Day,449,4,0,0,0,1
+SP00453,2025-09-22,Instagram,Photo,Meet the farmers,3887,160,8,7,18,32
+SP00454,2025-09-22,X,Text,Recipe in 60 seconds,906,8,0,0,0,3
+SP00455,2025-09-23,Facebook,Photo,Farm to bar,3320,52,2,3,5,35
+SP00456,2025-09-23,Facebook,Link,Giveaway,1308,20,1,1,2,13
+SP00457,2025-09-23,LinkedIn,Photo,Cocoa butter tips,6407,163,11,11,17,78
+SP00458,2025-09-23,LinkedIn,Photo,Why Ghana cocoa,3570,91,7,6,5,55
+SP00459,2025-09-24,Instagram,Carousel,National Chocolate Day,26532,1094,98,73,116,347
+SP00460,2025-09-24,LinkedIn,Photo,Giveaway,2505,63,2,5,7,17
+SP00461,2025-09-25,TikTok,Live,Tasting notes,16852,910,79,88,96,69
+SP00462,2025-09-25,LinkedIn,Article,Gift ideas,1541,39,1,1,3,13
+SP00463,2025-09-25,LinkedIn,Photo,Tasting notes,1074,27,1,1,2,11
+SP00464,2025-09-27,Instagram,Photo,New flavour,10280,424,35,47,57,89
+SP00465,2025-09-28,Instagram,Photo,Tasting notes,8152,336,25,10,28,49
+SP00466,2025-09-28,Facebook,Photo,Meet the farmers,2479,39,1,2,5,11
+SP00467,2025-09-28,X,Photo,Recipe in 60 seconds,1070,9,0,0,0,5
+SP00468,2025-09-29,Instagram,Photo,Farm to bar,14553,600,46,22,64,161
+SP00469,2025-09-29,TikTok,Video,Tasting notes,7091,382,27,27,11,19
+SP00470,2025-09-29,YouTube,Short,Cocoa butter tips,25695,867,48,30,119,183
+SP00471,2025-09-30,TikTok,Video,New flavour,30078,1624,123,92,83,210
+SP00472,2025-09-30,X,Thread,Tasting notes,430,3,0,0,0,2
+SP00473,2025-10-01,Instagram,Photo,Giveaway,14481,597,43,29,26,134
+SP00474,2025-10-02,TikTok,Video,Behind the scenes,12328,665,20,15,59,38
+SP00475,2025-10-02,X,Text,New flavour,68,0,0,0,0,0
+SP00476,2025-10-03,X,Photo,Farm to bar,254,2,0,0,0,0
+SP00477,2025-10-06,X,Thread,New flavour,194,1,0,0,0,1
+SP00478,2025-10-08,X,Thread,Cocoa butter tips,816,7,0,0,0,1
+SP00479,2025-10-09,TikTok,Video,Tasting notes,12825,692,61,66,36,76
+SP00480,2025-10-09,X,Text,Farm to bar,924,8,0,0,0,2
+SP00481,2025-10-11,X,Photo,Unboxing,814,7,0,0,0,3
+SP00482,2025-10-12,Instagram,Photo,Unboxing,7197,296,25,19,41,84
+SP00483,2025-10-12,Facebook,Photo,Giveaway,2792,43,3,2,1,22
+SP00484,2025-10-12,X,Photo,National Chocolate Day,433,3,0,0,0,2
+SP00485,2025-10-13,TikTok,Live,New flavour,24238,1308,75,108,160,163
+SP00486,2025-10-13,X,Text,Meet the farmers,615,5,0,0,0,3
+SP00487,2025-10-13,LinkedIn,Article,Meet the farmers,1544,39,2,3,2,18
+SP00488,2025-10-14,Instagram,Carousel,Why Ghana cocoa,15639,645,49,32,38,164
+SP00489,2025-10-14,TikTok,Video,Unboxing,5718,308,18,33,29,19
+SP00490,2025-10-14,LinkedIn,Article,Meet the farmers,2859,72,3,4,2,44
+SP00491,2025-10-16,TikTok,Video,Cocoa butter tips,6851,369,25,32,45,22
+SP00492,2025-10-16,X,Photo,Cocoa butter tips,298,2,0,0,0,1
+SP00493,2025-10-17,Instagram,Story,Why Ghana cocoa,33010,1361,61,84,117,183
+SP00494,2025-10-17,Facebook,Photo,National Chocolate Day,4510,71,4,7,8,26
+SP00495,2025-10-18,TikTok,Video,National Chocolate Day,10330,557,44,58,75,58
+SP00496,2025-10-18,Facebook,Video,Gift ideas,3167,49,3,1,1,40
+SP00497,2025-10-18,LinkedIn,Photo,New flavour,3267,83,3,8,5,34
+SP00498,2025-10-19,Instagram,Carousel,Unboxing,3891,160,13,16,19,40
+SP00499,2025-10-20,Instagram,Carousel,New flavour,12815,528,32,21,21,112
+SP00500,2025-10-20,Facebook,Link,Unboxing,4537,71,5,7,5,33
+SP00501,2025-10-21,Instagram,Photo,Gift ideas,6183,255,16,8,21,74
+SP00502,2025-10-21,TikTok,Video,Unboxing,6265,338,14,31,30,18
+SP00503,2025-10-21,Facebook,Link,Unboxing,2467,38,2,4,4,17
+SP00504,2025-10-21,X,Photo,Unboxing,576,5,0,0,0,2
+SP00505,2025-10-23,TikTok,Live,Unboxing,2730,147,6,3,20,14
+SP00506,2025-10-23,X,Thread,Meet the farmers,403,3,0,0,0,1
+SP00507,2025-10-25,Instagram,Reel,Tasting notes,6192,255,19,27,31,45
+SP00508,2025-10-25,X,Photo,Farm to bar,195,1,0,0,0,0
+SP00509,2025-10-27,X,Thread,Gift ideas,364,3,0,0,0,2
+SP00510,2025-10-27,LinkedIn,Text,Farm to bar,853,21,0,1,1,8
+SP00511,2025-10-28,Instagram,Photo,Unboxing,8218,339,26,29,34,66
+SP00512,2025-10-28,Instagram,Reel,Recipe in 60 seconds,12441,513,16,30,22,96
+SP00513,2025-10-31,X,Thread,Cocoa butter tips,139,1,0,0,0,0
+SP00514,2025-11-01,Instagram,Carousel,Meet the farmers,6310,260,9,14,32,61
+SP00515,2025-11-01,TikTok,Live,Unboxing,7357,397,26,10,14,29
+SP00516,2025-11-02,Instagram,Carousel,Recipe in 60 seconds,16240,669,41,63,49,227
+SP00517,2025-11-02,TikTok,Live,Tasting notes,8690,469,36,10,56,58
+SP00518,2025-11-02,Facebook,Video,National Chocolate Day,3545,55,3,2,3,29
+SP00519,2025-11-03,Facebook,Video,National Chocolate Day,7499,118,3,12,13,64
+SP00520,2025-11-04,Facebook,Video,Behind the scenes,2624,41,2,1,4,23
+SP00521,2025-11-04,X,Text,Why Ghana cocoa,445,4,0,0,0,2
+SP00522,2025-11-05,TikTok,Live,New flavour,16677,900,37,107,129,58
+SP00523,2025-11-05,X,Thread,Meet the farmers,590,5,0,0,0,1
+SP00524,2025-11-07,TikTok,Live,Meet the farmers,23026,1243,81,138,169,93
+SP00525,2025-11-07,TikTok,Live,Why Ghana cocoa,8390,453,14,37,31,53
+SP00526,2025-11-08,X,Text,Farm to bar,589,5,0,0,0,2
+SP00527,2025-11-09,TikTok,Live,Cocoa butter tips,23308,1258,109,125,140,159
+SP00528,2025-11-09,Facebook,Link,Farm to bar,3004,47,1,4,5,34
+SP00529,2025-11-10,Facebook,Photo,Tasting notes,3845,60,1,4,5,25
+SP00530,2025-11-10,Facebook,Photo,Why Ghana cocoa,5361,84,4,7,7,43
+SP00531,2025-11-11,X,Text,Cocoa butter tips,583,5,0,0,0,1
+SP00532,2025-11-12,X,Thread,Gift ideas,591,5,0,0,0,2
+SP00533,2025-11-13,Facebook,Video,Cocoa butter tips,6735,106,6,9,7,36
+SP00534,2025-11-14,TikTok,Live,Tasting notes,14903,804,26,83,53,85
+SP00535,2025-11-14,Facebook,Photo,Farm to bar,4521,71,3,8,10,40
+SP00536,2025-11-14,X,Thread,Giveaway,586,5,0,0,0,3
+SP00537,2025-11-15,TikTok,Video,Why Ghana cocoa,17696,955,59,21,55,53
+SP00538,2025-11-15,X,Photo,Giveaway,308,2,0,0,0,1
+SP00539,2025-11-15,LinkedIn,Article,Meet the farmers,2785,71,2,3,4,47
+SP00540,2025-11-16,Instagram,Story,National Chocolate Day,4052,167,5,6,11,48
+SP00541,2025-11-16,Facebook,Link,Tasting notes,10888,171,12,6,7,135
+SP00542,2025-11-17,Instagram,Carousel,Giveaway,9133,376,22,18,23,104
+SP00543,2025-11-17,TikTok,Live,Giveaway,21513,1161,72,57,78,84
+SP00544,2025-11-17,TikTok,Live,National Chocolate Day,32770,1769,121,56,91,178
+SP00545,2025-11-17,X,Text,National Chocolate Day,389,3,0,0,0,1
+SP00546,2025-11-18,Facebook,Video,Farm to bar,6178,97,3,2,4,70
+SP00547,2025-11-18,X,Thread,Tasting notes,188,1,0,0,0,0
+SP00548,2025-11-19,TikTok,Video,New flavour,37487,2024,139,148,139,130
+SP00549,2025-11-19,X,Thread,Giveaway,2467,22,0,2,2,5
+SP00550,2025-11-21,X,Photo,Tasting notes,749,6,0,0,0,3
+SP00551,2025-11-22,TikTok,Video,Tasting notes,34093,1841,140,180,216,265
+SP00552,2025-11-22,X,Photo,National Chocolate Day,451,4,0,0,0,1
+SP00553,2025-11-23,LinkedIn,Photo,New flavour,1164,29,2,2,2,20
+SP00554,2025-11-25,Instagram,Story,Why Ghana cocoa,5357,220,16,16,12,67
+SP00555,2025-11-25,Instagram,Carousel,Meet the farmers,21369,881,56,18,56,225
+SP00556,2025-11-25,TikTok,Live,Giveaway,15736,849,69,25,56,123
+SP00557,2025-11-26,TikTok,Live,National Chocolate Day,25118,1356,93,29,137,91
+SP00558,2025-11-26,X,Photo,Meet the farmers,649,5,0,0,0,3
+SP00559,2025-11-27,TikTok,Video,Tasting notes,79653,4301,369,458,481,307
+SP00560,2025-11-27,LinkedIn,Text,Cocoa butter tips,1319,33,2,3,1,13
+SP00561,2025-11-29,TikTok,Video,Cocoa butter tips,18687,1009,82,63,113,93
+SP00562,2025-11-29,X,Thread,Gift ideas,1475,13,0,1,1,8
+SP00563,2025-11-30,TikTok,Video,New flavour,25944,1400,79,69,201,161
+SP00564,2025-11-30,X,Photo,New flavour,142,1,0,0,0,0
+SP00565,2025-12-01,TikTok,Video,Giveaway,9645,520,23,36,46,75
+SP00566,2025-12-01,TikTok,Live,Giveaway,5706,308,25,19,20,24
+SP00567,2025-12-01,X,Text,Meet the farmers,1066,9,0,0,1,4
+SP00568,2025-12-02,Facebook,Link,Gift ideas,6840,107,9,7,6,46
+SP00569,2025-12-02,X,Text,Unboxing,213,1,0,0,0,0
+SP00570,2025-12-02,YouTube,Short,New flavour,36948,1246,54,110,153,137
+SP00571,2025-12-03,X,Thread,Cocoa butter tips,172,1,0,0,0,1
+SP00572,2025-12-03,X,Photo,Gift ideas,389,3,0,0,0,2
+SP00573,2025-12-04,TikTok,Video,Giveaway,26948,1455,104,113,50,86
+SP00574,2025-12-04,X,Photo,Unboxing,362,3,0,0,0,1
+SP00575,2025-12-04,LinkedIn,Text,Unboxing,904,23,1,2,2,6
+SP00576,2025-12-05,TikTok,Live,New flavour,26219,1415,103,35,54,121
+SP00577,2025-12-06,TikTok,Video,New flavour,9899,534,35,29,42,50
+SP00578,2025-12-06,X,Photo,Behind the scenes,208,1,0,0,0,0
+SP00579,2025-12-07,TikTok,Video,Farm to bar,44736,2415,155,283,344,114
+SP00580,2025-12-07,LinkedIn,Text,Meet the farmers,3900,99,8,2,13,63
+SP00581,2025-12-09,X,Thread,Behind the scenes,476,4,0,0,0,1
+SP00582,2025-12-10,TikTok,Live,Tasting notes,26923,1453,91,61,216,109
+SP00583,2025-12-11,X,Thread,Meet the farmers,942,8,0,0,1,3
+SP00584,2025-12-12,Instagram,Story,National Chocolate Day,4868,200,17,4,14,57
+SP00585,2025-12-13,X,Text,New flavour,939,8,0,0,0,4
+SP00586,2025-12-14,X,Photo,Recipe in 60 seconds,640,5,0,0,0,1
+SP00587,2025-12-14,YouTube,Video,National Chocolate Day,19526,659,36,49,75,183
+SP00588,2025-12-16,TikTok,Video,Tasting notes,8131,439,30,44,19,24
+SP00589,2025-12-17,LinkedIn,Article,National Chocolate Day,1557,39,2,1,3,20
+SP00590,2025-12-19,Instagram,Reel,Giveaway,27148,1119,40,95,129,327
+SP00591,2025-12-20,TikTok,Live,Meet the farmers,13156,710,21,74,76,88
+SP00592,2025-12-20,X,Photo,Recipe in 60 seconds,1082,9,0,0,1,3
+SP00593,2025-12-21,X,Text,Why Ghana cocoa,565,5,0,0,0,1
+SP00594,2025-12-21,X,Thread,Tasting notes,212,1,0,0,0,1
+SP00595,2025-12-22,LinkedIn,Photo,National Chocolate Day,2889,73,2,3,2,24
+SP00596,2025-12-23,TikTok,Video,Tasting notes,65206,3521,313,374,474,468
+SP00597,2025-12-24,YouTube,Short,Recipe in 60 seconds,10802,364,15,40,46,89
+SP00598,2025-12-25,TikTok,Live,Behind the scenes,31995,1727,106,143,214,206
+SP00599,2025-12-26,Facebook,Photo,New flavour,1418,22,1,1,2,16
+SP00600,2025-12-26,Facebook,Link,Behind the scenes,4781,75,4,2,3,41
+SP00601,2025-12-27,TikTok,Video,Behind the scenes,17397,939,39,50,60,95
+SP00602,2025-12-27,TikTok,Video,Behind the scenes,31966,1726,62,92,214,159
+SP00603,2025-12-29,Instagram,Story,Cocoa butter tips,33047,1363,113,93,83,191
+SP00604,2025-12-29,TikTok,Video,Meet the farmers,69828,3770,182,82,364,181
+SP00605,2025-12-29,X,Text,National Chocolate Day,491,4,0,0,0,2
+SP00606,2025-12-30,Instagram,Photo,Unboxing,11570,477,16,36,31,120
+SP00607,2025-12-30,Instagram,Photo,Why Ghana cocoa,10219,421,34,19,51,143
+SP00608,2026-01-01,TikTok,Video,National Chocolate Day,38862,2098,71,55,96,187
+SP00609,2026-01-02,Instagram,Story,Meet the farmers,18245,752,52,64,64,198
+SP00610,2026-01-02,TikTok,Live,Cocoa butter tips,13432,725,53,65,88,48
+SP00611,2026-01-02,X,Photo,Cocoa butter tips,174,1,0,0,0,0
+SP00612,2026-01-03,Instagram,Carousel,Recipe in 60 seconds,7846,323,16,11,30,54
+SP00613,2026-01-03,X,Thread,Farm to bar,1262,11,0,0,0,6
+SP00614,2026-01-03,LinkedIn,Photo,Meet the farmers,3025,77,3,1,5,50
+SP00615,2026-01-04,TikTok,Video,Unboxing,57610,3110,144,137,247,180
+SP00616,2026-01-04,TikTok,Video,National Chocolate Day,14980,808,68,79,114,38
+SP00617,2026-01-04,Facebook,Photo,Meet the farmers,3637,57,3,1,1,32
+SP00618,2026-01-05,Instagram,Photo,National Chocolate Day,23611,973,76,98,124,169
+SP00619,2026-01-06,TikTok,Video,Why Ghana cocoa,9109,491,16,34,69,23
+SP00620,2026-01-06,X,Photo,Meet the farmers,581,5,0,0,0,3
+SP00621,2026-01-07,Instagram,Story,New flavour,7231,298,14,35,23,97
+SP00622,2026-01-07,Facebook,Video,New flavour,6912,108,3,3,15,46
+SP00623,2026-01-07,Facebook,Link,New flavour,1708,26,1,2,2,16
+SP00624,2026-01-08,Instagram,Carousel,Recipe in 60 seconds,18063,745,38,33,24,179
+SP00625,2026-01-08,TikTok,Live,Gift ideas,17776,959,55,58,108,68
+SP00626,2026-01-08,X,Text,Gift ideas,188,1,0,0,0,0
+SP00627,2026-01-08,YouTube,Video,Why Ghana cocoa,3788,127,11,12,15,24
+SP00628,2026-01-09,Facebook,Video,New flavour,3559,56,3,5,5,18
+SP00629,2026-01-11,TikTok,Live,Recipe in 60 seconds,36694,1981,129,47,153,279
+SP00630,2026-01-13,TikTok,Live,Behind the scenes,6112,330,17,10,21,44
+SP00631,2026-01-13,X,Text,Gift ideas,875,7,0,0,0,3
+SP00632,2026-01-14,Facebook,Link,Unboxing,4308,67,5,2,5,50
+SP00633,2026-01-14,LinkedIn,Text,Behind the scenes,2664,67,3,6,9,47
+SP00634,2026-01-15,TikTok,Live,Unboxing,17931,968,58,95,102,136
+SP00635,2026-01-15,Facebook,Photo,Why Ghana cocoa,1905,30,1,1,1,21
+SP00636,2026-01-17,Instagram,Story,Gift ideas,13272,547,16,65,71,140
+SP00637,2026-01-17,LinkedIn,Text,Why Ghana cocoa,4669,119,4,2,5,67
+SP00638,2026-01-18,Instagram,Story,Recipe in 60 seconds,3965,163,12,6,13,20
+SP00639,2026-01-18,Instagram,Carousel,Farm to bar,29121,1201,95,34,38,342
+SP00640,2026-01-18,X,Photo,Cocoa butter tips,259,2,0,0,0,0
+SP00641,2026-01-20,Instagram,Carousel,Gift ideas,13068,539,24,55,24,152
+SP00642,2026-01-20,Instagram,Carousel,Recipe in 60 seconds,13257,546,20,44,75,131
+SP00643,2026-01-20,TikTok,Video,Behind the scenes,11212,605,31,34,23,36
+SP00644,2026-01-20,Facebook,Link,Meet the farmers,1394,21,1,2,2,9
+SP00645,2026-01-20,LinkedIn,Article,Unboxing,2282,58,2,1,4,24
+SP00646,2026-01-21,Instagram,Reel,Behind the scenes,9675,399,24,16,51,53
+SP00647,2026-01-21,TikTok,Live,Why Ghana cocoa,21933,1184,79,105,42,102
+SP00648,2026-01-21,Facebook,Photo,National Chocolate Day,2218,34,2,3,3,26
+SP00649,2026-01-22,TikTok,Live,Meet the farmers,26473,1429,128,80,123,165
+SP00650,2026-01-22,TikTok,Video,National Chocolate Day,20086,1084,47,78,100,131
+SP00651,2026-01-22,Facebook,Photo,Farm to bar,3345,52,4,1,5,15
+SP00652,2026-01-23,Instagram,Story,Giveaway,11309,466,36,32,19,72
+SP00653,2026-01-23,X,Text,Giveaway,535,4,0,0,0,2
+SP00654,2026-01-24,Instagram,Photo,Tasting notes,19374,799,38,37,89,264
+SP00655,2026-01-24,LinkedIn,Text,Behind the scenes,1656,42,2,4,6,31
+SP00656,2026-01-25,Facebook,Photo,Cocoa butter tips,4168,65,3,7,5,50
+SP00657,2026-01-25,X,Text,National Chocolate Day,646,5,0,0,0,3
+SP00658,2026-01-25,LinkedIn,Article,Meet the farmers,2499,63,2,1,7,15
+SP00659,2026-01-25,YouTube,Video,Meet the farmers,2488,84,3,8,6,19
+SP00660,2026-01-26,Instagram,Reel,Why Ghana cocoa,10651,439,15,20,61,95
+SP00661,2026-01-27,X,Text,Cocoa butter tips,380,3,0,0,0,1
+SP00662,2026-01-28,TikTok,Video,Cocoa butter tips,8082,436,27,52,27,58
+SP00663,2026-01-29,TikTok,Video,Behind the scenes,30196,1630,100,175,154,143
+SP00664,2026-01-30,Instagram,Story,Giveaway,16425,677,44,79,74,147
+SP00665,2026-02-01,Facebook,Photo,Tasting notes,5425,85,6,3,11,23
+SP00666,2026-02-03,X,Thread,Unboxing,806,7,0,0,0,3
+SP00667,2026-02-03,X,Text,Meet the farmers,2509,22,1,2,3,10
+SP00668,2026-02-04,TikTok,Live,Meet the farmers,16969,916,30,69,80,135
+SP00669,2026-02-04,Facebook,Link,Cocoa butter tips,3372,53,1,6,2,17
+SP00670,2026-02-04,Facebook,Photo,Why Ghana cocoa,5406,85,5,3,10,46
+SP00671,2026-02-05,Instagram,Carousel,Unboxing,15365,633,31,75,85,213
+SP00672,2026-02-05,TikTok,Video,Meet the farmers,20255,1093,93,70,100,101
+SP00673,2026-02-06,X,Text,Why Ghana cocoa,434,3,0,0,0,2
+SP00674,2026-02-06,X,Photo,Meet the farmers,1338,12,0,0,0,5
+SP00675,2026-02-09,Instagram,Story,Meet the farmers,8907,367,30,9,13,68
+SP00676,2026-02-09,TikTok,Live,Recipe in 60 seconds,10319,557,38,46,34,41
+SP00677,2026-02-09,X,Text,Farm to bar,197,1,0,0,0,0
+SP00678,2026-02-10,Instagram,Story,Why Ghana cocoa,10614,437,14,10,58,150
+SP00679,2026-02-10,TikTok,Video,New flavour,119345,6444,536,660,482,851
+SP00680,2026-02-11,Instagram,Carousel,Unboxing,3734,154,7,10,20,20
+SP00681,2026-02-11,X,Text,National Chocolate Day,1425,12,0,0,0,7
+SP00682,2026-02-13,Facebook,Video,Cocoa butter tips,4544,71,6,3,6,27
+SP00683,2026-02-13,X,Thread,Giveaway,560,5,0,0,0,2
+SP00684,2026-02-14,TikTok,Live,Meet the farmers,35367,1909,75,141,82,127
+SP00685,2026-02-14,X,Text,Unboxing,327,2,0,0,0,1
+SP00686,2026-02-14,X,Text,Behind the scenes,1195,10,0,0,0,6
+SP00687,2026-02-14,LinkedIn,Text,New flavour,4630,118,6,6,6,27
+SP00688,2026-02-15,TikTok,Video,National Chocolate Day,20335,1098,62,30,120,70
+SP00689,2026-02-16,X,Text,Why Ghana cocoa,944,8,0,0,0,4
+SP00690,2026-02-17,X,Text,Behind the scenes,543,4,0,0,0,2
+SP00691,2026-02-17,X,Photo,Meet the farmers,315,2,0,0,0,0
+SP00692,2026-02-18,Instagram,Reel,New flavour,6666,274,21,8,10,70
+SP00693,2026-02-19,Facebook,Video,Gift ideas,4254,67,5,1,9,26
+SP00694,2026-02-20,Instagram,Reel,Farm to bar,27669,1141,38,125,142,173
+SP00695,2026-02-20,X,Thread,Giveaway,376,3,0,0,0,1
+SP00696,2026-02-20,X,Text,Farm to bar,78,0,0,0,0,0
+SP00697,2026-02-21,Facebook,Photo,New flavour,1792,28,1,1,1,14
+SP00698,2026-02-22,TikTok,Live,Farm to bar,8175,441,18,27,37,43
+SP00699,2026-02-22,TikTok,Video,Recipe in 60 seconds,38287,2067,138,205,80,208
+SP00700,2026-02-22,LinkedIn,Photo,National Chocolate Day,5415,138,8,14,5,36
+SP00701,2026-02-23,Instagram,Carousel,Recipe in 60 seconds,19594,808,60,83,70,91
+SP00702,2026-02-24,Instagram,Photo,Cocoa butter tips,8436,348,17,39,43,56
+SP00703,2026-02-24,X,Thread,Giveaway,533,4,0,0,0,1
+SP00704,2026-02-25,Instagram,Story,Giveaway,19719,813,45,46,96,185
+SP00705,2026-02-25,TikTok,Video,Tasting notes,19961,1077,55,50,107,56
+SP00706,2026-02-26,Instagram,Reel,Gift ideas,9294,383,27,22,50,92
+SP00707,2026-02-26,Facebook,Link,Behind the scenes,5181,81,5,6,8,39
+SP00708,2026-02-28,Instagram,Story,Tasting notes,17570,724,36,57,67,163
+SP00709,2026-02-28,Instagram,Photo,National Chocolate Day,11953,493,27,20,63,97
+SP00710,2026-02-28,Instagram,Carousel,Farm to bar,8856,365,15,31,54,76
+SP00711,2026-02-28,X,Thread,Behind the scenes,278,2,0,0,0,0
+SP00712,2026-02-28,X,Thread,Cocoa butter tips,329,2,0,0,0,1
+SP00713,2026-03-01,TikTok,Live,Behind the scenes,50425,2722,196,187,123,328
+SP00714,2026-03-01,YouTube,Video,New flavour,10290,347,21,14,28,51
+SP00715,2026-03-02,TikTok,Video,Cocoa butter tips,24867,1342,116,147,49,188
+SP00716,2026-03-02,Facebook,Video,New flavour,1010,15,1,0,2,11
+SP00717,2026-03-02,X,Photo,Unboxing,588,5,0,0,0,2
+SP00718,2026-03-02,X,Thread,Giveaway,808,7,0,0,0,4
+SP00719,2026-03-02,LinkedIn,Photo,Unboxing,3182,81,3,7,10,41
+SP00720,2026-03-04,TikTok,Video,Giveaway,20528,1108,98,91,140,105
+SP00721,2026-03-04,X,Thread,Giveaway,374,3,0,0,0,2
+SP00722,2026-03-05,Instagram,Carousel,Why Ghana cocoa,12954,534,39,41,33,97
+SP00723,2026-03-05,TikTok,Live,Meet the farmers,18800,1015,65,37,112,58
+SP00724,2026-03-05,Facebook,Photo,National Chocolate Day,2069,32,2,0,2,17
+SP00725,2026-03-05,LinkedIn,Photo,Giveaway,2264,57,2,5,2,42
+SP00726,2026-03-06,TikTok,Video,Cocoa butter tips,16025,865,71,62,52,113
+SP00727,2026-03-06,TikTok,Live,Farm to bar,25126,1356,58,98,68,192
+SP00728,2026-03-07,Facebook,Link,Recipe in 60 seconds,3219,50,3,2,2,38
+SP00729,2026-03-07,X,Thread,Tasting notes,212,1,0,0,0,0
+SP00730,2026-03-07,X,Text,Recipe in 60 seconds,301,2,0,0,0,1
+SP00731,2026-03-08,Instagram,Story,Recipe in 60 seconds,22165,914,66,22,113,317
+SP00732,2026-03-08,TikTok,Video,Behind the scenes,41951,2265,177,259,112,254
+SP00733,2026-03-08,TikTok,Video,Behind the scenes,11298,610,42,58,72,83
+SP00734,2026-03-08,LinkedIn,Photo,Farm to bar,4997,127,7,15,8,57
+SP00735,2026-03-09,Instagram,Reel,Cocoa butter tips,9642,397,29,19,41,130
+SP00736,2026-03-09,TikTok,Video,Unboxing,33399,1803,132,55,103,213
+SP00737,2026-03-11,LinkedIn,Article,Gift ideas,4938,125,5,8,14,82
+SP00738,2026-03-12,Instagram,Reel,National Chocolate Day,20101,829,36,41,52,113
+SP00739,2026-03-12,Facebook,Link,Farm to bar,2355,37,2,2,1,27
+SP00740,2026-03-13,X,Photo,Behind the scenes,282,2,0,0,0,0
+SP00741,2026-03-14,X,Photo,Giveaway,1055,9,0,0,0,2
+SP00742,2026-03-15,TikTok,Video,Behind the scenes,33478,1807,133,53,144,213
+SP00743,2026-03-15,TikTok,Video,New flavour,25853,1396,53,76,105,198
+SP00744,2026-03-15,X,Thread,Farm to bar,765,6,0,0,0,4
+SP00745,2026-03-16,Instagram,Reel,New flavour,11719,483,19,23,26,120
+SP00746,2026-03-16,X,Text,Recipe in 60 seconds,148,1,0,0,0,0
+SP00747,2026-03-16,X,Photo,Why Ghana cocoa,822,7,0,0,0,4
+SP00748,2026-03-17,TikTok,Live,Tasting notes,24215,1307,101,83,89,76
+SP00749,2026-03-17,X,Text,Giveaway,680,6,0,0,0,3
+SP00750,2026-03-17,X,Text,Giveaway,253,2,0,0,0,1
+SP00751,2026-03-18,Instagram,Carousel,Tasting notes,1488,61,2,4,5,21
+SP00752,2026-03-18,TikTok,Live,Cocoa butter tips,27435,1481,103,118,193,204
+SP00753,2026-03-20,Instagram,Story,Gift ideas,6960,287,13,16,17,42
+SP00754,2026-03-20,Facebook,Photo,Farm to bar,1381,21,1,1,2,9
+SP00755,2026-03-20,X,Text,Why Ghana cocoa,346,3,0,0,0,2
+SP00756,2026-03-21,Facebook,Photo,Why Ghana cocoa,2352,37,2,4,1,18
+SP00757,2026-03-22,Instagram,Photo,Why Ghana cocoa,24060,992,51,47,49,321
+SP00758,2026-03-22,TikTok,Video,New flavour,95420,5152,333,455,199,538
+SP00759,2026-03-22,Facebook,Link,Meet the farmers,1569,24,1,0,1,11
+SP00760,2026-03-22,X,Thread,Tasting notes,199,1,0,0,0,0
+SP00761,2026-03-23,Instagram,Reel,Recipe in 60 seconds,12630,521,24,48,37,65
+SP00762,2026-03-23,TikTok,Video,Unboxing,18731,1011,64,74,67,142
+SP00763,2026-03-23,TikTok,Live,Behind the scenes,15838,855,58,72,103,72
+SP00764,2026-03-23,X,Text,Gift ideas,460,4,0,0,0,2
+SP00765,2026-03-24,Instagram,Carousel,National Chocolate Day,4517,186,13,19,21,62
+SP00766,2026-03-24,TikTok,Live,Cocoa butter tips,61273,3308,119,232,361,483
+SP00767,2026-03-25,Instagram,Story,Unboxing,24310,1002,79,57,144,163
+SP00768,2026-03-25,Instagram,Photo,Tasting notes,20226,834,57,22,32,173
+SP00769,2026-03-25,X,Text,Giveaway,632,5,0,0,0,1
+SP00770,2026-03-26,Instagram,Carousel,Unboxing,10658,439,27,21,60,114
+SP00771,2026-03-26,TikTok,Video,Behind the scenes,9106,491,42,24,62,32
+SP00772,2026-03-26,X,Text,National Chocolate Day,90,0,0,0,0,0
+SP00773,2026-03-28,TikTok,Video,Giveaway,30005,1620,119,93,186,216
+SP00774,2026-03-28,TikTok,Video,Farm to bar,98206,5303,431,168,311,539
+SP00775,2026-03-28,TikTok,Live,Giveaway,32634,1762,142,130,108,241
+SP00776,2026-03-28,YouTube,Short,Gift ideas,21988,742,49,88,92,154
+SP00777,2026-03-29,Instagram,Story,Cocoa butter tips,5388,222,14,9,8,58
+SP00778,2026-03-29,TikTok,Live,New flavour,80381,4340,149,288,581,628
+SP00779,2026-03-29,YouTube,Video,Unboxing,8223,277,22,14,27,37
+SP00780,2026-03-30,Facebook,Photo,New flavour,1089,17,1,0,1,12
+SP00781,2026-04-02,TikTok,Video,Farm to bar,35321,1907,160,161,140,194
+SP00782,2026-04-02,LinkedIn,Text,Why Ghana cocoa,3822,97,5,4,12,38
+SP00783,2026-04-04,TikTok,Video,National Chocolate Day,53395,2883,144,119,428,249
+SP00784,2026-04-05,Instagram,Story,Meet the farmers,19752,814,53,24,119,135
+SP00785,2026-04-05,TikTok,Live,Tasting notes,51666,2789,125,124,395,275
+SP00786,2026-04-06,Facebook,Video,New flavour,2776,43,2,3,6,14
+SP00787,2026-04-06,X,Text,Recipe in 60 seconds,617,5,0,0,0,3
+SP00788,2026-04-07,X,Text,Meet the farmers,503,4,0,0,0,1
+SP00789,2026-04-08,Instagram,Reel,Tasting notes,11808,487,21,46,36,85
+SP00790,2026-04-09,TikTok,Video,Gift ideas,25528,1378,49,91,197,203
+SP00791,2026-04-09,X,Thread,Meet the farmers,1119,10,0,0,0,6
+SP00792,2026-04-11,X,Thread,New flavour,1329,11,0,1,1,6
+SP00793,2026-04-12,Facebook,Video,Tasting notes,2710,42,2,1,3,20
+SP00794,2026-04-14,TikTok,Video,Farm to bar,131383,7094,598,787,810,596
+SP00795,2026-04-14,X,Thread,Recipe in 60 seconds,923,8,0,0,1,2
+SP00796,2026-04-15,Instagram,Photo,Recipe in 60 seconds,38034,1568,110,105,69,309
+SP00797,2026-04-15,Facebook,Link,New flavour,6586,103,3,4,3,71
+SP00798,2026-04-15,Facebook,Link,Tasting notes,5539,87,7,7,10,69
+SP00799,2026-04-15,LinkedIn,Text,Cocoa butter tips,1154,29,1,2,3,12
+SP00800,2026-04-16,Instagram,Carousel,Recipe in 60 seconds,8458,348,20,39,17,78
+SP00801,2026-04-16,X,Thread,Cocoa butter tips,1310,11,0,0,0,7
+SP00802,2026-04-16,X,Thread,Farm to bar,154,1,0,0,0,0
+SP00803,2026-04-17,Instagram,Carousel,Tasting notes,11283,465,22,51,20,135
+SP00804,2026-04-18,TikTok,Live,New flavour,30931,1670,56,135,155,144
+SP00805,2026-04-18,X,Text,National Chocolate Day,962,8,0,0,0,4
+SP00806,2026-04-19,Instagram,Story,New flavour,14651,604,51,19,89,177
+SP00807,2026-04-20,TikTok,Video,Cocoa butter tips,84064,4539,244,176,197,298
+SP00808,2026-04-21,TikTok,Live,Cocoa butter tips,42895,2316,153,159,206,154
+SP00809,2026-04-21,Facebook,Photo,Gift ideas,6294,99,8,9,6,73
+SP00810,2026-04-22,TikTok,Live,Gift ideas,30792,1662,115,114,244,225
+SP00811,2026-04-23,TikTok,Video,Unboxing,6683,360,22,41,31,40
+SP00812,2026-04-23,Facebook,Video,Farm to bar,6299,99,7,8,8,76
+SP00813,2026-04-24,Instagram,Reel,Recipe in 60 seconds,26942,1111,52,103,70,312
+SP00814,2026-04-24,TikTok,Live,Recipe in 60 seconds,19759,1066,72,34,67,121
+SP00815,2026-04-25,Facebook,Link,Cocoa butter tips,892,14,0,0,1,8
+SP00816,2026-04-25,X,Thread,Gift ideas,361,3,0,0,0,1
+SP00817,2026-04-26,TikTok,Live,Behind the scenes,61886,3341,209,171,357,194
+SP00818,2026-04-26,Facebook,Link,Farm to bar,5806,91,3,4,9,53
+SP00819,2026-04-27,Facebook,Link,Gift ideas,2284,35,1,3,2,25
+SP00820,2026-04-27,X,Thread,Tasting notes,361,3,0,0,0,2
+SP00821,2026-04-28,TikTok,Video,Tasting notes,27940,1508,129,108,97,203
+SP00822,2026-04-28,Facebook,Link,Gift ideas,4600,72,3,7,3,39
+SP00823,2026-05-01,Instagram,Reel,National Chocolate Day,11556,476,27,52,35,165
+SP00824,2026-05-02,Instagram,Carousel,Giveaway,11197,461,28,38,21,156
+SP00825,2026-05-02,TikTok,Video,Tasting notes,35199,1900,57,81,99,215
+SP00826,2026-05-03,Instagram,Carousel,Why Ghana cocoa,34334,1416,59,111,116,319
+SP00827,2026-05-03,X,Thread,National Chocolate Day,179,1,0,0,0,0
+SP00828,2026-05-03,X,Photo,Why Ghana cocoa,318,2,0,0,0,1
+SP00829,2026-05-04,Instagram,Story,Farm to bar,15347,633,56,72,56,204
+SP00830,2026-05-04,Facebook,Link,Behind the scenes,2207,34,1,1,3,10
+SP00831,2026-05-05,TikTok,Live,Meet the farmers,24063,1299,104,51,61,66
+SP00832,2026-05-05,LinkedIn,Text,Gift ideas,11398,290,11,19,20,118
+SP00833,2026-05-06,Instagram,Photo,Gift ideas,24577,1013,56,98,82,162
+SP00834,2026-05-06,Instagram,Story,New flavour,6149,253,22,16,37,69
+SP00835,2026-05-06,X,Thread,Meet the farmers,1250,11,0,0,0,7
+SP00836,2026-05-06,X,Thread,Giveaway,478,4,0,0,0,1
+SP00837,2026-05-06,LinkedIn,Text,Cocoa butter tips,4420,112,5,5,8,65
+SP00838,2026-05-07,X,Photo,Behind the scenes,890,8,0,0,0,3
+SP00839,2026-05-09,TikTok,Video,Giveaway,31719,1712,117,153,85,204
+SP00840,2026-05-10,Instagram,Photo,Meet the farmers,21686,894,33,103,30,279
+SP00841,2026-05-10,TikTok,Video,Why Ghana cocoa,46602,2516,207,128,221,265
+SP00842,2026-05-10,Facebook,Video,Meet the farmers,2602,40,2,2,4,26
+SP00843,2026-05-10,X,Text,Farm to bar,1895,17,0,1,2,11
+SP00844,2026-05-11,TikTok,Video,Unboxing,51845,2799,114,175,212,158
+SP00845,2026-05-12,TikTok,Video,National Chocolate Day,29497,1592,131,182,102,142
+SP00846,2026-05-12,Facebook,Video,National Chocolate Day,2656,41,3,4,2,27
+SP00847,2026-05-13,Instagram,Photo,Cocoa butter tips,9433,389,13,10,56,95
+SP00848,2026-05-14,Instagram,Reel,Farm to bar,63522,2620,140,63,217,822
+SP00849,2026-05-14,Facebook,Link,Behind the scenes,4829,76,5,4,3,32
+SP00850,2026-05-14,X,Photo,Cocoa butter tips,1023,9,0,0,0,5
+SP00851,2026-05-15,X,Text,New flavour,315,2,0,0,0,1
+SP00852,2026-05-15,X,Thread,New flavour,653,5,0,0,0,1
+SP00853,2026-05-16,Instagram,Photo,Behind the scenes,16954,699,33,44,89,221
+SP00854,2026-05-17,Instagram,Reel,Why Ghana cocoa,25623,1056,70,76,79,253
+SP00855,2026-05-19,Instagram,Reel,Cocoa butter tips,30571,1261,57,134,62,144
+SP00856,2026-05-19,TikTok,Video,Cocoa butter tips,24321,1313,62,105,134,168
+SP00857,2026-05-20,X,Text,Gift ideas,1104,9,0,0,0,6
+SP00858,2026-05-20,LinkedIn,Photo,National Chocolate Day,7481,190,11,11,16,86
+SP00859,2026-05-21,Instagram,Reel,Why Ghana cocoa,5690,234,12,17,24,42
+SP00860,2026-05-21,X,Thread,Gift ideas,788,7,0,0,0,1
+SP00861,2026-05-21,X,Text,New flavour,274,2,0,0,0,0
+SP00862,2026-05-21,YouTube,Video,Behind the scenes,11687,394,17,25,18,99
+SP00863,2026-05-22,TikTok,Video,Why Ghana cocoa,38747,2092,182,128,197,304
+SP00864,2026-05-22,X,Thread,Gift ideas,299,2,0,0,0,1
+SP00865,2026-05-22,LinkedIn,Article,Gift ideas,9034,230,17,21,13,72
+SP00866,2026-05-22,LinkedIn,Article,New flavour,7930,202,9,21,9,87
+SP00867,2026-05-23,Instagram,Carousel,New flavour,46701,1926,64,171,121,648
+SP00868,2026-05-23,Instagram,Story,Giveaway,6938,286,11,25,17,34
+SP00869,2026-05-24,Instagram,Photo,Cocoa butter tips,18585,766,30,66,32,203
+SP00870,2026-05-24,TikTok,Live,Meet the farmers,26282,1419,72,115,90,195
+SP00871,2026-05-25,Instagram,Story,Tasting notes,9602,396,14,10,25,95
+SP00872,2026-05-25,TikTok,Live,Recipe in 60 seconds,67753,3658,294,320,239,407
+SP00873,2026-05-25,TikTok,Live,Why Ghana cocoa,31147,1681,121,33,250,163
+SP00874,2026-05-25,Facebook,Video,Farm to bar,17802,280,9,27,18,127
+SP00875,2026-05-27,Instagram,Reel,Giveaway,18447,760,58,76,74,183
+SP00876,2026-05-27,Instagram,Carousel,Meet the farmers,25685,1059,46,45,144,242
+SP00877,2026-05-28,Instagram,Carousel,Unboxing,21548,888,28,66,37,174
+SP00878,2026-05-28,TikTok,Live,Farm to bar,17980,970,68,95,130,48
+SP00879,2026-05-28,TikTok,Live,New flavour,12410,670,54,41,53,44
+SP00880,2026-05-28,X,Thread,Behind the scenes,307,2,0,0,0,1
+SP00881,2026-05-28,YouTube,Video,Gift ideas,3442,116,4,7,17,28
+SP00882,2026-05-30,X,Text,Recipe in 60 seconds,433,3,0,0,0,1
+SP00883,2026-06-01,TikTok,Live,Unboxing,24351,1314,51,46,181,92
+SP00884,2026-06-02,TikTok,Live,Cocoa butter tips,39795,2148,70,45,279,223
+SP00885,2026-06-03,TikTok,Video,Unboxing,48678,2628,182,143,265,227
+SP00886,2026-06-04,TikTok,Video,Farm to bar,73547,3971,229,176,498,341
+SP00887,2026-06-04,Facebook,Video,National Chocolate Day,3087,48,3,3,6,26
+SP00888,2026-06-05,TikTok,Video,Behind the scenes,61698,3331,126,366,479,282
+SP00889,2026-06-05,X,Text,Giveaway,994,8,0,0,0,5
+SP00890,2026-06-07,Instagram,Reel,Why Ghana cocoa,19984,824,49,60,44,196
+SP00891,2026-06-07,X,Text,Tasting notes,512,4,0,0,0,1
+SP00892,2026-06-09,X,Thread,New flavour,381,3,0,0,0,1
+SP00893,2026-06-10,Facebook,Photo,Recipe in 60 seconds,3344,52,1,2,6,25
+SP00894,2026-06-14,Instagram,Reel,Recipe in 60 seconds,14784,609,22,36,33,95
+SP00895,2026-06-14,TikTok,Video,National Chocolate Day,52524,2836,106,331,295,276
+SP00896,2026-06-14,Facebook,Photo,Farm to bar,4098,64,3,2,8,50
+SP00897,2026-06-15,Instagram,Story,Gift ideas,11544,476,28,20,68,134
+SP00898,2026-06-17,X,Text,Behind the scenes,404,3,0,0,0,2
+SP00899,2026-06-18,Instagram,Story,New flavour,3148,129,10,12,14,30
+SP00900,2026-06-18,Instagram,Carousel,Giveaway,18345,756,64,87,96,156
+SP00901,2026-06-19,Instagram,Reel,Behind the scenes,10380,428,36,15,55,132
+SP00902,2026-06-19,X,Text,Gift ideas,232,2,0,0,0,1
+SP00903,2026-06-19,X,Photo,Unboxing,628,5,0,0,0,2
+SP00904,2026-06-20,Instagram,Story,Cocoa butter tips,9770,403,26,38,25,82
+SP00905,2026-06-20,LinkedIn,Text,Why Ghana cocoa,2708,69,2,4,7,17
+SP00906,2026-06-21,X,Photo,Tasting notes,191,1,0,0,0,1
+SP00907,2026-06-22,Instagram,Photo,Farm to bar,16173,667,55,21,73,106
+SP00908,2026-06-22,TikTok,Video,Meet the farmers,54979,2968,108,90,351,148
+SP00909,2026-06-22,X,Photo,Recipe in 60 seconds,349,3,0,0,0,2
+SP00910,2026-06-23,TikTok,Video,Behind the scenes,99190,5356,480,354,730,407
+SP00911,2026-06-23,X,Thread,New flavour,615,5,0,0,0,1
+SP00912,2026-06-24,TikTok,Video,Recipe in 60 seconds,98959,5343,281,383,236,695
+SP00913,2026-06-24,TikTok,Live,Giveaway,88719,4790,350,242,620,320
+SP00914,2026-06-24,Facebook,Link,Gift ideas,3902,61,5,4,8,28
+SP00915,2026-06-25,X,Photo,Cocoa butter tips,773,6,0,0,0,1
+SP00916,2026-06-27,X,Thread,Meet the farmers,192,1,0,0,0,0
+SP00917,2026-06-28,Instagram,Reel,Tasting notes,25751,1062,46,126,63,336
+SP00918,2026-06-28,LinkedIn,Article,Giveaway,3158,80,3,9,10,46
+SP00919,2026-06-29,TikTok,Live,Meet the farmers,17090,922,30,36,78,56
+SP00920,2026-06-30,Instagram,Photo,Why Ghana cocoa,26852,1107,35,25,145,267
+SP00921,2026-07-01,X,Thread,Tasting notes,367,3,0,0,0,2
+SP00922,2026-07-01,LinkedIn,Text,Farm to bar,5062,129,4,6,14,63
+SP00923,2026-07-01,YouTube,Short,Tasting notes,11061,373,20,35,49,95
+SP00924,2026-07-02,TikTok,Live,Cocoa butter tips,21704,1172,70,51,82,148
+SP00925,2026-07-04,TikTok,Live,Gift ideas,49107,2651,148,62,122,287
+SP00926,2026-07-05,Instagram,Photo,Tasting notes,199906,8246,345,963,959,2348
+SP00927,2026-07-05,TikTok,Video,Giveaway,30685,1657,147,149,146,114
+SP00928,2026-07-05,TikTok,Live,New flavour,27596,1490,53,128,174,103
+SP00929,2026-07-05,Facebook,Video,Cocoa butter tips,2973,46,1,1,6,14
+SP00930,2026-07-05,X,Thread,Unboxing,942,8,0,0,0,5
+SP00931,2026-07-05,LinkedIn,Text,Recipe in 60 seconds,7220,184,7,11,10,103
+SP00932,2026-07-06,TikTok,Video,Cocoa butter tips,30087,1624,86,168,125,115
+SP00933,2026-07-07,Instagram,Reel,Tasting notes,7459,307,10,26,14,96
+SP00934,2026-07-08,TikTok,Live,National Chocolate Day,67619,3651,113,139,142,316
+SP00935,2026-07-08,Facebook,Video,Gift ideas,5801,91,4,4,5,58
+SP00936,2026-07-08,X,Text,Unboxing,566,5,0,0,0,1
+SP00937,2026-07-09,Instagram,Story,Behind the scenes,11469,473,33,48,20,130
+SP00938,2026-07-09,LinkedIn,Photo,Recipe in 60 seconds,3748,95,3,9,10,27
+SP00939,2026-07-10,Instagram,Reel,Cocoa butter tips,6071,250,16,28,22,51
+SP00940,2026-07-10,X,Photo,National Chocolate Day,1401,12,0,1,1,6
+SP00941,2026-07-11,Instagram,Photo,National Chocolate Day,25128,1036,84,72,59,202
+SP00942,2026-07-11,Facebook,Video,Cocoa butter tips,3458,54,3,4,6,23
+SP00943,2026-07-11,X,Thread,Farm to bar,355,3,0,0,0,0
+SP00944,2026-07-12,X,Text,Unboxing,491,4,0,0,0,2
+SP00945,2026-07-13,Instagram,Carousel,Recipe in 60 seconds,17426,718,29,41,52,101
+SP00946,2026-07-13,Instagram,Story,New flavour,8895,366,21,36,48,80
+SP00947,2026-07-13,TikTok,Live,Recipe in 60 seconds,146685,7921,647,919,1162,542
+SP00948,2026-07-13,Facebook,Video,Recipe in 60 seconds,9646,151,9,10,20,93
+SP00949,2026-07-13,X,Text,Gift ideas,200,1,0,0,0,0
+SP00950,2026-07-13,X,Thread,Behind the scenes,380,3,0,0,0,1
+SP00951,2026-07-14,Instagram,Reel,Meet the farmers,10033,413,12,35,23,56
+SP00952,2026-07-14,TikTok,Video,Tasting notes,42914,2317,179,218,97,207
+SP00953,2026-07-14,Facebook,Link,New flavour,2317,36,1,1,2,13
+SP00954,2026-07-15,Instagram,Carousel,Giveaway,27562,1136,57,125,158,225
+SP00955,2026-07-15,Instagram,Reel,Tasting notes,25105,1035,64,110,98,167
+SP00956,2026-07-15,X,Thread,Why Ghana cocoa,512,4,0,0,0,1
+SP00957,2026-07-15,LinkedIn,Text,Why Ghana cocoa,8244,210,6,24,6,51
+SP00958,2026-07-16,Instagram,Carousel,Recipe in 60 seconds,22761,938,67,20,105,255
+SP00959,2026-07-16,TikTok,Video,Recipe in 60 seconds,154090,8320,321,505,1210,502
+SP00960,2026-07-17,Instagram,Carousel,National Chocolate Day,20740,855,42,46,93,252
+SP00961,2026-07-18,Facebook,Link,Cocoa butter tips,4370,68,2,6,8,32
+SP00962,2026-07-18,X,Text,National Chocolate Day,181,1,0,0,0,0
+SP00963,2026-07-20,Instagram,Carousel,New flavour,18627,768,63,67,45,171
+SP00964,2026-07-20,Facebook,Video,Cocoa butter tips,9555,150,5,17,17,48
+SP00965,2026-07-21,TikTok,Video,Gift ideas,10687,577,49,53,82,43
+SP00966,2026-07-22,Instagram,Carousel,Unboxing,47451,1957,151,130,157,249
+SP00967,2026-07-22,X,Photo,Tasting notes,215,1,0,0,0,1
+SP00968,2026-07-23,Instagram,Photo,Farm to bar,6899,284,24,21,37,94
+SP00969,2026-07-23,TikTok,Live,Giveaway,12275,662,34,37,94,53
+SP00970,2026-07-26,TikTok,Live,Meet the farmers,83034,4483,206,95,200,442
+SP00971,2026-07-27,Facebook,Photo,National Chocolate Day,8062,126,6,5,14,99
+SP00972,2026-07-27,X,Text,Why Ghana cocoa,419,3,0,0,0,1
+SP00973,2026-07-28,Instagram,Story,Why Ghana cocoa,24013,990,87,47,130,140
+SP00974,2026-07-28,TikTok,Live,Behind the scenes,80172,4329,173,377,377,224
+SP00975,2026-07-30,Instagram,Reel,Giveaway,16036,661,34,23,34,220
+SP00976,2026-07-30,TikTok,Live,Recipe in 60 seconds,20435,1103,64,99,41,74
+SP00977,2026-07-31,Instagram,Carousel,Tasting notes,13236,546,40,14,64,66
+SP00978,2026-07-31,Instagram,Photo,National Chocolate Day,9343,385,27,18,13,95
+SP00979,2026-07-31,Facebook,Video,National Chocolate Day,2282,35,2,3,3,24
+SP00980,2026-07-31,Facebook,Video,Tasting notes,1144,18,1,1,1,11
+SP00981,2026-07-31,X,Thread,Why Ghana cocoa,502,4,0,0,0,1
+SP00982,2026-07-31,X,Text,New flavour,343,3,0,0,0,1
+SP00983,2026-07-31,X,Thread,Giveaway,442,3,0,0,0,2
+SP00984,2026-08-01,X,Photo,New flavour,279,2,0,0,0,1
+SP00985,2026-08-01,YouTube,Short,Behind the scenes,11549,389,25,36,23,37
+SP00986,2026-08-02,TikTok,Video,New flavour,76963,4156,134,474,297,357
+SP00987,2026-08-02,TikTok,Live,Tasting notes,36993,1997,170,200,108,162
+SP00988,2026-08-02,X,Thread,Meet the farmers,372,3,0,0,0,0
+SP00989,2026-08-04,Instagram,Story,Giveaway,22642,933,51,66,116,192
+SP00990,2026-08-08,Instagram,Story,Behind the scenes,17862,736,63,25,69,256
+SP00991,2026-08-08,TikTok,Live,Cocoa butter tips,37424,2020,81,54,138,294
+SP00992,2026-08-09,Facebook,Photo,New flavour,1915,30,1,3,2,11
+SP00993,2026-08-09,Facebook,Photo,Cocoa butter tips,860,13,0,0,1,10
+SP00994,2026-08-09,X,Text,Gift ideas,1164,10,0,0,0,2
+SP00995,2026-08-10,Instagram,Carousel,Giveaway,6374,262,23,9,16,71
+SP00996,2026-08-10,Facebook,Link,Farm to bar,1341,21,1,0,1,7
+SP00997,2026-08-11,TikTok,Live,Meet the farmers,19009,1026,72,49,112,64
+SP00998,2026-08-12,TikTok,Video,Meet the farmers,38707,2090,98,52,163,175
+SP00999,2026-08-13,X,Photo,Cocoa butter tips,345,3,0,0,0,0
+SP01000,2026-08-14,TikTok,Live,Cocoa butter tips,59670,3222,197,103,99,348
+SP01001,2026-08-15,Instagram,Photo,New flavour,36079,1488,62,101,167,496
+SP01002,2026-08-15,X,Photo,Why Ghana cocoa,213,1,0,0,0,1
+SP01003,2026-08-16,TikTok,Live,National Chocolate Day,81891,4422,293,106,591,546
+SP01004,2026-08-16,Facebook,Link,Meet the farmers,6600,103,3,11,11,55
+SP01005,2026-08-16,LinkedIn,Text,National Chocolate Day,3865,98,4,3,4,59
+SP01006,2026-08-17,TikTok,Video,Behind the scenes,61267,3308,205,338,268,338
+SP01007,2026-08-17,TikTok,Live,National Chocolate Day,74027,3997,309,171,415,440
+SP01008,2026-08-19,Instagram,Carousel,New flavour,18779,774,57,46,115,181
+SP01009,2026-08-20,X,Thread,Farm to bar,630,5,0,0,0,2
+SP01010,2026-08-21,LinkedIn,Text,Recipe in 60 seconds,3136,79,5,7,3,37
+SP01011,2026-08-22,Instagram,Carousel,National Chocolate Day,10031,413,31,12,36,105
+SP01012,2026-08-22,TikTok,Video,Gift ideas,49289,2661,120,187,348,273
+SP01013,2026-08-24,Instagram,Story,National Chocolate Day,30381,1253,75,109,94,328
+SP01014,2026-08-24,Facebook,Video,Recipe in 60 seconds,7584,119,5,11,6,66
+SP01015,2026-08-24,LinkedIn,Text,Recipe in 60 seconds,7223,184,11,9,25,85
+SP01016,2026-08-25,Instagram,Story,Why Ghana cocoa,7000,288,10,25,36,66
+SP01017,2026-08-25,TikTok,Video,National Chocolate Day,149701,8083,344,463,291,493
+SP01018,2026-08-26,Facebook,Video,New flavour,1196,18,1,1,2,5
+SP01019,2026-08-27,TikTok,Live,Tasting notes,68698,3709,132,202,392,507
+SP01020,2026-08-27,X,Photo,Unboxing,619,5,0,0,0,2
+SP01021,2026-08-28,TikTok,Live,Giveaway,132671,7164,457,313,352,785
+SP01022,2026-08-28,X,Photo,Farm to bar,571,5,0,0,0,2
+SP01023,2026-08-29,LinkedIn,Photo,New flavour,4515,115,7,13,8,60
+SP01024,2026-08-30,X,Thread,Tasting notes,254,2,0,0,0,0
+SP01025,2026-08-31,LinkedIn,Article,Tasting notes,6011,153,9,13,12,107
+SP01026,2026-09-01,Instagram,Carousel,Farm to bar,25893,1068,92,37,146,243
+SP01027,2026-09-01,Facebook,Link,Tasting notes,3909,61,2,4,6,40
+SP01028,2026-09-03,TikTok,Video,Unboxing,128574,6943,611,589,407,324
+SP01029,2026-09-03,X,Text,National Chocolate Day,499,4,0,0,0,3
+SP01030,2026-09-03,X,Photo,Giveaway,545,4,0,0,0,1
+SP01031,2026-09-04,Facebook,Link,Gift ideas,1927,30,2,2,3,22
+SP01032,2026-09-04,X,Text,Cocoa butter tips,113,1,0,0,0,0
+SP01033,2026-09-05,Instagram,Carousel,New flavour,5651,233,13,7,8,41
+SP01034,2026-09-05,YouTube,Short,Tasting notes,13039,440,32,34,29,47
+SP01035,2026-09-06,X,Text,Unboxing,622,5,0,0,0,2
+SP01036,2026-09-06,X,Thread,Unboxing,304,2,0,0,0,1
+SP01037,2026-09-07,Instagram,Photo,Recipe in 60 seconds,13725,566,26,41,75,143
+SP01038,2026-09-07,X,Thread,Behind the scenes,217,1,0,0,0,0
+SP01039,2026-09-08,Instagram,Reel,Giveaway,9898,408,26,29,31,109
+SP01040,2026-09-08,Instagram,Carousel,Meet the farmers,20927,863,50,79,104,283
+SP01041,2026-09-08,TikTok,Live,Why Ghana cocoa,137202,7408,439,467,872,835
+SP01042,2026-09-08,TikTok,Video,Tasting notes,222940,12038,637,936,1035,1405
+SP01043,2026-09-08,X,Photo,Meet the farmers,290,2,0,0,0,0
+SP01044,2026-09-09,Instagram,Reel,Why Ghana cocoa,64459,2658,84,183,230,509
+SP01045,2026-09-09,X,Photo,Cocoa butter tips,1223,11,0,0,1,4
+SP01046,2026-09-09,X,Text,National Chocolate Day,440,3,0,0,0,0
+SP01047,2026-09-10,X,Text,Behind the scenes,837,7,0,0,0,3
+SP01048,2026-09-10,LinkedIn,Text,Giveaway,2980,76,3,3,10,48
+SP01049,2026-09-11,Instagram,Carousel,Cocoa butter tips,13308,548,35,21,53,165
+SP01050,2026-09-11,TikTok,Video,Unboxing,23208,1253,51,56,71,178
+SP01051,2026-09-11,X,Thread,Giveaway,219,1,0,0,0,0
+SP01052,2026-09-12,Instagram,Carousel,Gift ideas,28798,1187,91,65,69,129
+SP01053,2026-09-12,Instagram,Reel,New flavour,19151,790,27,31,104,208
+SP01054,2026-09-12,TikTok,Video,Unboxing,172146,9295,460,594,1118,1057
+SP01055,2026-09-12,X,Thread,Gift ideas,376,3,0,0,0,1
+SP01056,2026-09-14,TikTok,Live,New flavour,53251,2875,131,333,111,206
+SP01057,2026-09-14,Facebook,Photo,Behind the scenes,2164,34,2,3,4,21
+SP01058,2026-09-14,X,Thread,New flavour,308,2,0,0,0,0
+SP01059,2026-09-15,Facebook,Link,New flavour,4208,66,2,5,3,38
+SP01060,2026-09-16,Facebook,Link,Unboxing,2682,42,1,2,4,27
+SP01061,2026-09-17,Instagram,Story,New flavour,6465,266,10,16,32,54
+SP01062,2026-09-18,TikTok,Live,Recipe in 60 seconds,70403,3801,128,340,278,450
+SP01063,2026-09-19,X,Thread,Tasting notes,217,1,0,0,0,0
+SP01064,2026-09-19,LinkedIn,Photo,Farm to bar,4274,109,6,2,4,66
+SP01065,2026-09-20,Instagram,Carousel,Cocoa butter tips,10366,427,16,29,43,124
+SP01066,2026-09-20,TikTok,Video,Gift ideas,100362,5419,448,253,165,636
+SP01067,2026-09-20,YouTube,Short,Cocoa butter tips,16872,569,37,47,68,73
+SP01068,2026-09-21,Instagram,Reel,Tasting notes,9307,383,28,45,47,130
+SP01069,2026-09-21,TikTok,Video,Meet the farmers,43538,2351,109,223,181,327
+SP01070,2026-09-21,X,Thread,Gift ideas,174,1,0,0,0,1
+SP01071,2026-09-22,TikTok,Live,Gift ideas,77331,4175,276,277,211,260
+SP01072,2026-09-23,Instagram,Story,Meet the farmers,9274,382,29,20,29,79
+SP01073,2026-09-23,X,Thread,Why Ghana cocoa,339,3,0,0,0,1
+SP01074,2026-09-23,X,Photo,Why Ghana cocoa,1669,15,0,0,1,4
+SP01075,2026-09-24,X,Thread,National Chocolate Day,398,3,0,0,0,2
+SP01076,2026-09-25,TikTok,Video,Why Ghana cocoa,90806,4903,340,453,187,492
+SP01077,2026-09-25,Facebook,Video,Why Ghana cocoa,9712,152,6,18,10,90
+SP01078,2026-09-25,X,Text,New flavour,561,5,0,0,0,3
+SP01079,2026-09-26,Instagram,Reel,Tasting notes,29009,1196,53,54,41,214
+SP01080,2026-09-26,TikTok,Live,Tasting notes,33622,1815,102,85,266,105
+SP01081,2026-09-26,X,Text,Recipe in 60 seconds,303,2,0,0,0,1
+SP01082,2026-09-28,Instagram,Carousel,Behind the scenes,12468,514,35,29,68,73
+SP01083,2026-09-28,TikTok,Video,Meet the farmers,243137,13129,973,1204,936,845
+SP01084,2026-09-30,X,Thread,Cocoa butter tips,185,1,0,0,0,0
+SP01085,2026-10-01,TikTok,Video,Giveaway,134590,7267,436,609,632,502
+SP01086,2026-10-01,LinkedIn,Text,Unboxing,7935,202,12,11,23,108
+SP01087,2026-10-02,TikTok,Live,Giveaway,116952,6315,501,580,508,759
+SP01088,2026-10-04,Facebook,Link,Why Ghana cocoa,5947,93,6,3,9,50
+SP01089,2026-10-04,YouTube,Short,Gift ideas,6560,221,10,9,26,55
+SP01090,2026-10-05,TikTok,Live,Why Ghana cocoa,43224,2334,152,166,126,179
+SP01091,2026-10-05,X,Thread,Recipe in 60 seconds,408,3,0,0,0,2
+SP01092,2026-10-06,Instagram,Story,Why Ghana cocoa,11419,471,28,27,57,65
+SP01093,2026-10-08,TikTok,Live,Meet the farmers,45018,2430,121,161,186,329
+SP01094,2026-10-08,Facebook,Link,Giveaway,4649,73,3,5,10,58
+SP01095,2026-10-09,TikTok,Live,Farm to bar,64913,3505,176,158,211,365
+SP01096,2026-10-09,Facebook,Photo,Behind the scenes,2980,46,1,3,4,20
+SP01097,2026-10-09,Facebook,Link,Unboxing,9807,154,12,17,9,61
+SP01098,2026-10-10,X,Thread,Meet the farmers,212,1,0,0,0,1
+SP01099,2026-10-10,X,Thread,Tasting notes,185,1,0,0,0,0
+SP01100,2026-10-11,TikTok,Video,Behind the scenes,181299,9790,504,488,997,697
+SP01101,2026-10-12,TikTok,Video,Why Ghana cocoa,59685,3223,209,136,468,270
+SP01102,2026-10-12,X,Text,Behind the scenes,343,3,0,0,0,0
+SP01103,2026-10-13,Facebook,Link,National Chocolate Day,11920,187,10,20,25,49
+SP01104,2026-10-13,X,Photo,Why Ghana cocoa,811,7,0,0,0,3
+SP01105,2026-10-14,Instagram,Carousel,National Chocolate Day,13684,564,21,52,29,105
+SP01106,2026-10-14,TikTok,Video,Tasting notes,135527,7318,463,863,242,868
+SP01107,2026-10-14,X,Text,New flavour,1214,10,0,0,1,3
+SP01108,2026-10-15,LinkedIn,Article,Meet the farmers,9227,235,7,8,32,158
+SP01109,2026-10-16,Instagram,Reel,Giveaway,14695,606,18,21,61,179
+SP01110,2026-10-17,TikTok,Live,National Chocolate Day,26315,1421,52,85,50,180
+SP01111,2026-10-17,Facebook,Link,National Chocolate Day,6787,106,8,6,11,72
+SP01112,2026-10-18,TikTok,Live,Meet the farmers,81653,4409,221,439,294,516
+SP01113,2026-10-18,Facebook,Video,Unboxing,9189,144,11,15,14,55
+SP01114,2026-10-18,X,Photo,Unboxing,754,6,0,0,0,1
+SP01115,2026-10-19,TikTok,Live,New flavour,70367,3799,305,261,426,222
+SP01116,2026-10-19,Facebook,Photo,Why Ghana cocoa,8036,126,4,4,6,61
+SP01117,2026-10-20,TikTok,Live,National Chocolate Day,35751,1930,134,101,74,114
+SP01118,2026-10-20,TikTok,Live,National Chocolate Day,38831,2096,103,234,105,208
+SP01119,2026-10-21,X,Text,Gift ideas,1282,11,0,0,1,3
+SP01120,2026-10-22,X,Thread,Behind the scenes,965,8,0,0,0,2
+SP01121,2026-10-23,TikTok,Video,Why Ghana cocoa,77637,4192,275,387,484,603
+SP01122,2026-10-23,TikTok,Video,New flavour,58962,3183,207,166,158,162
+SP01123,2026-10-23,Facebook,Video,Farm to bar,8621,135,9,2,5,84
+SP01124,2026-10-25,X,Photo,National Chocolate Day,655,5,0,0,0,3
+SP01125,2026-10-26,Instagram,Story,Why Ghana cocoa,11714,483,21,46,29,123
+SP01126,2026-10-26,Instagram,Photo,Meet the farmers,28787,1187,56,104,143,304
+SP01127,2026-10-26,TikTok,Live,Behind the scenes,48471,2617,130,249,216,233
+SP01128,2026-10-26,X,Thread,National Chocolate Day,1101,9,0,0,0,3
+SP01129,2026-10-29,TikTok,Video,National Chocolate Day,132923,7177,241,372,945,832
+SP01130,2026-10-29,Facebook,Link,Meet the farmers,5065,79,2,8,3,36
+SP01131,2026-10-30,Instagram,Reel,Meet the farmers,37679,1554,139,135,88,501
+SP01132,2026-10-30,Facebook,Video,Behind the scenes,9429,148,7,9,6,87
+SP01133,2026-10-30,X,Text,Tasting notes,569,5,0,0,0,1
+SP01134,2026-10-31,Instagram,Photo,Cocoa butter tips,37789,1558,134,98,197,524
+SP01135,2026-10-31,Facebook,Link,Tasting notes,3038,47,3,5,4,22
+SP01136,2026-10-31,X,Photo,Cocoa butter tips,159,1,0,0,0,0
+SP01137,2026-11-01,X,Photo,Behind the scenes,363,3,0,0,0,0
+SP01138,2026-11-01,LinkedIn,Photo,Giveaway,7245,184,7,18,22,56
+SP01139,2026-11-03,Facebook,Video,Behind the scenes,2511,39,2,1,2,23
+SP01140,2026-11-03,Facebook,Video,National Chocolate Day,8252,129,8,14,18,95
+SP01141,2026-11-03,X,Thread,Recipe in 60 seconds,653,5,0,0,0,1
+SP01142,2026-11-03,X,Photo,Giveaway,393,3,0,0,0,0
+SP01143,2026-11-04,TikTok,Live,Unboxing,72994,3941,236,471,148,490
+SP01144,2026-11-04,X,Thread,National Chocolate Day,609,5,0,0,0,2
+SP01145,2026-11-04,LinkedIn,Photo,Gift ideas,5440,138,7,15,12,76
+SP01146,2026-11-05,TikTok,Video,Meet the farmers,60052,3242,179,222,258,215
+SP01147,2026-11-05,YouTube,Video,Unboxing,6311,213,8,24,9,24
+SP01148,2026-11-07,Instagram,Photo,Gift ideas,26919,1110,34,33,141,182
+SP01149,2026-11-07,TikTok,Live,National Chocolate Day,52274,2822,108,183,386,297
+SP01150,2026-11-07,X,Photo,Cocoa butter tips,261,2,0,0,0,0
+SP01151,2026-11-08,Instagram,Story,Farm to bar,32562,1343,84,55,65,263
+SP01152,2026-11-09,Instagram,Story,Tasting notes,21962,905,34,38,76,106
+SP01153,2026-11-09,TikTok,Live,Meet the farmers,200989,10853,842,1246,1624,1436
+SP01154,2026-11-10,TikTok,Live,Farm to bar,93744,5062,357,294,303,254
+SP01155,2026-11-10,X,Photo,Meet the farmers,236,2,0,0,0,0
+SP01156,2026-11-10,LinkedIn,Text,National Chocolate Day,23331,594,30,13,30,334
+SP01157,2026-11-11,Instagram,Photo,Gift ideas,11507,474,25,33,56,91
+SP01158,2026-11-11,TikTok,Live,Gift ideas,63451,3426,193,375,484,405
+SP01159,2026-11-11,TikTok,Video,Recipe in 60 seconds,103224,5574,434,522,238,497
+SP01160,2026-11-12,TikTok,Video,Behind the scenes,159760,8627,520,711,1002,602
+SP01161,2026-11-12,TikTok,Live,Gift ideas,123069,6645,457,586,692,578
+SP01162,2026-11-12,Facebook,Photo,Farm to bar,1620,25,2,1,0,10
+SP01163,2026-11-12,X,Text,National Chocolate Day,459,4,0,0,0,2
+SP01164,2026-11-13,TikTok,Video,Unboxing,36527,1972,151,78,226,202
+SP01165,2026-11-13,Facebook,Photo,Behind the scenes,10783,169,12,5,10,116
+SP01166,2026-11-16,TikTok,Live,New flavour,63500,3429,114,221,447,197
+SP01167,2026-11-16,TikTok,Video,Unboxing,211127,11400,360,237,1414,1615
+SP01168,2026-11-17,Instagram,Story,Unboxing,10716,442,16,35,59,109
+SP01169,2026-11-17,TikTok,Live,Why Ghana cocoa,154755,8356,517,680,1044,392
+SP01170,2026-11-17,X,Thread,National Chocolate Day,617,5,0,0,0,1
+SP01171,2026-11-18,Instagram,Photo,Unboxing,12057,497,15,29,55,67
+SP01172,2026-11-18,Facebook,Photo,Cocoa butter tips,2341,36,1,3,3,10
+SP01173,2026-11-18,Facebook,Link,Tasting notes,2687,42,2,2,3,25
+SP01174,2026-11-18,X,Text,Meet the farmers,147,1,0,0,0,0
+SP01175,2026-11-19,Instagram,Story,Farm to bar,3008,124,4,13,13,38
+SP01176,2026-11-19,Instagram,Carousel,Cocoa butter tips,37416,1543,56,57,199,293
+SP01177,2026-11-19,X,Photo,Meet the farmers,247,2,0,0,0,1
+SP01178,2026-11-20,Instagram,Reel,New flavour,20234,834,27,86,76,118
+SP01179,2026-11-20,TikTok,Video,Behind the scenes,154461,8340,585,974,408,773
+SP01180,2026-11-20,TikTok,Video,New flavour,107663,5813,490,642,778,636
+SP01181,2026-11-20,X,Thread,Unboxing,420,3,0,0,0,1
+SP01182,2026-11-21,Instagram,Carousel,Behind the scenes,43314,1786,130,155,167,414
+SP01183,2026-11-22,TikTok,Video,Recipe in 60 seconds,93598,5054,247,213,375,529
